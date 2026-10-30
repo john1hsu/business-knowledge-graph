@@ -41,5 +41,27 @@
       "https://mail.articlegateway.com/index.php/JAF/article/view/3191",
       "https://seciblog.pli.edu/?p=7512"
     ]
+  },
+  {
+    "id": "kt:stakeholder-theory",
+    "title": "Stakeholder Theory",
+    "aliases": [
+      "stakeholder approach",
+      "stakeholder approach to strategic management",
+      "stakeholder theory of the firm",
+      "stakeholderism"
+    ],
+    "type": "Theory",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/stakeholder-theory.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://www.researchgate.net/profile/John_Mcvea/publication/228320877_A_Stakeholder_Approach_to_Strategic_Management/links/5abcb11d45851584fa6e1ff7/A-Stakeholder-Approach-to-Strategic-Management.pdf",
+      "https://www.scienceopen.com/document/vid/551e2ce8-5cc5-4a2f-91ef-84d8dabb9d01",
+      "https://news.darden.virginia.edu/2018/08/15/stakeholder-theory-summit/",
+      "https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans",
+      "https://corpgov.law.harvard.edu/2019/08/22/so-long-to-shareholder-primacy",
+      "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2"
+    ]
   }
 ]

@@ -104,3 +104,58 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s6> <https://schema.org/url> "https://seciblog.pli.edu/?p=7512" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <https://schema.org/url> "https://www.researchgate.net/profile/John_Mcvea/publication/228320877_A_Stakeholder_Approach_to_Strategic_Management/links/5abcb11d45851584fa6e1ff7/A-Stakeholder-Approach-to-Strategic-Management.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s2> <http://purl.org/dc/terms/publisher> "Academy of Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s2> <http://purl.org/dc/terms/title> "The Stakeholder Theory of the Corporation: Concepts, Evidence, and Implications" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s2> <https://schema.org/url> "https://www.scienceopen.com/document/vid/551e2ce8-5cc5-4a2f-91ef-84d8dabb9d01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s3> <http://purl.org/dc/terms/publisher> "University of Virginia Darden School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s3> <http://purl.org/dc/terms/title> "Global Thought Leaders Examine Present, Future of Stakeholder Theory at UVA Darden Summit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s3> <https://schema.org/url> "https://news.darden.virginia.edu/2018/08/15/stakeholder-theory-summit/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s4> <http://purl.org/dc/terms/publisher> "Business Roundtable" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s4> <http://purl.org/dc/terms/title> "Business Roundtable Redefines the Purpose of a Corporation to Promote 'An Economy That Serves All Americans'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s4> <https://schema.org/url> "https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s5> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s5> <http://purl.org/dc/terms/title> "So Long to Shareholder Primacy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s5> <https://schema.org/url> "https://corpgov.law.harvard.edu/2019/08/22/so-long-to-shareholder-primacy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <http://purl.org/dc/terms/publisher> "Cornell Law Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <http://purl.org/dc/terms/title> "The Illusory Promise of Stakeholder Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://schema.org/url> "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "stakeholder approach to strategic management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "stakeholder approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "stakeholder theory of the firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "stakeholderism" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#definition> "A theory of the firm and of management, associated with R. Edward Freeman, holding that a company should be understood and managed as a set of relationships with all groups that affect or are affected by its objectives, not only its shareholders." .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stakeholder Theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/esg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/r-edward-freeman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-roundtable-statement-on-corporate-purpose> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management-a-stakeholder-approach> .

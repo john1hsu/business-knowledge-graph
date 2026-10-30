@@ -6,11 +6,20 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:gaap` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:fasb-conceptual-framework` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework` |
+| `kt:agency-costs` | `kt:stakeholder-theory` |
+| `kt:business-ethics` | `kt:stakeholder-theory` |
+| `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:corporate-governance` | `kt:stakeholder-theory` |
+| `kt:corporate-social-responsibility` | `kt:stakeholder-theory` |
+| `kt:esg` | `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework` |
 | `kt:free-cash-flow` | `kt:accrual-accounting` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework` |
 | `kt:matching-principle` | `kt:accrual-accounting` |
+| `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting` |
+| `kt:shareholder-primacy` | `kt:stakeholder-theory` |
+| `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:working-capital` | `kt:accrual-accounting` |

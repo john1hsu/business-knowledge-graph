@@ -176,6 +176,98 @@
           "@id": "kt:iasb-conceptual-framework"
         }
       ]
+    },
+    {
+      "@id": "kt:stakeholder-theory",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Stakeholder Theory",
+      "skos:definition": "A theory of the firm and of management, associated with R. Edward Freeman, holding that a company should be understood and managed as a set of relationships with all groups that affect or are affected by its objectives, not only its shareholders.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-10-30",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Stakeholder Approach to Strategic Management",
+          "dcterms:publisher": "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)",
+          "schema:url": "https://www.researchgate.net/profile/John_Mcvea/publication/228320877_A_Stakeholder_Approach_to_Strategic_Management/links/5abcb11d45851584fa6e1ff7/A-Stakeholder-Approach-to-Strategic-Management.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Stakeholder Theory of the Corporation: Concepts, Evidence, and Implications",
+          "dcterms:publisher": "Academy of Management Review",
+          "schema:url": "https://www.scienceopen.com/document/vid/551e2ce8-5cc5-4a2f-91ef-84d8dabb9d01",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Global Thought Leaders Examine Present, Future of Stakeholder Theory at UVA Darden Summit",
+          "dcterms:publisher": "University of Virginia Darden School of Business",
+          "schema:url": "https://news.darden.virginia.edu/2018/08/15/stakeholder-theory-summit/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Business Roundtable Redefines the Purpose of a Corporation to Promote 'An Economy That Serves All Americans'",
+          "dcterms:publisher": "Business Roundtable",
+          "schema:url": "https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "So Long to Shareholder Primacy",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance",
+          "schema:url": "https://corpgov.law.harvard.edu/2019/08/22/so-long-to-shareholder-primacy",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Illusory Promise of Stakeholder Governance",
+          "dcterms:publisher": "Cornell Law Review",
+          "schema:url": "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/stakeholder-theory.md",
+      "skos:altLabel": [
+        "stakeholder approach",
+        "stakeholder approach to strategic management",
+        "stakeholder theory of the firm",
+        "stakeholderism"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:business-ethics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-social-responsibility"
+        },
+        {
+          "@id": "kt:esg"
+        },
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:r-edward-freeman"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:strategic-management-a-stakeholder-approach"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:business-roundtable-statement-on-corporate-purpose"
+        }
+      ]
     }
   ]
 }
