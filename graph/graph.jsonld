@@ -92,6 +92,90 @@
           "@id": "kt:fasb-conceptual-framework"
         }
       ]
+    },
+    {
+      "@id": "kt:fasb-conceptual-framework",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "FASB Conceptual Framework",
+      "skos:definition": "The body of interrelated objectives and fundamental concepts, issued by the Financial Accounting Standards Board as nonauthoritative Concepts Statements, that guides how the Board sets US accounting standards.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-10-30",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)",
+          "dcterms:publisher": "Financial Accounting Standards Board",
+          "schema:url": "https://storage.fasb.org/Concepts%20Statement%208%E2%80%94Chapter%201%20(As%20Amended).pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Addressing Investor Needs through Application of the Updated Conceptual Framework in FASB Standard Setting",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://sec.gov/newsroom/speeches-statements/munter-statement-fasb-081224",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FASB issues new chapter of Conceptual Framework",
+          "dcterms:publisher": "Journal of Accountancy",
+          "schema:url": "https://www.journalofaccountancy.com/news/2024/jul/fasb-issues-new-chapter-of-conceptual-framework.html",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "FASB issues 2 financial accounting concept statements",
+          "dcterms:publisher": "Journal of Accountancy",
+          "schema:url": "https://www.journalofaccountancy.com/news/2021/dec/fasb-2-inancial-accounting-concept-statements.html",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "How Meaningful Is the Latest Addition to the FASB Conceptual Framework?",
+          "dcterms:publisher": "Journal of Accounting and Finance",
+          "schema:url": "https://mail.articlegateway.com/index.php/JAF/article/view/3191",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "FASB's Conceptual Framework and a Related Chief Accountant Statement",
+          "dcterms:publisher": "SEC Institute (Practising Law Institute)",
+          "schema:url": "https://seciblog.pli.edu/?p=7512",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/fasb-conceptual-framework.md",
+      "skos:altLabel": [
+        "conceptual framework for financial reporting",
+        "statements of financial accounting concepts",
+        "FASB concepts statements",
+        "Concepts Statement No. 8"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:ifrs"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:financial-accounting-standards-board"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:gaap"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:iasb-conceptual-framework"
+        }
+      ]
     }
   ]
 }

@@ -4,11 +4,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:gaap` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:fasb-conceptual-framework` |
+| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
-| `kt:fasb-conceptual-framework` | `kt:accrual-accounting` |
-| `kt:financial-accounting` | `kt:accrual-accounting` |
+| `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework` |
 | `kt:free-cash-flow` | `kt:accrual-accounting` |
-| `kt:gaap` | `kt:accrual-accounting` |
+| `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
+| `kt:ifrs` | `kt:fasb-conceptual-framework` |
 | `kt:matching-principle` | `kt:accrual-accounting` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting` |
 | `kt:working-capital` | `kt:accrual-accounting` |

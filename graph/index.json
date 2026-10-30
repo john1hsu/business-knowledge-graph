@@ -19,5 +19,27 @@
       "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/Fall%202025/1.%20Ilia%20D.%20Dichev%20On%20the%20income%20oriented%20concept%20of%20accruals%202025.pdf",
       "https://www.journalofaccountancy.com/issues/2019/jan/small-business-tax-accounting-methods.html"
     ]
+  },
+  {
+    "id": "kt:fasb-conceptual-framework",
+    "title": "FASB Conceptual Framework",
+    "aliases": [
+      "conceptual framework for financial reporting",
+      "statements of financial accounting concepts",
+      "FASB concepts statements",
+      "Concepts Statement No. 8"
+    ],
+    "type": "Framework",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/fasb-conceptual-framework.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://storage.fasb.org/Concepts%20Statement%208%E2%80%94Chapter%201%20(As%20Amended).pdf",
+      "https://sec.gov/newsroom/speeches-statements/munter-statement-fasb-081224",
+      "https://www.journalofaccountancy.com/news/2024/jul/fasb-issues-new-chapter-of-conceptual-framework.html",
+      "https://www.journalofaccountancy.com/news/2021/dec/fasb-2-inancial-accounting-concept-statements.html",
+      "https://mail.articlegateway.com/index.php/JAF/article/view/3191",
+      "https://seciblog.pli.edu/?p=7512"
+    ]
   }
 ]
