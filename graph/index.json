@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "kt:benchmarking",
+    "title": "Benchmarking",
+    "aliases": [
+      "best-practice benchmarking",
+      "competitive benchmarking",
+      "process benchmarking"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/benchmarking.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://www.ifm.eng.cam.ac.uk/research/dstools/benchmarking",
+      "https://www.routledge.com/Benchmarking-The-Search-for-Industry-Best-Practices-that-Lead-to-Superior-Performance/Camp/p/book/9781563273520",
+      "https://nrel.gov/docs/legosti/old/21119.pdf",
+      "https://oro.open.ac.uk/8968",
+      "https://emerald.com/insight/content/doi/10.1108/14635770310477744/full/html",
+      "https://hbr.org/1996/11/what-is-strategy"
+    ]
+  },
+  {
     "id": "kt:corporate-governance",
     "title": "Corporate Governance",
     "aliases": [

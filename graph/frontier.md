@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
+| `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:barriers-to-entry` | `kt:economies-of-scale` |
@@ -37,23 +38,29 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jean-tirole` | `kt:two-sided-market` |
 | `kt:leveraged-buyout` | `kt:agency-costs` |
+| `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:mass-production` | `kt:ford-model-t` |
 | `kt:matching-principle` | `kt:accrual-accounting` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:modigliani-miller-theorem` | `kt:agency-costs` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
+| `kt:operational-effectiveness` | `kt:benchmarking` |
+| `kt:performance-management` | `kt:benchmarking` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:razor-and-blades-model` | `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting` |
+| `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:scientific-management` | `kt:ford-model-t` |
 | `kt:segmentation-targeting-positioning` | `kt:ford-model-t` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
+| `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:switching-costs` | `kt:two-sided-market` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
-| `kt:toyota-production-system` | `kt:ford-model-t` |
+| `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |
+| `kt:xerox` | `kt:benchmarking` |

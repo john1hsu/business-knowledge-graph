@@ -47,6 +47,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm-jensen-meckling-1976> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2000/01/rdf-schema#label> "Benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#altLabel> "best-practice benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#altLabel> "competitive benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#altLabel> "process benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#definition> "A structured, continuous practice of measuring an organization's products, services and processes against internal units, competitors or leaders in other industries, then adapting the best practices found to close performance gaps and set evidence-based targets." .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-c-camp> .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/xerox> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Governance" .
@@ -203,6 +226,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://schema.org/url> "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://purl.org/dc/terms/title> "Benchmarking (Decision Support Tools)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <https://schema.org/url> "https://www.ifm.eng.cam.ac.uk/research/dstools/benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s2> <http://purl.org/dc/terms/publisher> "Productivity Press / Routledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s2> <http://purl.org/dc/terms/title> "Benchmarking: The Search for Industry Best Practices that Lead to Superior Performance (Robert C. Camp)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s2> <https://schema.org/url> "https://www.routledge.com/Benchmarking-The-Search-for-Industry-Best-Practices-that-Lead-to-Superior-Performance/Camp/p/book/9781563273520" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s3> <http://purl.org/dc/terms/publisher> "National Renewable Energy Laboratory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s3> <http://purl.org/dc/terms/title> "Benchmarking: Achieving the Best in Class (NREL/FP-300-21119)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s3> <https://schema.org/url> "https://nrel.gov/docs/legosti/old/21119.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s4> <http://purl.org/dc/terms/publisher> "International Journal of Management Reviews (via Open Research Online, The Open University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s4> <http://purl.org/dc/terms/title> "What have we learned? Themes from the literature on best-practice benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s4> <https://schema.org/url> "https://oro.open.ac.uk/8968" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s5> <http://purl.org/dc/terms/publisher> "Benchmarking: An International Journal (Emerald)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s5> <http://purl.org/dc/terms/title> "A review of literature on benchmarking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s5> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/14635770310477744/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <http://purl.org/dc/terms/title> "What Is Strategy?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <https://schema.org/url> "https://hbr.org/1996/11/what-is-strategy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/publisher> "OECD Legal Instruments" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/title> "Recommendation of the Council on Principles of Corporate Governance (G20/OECD Principles of Corporate Governance)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

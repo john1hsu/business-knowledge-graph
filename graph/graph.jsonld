@@ -658,6 +658,92 @@
       ]
     },
     {
+      "@id": "kt:benchmarking",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Benchmarking",
+      "skos:definition": "A structured, continuous practice of measuring an organization's products, services and processes against internal units, competitors or leaders in other industries, then adapting the best practices found to close performance gaps and set evidence-based targets.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-10-30",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Benchmarking (Decision Support Tools)",
+          "dcterms:publisher": "Institute for Manufacturing, University of Cambridge",
+          "schema:url": "https://www.ifm.eng.cam.ac.uk/research/dstools/benchmarking",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Benchmarking: The Search for Industry Best Practices that Lead to Superior Performance (Robert C. Camp)",
+          "dcterms:publisher": "Productivity Press / Routledge",
+          "schema:url": "https://www.routledge.com/Benchmarking-The-Search-for-Industry-Best-Practices-that-Lead-to-Superior-Performance/Camp/p/book/9781563273520",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Benchmarking: Achieving the Best in Class (NREL/FP-300-21119)",
+          "dcterms:publisher": "National Renewable Energy Laboratory",
+          "schema:url": "https://nrel.gov/docs/legosti/old/21119.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "What have we learned? Themes from the literature on best-practice benchmarking",
+          "dcterms:publisher": "International Journal of Management Reviews (via Open Research Online, The Open University)",
+          "schema:url": "https://oro.open.ac.uk/8968",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A review of literature on benchmarking",
+          "dcterms:publisher": "Benchmarking: An International Journal (Emerald)",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/14635770310477744/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What Is Strategy?",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://hbr.org/1996/11/what-is-strategy",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/benchmarking.md",
+      "skos:altLabel": [
+        "best-practice benchmarking",
+        "competitive benchmarking",
+        "process benchmarking"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:performance-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:toyota-production-system"
+        },
+        {
+          "@id": "kt:operational-effectiveness"
+        },
+        {
+          "@id": "kt:malcolm-baldrige-national-quality-award"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:robert-c-camp"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:xerox"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:strategic-positioning"
+        }
+      ]
+    },
+    {
       "@id": "kt:economies-of-scale",
       "@type": "kto:Concept",
       "skos:prefLabel": "Economies of Scale",
