@@ -5,15 +5,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:gaap` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:fasb-conceptual-framework` |
-| `kt:economies-of-scale` | `kt:ford-model-t`, `kt:ford-model-t` |
+| `kt:industrial-organization` | `kt:two-sided-market`, `kt:economies-of-scale`, `kt:economies-of-scale` |
 | `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework` |
 | `kt:free-cash-flow` | `kt:accrual-accounting`, `kt:agency-costs` |
+| `kt:network-effect` | `kt:two-sided-market`, `kt:economies-of-scale` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
+| `kt:barriers-to-entry` | `kt:economies-of-scale` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
@@ -22,6 +24,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:corporate-social-responsibility` | `kt:stakeholder-theory` |
+| `kt:cost-structure` | `kt:economies-of-scale` |
+| `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework` |
@@ -30,15 +34,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework` |
-| `kt:industrial-organization` | `kt:two-sided-market` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jean-tirole` | `kt:two-sided-market` |
 | `kt:leveraged-buyout` | `kt:agency-costs` |
 | `kt:mass-production` | `kt:ford-model-t` |
 | `kt:matching-principle` | `kt:accrual-accounting` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
+| `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:modigliani-miller-theorem` | `kt:agency-costs` |
-| `kt:network-effect` | `kt:two-sided-market` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |

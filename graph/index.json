@@ -62,6 +62,26 @@
     ]
   },
   {
+    "id": "kt:economies-of-scale",
+    "title": "Economies of Scale",
+    "aliases": [
+      "economy of scale",
+      "scale economies"
+    ],
+    "type": "Concept",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/economies-of-scale.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://openstax.org/books/principles-economics-2e/pages/7-5-costs-in-the-long-run",
+      "https://www.Britannica.Com/money/economy-of-scale",
+      "https://ideas.repec.org/a/eee/eneeco/v82y2019icp4-15.html",
+      "https://bear.warrington.ufl.edu/centers/purc/docs/papers/8109_Howorka_Econometric_Estimates_of.pdf",
+      "https://www.degruyterbrill.com/document/doi/10.4159/9780674029385/html",
+      "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf"
+    ]
+  },
+  {
     "id": "kt:fasb-conceptual-framework",
     "title": "FASB Conceptual Framework",
     "aliases": [

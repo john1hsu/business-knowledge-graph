@@ -656,6 +656,91 @@
           "@id": "kt:industrial-organization"
         }
       ]
+    },
+    {
+      "@id": "kt:economies-of-scale",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Economies of Scale",
+      "skos:definition": "The cost advantage a producer gains when expanding output lowers its average (per-unit) cost of production; when further expansion raises average cost instead, the firm faces diseconomies of scale.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-10-30",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "7.5 Costs in the Long Run (Principles of Economics 2e)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-economics-2e/pages/7-5-costs-in-the-long-run",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "economy of scale",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.Britannica.Com/money/economy-of-scale",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Returns to scale in electricity generation: Replicated and revisited",
+          "dcterms:publisher": "Energy Economics (via IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/eee/eneeco/v82y2019icp4-15.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Econometric Estimates of Scale Economies in Electric Power Generation: The Role of Excess Capacity",
+          "dcterms:publisher": "Public Utility Research Center, University of Florida",
+          "schema:url": "https://bear.warrington.ufl.edu/centers/purc/docs/papers/8109_Howorka_Econometric_Estimates_of.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Scale and Scope: The Dynamics of Industrial Capitalism",
+          "dcterms:publisher": "Harvard University Press (De Gruyter Brill edition)",
+          "schema:url": "https://www.degruyterbrill.com/document/doi/10.4159/9780674029385/html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Capabilities of Industrial Capitalism",
+          "dcterms:publisher": "Critical Review (author copy, University of Connecticut)",
+          "schema:url": "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/economies-of-scale.md",
+      "skos:altLabel": [
+        "economy of scale",
+        "scale economies"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cost-structure"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:minimum-efficient-scale"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ford-model-t"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:economies-of-scope"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ]
     }
   ]
 }

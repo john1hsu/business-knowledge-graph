@@ -72,6 +72,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/entrenchment-index> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/uk-corporate-governance-code> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2000/01/rdf-schema#label> "Economies of Scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#altLabel> "economy of scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#altLabel> "scale economies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#definition> "The cost advantage a producer gains when expanding output lowers its average (per-unit) cost of production; when further expansion raises average cost instead, the firm faces diseconomies of scale." .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#prefLabel> "Economies of Scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/minimum-efficient-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scope> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
+<https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/2000/01/rdf-schema#label> "FASB Conceptual Framework" .
@@ -211,6 +233,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://schema.org/url> "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://purl.org/dc/terms/title> "7.5 Costs in the Long Run (Principles of Economics 2e)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <https://schema.org/url> "https://openstax.org/books/principles-economics-2e/pages/7-5-costs-in-the-long-run" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s2> <http://purl.org/dc/terms/title> "economy of scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s2> <https://schema.org/url> "https://www.Britannica.Com/money/economy-of-scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s3> <http://purl.org/dc/terms/publisher> "Energy Economics (via IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s3> <http://purl.org/dc/terms/title> "Returns to scale in electricity generation: Replicated and revisited" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s3> <https://schema.org/url> "https://ideas.repec.org/a/eee/eneeco/v82y2019icp4-15.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s4> <http://purl.org/dc/terms/publisher> "Public Utility Research Center, University of Florida" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s4> <http://purl.org/dc/terms/title> "Econometric Estimates of Scale Economies in Electric Power Generation: The Role of Excess Capacity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s4> <https://schema.org/url> "https://bear.warrington.ufl.edu/centers/purc/docs/papers/8109_Howorka_Econometric_Estimates_of.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s5> <http://purl.org/dc/terms/publisher> "Harvard University Press (De Gruyter Brill edition)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s5> <http://purl.org/dc/terms/title> "Scale and Scope: The Dynamics of Industrial Capitalism" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s5> <https://schema.org/url> "https://www.degruyterbrill.com/document/doi/10.4159/9780674029385/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://purl.org/dc/terms/publisher> "Critical Review (author copy, University of Connecticut)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://purl.org/dc/terms/title> "The Capabilities of Industrial Capitalism" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://schema.org/url> "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
