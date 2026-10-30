@@ -21,6 +21,27 @@
     ]
   },
   {
+    "id": "kt:agency-costs",
+    "title": "Agency Costs",
+    "aliases": [
+      "agency cost",
+      "cost of agency",
+      "agency loss"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/agency-costs.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://josephmahoney.web.illinois.edu/BA549_Fall%202012/Session%205/5_Jensen_Meckling%20(1976).pdf",
+      "https://papers.ssrn.com/abstract=94043",
+      "https://papers.ssrn.com/abstract=99580",
+      "https://pure.psu.edu/en/publications/agency-costs-ownership-structure-and-corporate-governance-mechani/",
+      "https://www.britannica.com/money/financial-agency-theory",
+      "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts"
+    ]
+  },
+  {
     "id": "kt:fasb-conceptual-framework",
     "title": "FASB Conceptual Framework",
     "aliases": [
