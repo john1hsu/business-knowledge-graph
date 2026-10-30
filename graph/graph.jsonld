@@ -8,5 +8,90 @@
     "schema": "https://schema.org/",
     "@base": "https://github.com/john1hsu/business-knowledge-graph/id/"
   },
-  "@graph": []
+  "@graph": [
+    {
+      "@id": "kt:accrual-accounting",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Accrual Accounting",
+      "skos:definition": "A basis of accounting that records revenues, expenses and other effects of transactions in the periods in which they occur, rather than when the related cash is received or paid.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-10-30",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)",
+          "dcterms:publisher": "Financial Accounting Standards Board",
+          "schema:url": "https://storage.fasb.org/Concepts%20Statement%208%E2%80%94Chapter%201%20(As%20Amended).pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Principles of Finance, Section 4.1: Cash versus Accrual Accounting",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/4-1-cash-versus-accrual-accounting",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Finance, Chapter 4 Summary: Accrual Accounting Process",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/4-summary",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Do Stock Prices Fully Reflect Information in Accruals and Cash Flows about Future Earnings?",
+          "dcterms:publisher": "The Accounting Review",
+          "schema:url": "https://www.cuhk.edu.hk/acy2/workshop/June2009Wasley/1996TAR).pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Accruals vs. Deferrals: The Case for an Income-Oriented Concept of Accruals",
+          "dcterms:publisher": "Columbia Business School (working paper by Ilia D. Dichev, Emory University)",
+          "schema:url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/Fall%202025/1.%20Ilia%20D.%20Dichev%20On%20the%20income%20oriented%20concept%20of%20accruals%202025.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Small business tax accounting methods",
+          "dcterms:publisher": "Journal of Accountancy",
+          "schema:url": "https://www.journalofaccountancy.com/issues/2019/jan/small-business-tax-accounting-methods.html",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/accrual-accounting.md",
+      "skos:altLabel": [
+        "accrual basis of accounting",
+        "accrual method of accounting",
+        "accrual basis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:revenue-recognition-asc-606"
+        },
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:working-capital"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:cash-basis-accounting"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:matching-principle"
+        },
+        {
+          "@id": "kt:fasb-conceptual-framework"
+        }
+      ]
+    }
+  ]
 }

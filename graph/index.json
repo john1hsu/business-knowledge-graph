@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "kt:accrual-accounting",
+    "title": "Accrual Accounting",
+    "aliases": [
+      "accrual basis of accounting",
+      "accrual method of accounting",
+      "accrual basis"
+    ],
+    "type": "Concept",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/accrual-accounting.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://storage.fasb.org/Concepts%20Statement%208%E2%80%94Chapter%201%20(As%20Amended).pdf",
+      "https://openstax.org/books/principles-finance/pages/4-1-cash-versus-accrual-accounting",
+      "https://openstax.org/books/principles-finance/pages/4-summary",
+      "https://www.cuhk.edu.hk/acy2/workshop/June2009Wasley/1996TAR).pdf",
+      "https://business.columbia.edu/sites/default/files-efs/imce-uploads/ADP/Fall%202025/1.%20Ilia%20D.%20Dichev%20On%20the%20income%20oriented%20concept%20of%20accruals%202025.pdf",
+      "https://www.journalofaccountancy.com/issues/2019/jan/small-business-tax-accounting-methods.html"
+    ]
+  }
+]
