@@ -70,6 +70,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting-standards-board> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2000/01/rdf-schema#label> "Ford Model T" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#altLabel> "Model T case" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#altLabel> "Model T" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#altLabel> "Tin Lizzie" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#altLabel> "flivver" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#definition> "The low-priced automobile Ford Motor Company built from 1908 to 1927, whose moving assembly line, relentless price cuts and five-dollar day made it the classic case of mass production, scale economies and, ultimately, the risks of a single-product strategy against GM's annual model change." .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ford Model T" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/annual-model-change> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-ford> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/efficiency-wages> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-a> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -160,6 +186,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s6> <https://schema.org/url> "https://seciblog.pli.edu/?p=7512" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://purl.org/dc/terms/title> "Model T" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <https://schema.org/url> "https://Www.Britannica.Com/technology/Model-T" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s2> <http://purl.org/dc/terms/publisher> "American Society of Mechanical Engineers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s2> <http://purl.org/dc/terms/title> "Model T (ASME Historic Mechanical Engineering Landmark #233)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s2> <https://schema.org/url> "https://www.asme.org/about-asme/engineering-history/landmarks/233-Model-T" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s3> <http://purl.org/dc/terms/publisher> "The Henry Ford" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s3> <http://purl.org/dc/terms/title> "Ford Methods and the Ford Shops" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s3> <https://schema.org/url> "https://www.thehenryford.org/collections/explore/articles/ford-methods-and-the-ford-shops" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (Working Paper 2101); Journal of Labor Economics 5(4), 1987" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s4> <http://purl.org/dc/terms/title> "Did Henry Ford Pay Efficiency Wages?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s4> <https://schema.org/url> "https://www.nber.org/system/files/working_papers/w2101/w2101.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s5> <http://purl.org/dc/terms/publisher> "SternBusiness, NYU Stern School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s5> <http://purl.org/dc/terms/title> "The Latest Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s5> <https://schema.org/url> "https://w4.stern.nyu.edu/sternbusiness/spring_summer_2004/endpaper.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <http://purl.org/dc/terms/publisher> "Smithsonian National Museum of American History" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <http://purl.org/dc/terms/title> "1926 Ford Model T roadster" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://schema.org/url> "https://americanhistory.si.edu/collections/object/nmah_739493" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

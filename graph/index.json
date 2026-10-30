@@ -64,6 +64,28 @@
     ]
   },
   {
+    "id": "kt:ford-model-t",
+    "title": "Ford Model T",
+    "aliases": [
+      "Model T",
+      "Tin Lizzie",
+      "flivver",
+      "Model T case"
+    ],
+    "type": "Case",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/ford-model-t.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://Www.Britannica.Com/technology/Model-T",
+      "https://www.asme.org/about-asme/engineering-history/landmarks/233-Model-T",
+      "https://www.thehenryford.org/collections/explore/articles/ford-methods-and-the-ford-shops",
+      "https://www.nber.org/system/files/working_papers/w2101/w2101.pdf",
+      "https://w4.stern.nyu.edu/sternbusiness/spring_summer_2004/endpaper.html",
+      "https://americanhistory.si.edu/collections/object/nmah_739493"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [
