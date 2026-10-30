@@ -558,6 +558,104 @@
           "@id": "kt:ford-model-a"
         }
       ]
+    },
+    {
+      "@id": "kt:two-sided-market",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Two-Sided Market",
+      "skos:definition": "A market in which a platform serves two distinct groups of users whose value from joining depends on participation by the other group, so the platform must set prices for both sides jointly and often subsidizes one side to attract the other.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-10-30",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Platform Competition in Two-Sided Markets",
+          "dcterms:publisher": "Journal of the European Economic Association (author copy, Universidad de Granada)",
+          "schema:url": "https://www.ugr.es/~scarbo/ROCHETIR.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Platform Competition in Two-Sided Markets (RePEc record)",
+          "dcterms:publisher": "IDEAS/RePEc",
+          "schema:url": "https://ideas.repec.org/a/tpr/jeurec/v1y2003i4p990-1029.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Competition in two-sided markets",
+          "dcterms:publisher": "RAND Journal of Economics (UCL Discovery record)",
+          "schema:url": "https://discovery.ucl.ac.uk/id/eprint/4324/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategies for Two-Sided Markets",
+          "dcterms:publisher": "Harvard Business Review (course copy, KTH)",
+          "schema:url": "https://www.kth.se/social/files/546b8e7ef2765474dd3f23fe/4.Eisenmann+et+al+(2006).pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Two-Sided Markets (OECD Roundtables on Competition Policy)",
+          "dcterms:publisher": "OECD",
+          "schema:url": "https://www.oecd.org/en/publications/two-sided-markets_1ab6f5f3-en.html",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Ohio v. American Express Co., 585 U.S. ___ (2018)",
+          "dcterms:publisher": "Legal Information Institute, Cornell Law School",
+          "schema:url": "https://www.law.cornell.edu/supremecourt/text/16-1454",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-models/two-sided-market.md",
+      "skos:altLabel": [
+        "two-sided markets",
+        "two-sided network",
+        "multi-sided market",
+        "two-sided platform market"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:platform-business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:freemium"
+        },
+        {
+          "@id": "kt:aggregation-theory"
+        },
+        {
+          "@id": "kt:razor-and-blades-model"
+        },
+        {
+          "@id": "kt:switching-costs"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:jean-charles-rochet"
+        },
+        {
+          "@id": "kt:jean-tirole"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:platform-competition-in-two-sided-markets-2003"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ohio-v-american-express"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ]
     }
   ]
 }

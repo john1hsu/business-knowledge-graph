@@ -126,5 +126,27 @@
       "https://corpgov.law.harvard.edu/2019/08/22/so-long-to-shareholder-primacy",
       "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2"
     ]
+  },
+  {
+    "id": "kt:two-sided-market",
+    "title": "Two-Sided Market",
+    "aliases": [
+      "two-sided markets",
+      "two-sided network",
+      "multi-sided market",
+      "two-sided platform market"
+    ],
+    "type": "Concept",
+    "domain": "business-models",
+    "file": "articles/business-models/two-sided-market.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://www.ugr.es/~scarbo/ROCHETIR.pdf",
+      "https://ideas.repec.org/a/tpr/jeurec/v1y2003i4p990-1029.html",
+      "https://discovery.ucl.ac.uk/id/eprint/4324/",
+      "https://www.kth.se/social/files/546b8e7ef2765474dd3f23fe/4.Eisenmann+et+al+(2006).pdf",
+      "https://www.oecd.org/en/publications/two-sided-markets_1ab6f5f3-en.html",
+      "https://www.law.cornell.edu/supremecourt/text/16-1454"
+    ]
   }
 ]

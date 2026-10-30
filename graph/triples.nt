@@ -301,6 +301,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://schema.org/url> "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://purl.org/dc/terms/publisher> "Journal of the European Economic Association (author copy, Universidad de Granada)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://purl.org/dc/terms/title> "Platform Competition in Two-Sided Markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <https://schema.org/url> "https://www.ugr.es/~scarbo/ROCHETIR.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s2> <http://purl.org/dc/terms/publisher> "IDEAS/RePEc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s2> <http://purl.org/dc/terms/title> "Platform Competition in Two-Sided Markets (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s2> <https://schema.org/url> "https://ideas.repec.org/a/tpr/jeurec/v1y2003i4p990-1029.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s3> <http://purl.org/dc/terms/publisher> "RAND Journal of Economics (UCL Discovery record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s3> <http://purl.org/dc/terms/title> "Competition in two-sided markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s3> <https://schema.org/url> "https://discovery.ucl.ac.uk/id/eprint/4324/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review (course copy, KTH)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s4> <http://purl.org/dc/terms/title> "Strategies for Two-Sided Markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s4> <https://schema.org/url> "https://www.kth.se/social/files/546b8e7ef2765474dd3f23fe/4.Eisenmann+et+al+(2006).pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s5> <http://purl.org/dc/terms/publisher> "OECD" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s5> <http://purl.org/dc/terms/title> "Two-Sided Markets (OECD Roundtables on Competition Policy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s5> <https://schema.org/url> "https://www.oecd.org/en/publications/two-sided-markets_1ab6f5f3-en.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <http://purl.org/dc/terms/publisher> "Legal Information Institute, Cornell Law School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <http://purl.org/dc/terms/title> "Ohio v. American Express Co., 585 U.S. ___ (2018)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://schema.org/url> "https://www.law.cornell.edu/supremecourt/text/16-1454" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Theory" .
@@ -326,3 +356,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-roundtable-statement-on-corporate-purpose> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management-a-stakeholder-approach> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2000/01/rdf-schema#label> "Two-Sided Market" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#altLabel> "multi-sided market" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#altLabel> "two-sided markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#altLabel> "two-sided network" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#altLabel> "two-sided platform market" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#definition> "A market in which a platform serves two distinct groups of users whose value from joining depends on participation by the other group, so the platform must set prices for both sides jointly and often subsidizes one side to attract the other." .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#prefLabel> "Two-Sided Market" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/aggregation-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/jean-charles-rochet> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/jean-tirole> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ohio-v-american-express> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/platform-competition-in-two-sided-markets-2003> .
+<https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .

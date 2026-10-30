@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
+| `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
@@ -25,19 +26,29 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
+| `kt:freemium` | `kt:two-sided-market` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework` |
+| `kt:industrial-organization` | `kt:two-sided-market` |
+| `kt:jean-charles-rochet` | `kt:two-sided-market` |
+| `kt:jean-tirole` | `kt:two-sided-market` |
 | `kt:leveraged-buyout` | `kt:agency-costs` |
 | `kt:mass-production` | `kt:ford-model-t` |
 | `kt:matching-principle` | `kt:accrual-accounting` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:modigliani-miller-theorem` | `kt:agency-costs` |
+| `kt:network-effect` | `kt:two-sided-market` |
+| `kt:ohio-v-american-express` | `kt:two-sided-market` |
+| `kt:platform-business-model` | `kt:two-sided-market` |
+| `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
+| `kt:razor-and-blades-model` | `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting` |
 | `kt:scientific-management` | `kt:ford-model-t` |
 | `kt:segmentation-targeting-positioning` | `kt:ford-model-t` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
+| `kt:switching-costs` | `kt:two-sided-market` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:toyota-production-system` | `kt:ford-model-t` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
