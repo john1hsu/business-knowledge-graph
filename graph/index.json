@@ -42,6 +42,26 @@
     ]
   },
   {
+    "id": "kt:corporate-governance",
+    "title": "Corporate Governance",
+    "aliases": [
+      "governance of corporations",
+      "company governance"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/corporate-governance.md",
+    "created": "2026-10-30",
+    "source_urls": [
+      "https://legalinstruments.oecd.org/public/doc/322/322.en.pdf",
+      "https://ideas.repec.org:443/p/nbr/nberwo/5554.html",
+      "https://www.nber.org/papers/w8449",
+      "https://corpgov.law.harvard.edu/2009/02/26/what-matters-in-corporate-governance",
+      "https://www.iod.com/resources/factsheets/governance/what-is-corporate-governance-and-how-has-it-developed/",
+      "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/"
+    ]
+  },
+  {
     "id": "kt:fasb-conceptual-framework",
     "title": "FASB Conceptual Framework",
     "aliases": [

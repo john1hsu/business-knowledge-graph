@@ -47,6 +47,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm-jensen-meckling-1976> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://purl.org/dc/terms/created> "2026-10-30" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "company governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#altLabel> "governance of corporations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#definition> "The system of relationships, rules and practices by which a company is directed and controlled, linking its management, board, shareholders and other stakeholders and setting how objectives are chosen and performance is monitored." .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/esg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/cadbury-report> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/entrenchment-index> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/uk-corporate-governance-code> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/2000/01/rdf-schema#label> "FASB Conceptual Framework" .
@@ -156,6 +181,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://schema.org/url> "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/publisher> "OECD Legal Instruments" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/title> "Recommendation of the Council on Principles of Corporate Governance (G20/OECD Principles of Corporate Governance)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <https://schema.org/url> "https://legalinstruments.oecd.org/public/doc/322/322.en.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s2> <http://purl.org/dc/terms/publisher> "Journal of Finance / NBER Working Paper 5554 (RePEc listing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s2> <http://purl.org/dc/terms/title> "A Survey of Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s2> <https://schema.org/url> "https://ideas.repec.org:443/p/nbr/nberwo/5554.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s3> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 8449" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s3> <http://purl.org/dc/terms/title> "Corporate Governance and Equity Prices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s3> <https://schema.org/url> "https://www.nber.org/papers/w8449" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s4> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s4> <http://purl.org/dc/terms/title> "What Matters in Corporate Governance?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s4> <https://schema.org/url> "https://corpgov.law.harvard.edu/2009/02/26/what-matters-in-corporate-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s5> <http://purl.org/dc/terms/publisher> "Institute of Directors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s5> <http://purl.org/dc/terms/title> "What is corporate governance and how has it developed?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s5> <https://schema.org/url> "https://www.iod.com/resources/factsheets/governance/what-is-corporate-governance-and-how-has-it-developed/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <http://purl.org/dc/terms/publisher> "Financial Reporting Council (UK)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <http://purl.org/dc/terms/title> "Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://schema.org/url> "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

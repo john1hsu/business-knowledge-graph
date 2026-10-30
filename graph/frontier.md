@@ -5,18 +5,24 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:gaap` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:fasb-conceptual-framework` |
-| `kt:corporate-governance` | `kt:agency-costs`, `kt:stakeholder-theory` |
 | `kt:economies-of-scale` | `kt:ford-model-t`, `kt:ford-model-t` |
+| `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework` |
 | `kt:free-cash-flow` | `kt:accrual-accounting`, `kt:agency-costs` |
+| `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
+| `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
+| `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:capital-structure` | `kt:agency-costs` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:corporate-social-responsibility` | `kt:stakeholder-theory` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
-| `kt:esg` | `kt:stakeholder-theory` |
+| `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:henry-ford` | `kt:ford-model-t` |
@@ -27,15 +33,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:matching-principle` | `kt:accrual-accounting` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:modigliani-miller-theorem` | `kt:agency-costs` |
-| `kt:principal-agent-problem` | `kt:agency-costs` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting` |
 | `kt:scientific-management` | `kt:ford-model-t` |
 | `kt:segmentation-targeting-positioning` | `kt:ford-model-t` |
-| `kt:separation-of-ownership-and-control` | `kt:agency-costs` |
-| `kt:shareholder-primacy` | `kt:stakeholder-theory` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:toyota-production-system` | `kt:ford-model-t` |
+| `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |
