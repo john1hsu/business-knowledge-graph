@@ -1,0 +1,87 @@
+@prefix kt:   <https://github.com/john1hsu/business-knowledge-graph/id/> .
+@prefix kto:  <https://github.com/john1hsu/business-knowledge-graph/ontology#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix schema: <https://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+# ---------------------------------------------------------------------------
+# Business Knowledge Graph ontology
+# Every article is a node. Its class comes from frontmatter `type`; its edges
+# come from `broader` (skos:broader), `related` (skos:related) and `relations`
+# (the typed predicates below). Provenance uses PROV-O.
+# Add a class or property here BEFORE using it in an article. Reuse first.
+# ---------------------------------------------------------------------------
+
+kto: a owl:Ontology ;
+    rdfs:label "Business Knowledge Graph ontology" ;
+    owl:versionInfo "1.0.0" .
+
+# ---- Classes ---------------------------------------------------------------
+kto:Entity       a owl:Class ; rdfs:label "Entity" .
+kto:Concept      a owl:Class ; rdfs:subClassOf kto:Entity , skos:Concept ;
+    rdfs:comment "A business idea or principle: economies of scale, switching costs, moral hazard." .
+kto:Framework    a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A named analytical model or tool: Porter's Five Forces, BCG matrix, Jobs to be Done, DuPont analysis." .
+kto:Theory       a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "An academic theory with an empirical literature: agency theory, resource-based view, prospect theory." .
+kto:Strategy     a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A strategic posture or move: cost leadership, vertical integration, platform envelopment." .
+kto:Practice     a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A management method or process: OKRs, Lean, Six Sigma, zero-based budgeting, stage-gate." .
+kto:Metric       a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "A measure or ratio: ROIC, EBITDA, customer lifetime value, net promoter score." .
+kto:BusinessModel a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A way of creating and capturing value: subscription, two-sided platform, franchising, razor-and-blades." .
+kto:Company      a owl:Class ; rdfs:subClassOf kto:Entity , schema:Corporation .
+kto:Organization a owl:Class ; rdfs:subClassOf kto:Entity , schema:Organization ;
+    rdfs:comment "A non-company organization: regulator, standards body, business school, government agency." .
+kto:Person       a owl:Class ; rdfs:subClassOf kto:Entity , schema:Person ;
+    rdfs:comment "A thinker, founder or executive notable for an idea or decision." .
+kto:Industry     a owl:Class ; rdfs:subClassOf kto:Entity ;
+    rdfs:comment "An industry or market and its economics." .
+kto:Case         a owl:Class ; rdfs:subClassOf kto:Entity , schema:Event ;
+    rdfs:comment "A dated business episode or case study: a merger, a turnaround, a failure, a crisis." .
+kto:Regulation   a owl:Class ; rdfs:subClassOf kto:Entity , schema:Legislation ;
+    rdfs:comment "A law, regulation or accounting/reporting standard: Sarbanes-Oxley, ASC 606, the FAR." .
+kto:Work         a owl:Class ; rdfs:subClassOf kto:Entity , schema:CreativeWork ;
+    rdfs:comment "An influential book or paper: The Goal, The Innovator's Dilemma, 'The Nature of the Firm'." .
+kto:Field        a owl:Class ; rdfs:subClassOf kto:Concept ;
+    rdfs:comment "A discipline: corporate finance, operations management, organizational behavior." .
+kto:Source       a owl:Class ; rdfs:subClassOf prov:Entity , schema:CreativeWork .
+
+# ---- Hierarchy (SKOS) ------------------------------------------------------
+# skos:broader / skos:narrower / skos:related are used directly.
+
+# ---- Typed relations -------------------------------------------------------
+kto:partOf        a owl:ObjectProperty , owl:TransitiveProperty ; owl:inverseOf kto:hasPart ; rdfs:label "part of / component of" .
+kto:hasPart       a owl:ObjectProperty ; rdfs:label "has part" .
+kto:instanceOf    a owl:ObjectProperty ; rdfs:label "instance of" .
+kto:createdBy     a owl:ObjectProperty ; rdfs:label "introduced / coined / founded by" .
+kto:introducedIn  a owl:ObjectProperty ; rdfs:range kto:Work ; rdfs:label "introduced in (book or paper)" .
+kto:influencedBy  a owl:ObjectProperty ; owl:inverseOf kto:influenced ; rdfs:label "influenced by / builds on" .
+kto:influenced    a owl:ObjectProperty ; rdfs:label "influenced" .
+kto:causes        a owl:ObjectProperty ; rdfs:label "causes / drives" .
+kto:mitigates     a owl:ObjectProperty ; rdfs:label "mitigates / counters" .
+kto:dependsOn     a owl:ObjectProperty ; rdfs:label "depends on / assumes" .
+kto:measuredBy    a owl:ObjectProperty ; rdfs:range kto:Metric ; rdfs:label "measured by" .
+kto:appliesTo     a owl:ObjectProperty ; rdfs:label "applies to (industry, decision, context)" .
+kto:exemplifiedBy a owl:ObjectProperty ; owl:inverseOf kto:exemplifies ; rdfs:label "exemplified by (case or company)" .
+kto:exemplifies   a owl:ObjectProperty ; rdfs:label "exemplifies" .
+kto:alternativeTo a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "alternative to" .
+kto:contrastsWith a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "contrasts with / commonly confused with" .
+kto:critiques     a owl:ObjectProperty ; rdfs:label "critiques / challenges" .
+kto:regulatedBy   a owl:ObjectProperty ; rdfs:range kto:Regulation ; rdfs:label "regulated / governed by" .
+kto:acquiredBy    a owl:ObjectProperty ; rdfs:label "acquired by" .
+kto:competesWith  a owl:ObjectProperty , owl:SymmetricProperty ; rdfs:label "competes with" .
+kto:operatesIn    a owl:ObjectProperty ; rdfs:range kto:Industry ; rdfs:label "operates in" .
+kto:studiedIn     a owl:ObjectProperty ; rdfs:range kto:Field ; rdfs:label "studied in" .
+kto:precededBy    a owl:ObjectProperty ; owl:inverseOf kto:followedBy ; rdfs:label "preceded by" .
+kto:followedBy    a owl:ObjectProperty ; rdfs:label "followed by" .
+
+# ---- Datatype properties written by scripts/kg.py --------------------------
+kto:domain        a owl:DatatypeProperty ; rdfs:label "domain" .
+kto:sourceType    a owl:DatatypeProperty ; rdfs:label "source type" .

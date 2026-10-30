@@ -1,0 +1,21 @@
+# Domains the hourly run draws from. Edit freely: add domains, remove ones you
+# don't want, or add seed topics to steer what gets written next. The run picks
+# the least-covered domain for breadth runs and works the frontier for depth runs.
+# Seeds are suggestions, not a queue: skip any that already exist.
+# MBA-core foundations plus practitioner and consulting depth.
+
+domains:
+  strategy: [porters-five-forces, resource-based-view, generic-competitive-strategies, value-chain, vrio-framework, dynamic-capabilities, blue-ocean-strategy, competitive-moat, vertical-integration, diversification-strategy, scenario-planning]
+  innovation-and-entrepreneurship: [disruptive-innovation, jobs-to-be-done, lean-startup, product-market-fit, technology-adoption-life-cycle, innovators-dilemma, open-innovation, venture-capital, business-model-canvas]
+  corporate-finance: [discounted-cash-flow, weighted-average-cost-of-capital, capital-asset-pricing-model, net-present-value, capital-structure, modigliani-miller-theorem, real-options, mergers-and-acquisitions, leveraged-buyout]
+  accounting-and-reporting: [accrual-accounting, gaap, ifrs, revenue-recognition-asc-606, dupont-analysis, working-capital, free-cash-flow, ebitda, sarbanes-oxley-act, activity-based-costing]
+  marketing: [segmentation-targeting-positioning, marketing-mix, customer-lifetime-value, brand-equity, pricing-strategy, price-elasticity, net-promoter-score, customer-acquisition-cost, diffusion-of-innovations]
+  operations-and-supply-chain: [theory-of-constraints, lean-manufacturing, toyota-production-system, six-sigma, littles-law, bullwhip-effect, just-in-time, economic-order-quantity, queueing-theory-in-operations]
+  organizational-behavior: [organizational-culture, psychological-safety, motivation-hygiene-theory, expectancy-theory, groupthink, change-management, kotters-eight-step-model, organizational-structure, high-performance-teams]
+  leadership-and-management: [transformational-leadership, servant-leadership, situational-leadership, okrs, management-by-objectives, balanced-scorecard, decision-rights, span-of-control]
+  managerial-economics: [economies-of-scale, network-effect, switching-costs, transaction-cost-economics, principal-agent-problem, moral-hazard, adverse-selection, game-theory-in-business, information-asymmetry]
+  business-models: [platform-business-model, two-sided-market, saas-business-model, subscription-business-model, franchising, freemium, razor-and-blades-model, aggregation-theory]
+  consulting-and-problem-solving: [mece-principle, issue-tree, hypothesis-driven-problem-solving, pyramid-principle, eighty-twenty-rule, stakeholder-analysis, benchmarking]
+  government-contracting-and-public-sector: [federal-acquisition-regulation, government-contract-types, indefinite-delivery-indefinite-quantity, lowest-price-technically-acceptable, best-value-tradeoff, cost-plus-contract, small-business-set-asides, public-value]
+  business-ethics-and-governance: [corporate-governance, stakeholder-theory, shareholder-primacy, esg, fiduciary-duty, board-of-directors, agency-costs]
+  business-history-and-cases: [scientific-management, ford-model-t, ibm-turnaround, kodak-decline, netflix-business-model-shift, southwest-airlines-strategy, walmart-supply-chain, apple-iphone-launch]
