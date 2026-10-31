@@ -5,7 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
-| `kt:barriers-to-entry` | `kt:economies-of-scale`, `kt:industrial-organization` |
+| `kt:network-effect` | `kt:two-sided-market`, `kt:economies-of-scale`, `kt:barriers-to-entry` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
@@ -14,11 +14,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:leveraged-buyout` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
-| `kt:network-effect` | `kt:two-sided-market`, `kt:economies-of-scale` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
+| `kt:switching-costs` | `kt:two-sided-market`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
@@ -30,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contracting-officer` | `kt:federal-acquisition-regulation` |
 | `kt:corporate-finance` | `kt:modigliani-miller-theorem` |
 | `kt:corporate-law` | `kt:corporate-governance` |
@@ -55,6 +56,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
+| `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:mass-production` | `kt:ford-model-t` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
@@ -68,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:performance-management` | `kt:benchmarking` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
+| `kt:porters-five-forces` | `kt:barriers-to-entry` |
 | `kt:public-procurement` | `kt:federal-acquisition-regulation` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:razor-and-blades-model` | `kt:two-sided-market` |
@@ -80,7 +83,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
-| `kt:switching-costs` | `kt:two-sided-market` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |

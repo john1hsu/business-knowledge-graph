@@ -1195,6 +1195,90 @@
           "@id": "kt:jean-tirole"
         }
       ]
+    },
+    {
+      "@id": "kt:barriers-to-entry",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Barriers to Entry",
+      "skos:definition": "Legal, technological, cost or market conditions, and deliberate incumbent behaviour, that make it hard or unprofitable for new firms to enter a market, allowing incumbents to sustain prices or profits above competitive levels.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Barriers to Entry (OECD Competition Policy Roundtable, DAF/COMP(2005)42)",
+          "dcterms:publisher": "OECD Competition Committee",
+          "schema:url": "https://search.oecd.org/daf/competition/sectors/36344429.pdf",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Principles of Economics 3e, Section 9.1: How Monopolies Form: Barriers to Entry",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-economics-3e/pages/9-1-how-monopolies-form-barriers-to-entry",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Understanding Industry Structure (HBS Note 9-707-493)",
+          "dcterms:publisher": "Harvard Business School (hosted by Sapienza University of Rome)",
+          "schema:url": "https://management.web.uniroma1.it/sites/default/files/Understanding%20Industry%20Structure%20HBR.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "What is a barrier to entry?",
+          "dcterms:publisher": "American Economic Review (record at Caltech Authors)",
+          "schema:url": "https://authors.library.caltech.edu/records/qgwah-z8f67",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Why Barriers to Entry are Barriers to Understanding (NBER Working Paper 10577)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://www.nber.org/papers/w10577.ris",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Merger Guidelines (2023)",
+          "dcterms:publisher": "U.S. Department of Justice and Federal Trade Commission",
+          "schema:url": "https://www.justice.gov/atr/media/1329301/dl?inline",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/strategy/barriers-to-entry.md",
+      "skos:altLabel": [
+        "entry barriers",
+        "barrier to entry",
+        "threat of entry",
+        "entry deterrence"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:market-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:switching-costs"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:porters-five-forces"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:contestable-markets"
+        }
+      ]
     }
   ]
 }

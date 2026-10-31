@@ -42,6 +42,28 @@
     ]
   },
   {
+    "id": "kt:barriers-to-entry",
+    "title": "Barriers to Entry",
+    "aliases": [
+      "entry barriers",
+      "barrier to entry",
+      "threat of entry",
+      "entry deterrence"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/barriers-to-entry.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://search.oecd.org/daf/competition/sectors/36344429.pdf",
+      "https://openstax.org/books/principles-economics-3e/pages/9-1-how-monopolies-form-barriers-to-entry",
+      "https://management.web.uniroma1.it/sites/default/files/Understanding%20Industry%20Structure%20HBR.pdf",
+      "https://authors.library.caltech.edu/records/qgwah-z8f67",
+      "https://www.nber.org/papers/w10577.ris",
+      "https://www.justice.gov/atr/media/1329301/dl?inline"
+    ]
+  },
+  {
     "id": "kt:benchmarking",
     "title": "Benchmarking",
     "aliases": [

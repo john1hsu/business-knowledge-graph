@@ -47,6 +47,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm-jensen-meckling-1976> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2000/01/rdf-schema#label> "Barriers to Entry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#altLabel> "barrier to entry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#altLabel> "entry barriers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#altLabel> "entry deterrence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#altLabel> "threat of entry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/market-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#definition> "Legal, technological, cost or market conditions, and deliberate incumbent behaviour, that make it hard or unprofitable for new firms to enter a market, allowing incumbents to sustain prices or profits above competitive levels." .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barriers to Entry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/contestable-markets> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2000/01/rdf-schema#label> "Benchmarking" .
@@ -329,6 +352,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://schema.org/url> "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <http://purl.org/dc/terms/publisher> "OECD Competition Committee" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <http://purl.org/dc/terms/title> "Barriers to Entry (OECD Competition Policy Roundtable, DAF/COMP(2005)42)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <https://schema.org/url> "https://search.oecd.org/daf/competition/sectors/36344429.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s2> <http://purl.org/dc/terms/title> "Principles of Economics 3e, Section 9.1: How Monopolies Form: Barriers to Entry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s2> <https://schema.org/url> "https://openstax.org/books/principles-economics-3e/pages/9-1-how-monopolies-form-barriers-to-entry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s3> <http://purl.org/dc/terms/publisher> "Harvard Business School (hosted by Sapienza University of Rome)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s3> <http://purl.org/dc/terms/title> "Understanding Industry Structure (HBS Note 9-707-493)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s3> <https://schema.org/url> "https://management.web.uniroma1.it/sites/default/files/Understanding%20Industry%20Structure%20HBR.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s4> <http://purl.org/dc/terms/publisher> "American Economic Review (record at Caltech Authors)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s4> <http://purl.org/dc/terms/title> "What is a barrier to entry?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s4> <https://schema.org/url> "https://authors.library.caltech.edu/records/qgwah-z8f67" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s5> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s5> <http://purl.org/dc/terms/title> "Why Barriers to Entry are Barriers to Understanding (NBER Working Paper 10577)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s5> <https://schema.org/url> "https://www.nber.org/papers/w10577.ris" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice and Federal Trade Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <http://purl.org/dc/terms/title> "Merger Guidelines (2023)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <https://schema.org/url> "https://www.justice.gov/atr/media/1329301/dl?inline" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://purl.org/dc/terms/title> "Benchmarking (Decision Support Tools)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
