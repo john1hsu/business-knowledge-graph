@@ -166,6 +166,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/efficiency-wages> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-a> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2000/01/rdf-schema#label> "US GAAP" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#altLabel> "FASB Accounting Standards Codification" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#altLabel> "GAAP" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#altLabel> "United States generally accepted accounting principles" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#altLabel> "generally accepted accounting principles" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#definition> "The body of authoritative accounting standards that US companies use to prepare general-purpose financial statements, set by the Financial Accounting Standards Board, recognised by the SEC and compiled since 2009 in the FASB Accounting Standards Codification." .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#prefLabel> "US GAAP" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/matching-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting-standards-board> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -376,6 +401,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://schema.org/url> "https://americanhistory.si.edu/collections/object/nmah_739493" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Accounting, Volume 1)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <http://purl.org/dc/terms/title> "3.1 Describe Principles, Assumptions, and Concepts of Accounting and Their Relationship to Financial Statements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <https://schema.org/url> "https://openstax.org/books/principles-financial-accounting/pages/3-1-describe-principles-assumptions-and-concepts-of-accounting-and-their-relationship-to-financial-statements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s2> <http://purl.org/dc/terms/title> "Policy Statement: Reaffirming the Status of the FASB as a Designated Private-Sector Standard Setter (Release No. 33-8221)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s2> <https://schema.org/url> "https://www.sec.gov/rules/policy/33-8221.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s3> <http://purl.org/dc/terms/title> "Study Pursuant to Section 108(d) of the Sarbanes-Oxley Act of 2002 on the Adoption by the United States Financial Reporting System of a Principles-Based Accounting System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s3> <https://schema.org/url> "https://www.sec.gov/news/studies/principlesbasedstand.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s4> <http://purl.org/dc/terms/title> "Final Rule: Conditions for Use of Non-GAAP Financial Measures (Release No. 33-8176)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s4> <https://schema.org/url> "https://www.sec.gov/files/rules/final/33-8176.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s5> <http://purl.org/dc/terms/publisher> "Faegre Drinker Biddle & Reath" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s5> <http://purl.org/dc/terms/title> "FASB Accounting Standards Codification Will Have an Impact on SEC Reports" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s5> <https://schema.org/url> "https://www.faegredrinker.com/en/insights/publications/2009/8/fasb-accounting-standards-codification-will-have-an-impact-on-sec-reports" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://purl.org/dc/terms/publisher> "SEC Historical Society" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://purl.org/dc/terms/title> "Accounting standard setting (virtual museum gallery)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

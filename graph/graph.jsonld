@@ -178,6 +178,98 @@
       ]
     },
     {
+      "@id": "kt:gaap",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "US GAAP",
+      "skos:definition": "The body of authoritative accounting standards that US companies use to prepare general-purpose financial statements, set by the Financial Accounting Standards Board, recognised by the SEC and compiled since 2009 in the FASB Accounting Standards Codification.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "3.1 Describe Principles, Assumptions, and Concepts of Accounting and Their Relationship to Financial Statements",
+          "dcterms:publisher": "OpenStax (Principles of Accounting, Volume 1)",
+          "schema:url": "https://openstax.org/books/principles-financial-accounting/pages/3-1-describe-principles-assumptions-and-concepts-of-accounting-and-their-relationship-to-financial-statements",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Policy Statement: Reaffirming the Status of the FASB as a Designated Private-Sector Standard Setter (Release No. 33-8221)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/rules/policy/33-8221.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Study Pursuant to Section 108(d) of the Sarbanes-Oxley Act of 2002 on the Adoption by the United States Financial Reporting System of a Principles-Based Accounting System",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/news/studies/principlesbasedstand.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Final Rule: Conditions for Use of Non-GAAP Financial Measures (Release No. 33-8176)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/files/rules/final/33-8176.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "FASB Accounting Standards Codification Will Have an Impact on SEC Reports",
+          "dcterms:publisher": "Faegre Drinker Biddle & Reath",
+          "schema:url": "https://www.faegredrinker.com/en/insights/publications/2009/8/fasb-accounting-standards-codification-will-have-an-impact-on-sec-reports",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Accounting standard setting (virtual museum gallery)",
+          "dcterms:publisher": "SEC Historical Society",
+          "schema:url": "https://www.sechistorical.org/museum/galleries/rev/rev04d.php",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/gaap.md",
+      "skos:altLabel": [
+        "GAAP",
+        "generally accepted accounting principles",
+        "United States generally accepted accounting principles",
+        "FASB Accounting Standards Codification"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:matching-principle"
+        },
+        {
+          "@id": "kt:non-gaap-financial-measures"
+        },
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:financial-accounting-standards-board"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:fasb-conceptual-framework"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:ifrs"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:revenue-recognition-asc-606"
+        }
+      ]
+    },
+    {
       "@id": "kt:agency-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Agency Costs",

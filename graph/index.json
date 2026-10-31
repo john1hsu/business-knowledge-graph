@@ -147,6 +147,28 @@
     ]
   },
   {
+    "id": "kt:gaap",
+    "title": "US GAAP",
+    "aliases": [
+      "GAAP",
+      "generally accepted accounting principles",
+      "United States generally accepted accounting principles",
+      "FASB Accounting Standards Codification"
+    ],
+    "type": "Framework",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/gaap.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://openstax.org/books/principles-financial-accounting/pages/3-1-describe-principles-assumptions-and-concepts-of-accounting-and-their-relationship-to-financial-statements",
+      "https://www.sec.gov/rules/policy/33-8221.htm",
+      "https://www.sec.gov/news/studies/principlesbasedstand.htm",
+      "https://www.sec.gov/files/rules/final/33-8176.htm",
+      "https://www.faegredrinker.com/en/insights/publications/2009/8/fasb-accounting-standards-codification-will-have-an-impact-on-sec-reports",
+      "https://www.sechistorical.org/museum/galleries/rev/rev04d.php"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [
