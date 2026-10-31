@@ -316,6 +316,28 @@
     ]
   },
   {
+    "id": "kt:segmentation-targeting-positioning",
+    "title": "Segmentation, Targeting and Positioning",
+    "aliases": [
+      "STP",
+      "STP model",
+      "STP marketing",
+      "segmenting targeting positioning"
+    ],
+    "type": "Framework",
+    "domain": "marketing",
+    "file": "articles/marketing/segmentation-targeting-positioning.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/0702_Market_Segmentation.pdf",
+      "https://saylordotorg.github.io/text_principles-of-marketing-v2.0/s08-01-targeted-marketing-versus-mass.html",
+      "https://saylordotorg.github.io/text_principles-of-marketing-v2.0/s08-04-positioning-and-repositioning-.html",
+      "https://store.hbr.org/product/rediscovering-market-segmentation/R0602G",
+      "https://www.ries.com/positioning-pioneers/",
+      "https://www.mrweb.com/mrt/seg10mar.htm"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [

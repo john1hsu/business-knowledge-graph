@@ -14,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:leveraged-buyout` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
+| `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
@@ -27,6 +28,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:best-value-tradeoff` | `kt:federal-acquisition-regulation` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
+| `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
@@ -40,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-social-responsibility` | `kt:stakeholder-theory` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
+| `kt:customer-lifetime-value` | `kt:segmentation-targeting-positioning` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:federal-acquisition-regulation` |
@@ -53,6 +56,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
 | `kt:freemium` | `kt:two-sided-market` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
+| `kt:general-motors` | `kt:segmentation-targeting-positioning` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
@@ -65,8 +69,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
+| `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
-| `kt:mass-production` | `kt:ford-model-t` |
+| `kt:marketing-mix` | `kt:segmentation-targeting-positioning` |
+| `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
+| `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:michael-l-katz` | `kt:network-effect` |
@@ -84,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry` |
+| `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:public-procurement` | `kt:federal-acquisition-regulation` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:razor-and-blades-model` | `kt:two-sided-market` |
@@ -93,7 +101,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-management` | `kt:ford-model-t` |
-| `kt:segmentation-targeting-positioning` | `kt:ford-model-t` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |

@@ -1452,6 +1452,101 @@
       ]
     },
     {
+      "@id": "kt:segmentation-targeting-positioning",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Segmentation, Targeting and Positioning",
+      "skos:definition": "The three-step marketing framework in which a firm divides a market into groups of buyers with distinct needs or responses (segmentation), chooses which groups to serve (targeting), and designs its offering and image to hold a distinctive place in those buyers' minds relative to rivals (positioning).",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Market segmentation (Chapter 11, The Marketing Book)",
+          "dcterms:publisher": "The Wharton School, University of Pennsylvania (faculty paper)",
+          "schema:url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/0702_Market_Segmentation.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "5.1 Targeted Marketing versus Mass Marketing (Principles of Marketing v2.0)",
+          "dcterms:publisher": "Saylor Academy (open textbook)",
+          "schema:url": "https://saylordotorg.github.io/text_principles-of-marketing-v2.0/s08-01-targeted-marketing-versus-mass.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "5.4 Positioning and Repositioning Offerings (Principles of Marketing v2.0)",
+          "dcterms:publisher": "Saylor Academy (open textbook)",
+          "schema:url": "https://saylordotorg.github.io/text_principles-of-marketing-v2.0/s08-04-positioning-and-repositioning-.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Rediscovering Market Segmentation",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/rediscovering-market-segmentation/R0602G",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Positioning Pioneers",
+          "dcterms:publisher": "Ries & Ries",
+          "schema:url": "https://www.ries.com/positioning-pioneers/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Market segmentation article (Research Live / MrWeb)",
+          "dcterms:publisher": "MrWeb Ltd",
+          "schema:url": "https://www.mrweb.com/mrt/seg10mar.htm",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/marketing/segmentation-targeting-positioning.md",
+      "skos:altLabel": [
+        "STP",
+        "STP model",
+        "STP marketing",
+        "segmenting targeting positioning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ford-model-t"
+        },
+        {
+          "@id": "kt:marketing-mix"
+        },
+        {
+          "@id": "kt:brand-equity"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:mass-production"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:market-segmentation-1956"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:positioning"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:mass-marketing"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:general-motors"
+        }
+      ]
+    },
+    {
       "@id": "kt:barriers-to-entry",
       "@type": "kto:Concept",
       "skos:prefLabel": "Barriers to Entry",
