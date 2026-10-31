@@ -1030,6 +1030,89 @@
       ]
     },
     {
+      "@id": "kt:disruptive-innovation",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Disruptive Innovation",
+      "skos:definition": "Clayton Christensen's theory that resource-poor entrants can topple established firms by starting with products that are worse on mainstream performance measures but cheaper, simpler or more convenient, winning overlooked or non-consuming customers and then moving upmarket.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Disruptive Innovation: An Intellectual History and Directions for Future Research (Journal of Management Studies 55(7), 2018)",
+          "dcterms:publisher": "Harvard DASH (author manuscript of Journal of Management Studies article)",
+          "schema:url": "https://dash.harvard.edu/server/api/core/bitstreams/9519b52d-4e83-4a41-9862-82a97d8e162a/content",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Bibliography on disruptive technology",
+          "dcterms:publisher": "Harvard Business School, Baker Library",
+          "schema:url": "https://www.library.hbs.edu/hc/exhibits/distech/bib-dt.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Deflating Disruption Theory",
+          "dcterms:publisher": "Tuck School of Business at Dartmouth",
+          "schema:url": "https://tuck.dartmouth.edu/news/articles/deflating-disruption-theory",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Debating Disruptive Innovation",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/debating-disruptive-innovation/",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/disruptive-innovation.md",
+      "skos:altLabel": [
+        "disruption theory",
+        "theory of disruptive innovation",
+        "disruptive technology",
+        "low-end disruption",
+        "new-market disruption"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:clayton-christensen"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:innovators-dilemma"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:sustaining-innovation"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:resource-dependence-theory"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:netflix-business-model-shift"
+        }
+      ]
+    },
+    {
       "@id": "kt:economies-of-scale",
       "@type": "kto:Concept",
       "skos:prefLabel": "Economies of Scale",

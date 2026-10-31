@@ -118,6 +118,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/entrenchment-index> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/uk-corporate-governance-code> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2000/01/rdf-schema#label> "Disruptive Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "disruption theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "disruptive technology" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "low-end disruption" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "new-market disruption" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "theory of disruptive innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#definition> "Clayton Christensen's theory that resource-poor entrants can topple established firms by starting with products that are worse on mainstream performance measures but cheaper, simpler or more convenient, winning overlooked or non-consuming customers and then moving upmarket." .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Disruptive Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/sustaining-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/resource-dependence-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2000/01/rdf-schema#label> "Economies of Scale" .
@@ -442,6 +466,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://schema.org/url> "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/publisher> "Harvard DASH (author manuscript of Journal of Management Studies article)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/title> "Disruptive Innovation: An Intellectual History and Directions for Future Research (Journal of Management Studies 55(7), 2018)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <https://schema.org/url> "https://dash.harvard.edu/server/api/core/bitstreams/9519b52d-4e83-4a41-9862-82a97d8e162a/content" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School, Baker Library" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s2> <http://purl.org/dc/terms/title> "Bibliography on disruptive technology" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s2> <https://schema.org/url> "https://www.library.hbs.edu/hc/exhibits/distech/bib-dt.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s3> <http://purl.org/dc/terms/publisher> "Tuck School of Business at Dartmouth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s3> <http://purl.org/dc/terms/title> "Deflating Disruption Theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s3> <https://schema.org/url> "https://tuck.dartmouth.edu/news/articles/deflating-disruption-theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <http://purl.org/dc/terms/title> "Debating Disruptive Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <https://schema.org/url> "https://sloanreview.mit.edu/article/debating-disruptive-innovation/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://purl.org/dc/terms/title> "7.5 Costs in the Long Run (Principles of Economics 2e)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

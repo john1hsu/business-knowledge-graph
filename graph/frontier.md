@@ -30,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:clayton-christensen` | `kt:disruptive-innovation` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contracting-officer` | `kt:federal-acquisition-regulation` |
 | `kt:corporate-finance` | `kt:modigliani-miller-theorem` |
@@ -53,7 +54,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:indefinite-delivery-indefinite-quantity` | `kt:federal-acquisition-regulation` |
+| `kt:innovation-management` | `kt:disruptive-innovation` |
+| `kt:innovators-dilemma` | `kt:disruptive-innovation` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
+| `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
@@ -62,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:microeconomics` | `kt:industrial-organization` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
+| `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:non-gaap-financial-measures` | `kt:gaap` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
@@ -74,6 +79,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:public-procurement` | `kt:federal-acquisition-regulation` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:razor-and-blades-model` | `kt:two-sided-market` |
+| `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:revolutionary-far-overhaul` | `kt:federal-acquisition-regulation` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
@@ -83,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
+| `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |

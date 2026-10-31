@@ -105,6 +105,27 @@
     ]
   },
   {
+    "id": "kt:disruptive-innovation",
+    "title": "Disruptive Innovation",
+    "aliases": [
+      "disruption theory",
+      "theory of disruptive innovation",
+      "disruptive technology",
+      "low-end disruption",
+      "new-market disruption"
+    ],
+    "type": "Theory",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/disruptive-innovation.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://dash.harvard.edu/server/api/core/bitstreams/9519b52d-4e83-4a41-9862-82a97d8e162a/content",
+      "https://www.library.hbs.edu/hc/exhibits/distech/bib-dt.html",
+      "https://tuck.dartmouth.edu/news/articles/deflating-disruption-theory",
+      "https://sloanreview.mit.edu/article/debating-disruptive-innovation/"
+    ]
+  },
+  {
     "id": "kt:economies-of-scale",
     "title": "Economies of Scale",
     "aliases": [
