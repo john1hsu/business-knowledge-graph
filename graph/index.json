@@ -125,6 +125,27 @@
     ]
   },
   {
+    "id": "kt:federal-acquisition-regulation",
+    "title": "Federal Acquisition Regulation",
+    "aliases": [
+      "FAR",
+      "FAR System",
+      "48 CFR Chapter 1"
+    ],
+    "type": "Regulation",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/federal-acquisition-regulation.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://www.acquisition.gov/index%2ephp/node/60810/printable/print",
+      "https://www.everycrsreport.com/files/20151218_R42826_a964379777856ee0e1de45901284172da5f8aa67.html",
+      "https://www.govinfo.gov/content/pkg/FR-2025-04-18/html/2025-06839.htm",
+      "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-hosts-industry-webinar-on-far-overhaul-05282025",
+      "https://public-inspection.federalregister.gov/2026-19159.pdf",
+      "https://www.gao.gov/blog/snapshot-government-wide-contracting-fy-2025-interactive-dashboard"
+    ]
+  },
+  {
     "id": "kt:ford-model-t",
     "title": "Ford Model T",
     "aliases": [
