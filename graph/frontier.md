@@ -5,13 +5,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
+| `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
-| `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
+| `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:free-cash-flow` | `kt:accrual-accounting`, `kt:agency-costs` |
-| `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:leveraged-buyout` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
@@ -20,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
-| `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
@@ -41,7 +41,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contracting-officer` | `kt:federal-acquisition-regulation` |
 | `kt:corporate-finance` | `kt:modigliani-miller-theorem` |
 | `kt:corporate-law` | `kt:corporate-governance` |
-| `kt:corporate-social-responsibility` | `kt:stakeholder-theory` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
 | `kt:customer-lifetime-value` | `kt:segmentation-targeting-positioning` |
@@ -53,6 +52,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edward-s-mason` | `kt:industrial-organization` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
+| `kt:esg-ratings` | `kt:esg` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
@@ -62,6 +62,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
+| `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:indefinite-delivery-indefinite-quantity` | `kt:federal-acquisition-regulation` |
 | `kt:innovation-management` | `kt:disruptive-innovation` |
 | `kt:innovators-dilemma` | `kt:disruptive-innovation` |
@@ -115,6 +116,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
+| `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
@@ -124,6 +126,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:weighted-average-cost-of-capital` | `kt:modigliani-miller-theorem` |
+| `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |
 | `kt:xerox` | `kt:benchmarking` |

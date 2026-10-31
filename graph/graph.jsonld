@@ -465,6 +465,101 @@
       ]
     },
     {
+      "@id": "kt:esg",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "ESG",
+      "skos:definition": "A framework, coined in the UN Global Compact's 2004 \"Who Cares Wins\" initiative, for treating a company's environmental, social and governance issues as financially material factors in investment analysis, corporate reporting and management.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Who Cares Wins: One Year On — A Review of the Integration of Environmental, Social and Governance Value Drivers in Asset Management, Financial Research and Investment Processes",
+          "dcterms:publisher": "UN Global Compact / International Finance Corporation (World Bank Group)",
+          "schema:url": "https://documents1.worldbank.org/curated/en/306451484737082143/pdf/349730REV0Who1Cares1Wins1One1Year1On.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Aggregate Confusion: The Divergence of ESG Ratings",
+          "dcterms:publisher": "Review of Finance (via SSRN)",
+          "schema:url": "https://papers.ssrn.com/abstract=3438533",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "ESG and Financial Performance: Aggregated Evidence from More than 2000 Empirical Studies",
+          "dcterms:publisher": "Journal of Sustainable Finance & Investment (via SSRN)",
+          "schema:url": "https://papers.ssrn.com/abstract=2699610",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "ISSB issues inaugural global sustainability disclosure standards",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/news-and-events/news/2023/06/issb-issues-ifrs-s1-ifrs-s2/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "SEC Votes to End Defense of Climate Disclosure Rules",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://sec.gov/newsroom/press-releases/2025-58",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/esg.md",
+      "skos:altLabel": [
+        "environmental",
+        "social and governance",
+        "ESG integration",
+        "ESG investing",
+        "environmental social governance factors"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-social-responsibility"
+        },
+        {
+          "@id": "kt:sustainable-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:ifrs"
+        },
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:who-cares-wins-report"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:stakeholder-theory"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:esg-ratings"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:ifrs-sustainability-disclosure-standards"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ]
+    },
+    {
       "@id": "kt:stakeholder-theory",
       "@type": "kto:Theory",
       "skos:prefLabel": "Stakeholder Theory",

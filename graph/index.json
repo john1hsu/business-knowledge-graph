@@ -187,6 +187,28 @@
     ]
   },
   {
+    "id": "kt:esg",
+    "title": "ESG",
+    "aliases": [
+      "environmental",
+      "social and governance",
+      "ESG integration",
+      "ESG investing",
+      "environmental social governance factors"
+    ],
+    "type": "Framework",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/esg.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://documents1.worldbank.org/curated/en/306451484737082143/pdf/349730REV0Who1Cares1Wins1One1Year1On.pdf",
+      "https://papers.ssrn.com/abstract=3438533",
+      "https://papers.ssrn.com/abstract=2699610",
+      "https://www.ifrs.org/news-and-events/news/2023/06/issb-issues-ifrs-s1-ifrs-s2/",
+      "https://sec.gov/newsroom/press-releases/2025-58"
+    ]
+  },
+  {
     "id": "kt:fasb-conceptual-framework",
     "title": "FASB Conceptual Framework",
     "aliases": [

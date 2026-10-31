@@ -212,6 +212,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2000/01/rdf-schema#label> "ESG" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#altLabel> "ESG integration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#altLabel> "ESG investing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#altLabel> "environmental social governance factors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#altLabel> "environmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#altLabel> "social and governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/sustainable-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#definition> "A framework, coined in the UN Global Compact's 2004 \"Who Cares Wins\" initiative, for treating a company's environmental, social and governance issues as financially material factors in investment analysis, corporate reporting and management." .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#prefLabel> "ESG" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/who-cares-wins-report> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/esg-ratings> .
+<https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs-sustainability-disclosure-standards> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/2000/01/rdf-schema#label> "FASB Conceptual Framework" .
@@ -695,6 +722,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://schema.org/url> "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <http://purl.org/dc/terms/publisher> "UN Global Compact / International Finance Corporation (World Bank Group)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <http://purl.org/dc/terms/title> "Who Cares Wins: One Year On — A Review of the Integration of Environmental, Social and Governance Value Drivers in Asset Management, Financial Research and Investment Processes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <https://schema.org/url> "https://documents1.worldbank.org/curated/en/306451484737082143/pdf/349730REV0Who1Cares1Wins1One1Year1On.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s2> <http://purl.org/dc/terms/publisher> "Review of Finance (via SSRN)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s2> <http://purl.org/dc/terms/title> "Aggregate Confusion: The Divergence of ESG Ratings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s2> <https://schema.org/url> "https://papers.ssrn.com/abstract=3438533" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s3> <http://purl.org/dc/terms/publisher> "Journal of Sustainable Finance & Investment (via SSRN)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s3> <http://purl.org/dc/terms/title> "ESG and Financial Performance: Aggregated Evidence from More than 2000 Empirical Studies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s3> <https://schema.org/url> "https://papers.ssrn.com/abstract=2699610" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s4> <http://purl.org/dc/terms/publisher> "IFRS Foundation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s4> <http://purl.org/dc/terms/title> "ISSB issues inaugural global sustainability disclosure standards" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s4> <https://schema.org/url> "https://www.ifrs.org/news-and-events/news/2023/06/issb-issues-ifrs-s1-ifrs-s2/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <http://purl.org/dc/terms/title> "SEC Votes to End Defense of Climate Disclosure Rules" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <https://schema.org/url> "https://sec.gov/newsroom/press-releases/2025-58" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
