@@ -42,6 +42,26 @@
     ]
   },
   {
+    "id": "kt:balanced-scorecard",
+    "title": "Balanced Scorecard",
+    "aliases": [
+      "BSC",
+      "Kaplan-Norton scorecard",
+      "balanced business scorecard"
+    ],
+    "type": "Framework",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/balanced-scorecard.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://hbr.org/2005/07/the-balanced-scorecard-measures-that-drive-performance",
+      "https://www.hbs.edu/ris/Publication%20Files/10-074_0bf3c151-f82b-4592-b885-cdde7f5d97a6.pdf",
+      "https://openstax.org/books/principles-managerial-accounting/pages/12-4-describe-the-balanced-scorecard-and-explain-how-it-is-used",
+      "https://vbn.aau.dk/da/publications/the-rise-of-the-balanced-scorecard-relevance-regained",
+      "https://maaw.info/ArticleSummaries/ArtSumIttnerLarckerMeyer03.htm"
+    ]
+  },
+  {
     "id": "kt:barriers-to-entry",
     "title": "Barriers to Entry",
     "aliases": [

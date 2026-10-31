@@ -47,6 +47,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm-jensen-meckling-1976> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2000/01/rdf-schema#label> "Balanced Scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#altLabel> "BSC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#altLabel> "Kaplan-Norton scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#altLabel> "balanced business scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-control-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#definition> "A strategic performance-management framework, introduced by Robert S. Kaplan and David P. Norton in 1992, that complements financial results with customer, internal-process and learning-and-growth measures so that managers can track whether strategy is being executed and what will drive future financial performance." .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#prefLabel> "Balanced Scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/david-p-norton> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-s-kaplan> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/analog-devices> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/strategy-map> .
+<https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2000/01/rdf-schema#label> "Barriers to Entry" .
@@ -401,6 +425,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://schema.org/url> "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/title> "The Balanced Scorecard: Measures That Drive Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <https://schema.org/url> "https://hbr.org/2005/07/the-balanced-scorecard-measures-that-drive-performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s2> <http://purl.org/dc/terms/title> "Conceptual Foundations of the Balanced Scorecard (HBS Working Paper 10-074)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s2> <https://schema.org/url> "https://www.hbs.edu/ris/Publication%20Files/10-074_0bf3c151-f82b-4592-b885-cdde7f5d97a6.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s3> <http://purl.org/dc/terms/title> "12.4 Describe the Balanced Scorecard and Explain How It Is Used (Principles of Accounting, Volume 2: Managerial Accounting)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s3> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/12-4-describe-the-balanced-scorecard-and-explain-how-it-is-used" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s4> <http://purl.org/dc/terms/publisher> "Journal of Accounting and Organizational Change (via Aalborg University research portal)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s4> <http://purl.org/dc/terms/title> "The rise of the balanced scorecard! Relevance regained?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s4> <https://schema.org/url> "https://vbn.aau.dk/da/publications/the-rise-of-the-balanced-scorecard-relevance-regained" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s5> <http://purl.org/dc/terms/publisher> "Management And Accounting Web" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s5> <http://purl.org/dc/terms/title> "Summary of Ittner, Larcker and Meyer (2003), Subjectivity and the weighting of performance measures: Evidence from a balanced scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s5> <https://schema.org/url> "https://maaw.info/ArticleSummaries/ArtSumIttnerLarckerMeyer03.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <http://purl.org/dc/terms/publisher> "OECD Competition Committee" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <http://purl.org/dc/terms/title> "Barriers to Entry (OECD Competition Policy Roundtable, DAF/COMP(2005)42)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

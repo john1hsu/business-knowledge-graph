@@ -1113,6 +1113,94 @@
       ]
     },
     {
+      "@id": "kt:balanced-scorecard",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Balanced Scorecard",
+      "skos:definition": "A strategic performance-management framework, introduced by Robert S. Kaplan and David P. Norton in 1992, that complements financial results with customer, internal-process and learning-and-growth measures so that managers can track whether strategy is being executed and what will drive future financial performance.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Balanced Scorecard: Measures That Drive Performance",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://hbr.org/2005/07/the-balanced-scorecard-measures-that-drive-performance",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Conceptual Foundations of the Balanced Scorecard (HBS Working Paper 10-074)",
+          "dcterms:publisher": "Harvard Business School",
+          "schema:url": "https://www.hbs.edu/ris/Publication%20Files/10-074_0bf3c151-f82b-4592-b885-cdde7f5d97a6.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "12.4 Describe the Balanced Scorecard and Explain How It Is Used (Principles of Accounting, Volume 2: Managerial Accounting)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/12-4-describe-the-balanced-scorecard-and-explain-how-it-is-used",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The rise of the balanced scorecard! Relevance regained?",
+          "dcterms:publisher": "Journal of Accounting and Organizational Change (via Aalborg University research portal)",
+          "schema:url": "https://vbn.aau.dk/da/publications/the-rise-of-the-balanced-scorecard-relevance-regained",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Summary of Ittner, Larcker and Meyer (2003), Subjectivity and the weighting of performance measures: Evidence from a balanced scorecard",
+          "dcterms:publisher": "Management And Accounting Web",
+          "schema:url": "https://maaw.info/ArticleSummaries/ArtSumIttnerLarckerMeyer03.htm",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/balanced-scorecard.md",
+      "skos:altLabel": [
+        "BSC",
+        "Kaplan-Norton scorecard",
+        "balanced business scorecard"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:performance-management"
+        },
+        {
+          "@id": "kt:management-control-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:benchmarking"
+        },
+        {
+          "@id": "kt:okrs"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:robert-s-kaplan"
+        },
+        {
+          "@id": "kt:david-p-norton"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:management-by-objectives"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:strategy-map"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:analog-devices"
+        }
+      ]
+    },
+    {
       "@id": "kt:economies-of-scale",
       "@type": "kto:Concept",
       "skos:prefLabel": "Economies of Scale",
