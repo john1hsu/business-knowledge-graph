@@ -336,6 +336,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/edward-s-mason> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/jean-tirole> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joe-s-bain> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2000/01/rdf-schema#label> "Kanban" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#altLabel> "kanban card system" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#altLabel> "kanban system" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#altLabel> "signboard scheduling" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#definition> "A visual pull-scheduling practice, developed at Toyota, in which cards or signals attached to containers of parts authorize a preceding process to produce or deliver only what a downstream process has actually consumed, capping work-in-process inventory." .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kanban" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agile-software-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/littles-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/kanban-method> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Modigliani-Miller Theorem" .
@@ -810,6 +835,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://schema.org/url> "https://www.kva.se/en/news/ekonomipriset-2014-2/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/publisher> "Toyota UK Magazine (Toyota GB)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/title> "Kanban: Toyota Production System guide" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <https://schema.org/url> "https://mag.toyota.co.uk/kanban-toyota-production-system/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s2> <http://purl.org/dc/terms/publisher> "Toyota Material Handling Europe (hosted by KTH Royal Institute of Technology)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s2> <http://purl.org/dc/terms/title> "Toyota Production System (brochure)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s2> <https://schema.org/url> "https://www.kth.se/social/upload/511bb0b1f276543fb38d79b8/Toyota%2520Production%2520System%2520Brochure.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s3> <http://purl.org/dc/terms/publisher> "International Journal of Production Research (via Bilkent University repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s3> <http://purl.org/dc/terms/title> "An overview of design and operational issues of kanban systems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s3> <https://schema.org/url> "https://repository.bilkent.edu.tr/bitstream/11693/25185/1/Overview%20of%20design%20and%20operational%20issues%20of%20kanban%20systems.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s4> <http://purl.org/dc/terms/publisher> "International Journal of Production Economics (via IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s4> <http://purl.org/dc/terms/title> "Variations of the kanban system: Literature review and classification" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s4> <https://schema.org/url> "https://ideas.repec.org/a/eee/proeco/v125y2010i1p13-21.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s5> <http://purl.org/dc/terms/publisher> "International Journal of Production Research (record via Loughborough University Library)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s5> <http://purl.org/dc/terms/title> "Celebrating the enigma: the continuing puzzle of the Toyota Production System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s5> <https://schema.org/url> "https://vufind.lboro.ac.uk/PrimoRecord/cdi_proquest_miscellaneous_30051933" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <http://purl.org/dc/terms/publisher> "CIO" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <http://purl.org/dc/terms/title> "Agile development: How the Kanban method changes software engineering" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://schema.org/url> "https://www.cio.com/article/286826/agile-development-how-the-kanban-method-changes-software-engineering.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

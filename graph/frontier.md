@@ -6,6 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
+| `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
@@ -20,8 +21,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
-| `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
+| `kt:agile-software-development` | `kt:kanban` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
@@ -67,6 +68,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
+| `kt:just-in-time` | `kt:kanban` |
+| `kt:kanban-method` | `kt:kanban` |
+| `kt:lean-manufacturing` | `kt:kanban` |
+| `kt:littles-law` | `kt:kanban` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
@@ -75,6 +80,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-mix` | `kt:segmentation-targeting-positioning` |
 | `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
+| `kt:material-requirements-planning` | `kt:kanban` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
@@ -110,8 +116,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
+| `kt:taiichi-ohno` | `kt:kanban` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-quality-management` | `kt:benchmarking` |
+| `kt:toyota-motor-corporation` | `kt:kanban` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |

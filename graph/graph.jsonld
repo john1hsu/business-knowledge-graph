@@ -1634,6 +1634,100 @@
       ]
     },
     {
+      "@id": "kt:kanban",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Kanban",
+      "skos:definition": "A visual pull-scheduling practice, developed at Toyota, in which cards or signals attached to containers of parts authorize a preceding process to produce or deliver only what a downstream process has actually consumed, capping work-in-process inventory.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Kanban: Toyota Production System guide",
+          "dcterms:publisher": "Toyota UK Magazine (Toyota GB)",
+          "schema:url": "https://mag.toyota.co.uk/kanban-toyota-production-system/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Toyota Production System (brochure)",
+          "dcterms:publisher": "Toyota Material Handling Europe (hosted by KTH Royal Institute of Technology)",
+          "schema:url": "https://www.kth.se/social/upload/511bb0b1f276543fb38d79b8/Toyota%2520Production%2520System%2520Brochure.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "An overview of design and operational issues of kanban systems",
+          "dcterms:publisher": "International Journal of Production Research (via Bilkent University repository)",
+          "schema:url": "https://repository.bilkent.edu.tr/bitstream/11693/25185/1/Overview%20of%20design%20and%20operational%20issues%20of%20kanban%20systems.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Variations of the kanban system: Literature review and classification",
+          "dcterms:publisher": "International Journal of Production Economics (via IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/eee/proeco/v125y2010i1p13-21.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Celebrating the enigma: the continuing puzzle of the Toyota Production System",
+          "dcterms:publisher": "International Journal of Production Research (record via Loughborough University Library)",
+          "schema:url": "https://vufind.lboro.ac.uk/PrimoRecord/cdi_proquest_miscellaneous_30051933",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Agile development: How the Kanban method changes software engineering",
+          "dcterms:publisher": "CIO",
+          "schema:url": "https://www.cio.com/article/286826/agile-development-how-the-kanban-method-changes-software-engineering.html",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/kanban.md",
+      "skos:altLabel": [
+        "kanban system",
+        "kanban card system",
+        "signboard scheduling"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:just-in-time"
+        },
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lean-manufacturing"
+        },
+        {
+          "@id": "kt:littles-law"
+        },
+        {
+          "@id": "kt:ford-model-t"
+        },
+        {
+          "@id": "kt:agile-software-development"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:taiichi-ohno"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:toyota-motor-corporation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:material-requirements-planning"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:kanban-method"
+        }
+      ]
+    },
+    {
       "@id": "kt:barriers-to-entry",
       "@type": "kto:Concept",
       "skos:prefLabel": "Barriers to Entry",

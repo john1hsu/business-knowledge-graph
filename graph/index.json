@@ -294,6 +294,27 @@
     ]
   },
   {
+    "id": "kt:kanban",
+    "title": "Kanban",
+    "aliases": [
+      "kanban system",
+      "kanban card system",
+      "signboard scheduling"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/kanban.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://mag.toyota.co.uk/kanban-toyota-production-system/",
+      "https://www.kth.se/social/upload/511bb0b1f276543fb38d79b8/Toyota%2520Production%2520System%2520Brochure.pdf",
+      "https://repository.bilkent.edu.tr/bitstream/11693/25185/1/Overview%20of%20design%20and%20operational%20issues%20of%20kanban%20systems.pdf",
+      "https://ideas.repec.org/a/eee/proeco/v125y2010i1p13-21.html",
+      "https://vufind.lboro.ac.uk/PrimoRecord/cdi_proquest_miscellaneous_30051933",
+      "https://www.cio.com/article/286826/agile-development-how-the-kanban-method-changes-software-engineering.html"
+    ]
+  },
+  {
     "id": "kt:modigliani-miller-theorem",
     "title": "Modigliani-Miller Theorem",
     "aliases": [
