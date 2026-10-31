@@ -1280,6 +1280,90 @@
       ]
     },
     {
+      "@id": "kt:network-effect",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Network Effect",
+      "skos:definition": "The property of a product or system whose value to each user rises with the number of other users or of compatible complementary products, creating demand-side economies of scale that can make markets tip toward one dominant network.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Network Externalities, Competition, and Compatibility",
+          "dcterms:publisher": "The American Economic Review, vol. 75, no. 3 (author scan hosted by Academia Sinica RCHSS)",
+          "schema:url": "https://blog.rchss.sinica.edu.tw/FCLai/wp-content/uploads/2016/11/980730_Network-Externalities-Competition-and-Compatibility_Michael-L.-Katz-and-Carl-Shapiro-1985_AER-753_p.424-440.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Systems Competition and Network Effects (RePEc record, DOI 10.1257/jep.8.2.93)",
+          "dcterms:publisher": "Journal of Economic Perspectives, via IDEAS/RePEc",
+          "schema:url": "https://ideas.repec.org/a/aea/jecper/v8y1994i2p93-115.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Network Externality: An Uncommon Tragedy",
+          "dcterms:publisher": "Journal of Economic Perspectives, vol. 8, no. 2 (author copy, University of Texas at Dallas)",
+          "schema:url": "https://ecs.utdallas.edu/~liebowit/jep.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Antitrust in Network Industries (address by Carl Shapiro, Deputy Assistant Attorney General)",
+          "dcterms:publisher": "U.S. Department of Justice, Antitrust Division",
+          "schema:url": "https://www.justice.gov/atr/file/518696/download",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/network-effect.md",
+      "skos:altLabel": [
+        "network effects",
+        "network externality",
+        "network externalities",
+        "demand-side economies of scale",
+        "demand-side scale economies"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:path-dependence"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:michael-l-katz"
+        },
+        {
+          "@id": "kt:carl-shapiro"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:network-externalities-competition-and-compatibility-1985"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:economies-of-scale"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ]
+    },
+    {
       "@id": "kt:barriers-to-entry",
       "@type": "kto:Concept",
       "skos:prefLabel": "Barriers to Entry",

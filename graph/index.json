@@ -275,6 +275,27 @@
     ]
   },
   {
+    "id": "kt:network-effect",
+    "title": "Network Effect",
+    "aliases": [
+      "network effects",
+      "network externality",
+      "network externalities",
+      "demand-side economies of scale",
+      "demand-side scale economies"
+    ],
+    "type": "Concept",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/network-effect.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://blog.rchss.sinica.edu.tw/FCLai/wp-content/uploads/2016/11/980730_Network-Externalities-Competition-and-Compatibility_Michael-L.-Katz-and-Carl-Shapiro-1985_AER-753_p.424-440.pdf",
+      "https://ideas.repec.org/a/aea/jecper/v8y1994i2p93-115.html",
+      "https://ecs.utdallas.edu/~liebowit/jep.html",
+      "https://www.justice.gov/atr/file/518696/download"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [

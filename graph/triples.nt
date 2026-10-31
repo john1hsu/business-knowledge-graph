@@ -316,6 +316,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/trade-off-theory-of-capital-structure> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/cost-of-capital-corporation-finance-and-theory-of-investment-1958> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Network Effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "demand-side economies of scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "demand-side scale economies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "network effects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "network externalities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "network externality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#definition> "The property of a product or system whose value to each user rises with the number of other users or of compatible complementary products, creating demand-side economies of scale that can make markets tip toward one dominant network." .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#prefLabel> "Network Effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/path-dependence> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/carl-shapiro> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-l-katz> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/network-externalities-competition-and-compatibility-1985> .
+<https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -681,6 +706,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/abacus/v50y2014i3p279-295.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s1> <http://purl.org/dc/terms/publisher> "The American Economic Review, vol. 75, no. 3 (author scan hosted by Academia Sinica RCHSS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s1> <http://purl.org/dc/terms/title> "Network Externalities, Competition, and Compatibility" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s1> <https://schema.org/url> "https://blog.rchss.sinica.edu.tw/FCLai/wp-content/uploads/2016/11/980730_Network-Externalities-Competition-and-Compatibility_Michael-L.-Katz-and-Carl-Shapiro-1985_AER-753_p.424-440.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s2> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives, via IDEAS/RePEc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s2> <http://purl.org/dc/terms/title> "Systems Competition and Network Effects (RePEc record, DOI 10.1257/jep.8.2.93)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s2> <https://schema.org/url> "https://ideas.repec.org/a/aea/jecper/v8y1994i2p93-115.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s3> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives, vol. 8, no. 2 (author copy, University of Texas at Dallas)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s3> <http://purl.org/dc/terms/title> "Network Externality: An Uncommon Tragedy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s3> <https://schema.org/url> "https://ecs.utdallas.edu/~liebowit/jep.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Antitrust Division" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <http://purl.org/dc/terms/title> "Antitrust in Network Industries (address by Carl Shapiro, Deputy Assistant Attorney General)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://schema.org/url> "https://www.justice.gov/atr/file/518696/download" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

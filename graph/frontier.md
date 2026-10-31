@@ -5,7 +5,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
-| `kt:network-effect` | `kt:two-sided-market`, `kt:economies-of-scale`, `kt:barriers-to-entry` |
+| `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
+| `kt:antitrust-law` | `kt:industrial-organization`, `kt:network-effect` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
@@ -18,17 +19,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:stakeholder-theory` |
-| `kt:switching-costs` | `kt:two-sided-market`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
-| `kt:antitrust-law` | `kt:industrial-organization` |
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:best-value-tradeoff` | `kt:federal-acquisition-regulation` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
+| `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:clayton-christensen` | `kt:disruptive-innovation` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
@@ -64,13 +64,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-production` | `kt:ford-model-t` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
+| `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:microeconomics` | `kt:industrial-organization` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
+| `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:non-gaap-financial-measures` | `kt:gaap` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
+| `kt:path-dependence` | `kt:network-effect` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:performance-management` | `kt:benchmarking` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
