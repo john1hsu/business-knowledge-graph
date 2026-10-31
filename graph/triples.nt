@@ -191,6 +191,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Modigliani-Miller Theorem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "MM irrelevance theorem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "MM propositions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "MM theorem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "Modigliani-Miller propositions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#altLabel> "capital structure irrelevance principle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#definition> "The proposition, introduced by Franco Modigliani and Merton Miller in 1958, that in a frictionless market a firm's value and average cost of capital are independent of its mix of debt and equity, so that any real-world effect of financing choices must come from taxes or other market imperfections." .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Modigliani-Miller Theorem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/pecking-order-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/franco-modigliani> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/merton-miller> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/trade-off-theory-of-capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/cost-of-capital-corporation-finance-and-theory-of-investment-1958> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -431,6 +459,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <https://schema.org/url> "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s2> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (NobelPrize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s2> <http://purl.org/dc/terms/title> "Press release: The Prize in Economic Sciences 1990" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s2> <https://schema.org/url> "https://www.nobelprize.org/prizes/economics/1990/press-release/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s3> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 1393" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s3> <http://purl.org/dc/terms/title> "The Capital Structure Puzzle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s3> <https://schema.org/url> "https://www.nber.org/papers/w1393" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s4> <http://purl.org/dc/terms/title> "Merton H. Miller" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s4> <https://schema.org/url> "https://www.Britannica.com/money/Merton-Miller" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <http://purl.org/dc/terms/publisher> "Abacus (RePEc/IDEAS record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <http://purl.org/dc/terms/title> "The Modigliani and Miller Propositions: The History of a Failed Foundation for Corporate Finance?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/abacus/v50y2014i3p279-295.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

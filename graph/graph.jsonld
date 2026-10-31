@@ -836,6 +836,104 @@
       ]
     },
     {
+      "@id": "kt:modigliani-miller-theorem",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Modigliani-Miller Theorem",
+      "skos:definition": "The proposition, introduced by Franco Modigliani and Merton Miller in 1958, that in a frictionless market a firm's value and average cost of capital are independent of its mix of debt and equity, so that any real-world effect of financing choices must come from taxes or other market imperfections.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Cost of Capital, Corporation Finance and the Theory of Investment",
+          "dcterms:publisher": "American Economic Review (AEA Top 20 reprint)",
+          "schema:url": "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 1990",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (NobelPrize.org)",
+          "schema:url": "https://www.nobelprize.org/prizes/economics/1990/press-release/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Capital Structure Puzzle",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 1393",
+          "schema:url": "https://www.nber.org/papers/w1393",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Merton H. Miller",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.Britannica.com/money/Merton-Miller",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Modigliani and Miller Propositions: The History of a Failed Foundation for Corporate Finance?",
+          "dcterms:publisher": "Abacus (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/bla/abacus/v50y2014i3p279-295.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/modigliani-miller-theorem.md",
+      "skos:altLabel": [
+        "MM theorem",
+        "Modigliani-Miller propositions",
+        "MM propositions",
+        "capital structure irrelevance principle",
+        "MM irrelevance theorem"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:capital-structure"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        },
+        {
+          "@id": "kt:dividend-policy"
+        },
+        {
+          "@id": "kt:leveraged-buyout"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:franco-modigliani"
+        },
+        {
+          "@id": "kt:merton-miller"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:arbitrage"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:trade-off-theory-of-capital-structure"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:pecking-order-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:economies-of-scale",
       "@type": "kto:Concept",
       "skos:prefLabel": "Economies of Scale",

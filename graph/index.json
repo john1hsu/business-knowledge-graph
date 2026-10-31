@@ -169,6 +169,28 @@
     ]
   },
   {
+    "id": "kt:modigliani-miller-theorem",
+    "title": "Modigliani-Miller Theorem",
+    "aliases": [
+      "MM theorem",
+      "Modigliani-Miller propositions",
+      "MM propositions",
+      "capital structure irrelevance principle",
+      "MM irrelevance theorem"
+    ],
+    "type": "Theory",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/modigliani-miller-theorem.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf",
+      "https://www.nobelprize.org/prizes/economics/1990/press-release/",
+      "https://www.nber.org/papers/w1393",
+      "https://www.Britannica.com/money/Merton-Miller",
+      "https://ideas.repec.org/a/bla/abacus/v50y2014i3p279-295.html"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [

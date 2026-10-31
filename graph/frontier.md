@@ -6,10 +6,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:industrial-organization` | `kt:two-sided-market`, `kt:economies-of-scale`, `kt:economies-of-scale` |
+| `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:free-cash-flow` | `kt:accrual-accounting`, `kt:agency-costs` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:leveraged-buyout` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:network-effect` | `kt:two-sided-market`, `kt:economies-of-scale` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
@@ -19,34 +21,38 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
+| `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:barriers-to-entry` | `kt:economies-of-scale` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
-| `kt:capital-structure` | `kt:agency-costs` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:corporate-finance` | `kt:modigliani-miller-theorem` |
 | `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:corporate-social-responsibility` | `kt:stakeholder-theory` |
+| `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
+| `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
+| `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
 | `kt:freemium` | `kt:two-sided-market` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jean-tirole` | `kt:two-sided-market` |
-| `kt:leveraged-buyout` | `kt:agency-costs` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:mass-production` | `kt:ford-model-t` |
+| `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
-| `kt:modigliani-miller-theorem` | `kt:agency-costs` |
 | `kt:non-gaap-financial-measures` | `kt:gaap` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
+| `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:performance-management` | `kt:benchmarking` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
@@ -61,7 +67,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:switching-costs` | `kt:two-sided-market` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-quality-management` | `kt:benchmarking` |
+| `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
+| `kt:weighted-average-cost-of-capital` | `kt:modigliani-miller-theorem` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |
 | `kt:xerox` | `kt:benchmarking` |
