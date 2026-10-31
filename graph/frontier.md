@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
-| `kt:antitrust-law` | `kt:industrial-organization`, `kt:network-effect` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:esg` | `kt:corporate-governance`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
@@ -34,7 +33,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:clayton-christensen` | `kt:disruptive-innovation` |
+| `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contracting-officer` | `kt:federal-acquisition-regulation` |
 | `kt:corporate-finance` | `kt:modigliani-miller-theorem` |
@@ -74,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-mix` | `kt:segmentation-targeting-positioning` |
 | `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
+| `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:michael-l-katz` | `kt:network-effect` |
@@ -101,6 +103,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-management` | `kt:ford-model-t` |
+| `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
@@ -111,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
+| `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:weighted-average-cost-of-capital` | `kt:modigliani-miller-theorem` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |

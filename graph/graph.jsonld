@@ -1201,6 +1201,93 @@
       ]
     },
     {
+      "@id": "kt:antitrust-law",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "Antitrust Law",
+      "skos:definition": "The body of US federal and state law, built on the Sherman, Clayton and FTC Acts, that prohibits agreements unreasonably restraining trade, monopolization, and mergers or practices that may substantially lessen competition.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Antitrust Laws",
+          "dcterms:publisher": "Federal Trade Commission",
+          "schema:url": "https://www.ftc.gov/ADVICE-GUIDANCE/COMPETITION-GUIDANCE/GUIDE-ANTITRUST-LAWS/ANTITRUST-LAWS",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Business Law I Essentials, Section 11.2: Antitrust Laws",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/business-law-i-essentials/pages/11-2-antitrust-laws",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "General Overview of United States Antitrust Law (RL31026)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/files/20051117_RL31026_9a55301d1ba89a3c433c3fb2666bef783c5722ac.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Amazon's Antitrust Paradox",
+          "dcterms:publisher": "Yale Law Journal",
+          "schema:url": "https://yalelawjournal.org/article/amazons-antitrust-paradox",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Antitrust in a Time of Populism",
+          "dcterms:publisher": "International Journal of Industrial Organization (author copy, UC Berkeley Haas)",
+          "schema:url": "https://faculty.haas.berkeley.edu/shapiro/antitrustpopulism.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Department of Justice Wins Significant Remedies Against Google",
+          "dcterms:publisher": "US Department of Justice, Office of Public Affairs",
+          "schema:url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/antitrust-law.md",
+      "skos:altLabel": [
+        "US antitrust law",
+        "antitrust laws",
+        "anti-monopoly law"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:competition-policy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:sherman-act"
+        },
+        {
+          "@id": "kt:clayton-act"
+        },
+        {
+          "@id": "kt:merger-guidelines"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:united-states-v-google"
+        }
+      ]
+    },
+    {
       "@id": "kt:economies-of-scale",
       "@type": "kto:Concept",
       "skos:prefLabel": "Economies of Scale",

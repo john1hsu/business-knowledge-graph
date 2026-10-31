@@ -47,6 +47,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm-jensen-meckling-1976> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2000/01/rdf-schema#label> "Antitrust Law" .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#altLabel> "US antitrust law" .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#altLabel> "anti-monopoly law" .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#altLabel> "antitrust laws" .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/competition-policy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#definition> "The body of US federal and state law, built on the Sherman, Clayton and FTC Acts, that prohibits agreements unreasonably restraining trade, monopolization, and mergers or practices that may substantially lessen competition." .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antitrust Law" .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/united-states-v-google> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/merger-guidelines> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/sherman-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2000/01/rdf-schema#label> "Balanced Scorecard" .
@@ -451,6 +475,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://schema.org/url> "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <http://purl.org/dc/terms/publisher> "Federal Trade Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <http://purl.org/dc/terms/title> "The Antitrust Laws" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <https://schema.org/url> "https://www.ftc.gov/ADVICE-GUIDANCE/COMPETITION-GUIDANCE/GUIDE-ANTITRUST-LAWS/ANTITRUST-LAWS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s2> <http://purl.org/dc/terms/title> "Business Law I Essentials, Section 11.2: Antitrust Laws" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s2> <https://schema.org/url> "https://openstax.org/books/business-law-i-essentials/pages/11-2-antitrust-laws" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s3> <http://purl.org/dc/terms/title> "General Overview of United States Antitrust Law (RL31026)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s3> <https://schema.org/url> "https://www.everycrsreport.com/files/20051117_RL31026_9a55301d1ba89a3c433c3fb2666bef783c5722ac.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s4> <http://purl.org/dc/terms/publisher> "Yale Law Journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s4> <http://purl.org/dc/terms/title> "Amazon's Antitrust Paradox" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s4> <https://schema.org/url> "https://yalelawjournal.org/article/amazons-antitrust-paradox" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s5> <http://purl.org/dc/terms/publisher> "International Journal of Industrial Organization (author copy, UC Berkeley Haas)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s5> <http://purl.org/dc/terms/title> "Antitrust in a Time of Populism" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s5> <https://schema.org/url> "https://faculty.haas.berkeley.edu/shapiro/antitrustpopulism.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <http://purl.org/dc/terms/publisher> "US Department of Justice, Office of Public Affairs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <http://purl.org/dc/terms/title> "Department of Justice Wins Significant Remedies Against Google" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://schema.org/url> "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/title> "The Balanced Scorecard: Measures That Drive Performance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

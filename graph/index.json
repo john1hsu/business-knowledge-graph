@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "kt:antitrust-law",
+    "title": "Antitrust Law",
+    "aliases": [
+      "US antitrust law",
+      "antitrust laws",
+      "anti-monopoly law"
+    ],
+    "type": "Regulation",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/antitrust-law.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://www.ftc.gov/ADVICE-GUIDANCE/COMPETITION-GUIDANCE/GUIDE-ANTITRUST-LAWS/ANTITRUST-LAWS",
+      "https://openstax.org/books/business-law-i-essentials/pages/11-2-antitrust-laws",
+      "https://www.everycrsreport.com/files/20051117_RL31026_9a55301d1ba89a3c433c3fb2666bef783c5722ac.html",
+      "https://yalelawjournal.org/article/amazons-antitrust-paradox",
+      "https://faculty.haas.berkeley.edu/shapiro/antitrustpopulism.pdf",
+      "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google"
+    ]
+  },
+  {
     "id": "kt:balanced-scorecard",
     "title": "Balanced Scorecard",
     "aliases": [
