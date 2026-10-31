@@ -191,6 +191,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://purl.org/dc/terms/created> "2026-10-31" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2000/01/rdf-schema#label> "Industrial Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#altLabel> "IO economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#altLabel> "economics of imperfect competition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#altLabel> "industrial economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#altLabel> "industrial organisation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#definition> "The branch of economics that studies imperfectly competitive markets: how firms gain and use market power, how market structure and firm behaviour shape each other, and how competition policy and regulation affect market outcomes." .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Industrial Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/game-theory-in-business> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/new-empirical-industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/structure-conduct-performance-paradigm> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/edward-s-mason> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/jean-tirole> .
+<https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joe-s-bain> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Modigliani-Miller Theorem" .
@@ -459,6 +484,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://purl.org/dc/terms/publisher> "Department of Economics, University of Michigan" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://purl.org/dc/terms/title> "Industrial Organization (subfield page)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <https://schema.org/url> "https://prod.lsa.umich.edu/econ/subfields/industrial-organization.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s2> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (NBER Reporter 2025, No. 4)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s2> <http://purl.org/dc/terms/title> "Program Report: Industrial Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s2> <https://schema.org/url> "https://www.nber.org/reporter/2025number4/program-report-industrial-organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s3> <http://purl.org/dc/terms/publisher> "Cambridge University Press" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s3> <http://purl.org/dc/terms/title> "Structure–Conduct–Performance (ch. 2 of Estimating Market Power and Strategies)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s3> <https://schema.org/url> "https://www.cambridge.org/core/books/estimating-market-power-and-strategies/structureconductperformance/0AFBD6AF79181C94389B4DC55401DF46" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <http://purl.org/dc/terms/title> "The Prize in Economic Sciences 2014" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://schema.org/url> "https://www.kva.se/en/news/ekonomipriset-2014-2/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

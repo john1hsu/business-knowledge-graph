@@ -169,6 +169,26 @@
     ]
   },
   {
+    "id": "kt:industrial-organization",
+    "title": "Industrial Organization",
+    "aliases": [
+      "industrial organisation",
+      "IO economics",
+      "economics of imperfect competition",
+      "industrial economics"
+    ],
+    "type": "Field",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/industrial-organization.md",
+    "created": "2026-10-31",
+    "source_urls": [
+      "https://prod.lsa.umich.edu/econ/subfields/industrial-organization.html",
+      "https://www.nber.org/reporter/2025number4/program-report-industrial-organization",
+      "https://www.cambridge.org/core/books/estimating-market-power-and-strategies/structureconductperformance/0AFBD6AF79181C94389B4DC55401DF46",
+      "https://www.kva.se/en/news/ekonomipriset-2014-2/"
+    ]
+  },
+  {
     "id": "kt:modigliani-miller-theorem",
     "title": "Modigliani-Miller Theorem",
     "aliases": [

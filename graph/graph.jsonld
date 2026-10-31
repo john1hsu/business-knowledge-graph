@@ -1017,6 +1017,88 @@
           "@id": "kt:industrial-organization"
         }
       ]
+    },
+    {
+      "@id": "kt:industrial-organization",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Industrial Organization",
+      "skos:definition": "The branch of economics that studies imperfectly competitive markets: how firms gain and use market power, how market structure and firm behaviour shape each other, and how competition policy and regulation affect market outcomes.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-10-31",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Industrial Organization (subfield page)",
+          "dcterms:publisher": "Department of Economics, University of Michigan",
+          "schema:url": "https://prod.lsa.umich.edu/econ/subfields/industrial-organization.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Program Report: Industrial Organization",
+          "dcterms:publisher": "National Bureau of Economic Research (NBER Reporter 2025, No. 4)",
+          "schema:url": "https://www.nber.org/reporter/2025number4/program-report-industrial-organization",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Structure–Conduct–Performance (ch. 2 of Estimating Market Power and Strategies)",
+          "dcterms:publisher": "Cambridge University Press",
+          "schema:url": "https://www.cambridge.org/core/books/estimating-market-power-and-strategies/structureconductperformance/0AFBD6AF79181C94389B4DC55401DF46",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Prize in Economic Sciences 2014",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences",
+          "schema:url": "https://www.kva.se/en/news/ekonomipriset-2014-2/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/industrial-organization.md",
+      "skos:altLabel": [
+        "industrial organisation",
+        "IO economics",
+        "economics of imperfect competition",
+        "industrial economics"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:microeconomics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:game-theory-in-business"
+        },
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:structure-conduct-performance-paradigm"
+        },
+        {
+          "@id": "kt:new-empirical-industrial-organization"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:edward-s-mason"
+        },
+        {
+          "@id": "kt:joe-s-bain"
+        },
+        {
+          "@id": "kt:jean-tirole"
+        }
+      ]
     }
   ]
 }
