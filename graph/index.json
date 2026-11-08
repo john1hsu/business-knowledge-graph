@@ -146,6 +146,27 @@
     ]
   },
   {
+    "id": "kt:customer-lifetime-value",
+    "title": "Customer Lifetime Value",
+    "aliases": [
+      "CLV",
+      "CLTV",
+      "LTV",
+      "lifetime value",
+      "customer lifetime value analysis"
+    ],
+    "type": "Metric",
+    "domain": "marketing",
+    "file": "articles/marketing/customer-lifetime-value.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://business.columbia.edu/sites/default/files-efs/pubfiles/534/Valuing_Customers--JMR_2003.pdf",
+      "https://studysites.uk.sagepub.com/clow/study/articles/PDFs/03_Gupta.pdf",
+      "https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2020/06/MSI_SR_05-200c.pdf",
+      "https://foster.uw.edu/wp-content/uploads/2016/07/11_Reinartz_Kumar_2002.pdf"
+    ]
+  },
+  {
     "id": "kt:disruptive-innovation",
     "title": "Disruptive Innovation",
     "aliases": [

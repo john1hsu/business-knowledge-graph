@@ -166,6 +166,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/entrenchment-index> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/uk-corporate-governance-code> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2000/01/rdf-schema#label> "Customer Lifetime Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#altLabel> "CLTV" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#altLabel> "CLV" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#altLabel> "LTV" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#altLabel> "customer lifetime value analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#altLabel> "lifetime value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/customer-relationship-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#definition> "The present value of all future profits a firm expects to earn from a customer over the whole relationship, net of the cost of serving and (often) acquiring that customer; summed across current and future customers it gives customer equity." .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#prefLabel> "Customer Lifetime Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/rfm-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/customer-equity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2000/01/rdf-schema#label> "Disruptive Innovation" .
@@ -795,6 +818,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://schema.org/url> "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://purl.org/dc/terms/publisher> "Columbia Business School (Gupta, Lehmann and Stuart)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://purl.org/dc/terms/title> "Valuing Customers (author manuscript, Journal of Marketing Research)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <https://schema.org/url> "https://business.columbia.edu/sites/default/files-efs/pubfiles/534/Valuing_Customers--JMR_2003.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s2> <http://purl.org/dc/terms/publisher> "Journal of Service Research 9(2), SAGE" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s2> <http://purl.org/dc/terms/title> "Modeling Customer Lifetime Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s2> <https://schema.org/url> "https://studysites.uk.sagepub.com/clow/study/articles/PDFs/03_Gupta.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s3> <http://purl.org/dc/terms/publisher> "Marketing Science Institute (Special Report 05-200)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s3> <http://purl.org/dc/terms/title> "Customer Metrics: The Past, the Present, and the Future in Academia and Practice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s3> <https://schema.org/url> "https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2020/06/MSI_SR_05-200c.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review (author copy hosted by UW Foster School of Business)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <http://purl.org/dc/terms/title> "The Mismanagement of Customer Loyalty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <https://schema.org/url> "https://foster.uw.edu/wp-content/uploads/2016/07/11_Reinartz_Kumar_2002.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/publisher> "Harvard DASH (author manuscript of Journal of Management Studies article)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/title> "Disruptive Innovation: An Intellectual History and Directions for Future Research (Journal of Management Studies 55(7), 2018)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

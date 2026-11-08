@@ -13,7 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
-| `kt:customer-lifetime-value` | `kt:freemium`, `kt:segmentation-targeting-positioning` |
+| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
@@ -51,10 +51,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
+| `kt:customer-equity` | `kt:customer-lifetime-value` |
+| `kt:customer-relationship-management` | `kt:customer-lifetime-value` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:federal-acquisition-regulation` |
-| `kt:discounted-cash-flow` | `kt:free-cash-flow` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:dynamic-capabilities` | `kt:ibm-turnaround` |
 | `kt:ebitda` | `kt:free-cash-flow` |
@@ -98,6 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
+| `kt:marketing-metrics` | `kt:customer-lifetime-value` |
 | `kt:marketing-mix` | `kt:segmentation-targeting-positioning` |
 | `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
@@ -128,6 +130,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:revolutionary-far-overhaul` | `kt:federal-acquisition-regulation` |
+| `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
