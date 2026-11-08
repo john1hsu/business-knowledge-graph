@@ -362,6 +362,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2000/01/rdf-schema#label> "IBM Turnaround" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#altLabel> "Gerstner turnaround of IBM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#altLabel> "IBM 1993 turnaround" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#altLabel> "IBM turnaround under Gerstner" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/change-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#definition> "The recovery of IBM after record losses in 1992–1993, led by outside CEO Louis V. Gerstner Jr. (1993–2002), who cut costs, kept the company integrated rather than breaking it up, attacked an insular culture and refocused IBM on services, software and systems integration." .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#prefLabel> "IBM Turnaround" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/louis-v-gerstner> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2000/01/rdf-schema#label> "Industrial Organization" .
@@ -940,6 +963,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <http://purl.org/dc/terms/publisher> "IBM / U.S. Securities and Exchange Commission filing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <http://purl.org/dc/terms/title> "International Business Machines Corp., Form 10-K for fiscal year 1993 (incl. 1993 Annual Report financial section)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <https://schema.org/url> "https://capedge.com/filing/s3-content/0000950112-94-000794/5" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s2> <http://purl.org/dc/terms/title> "International Business Machines Corp., Proxy Statement (Form DEF 14A), 2002" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s2> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0000051143/000100547702001191/d02-36352.txt" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s3> <http://purl.org/dc/terms/publisher> "California Management Review 49(4), 2007" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s3> <http://purl.org/dc/terms/title> "Dynamic Capabilities at IBM: Driving Strategy into Action" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s3> <https://schema.org/url> "https://journals.sagepub.com/doi/10.2307/41166404" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s4> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton, University of Pennsylvania" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s4> <http://purl.org/dc/terms/title> "Lou Gerstner's Turnaround Tales at IBM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s4> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/?p=3398" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <http://purl.org/dc/terms/publisher> "The Boston Globe" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <http://purl.org/dc/terms/title> "Louis V. Gerstner, who revived faltering IBM in the '90s, dies at 83" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <https://schema.org/url> "https://bostonglobe.com/2025/12/29/metro/louis-v-gerstner-who-revived-faltering-ibm-90s-dies-83/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://purl.org/dc/terms/publisher> "Department of Economics, University of Michigan" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://purl.org/dc/terms/title> "Industrial Organization (subfield page)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

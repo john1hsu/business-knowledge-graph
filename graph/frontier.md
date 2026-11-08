@@ -19,6 +19,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
+| `kt:organizational-ambidexterity` | `kt:ibm-turnaround`, `kt:ibm-turnaround` |
+| `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
@@ -37,12 +39,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:change-management` | `kt:ibm-turnaround` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:clayton-christensen` | `kt:disruptive-innovation` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contracting-officer` | `kt:federal-acquisition-regulation` |
 | `kt:corporate-law` | `kt:corporate-governance` |
+| `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
 | `kt:customer-lifetime-value` | `kt:segmentation-targeting-positioning` |
@@ -51,6 +55,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:federal-acquisition-regulation` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
+| `kt:dynamic-capabilities` | `kt:ibm-turnaround` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
@@ -81,8 +86,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:just-in-time` | `kt:kanban` |
 | `kt:kanban-method` | `kt:kanban` |
+| `kt:kodak-decline` | `kt:ibm-turnaround` |
 | `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:littles-law` | `kt:kanban` |
+| `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
@@ -103,7 +110,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:okrs` | `kt:balanced-scorecard` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
-| `kt:organizational-culture` | `kt:psychological-safety` |
 | `kt:organizational-learning` | `kt:psychological-safety` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |

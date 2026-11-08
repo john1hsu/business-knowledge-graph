@@ -316,6 +316,26 @@
     ]
   },
   {
+    "id": "kt:ibm-turnaround",
+    "title": "IBM Turnaround",
+    "aliases": [
+      "IBM turnaround under Gerstner",
+      "Gerstner turnaround of IBM",
+      "IBM 1993 turnaround"
+    ],
+    "type": "Case",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/ibm-turnaround.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://capedge.com/filing/s3-content/0000950112-94-000794/5",
+      "https://www.sec.gov/Archives/edgar/data/0000051143/000100547702001191/d02-36352.txt",
+      "https://journals.sagepub.com/doi/10.2307/41166404",
+      "https://knowledge.wharton.upenn.edu/?p=3398",
+      "https://bostonglobe.com/2025/12/29/metro/louis-v-gerstner-who-revived-faltering-ibm-90s-dies-83/"
+    ]
+  },
+  {
     "id": "kt:industrial-organization",
     "title": "Industrial Organization",
     "aliases": [

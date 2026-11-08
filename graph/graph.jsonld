@@ -835,6 +835,87 @@
       ]
     },
     {
+      "@id": "kt:ibm-turnaround",
+      "@type": "kto:Case",
+      "skos:prefLabel": "IBM Turnaround",
+      "skos:definition": "The recovery of IBM after record losses in 1992–1993, led by outside CEO Louis V. Gerstner Jr. (1993–2002), who cut costs, kept the company integrated rather than breaking it up, attacked an insular culture and refocused IBM on services, software and systems integration.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "International Business Machines Corp., Form 10-K for fiscal year 1993 (incl. 1993 Annual Report financial section)",
+          "dcterms:publisher": "IBM / U.S. Securities and Exchange Commission filing",
+          "schema:url": "https://capedge.com/filing/s3-content/0000950112-94-000794/5",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "International Business Machines Corp., Proxy Statement (Form DEF 14A), 2002",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/0000051143/000100547702001191/d02-36352.txt",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Dynamic Capabilities at IBM: Driving Strategy into Action",
+          "dcterms:publisher": "California Management Review 49(4), 2007",
+          "schema:url": "https://journals.sagepub.com/doi/10.2307/41166404",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Lou Gerstner's Turnaround Tales at IBM",
+          "dcterms:publisher": "Knowledge at Wharton, University of Pennsylvania",
+          "schema:url": "https://knowledge.wharton.upenn.edu/?p=3398",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Louis V. Gerstner, who revived faltering IBM in the '90s, dies at 83",
+          "dcterms:publisher": "The Boston Globe",
+          "schema:url": "https://bostonglobe.com/2025/12/29/metro/louis-v-gerstner-who-revived-faltering-ibm-90s-dies-83/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/ibm-turnaround.md",
+      "skos:altLabel": [
+        "IBM turnaround under Gerstner",
+        "Gerstner turnaround of IBM",
+        "IBM 1993 turnaround"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-turnaround"
+        },
+        {
+          "@id": "kt:change-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organizational-culture"
+        },
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:louis-v-gerstner"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:kodak-decline"
+        }
+      ]
+    },
+    {
       "@id": "kt:two-sided-market",
       "@type": "kto:Concept",
       "skos:prefLabel": "Two-Sided Market",
