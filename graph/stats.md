@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **24**
-- Frontier nodes (referenced, unwritten): **145**
-- Edges: **230**
-- Citations: **132**
+- Articles (nodes written): **25**
+- Frontier nodes (referenced, unwritten): **149**
+- Edges: **243**
+- Citations: **137**
 
 - Weakly connected components: **2**
 - Isolated articles (no edges): **0**
@@ -12,26 +12,26 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:industrial-organization` | 0.0096 | yes |
-| `kt:barriers-to-entry` | 0.0087 | yes |
-| `kt:network-effect` | 0.0084 | yes |
-| `kt:economies-of-scale` | 0.0083 | yes |
-| `kt:agency-costs` | 0.0078 | yes |
-| `kt:financial-accounting` | 0.0075 | no |
-| `kt:switching-costs` | 0.0074 | no |
-| `kt:accrual-accounting` | 0.0072 | yes |
-| `kt:stakeholder-theory` | 0.0072 | yes |
-| `kt:ifrs` | 0.0072 | no |
-| `kt:two-sided-market` | 0.0072 | yes |
-| `kt:ford-model-t` | 0.0070 | yes |
-| `kt:corporate-governance` | 0.0069 | yes |
-| `kt:shareholder-primacy` | 0.0069 | no |
-| `kt:gaap` | 0.0068 | yes |
+| `kt:industrial-organization` | 0.0093 | yes |
+| `kt:barriers-to-entry` | 0.0084 | yes |
+| `kt:agency-costs` | 0.0082 | yes |
+| `kt:network-effect` | 0.0081 | yes |
+| `kt:economies-of-scale` | 0.0080 | yes |
+| `kt:corporate-governance` | 0.0072 | yes |
+| `kt:financial-accounting` | 0.0072 | no |
+| `kt:switching-costs` | 0.0072 | no |
+| `kt:stakeholder-theory` | 0.0071 | yes |
+| `kt:accrual-accounting` | 0.0070 | yes |
+| `kt:ifrs` | 0.0070 | no |
+| `kt:two-sided-market` | 0.0070 | yes |
+| `kt:ford-model-t` | 0.0068 | yes |
+| `kt:free-cash-flow` | 0.0068 | yes |
+| `kt:shareholder-primacy` | 0.0067 | no |
 
 ## Communities (Louvain): 10
 
 1. `kt:aggregation-theory`, `kt:antitrust-law`, `kt:barriers-to-entry`, `kt:carl-shapiro`, `kt:clayton-act`, `kt:competition-policy`, `kt:contestable-markets`, `kt:cost-structure`, `kt:economies-of-scale`, `kt:economies-of-scope`, `kt:edward-s-mason`, `kt:freemium` …
-2. `kt:agency-costs`, `kt:arbitrage`, `kt:capital-structure`, `kt:corporate-finance`, `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958`, `kt:discounted-cash-flow`, `kt:dividend-policy`, `kt:ebitda`, `kt:financial-statement-analysis`, `kt:franco-modigliani`, `kt:free-cash-flow`, `kt:leveraged-buyout` …
+2. `kt:agency-costs`, `kt:arbitrage`, `kt:capital-structure`, `kt:corporate-finance`, `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958`, `kt:discounted-cash-flow`, `kt:dividend-policy`, `kt:ebitda`, `kt:financial-statement-analysis`, `kt:franco-modigliani`, `kt:free-cash-flow`, `kt:high-yield-bonds` …
 3. `kt:board-of-directors`, `kt:business-ethics`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:cadbury-report`, `kt:corporate-governance`, `kt:corporate-law`, `kt:corporate-social-responsibility`, `kt:entrenchment-index`, `kt:esg`, `kt:esg-ratings`, `kt:ifrs-sustainability-disclosure-standards`, `kt:principal-agent-problem` …
 4. `kt:analog-devices`, `kt:balanced-scorecard`, `kt:benchmarking`, `kt:david-p-norton`, `kt:malcolm-baldrige-national-quality-award`, `kt:management-by-objectives`, `kt:management-control-systems`, `kt:okrs`, `kt:operational-effectiveness`, `kt:performance-management`, `kt:robert-c-camp`, `kt:robert-s-kaplan` …
 5. `kt:annual-model-change`, `kt:brand-equity`, `kt:customer-lifetime-value`, `kt:efficiency-wages`, `kt:ford-model-a`, `kt:ford-model-t`, `kt:general-motors`, `kt:henry-ford`, `kt:market-segmentation-1956`, `kt:marketing-mix`, `kt:marketing-strategy`, `kt:mass-marketing` …
@@ -48,7 +48,7 @@
 - Field: 1
 - Framework: 5
 - Metric: 1
-- Practice: 2
+- Practice: 3
 - Regulation: 2
 - Theory: 3
 
@@ -59,7 +59,7 @@
 - business-history-and-cases: 2
 - business-models: 1
 - consulting-and-problem-solving: 1
-- corporate-finance: 1
+- corporate-finance: 2
 - government-contracting-and-public-sector: 1
 - innovation-and-entrepreneurship: 1
 - leadership-and-management: 1

@@ -435,6 +435,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/kanban-method> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2000/01/rdf-schema#label> "Leveraged Buyout" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#altLabel> "LBO" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#altLabel> "buyout" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#altLabel> "leveraged buy-out" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#altLabel> "private equity buyout" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/private-equity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#definition> "The acquisition of a company, usually a mature firm or a corporate division, by a specialized investment firm that funds most of the purchase price with debt secured on the target and a small slice of equity, takes majority control, and aims to sell the business at a gain after several years." .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leveraged Buyout" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/high-yield-bonds> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/rjr-nabisco-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Modigliani-Miller Theorem" .
@@ -1038,6 +1066,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://schema.org/url> "https://www.cio.com/article/286826/agile-development-how-the-kanban-method-changes-software-engineering.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 23(1), 121-146 (author copy, Stockholm School of Economics)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/title> "Leveraged Buyouts and Private Equity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <https://schema.org/url> "https://www.hhs.se/contentassets/662e98040ed14d6c93b1119e5a9796a4/kaplanstrombergjep2009.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s2> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s2> <http://purl.org/dc/terms/title> "Private Equity: Recent Growth in Leveraged Buyouts Exposed Risks That Warrant Continued Attention (GAO-08-885)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s2> <https://schema.org/url> "https://www.gao.gov/assets/a280152.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s3> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics 24(2), 217-254 (CoLab record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s3> <http://purl.org/dc/terms/title> "The effects of management buyouts on operating performance and value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s3> <https://schema.org/url> "https://colab.ws/articles/10.1016%2F0304-405x%2889%2990047-0" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 19458" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s4> <http://purl.org/dc/terms/title> "Private Equity, Jobs, and Productivity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s4> <https://schema.org/url> "https://www.nber.org/papers/w19458" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <http://purl.org/dc/terms/title> "Eclipse of the Public Corporation or Eclipse of the Public Markets?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <https://schema.org/url> "https://corpgov.law.harvard.edu/2018/02/21/eclipse-of-the-public-corporation-or-eclipse-of-the-public-markets/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

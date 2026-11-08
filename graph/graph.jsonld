@@ -1100,6 +1100,106 @@
       ]
     },
     {
+      "@id": "kt:leveraged-buyout",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Leveraged Buyout",
+      "skos:definition": "The acquisition of a company, usually a mature firm or a corporate division, by a specialized investment firm that funds most of the purchase price with debt secured on the target and a small slice of equity, takes majority control, and aims to sell the business at a gain after several years.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Leveraged Buyouts and Private Equity",
+          "dcterms:publisher": "Journal of Economic Perspectives 23(1), 121-146 (author copy, Stockholm School of Economics)",
+          "schema:url": "https://www.hhs.se/contentassets/662e98040ed14d6c93b1119e5a9796a4/kaplanstrombergjep2009.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Private Equity: Recent Growth in Leveraged Buyouts Exposed Risks That Warrant Continued Attention (GAO-08-885)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/assets/a280152.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The effects of management buyouts on operating performance and value",
+          "dcterms:publisher": "Journal of Financial Economics 24(2), 217-254 (CoLab record)",
+          "schema:url": "https://colab.ws/articles/10.1016%2F0304-405x%2889%2990047-0",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Private Equity, Jobs, and Productivity",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 19458",
+          "schema:url": "https://www.nber.org/papers/w19458",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Eclipse of the Public Corporation or Eclipse of the Public Markets?",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance",
+          "schema:url": "https://corpgov.law.harvard.edu/2018/02/21/eclipse-of-the-public-corporation-or-eclipse-of-the-public-markets/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/leveraged-buyout.md",
+      "skos:altLabel": [
+        "LBO",
+        "leveraged buy-out",
+        "buyout",
+        "private equity buyout"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:mergers-and-acquisitions"
+        },
+        {
+          "@id": "kt:private-equity"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:capital-structure"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:high-yield-bonds"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:michael-c-jensen"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:rjr-nabisco-buyout"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:venture-capital"
+        }
+      ]
+    },
+    {
       "@id": "kt:modigliani-miller-theorem",
       "@type": "kto:Theory",
       "skos:prefLabel": "Modigliani-Miller Theorem",

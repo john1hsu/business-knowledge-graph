@@ -377,6 +377,27 @@
     ]
   },
   {
+    "id": "kt:leveraged-buyout",
+    "title": "Leveraged Buyout",
+    "aliases": [
+      "LBO",
+      "leveraged buy-out",
+      "buyout",
+      "private equity buyout"
+    ],
+    "type": "Practice",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/leveraged-buyout.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://www.hhs.se/contentassets/662e98040ed14d6c93b1119e5a9796a4/kaplanstrombergjep2009.pdf",
+      "https://www.gao.gov/assets/a280152.html",
+      "https://colab.ws/articles/10.1016%2F0304-405x%2889%2990047-0",
+      "https://www.nber.org/papers/w19458",
+      "https://corpgov.law.harvard.edu/2018/02/21/eclipse-of-the-public-corporation-or-eclipse-of-the-public-markets/"
+    ]
+  },
+  {
     "id": "kt:modigliani-miller-theorem",
     "title": "Modigliani-Miller Theorem",
     "aliases": [

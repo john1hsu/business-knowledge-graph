@@ -4,20 +4,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
+| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
-| `kt:leveraged-buyout` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:modigliani-miller-theorem` |
+| `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
-| `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
-| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:modigliani-miller-theorem` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
-| `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-ambidexterity` | `kt:ibm-turnaround`, `kt:ibm-turnaround` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
@@ -76,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:groupthink` | `kt:psychological-safety` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:high-performance-teams` | `kt:psychological-safety` |
+| `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:indefinite-delivery-indefinite-quantity` | `kt:federal-acquisition-regulation` |
@@ -100,6 +100,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:material-requirements-planning` | `kt:kanban` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
+| `kt:mergers-and-acquisitions` | `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:microeconomics` | `kt:industrial-organization` |
@@ -117,12 +118,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
+| `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-procurement` | `kt:federal-acquisition-regulation` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:razor-and-blades-model` | `kt:two-sided-market` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:revolutionary-far-overhaul` | `kt:federal-acquisition-regulation` |
+| `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
@@ -144,6 +147,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
+| `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:weighted-average-cost-of-capital` | `kt:modigliani-miller-theorem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
