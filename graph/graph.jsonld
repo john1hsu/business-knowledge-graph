@@ -1189,6 +1189,88 @@
       ]
     },
     {
+      "@id": "kt:mece-principle",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "MECE Principle",
+      "skos:definition": "A grouping rule from management consulting requiring that the parts of any breakdown do not overlap (mutually exclusive) and together cover the whole (collectively exhaustive), used to structure problems, analyses and arguments without double-counting or gaps.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Barbara Minto: 'MECE: I invented it, so I get to say how to pronounce it'",
+          "dcterms:publisher": "McKinsey & Company (Alumni News)",
+          "schema:url": "https://www.mckinsey.com/alumni/news-and-insights/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Implementation Insights: Using Issue Trees",
+          "dcterms:publisher": "UK Government (GOV.UK)",
+          "schema:url": "https://assets.publishing.service.gov.uk/media/5a816cd1e5274a2e8ab53eb1/Issue_Trees.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "3.2 Independent and Mutually Exclusive Events (Introductory Business Statistics 2e)",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/introductory-business-statistics-2e/pages/3-2-independent-and-mutually-exclusive-events",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Concept analysis of patient journey disruptions: the obstacle of integrated care",
+          "dcterms:publisher": "Journal of Integrated Care (Emerald)",
+          "schema:url": "https://www.emerald.com/jica/article/32/5/37/1222928/Concept-analysis-of-patient-journey-disruptions",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How to master the seven-step problem-solving process",
+          "dcterms:publisher": "McKinsey & Company (The McKinsey Podcast)",
+          "schema:url": "https://www.mckinsey.com/capabilities/operations/our-insights/how-to-master-the-seven-step-problem-solving-process",
+          "kto:sourceType": "consultancy"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/mece-principle.md",
+      "skos:altLabel": [
+        "MECE",
+        "mutually exclusive collectively exhaustive",
+        "mutually exclusive and collectively exhaustive"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:barbara-minto"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:pyramid-principle"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:aristotle"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:mutually-exclusive-events"
+        }
+      ]
+    },
+    {
       "@id": "kt:leveraged-buyout",
       "@type": "kto:Practice",
       "skos:prefLabel": "Leveraged Buyout",

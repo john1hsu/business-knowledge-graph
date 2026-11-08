@@ -32,6 +32,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
+| `kt:aristotle` | `kt:mece-principle` |
+| `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:best-value-tradeoff` | `kt:federal-acquisition-regulation` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
@@ -80,11 +82,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:high-performance-teams` | `kt:psychological-safety` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
+| `kt:hypothesis-driven-problem-solving` | `kt:mece-principle` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:indefinite-delivery-indefinite-quantity` | `kt:federal-acquisition-regulation` |
 | `kt:innovation-management` | `kt:disruptive-innovation` |
 | `kt:innovators-dilemma` | `kt:disruptive-innovation` |
+| `kt:issue-tree` | `kt:mece-principle` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
@@ -110,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:microeconomics` | `kt:industrial-organization` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
+| `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
@@ -127,6 +132,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-procurement` | `kt:federal-acquisition-regulation` |
+| `kt:pyramid-principle` | `kt:mece-principle` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:revolutionary-far-overhaul` | `kt:federal-acquisition-regulation` |
@@ -144,6 +150,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
+| `kt:structured-problem-solving` | `kt:mece-principle` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |

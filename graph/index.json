@@ -441,6 +441,26 @@
     ]
   },
   {
+    "id": "kt:mece-principle",
+    "title": "MECE Principle",
+    "aliases": [
+      "MECE",
+      "mutually exclusive collectively exhaustive",
+      "mutually exclusive and collectively exhaustive"
+    ],
+    "type": "Framework",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/mece-principle.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://www.mckinsey.com/alumni/news-and-insights/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it",
+      "https://assets.publishing.service.gov.uk/media/5a816cd1e5274a2e8ab53eb1/Issue_Trees.pdf",
+      "https://openstax.org/books/introductory-business-statistics-2e/pages/3-2-independent-and-mutually-exclusive-events",
+      "https://www.emerald.com/jica/article/32/5/37/1222928/Concept-analysis-of-patient-journey-disruptions",
+      "https://www.mckinsey.com/capabilities/operations/our-insights/how-to-master-the-seven-step-problem-solving-process"
+    ]
+  },
+  {
     "id": "kt:modigliani-miller-theorem",
     "title": "Modigliani-Miller Theorem",
     "aliases": [
