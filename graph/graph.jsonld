@@ -1823,6 +1823,96 @@
       ]
     },
     {
+      "@id": "kt:psychological-safety",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Psychological Safety",
+      "skos:definition": "A shared belief among members of a team that it is safe to take interpersonal risks such as asking questions, admitting mistakes or disagreeing; formalised for work teams by Amy Edmondson in 1999 and linked to team learning behavior and performance.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Psychological Safety and Learning Behavior in Work Teams",
+          "dcterms:publisher": "Administrative Science Quarterly 44(2), 1999 (copy hosted by MIT)",
+          "schema:url": "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Psychological Safety: A Meta-Analytic Review and Extension",
+          "dcterms:publisher": "Personnel Psychology 70(1), 2017 (open-access copy via CORE)",
+          "schema:url": "https://core.ac.uk/download/217291252.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Guide: Understand team effectiveness",
+          "dcterms:publisher": "Google re:Work",
+          "schema:url": "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "What People Get Wrong About Psychological Safety",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/what-people-get-wrong-about-psychological-safety/R2503D",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Debunking misconceptions about workplace psychological safety",
+          "dcterms:publisher": "Harvard T.H. Chan School of Public Health",
+          "schema:url": "https://hsph.harvard.edu/news/debunking-misconceptions-about-workplace-psychological-safety/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/psychological-safety.md",
+      "skos:altLabel": [
+        "team psychological safety",
+        "psychologically safe workplace",
+        "interpersonal risk taking climate"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:team-learning"
+        },
+        {
+          "@id": "kt:organizational-culture"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:high-performance-teams"
+        },
+        {
+          "@id": "kt:employee-voice"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:amy-edmondson"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:psychological-safety-and-learning-behavior-in-work-teams"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:edgar-schein"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:groupthink"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:google-project-aristotle"
+        }
+      ]
+    },
+    {
       "@id": "kt:barriers-to-entry",
       "@type": "kto:Concept",
       "skos:prefLabel": "Barriers to Entry",

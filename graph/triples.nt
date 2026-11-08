@@ -441,6 +441,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/network-externalities-competition-and-compatibility-1985> .
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2000/01/rdf-schema#label> "Psychological Safety" .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "interpersonal risk taking climate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "psychologically safe workplace" .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#altLabel> "team psychological safety" .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/team-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#definition> "A shared belief among members of a team that it is safe to take interpersonal risks such as asking questions, admitting mistakes or disagreeing; formalised for work teams by Amy Edmondson in 1999 and linked to team learning behavior and performance." .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#prefLabel> "Psychological Safety" .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/employee-voice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/edgar-schein> .
+<https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety-and-learning-behavior-in-work-teams> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/2000/01/rdf-schema#label> "Segmentation, Targeting and Positioning" .
@@ -962,6 +986,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://schema.org/url> "https://www.justice.gov/atr/file/518696/download" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 44(2), 1999 (copy hosted by MIT)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <https://schema.org/url> "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s2> <http://purl.org/dc/terms/publisher> "Personnel Psychology 70(1), 2017 (open-access copy via CORE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s2> <http://purl.org/dc/terms/title> "Psychological Safety: A Meta-Analytic Review and Extension" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s2> <https://schema.org/url> "https://core.ac.uk/download/217291252.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s3> <http://purl.org/dc/terms/publisher> "Google re:Work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s3> <http://purl.org/dc/terms/title> "Guide: Understand team effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s3> <https://schema.org/url> "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s4> <http://purl.org/dc/terms/title> "What People Get Wrong About Psychological Safety" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s4> <https://schema.org/url> "https://store.hbr.org/product/what-people-get-wrong-about-psychological-safety/R2503D" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <http://purl.org/dc/terms/publisher> "Harvard T.H. Chan School of Public Health" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <http://purl.org/dc/terms/title> "Debunking misconceptions about workplace psychological safety" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <https://schema.org/url> "https://hsph.harvard.edu/news/debunking-misconceptions-about-workplace-psychological-safety/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/publisher> "The Wharton School, University of Pennsylvania (faculty paper)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/title> "Market segmentation (Chapter 11, The Marketing Book)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

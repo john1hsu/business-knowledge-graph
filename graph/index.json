@@ -380,6 +380,26 @@
     ]
   },
   {
+    "id": "kt:psychological-safety",
+    "title": "Psychological Safety",
+    "aliases": [
+      "team psychological safety",
+      "psychologically safe workplace",
+      "interpersonal risk taking climate"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/psychological-safety.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf",
+      "https://core.ac.uk/download/217291252.pdf",
+      "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness",
+      "https://store.hbr.org/product/what-people-get-wrong-about-psychological-safety/R2503D",
+      "https://hsph.harvard.edu/news/debunking-misconceptions-about-workplace-psychological-safety/"
+    ]
+  },
+  {
     "id": "kt:segmentation-targeting-positioning",
     "title": "Segmentation, Targeting and Positioning",
     "aliases": [
