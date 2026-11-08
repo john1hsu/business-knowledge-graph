@@ -141,6 +141,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-c-camp> .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/xerox> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2000/01/rdf-schema#label> "Best-Value Tradeoff" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#altLabel> "best-value tradeoff process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#altLabel> "trade-off source selection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#altLabel> "tradeoff approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#altLabel> "tradeoff source selection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#definition> "A US federal source-selection method in which the government may award a negotiated contract to an offeror other than the lowest-priced or highest-rated one, weighing price against stated non-price factors and documenting why any extra benefit is worth the extra cost." .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#prefLabel> "Best-Value Tradeoff" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/revolutionary-far-overhaul> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/highest-technically-rated-fair-and-reasonable-price> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Governance" .
@@ -863,6 +887,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <https://schema.org/url> "https://hbr.org/1996/11/what-is-strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <http://purl.org/dc/terms/title> "Subpart 15.1 - Source Selection Processes and Techniques (15.101 Best value continuum; 15.101-1 Tradeoff process; 15.101-2 LPTA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <https://schema.org/url> "https://www.acquisition.gov/far/subpart-15.1" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s2> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s2> <http://purl.org/dc/terms/title> "FAR Overhaul - Part 15 (FAR Part Deviation Guidance, model text)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s2> <https://schema.org/url> "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s3> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s3> <http://purl.org/dc/terms/title> "Defense Contracting: Factors DOD Considers When Choosing Best Value Processes Are Consistent with Guidance for Selected Acquisitions (GAO-14-584)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s3> <https://schema.org/url> "https://www.gao.gov/products/GAO-14-584" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s4> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s4> <http://purl.org/dc/terms/title> "DRS Technical Services, Inc., B-412070 (bid protest decision)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s4> <https://schema.org/url> "https://www.gao.gov/products/b-412070" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <http://purl.org/dc/terms/publisher> "Defense Pricing, Contracting, and Acquisition Policy, U.S. Department of Defense (via Acquisition.gov)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <http://purl.org/dc/terms/title> "Class Deviation 2026-O0048: Revolutionary FAR Overhaul Part 15, DFARS Part 215" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <https://schema.org/url> "https://login.acquisition.gov/sites/default/files/page_file_uploads/DoD_RFO_Deviation_Part-15.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/publisher> "OECD Legal Instruments" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/title> "Recommendation of the Council on Principles of Corporate Governance (G20/OECD Principles of Corporate Governance)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

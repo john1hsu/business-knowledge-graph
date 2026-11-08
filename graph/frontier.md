@@ -5,17 +5,18 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
+| `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
 | `kt:innovators-dilemma` | `kt:disruptive-innovation`, `kt:organizational-ambidexterity`, `kt:organizational-ambidexterity` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
+| `kt:public-procurement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
-| `kt:best-value-tradeoff` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:contracting-officer` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
+| `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:dynamic-capabilities` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
@@ -30,9 +31,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
-| `kt:public-procurement` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
+| `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
@@ -65,7 +66,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
-| `kt:defense-federal-acquisition-regulation-supplement` | `kt:federal-acquisition-regulation` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
@@ -91,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:high-performance-teams` | `kt:psychological-safety` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
+| `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
 | `kt:hypothesis-driven-problem-solving` | `kt:mece-principle` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
@@ -103,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:littles-law` | `kt:kanban` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
+| `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
@@ -140,7 +142,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
-| `kt:revolutionary-far-overhaul` | `kt:federal-acquisition-regulation` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
 | `kt:robert-c-camp` | `kt:benchmarking` |

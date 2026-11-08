@@ -126,6 +126,27 @@
     ]
   },
   {
+    "id": "kt:best-value-tradeoff",
+    "title": "Best-Value Tradeoff",
+    "aliases": [
+      "tradeoff source selection",
+      "best-value tradeoff process",
+      "tradeoff approach",
+      "trade-off source selection"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/best-value-tradeoff.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://www.acquisition.gov/far/subpart-15.1",
+      "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-15",
+      "https://www.gao.gov/products/GAO-14-584",
+      "https://www.gao.gov/products/b-412070",
+      "https://login.acquisition.gov/sites/default/files/page_file_uploads/DoD_RFO_Deviation_Part-15.pdf"
+    ]
+  },
+  {
     "id": "kt:corporate-governance",
     "title": "Corporate Governance",
     "aliases": [

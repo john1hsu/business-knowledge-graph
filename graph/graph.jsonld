@@ -1469,6 +1469,88 @@
       ]
     },
     {
+      "@id": "kt:best-value-tradeoff",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Best-Value Tradeoff",
+      "skos:definition": "A US federal source-selection method in which the government may award a negotiated contract to an offeror other than the lowest-priced or highest-rated one, weighing price against stated non-price factors and documenting why any extra benefit is worth the extra cost.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Subpart 15.1 - Source Selection Processes and Techniques (15.101 Best value continuum; 15.101-1 Tradeoff process; 15.101-2 LPTA)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/far/subpart-15.1",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FAR Overhaul - Part 15 (FAR Part Deviation Guidance, model text)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-15",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Contracting: Factors DOD Considers When Choosing Best Value Processes Are Consistent with Guidance for Selected Acquisitions (GAO-14-584)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/GAO-14-584",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "DRS Technical Services, Inc., B-412070 (bid protest decision)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/b-412070",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Class Deviation 2026-O0048: Revolutionary FAR Overhaul Part 15, DFARS Part 215",
+          "dcterms:publisher": "Defense Pricing, Contracting, and Acquisition Policy, U.S. Department of Defense (via Acquisition.gov)",
+          "schema:url": "https://login.acquisition.gov/sites/default/files/page_file_uploads/DoD_RFO_Deviation_Part-15.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/best-value-tradeoff.md",
+      "skos:altLabel": [
+        "tradeoff source selection",
+        "best-value tradeoff process",
+        "tradeoff approach",
+        "trade-off source selection"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:indefinite-delivery-indefinite-quantity"
+        },
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        },
+        {
+          "@id": "kt:defense-federal-acquisition-regulation-supplement"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:lowest-price-technically-acceptable"
+        },
+        {
+          "@id": "kt:highest-technically-rated-fair-and-reasonable-price"
+        }
+      ]
+    },
+    {
       "@id": "kt:federal-acquisition-regulation",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Federal Acquisition Regulation",
