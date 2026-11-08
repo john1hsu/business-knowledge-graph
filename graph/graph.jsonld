@@ -916,6 +916,95 @@
       ]
     },
     {
+      "@id": "kt:freemium",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Freemium",
+      "skos:definition": "A business model in which a firm gives a basic version of a product away at no charge to build a large user base and earns revenue by selling a premium version, upgrades or add-ons to a small share of those users.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Freemium (Research Starters)",
+          "dcterms:publisher": "EBSCO",
+          "schema:url": "https://www.ebsco.com/research-starters/business-and-management/freemium",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Selecting and Optimizing the Freemium Sales Model",
+          "dcterms:publisher": "American Marketing Association (Impact at JMR; Kannan, Gu and Li)",
+          "schema:url": "https://www.ama.org/marketing-news/selecting-and-optimizing-the-freemium-sales-model/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Winning the Freemium-to-Premium Product Wars (summary of Gu, Kannan and Ma, Journal of Marketing, 2018)",
+          "dcterms:publisher": "American Marketing Association",
+          "schema:url": "https://www.ama.org/2018/12/06/winning-the-freemium-to-premium-product-wars/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Fee or Free: When Should Firms Charge for Online Content?",
+          "dcterms:publisher": "Management Science 63(4), 2017 (IDEAS/RePEc record)",
+          "schema:url": "https://ideas.repec.org/a/inm/ormnsc/v63y2017i4p1150-1165.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Price Promotions in 'Freemium' Settings",
+          "dcterms:publisher": "Stanford Graduate School of Business (Working Paper No. 3769)",
+          "schema:url": "https://www.gsb.stanford.edu/index%2ephp/node/475441",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Getting You to Pay in a Freemium World",
+          "dcterms:publisher": "Robert H. Smith School of Business, University of Maryland",
+          "schema:url": "https://www.rhsmith.umd.edu/research/getting-you-pay-freemium-world",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-models/freemium.md",
+      "skos:altLabel": [
+        "freemium model",
+        "freemium pricing",
+        "free-to-premium model",
+        "free plus premium"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:pricing-strategy"
+        },
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:fred-wilson"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:free-trial"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:razor-and-blades-model"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:spotify"
+        }
+      ]
+    },
+    {
       "@id": "kt:two-sided-market",
       "@type": "kto:Concept",
       "skos:prefLabel": "Two-Sided Market",

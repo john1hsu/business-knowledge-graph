@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
+| `kt:customer-lifetime-value` | `kt:freemium`, `kt:segmentation-targeting-positioning` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
@@ -22,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
@@ -34,6 +36,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
+| `kt:business-model` | `kt:freemium` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:carl-shapiro` | `kt:network-effect` |
@@ -48,7 +51,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
-| `kt:customer-lifetime-value` | `kt:segmentation-targeting-positioning` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:federal-acquisition-regulation` |
@@ -67,7 +69,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
-| `kt:freemium` | `kt:two-sided-market` |
+| `kt:fred-wilson` | `kt:freemium` |
+| `kt:free-trial` | `kt:freemium` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:general-motors` | `kt:segmentation-targeting-positioning` |
 | `kt:google-project-aristotle` | `kt:psychological-safety` |
@@ -118,11 +121,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
+| `kt:pricing-strategy` | `kt:freemium` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-procurement` | `kt:federal-acquisition-regulation` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
-| `kt:razor-and-blades-model` | `kt:two-sided-market` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:revolutionary-far-overhaul` | `kt:federal-acquisition-regulation` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
@@ -132,6 +135,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scientific-management` | `kt:ford-model-t` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation` |
+| `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |

@@ -294,6 +294,28 @@
     ]
   },
   {
+    "id": "kt:freemium",
+    "title": "Freemium",
+    "aliases": [
+      "freemium model",
+      "freemium pricing",
+      "free-to-premium model",
+      "free plus premium"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/freemium.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://www.ebsco.com/research-starters/business-and-management/freemium",
+      "https://www.ama.org/marketing-news/selecting-and-optimizing-the-freemium-sales-model/",
+      "https://www.ama.org/2018/12/06/winning-the-freemium-to-premium-product-wars/",
+      "https://ideas.repec.org/a/inm/ormnsc/v63y2017i4p1150-1165.html",
+      "https://www.gsb.stanford.edu/index%2ephp/node/475441",
+      "https://www.rhsmith.umd.edu/research/getting-you-pay-freemium-world"
+    ]
+  },
+  {
     "id": "kt:gaap",
     "title": "US GAAP",
     "aliases": [
