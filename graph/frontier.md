@@ -6,17 +6,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
+| `kt:leveraged-buyout` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
+| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:modigliani-miller-theorem` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
-| `kt:free-cash-flow` | `kt:accrual-accounting`, `kt:agency-costs` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
-| `kt:leveraged-buyout` | `kt:agency-costs`, `kt:modigliani-miller-theorem` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
+| `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs` |
+| `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
@@ -40,7 +42,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contracting-officer` | `kt:federal-acquisition-regulation` |
-| `kt:corporate-finance` | `kt:modigliani-miller-theorem` |
 | `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
@@ -48,7 +49,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:federal-acquisition-regulation` |
+| `kt:discounted-cash-flow` | `kt:free-cash-flow` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
+| `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
@@ -57,6 +60,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
+| `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
 | `kt:freemium` | `kt:two-sided-market` |
@@ -90,14 +94,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:material-requirements-planning` | `kt:kanban` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
-| `kt:michael-c-jensen` | `kt:agency-costs` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:microeconomics` | `kt:industrial-organization` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
-| `kt:non-gaap-financial-measures` | `kt:gaap` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:okrs` | `kt:balanced-scorecard` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
@@ -121,6 +123,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scientific-management` | `kt:ford-model-t` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation` |
+| `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |

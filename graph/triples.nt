@@ -313,6 +313,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/efficiency-wages> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-a> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2000/01/rdf-schema#label> "Free Cash Flow" .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "FCF" .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "FCFF" .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "free cash flow to the firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-statement-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#definition> "A cash-based performance and liquidity measure, usually computed as cash flow from operating activities minus capital expenditures, that shows how much cash a business generates after funding the investment needed to sustain and grow its operations." .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#prefLabel> "Free Cash Flow" .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/ebitda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/statement-of-cash-flows> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <http://www.w3.org/2000/01/rdf-schema#label> "US GAAP" .
@@ -861,6 +885,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://schema.org/url> "https://americanhistory.si.edu/collections/object/nmah_739493" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 5.6: Operating Cash Flow and Free Cash Flow to the Firm (FCFF)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/5-6-operating-cash-flow-and-free-cash-flow-to-the-firm-fcff" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s2> <http://purl.org/dc/terms/publisher> "American Economic Review (via SSRN)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s2> <http://purl.org/dc/terms/title> "Agency Cost of Free Cash Flow, Corporate Finance, and Takeovers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s2> <https://schema.org/url> "https://papers.ssrn.com/abstract=99580" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s3> <http://purl.org/dc/terms/publisher> "Journal of Finance (via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s3> <http://purl.org/dc/terms/title> "Free Cash Flow and Stockholder Gains in Going Private Transactions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s3> <https://schema.org/url> "https://ideas.repec.org/a/bla/jfinan/v44y1989i3p771-787.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s4> <http://purl.org/dc/terms/title> "Amazon.com, Inc. Form 10-K for the fiscal year ended December 31, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s4> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s5> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s5> <http://purl.org/dc/terms/title> "CDW Corporation response to SEC staff comment letter on Form 10-K for fiscal 2022 (CORRESP)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s5> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1402057/000140205723000123/filename1.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Accounting, Volume 1)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <http://purl.org/dc/terms/title> "3.1 Describe Principles, Assumptions, and Concepts of Accounting and Their Relationship to Financial Statements" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -178,6 +178,94 @@
       ]
     },
     {
+      "@id": "kt:free-cash-flow",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Free Cash Flow",
+      "skos:definition": "A cash-based performance and liquidity measure, usually computed as cash flow from operating activities minus capital expenditures, that shows how much cash a business generates after funding the investment needed to sustain and grow its operations.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 5.6: Operating Cash Flow and Free Cash Flow to the Firm (FCFF)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/5-6-operating-cash-flow-and-free-cash-flow-to-the-firm-fcff",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Agency Cost of Free Cash Flow, Corporate Finance, and Takeovers",
+          "dcterms:publisher": "American Economic Review (via SSRN)",
+          "schema:url": "https://papers.ssrn.com/abstract=99580",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Free Cash Flow and Stockholder Gains in Going Private Transactions",
+          "dcterms:publisher": "Journal of Finance (via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/jfinan/v44y1989i3p771-787.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Amazon.com, Inc. Form 10-K for the fiscal year ended December 31, 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "CDW Corporation response to SEC staff comment letter on Form 10-K for fiscal 2022 (CORRESP)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1402057/000140205723000123/filename1.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/free-cash-flow.md",
+      "skos:altLabel": [
+        "FCF",
+        "free cash flow to the firm",
+        "FCFF"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-statement-analysis"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:discounted-cash-flow"
+        },
+        {
+          "@id": "kt:leveraged-buyout"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:statement-of-cash-flows"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:non-gaap-financial-measures"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:ebitda"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:michael-c-jensen"
+        }
+      ]
+    },
+    {
       "@id": "kt:gaap",
       "@type": "kto:Framework",
       "skos:prefLabel": "US GAAP",
