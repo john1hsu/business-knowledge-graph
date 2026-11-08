@@ -585,6 +585,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/network-externalities-competition-and-compatibility-1985> .
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://purl.org/dc/terms/created> "2026-11-08" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2000/01/rdf-schema#label> "Organizational Ambidexterity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#altLabel> "ambidextrous leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#altLabel> "ambidextrous organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#altLabel> "contextual ambidexterity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#altLabel> "structural ambidexterity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#definition> "An organization's capacity to exploit its existing businesses efficiently while simultaneously exploring new technologies and markets, achieved either by separating exploratory and exploitative units under a shared senior team (structural ambidexterity) or by a context that lets individuals split their time between alignment and adaptation (contextual ambidexterity)." .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizational Ambidexterity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/charles-a-oreilly> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-l-tushman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/exploration-and-exploitation-in-organizational-learning-1991> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2000/01/rdf-schema#label> "Psychological Safety" .
@@ -1280,6 +1308,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://schema.org/url> "https://www.justice.gov/atr/file/518696/download" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://purl.org/dc/terms/publisher> "Organization Science (RePEc/IDEAS record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://purl.org/dc/terms/title> "Exploration and Exploitation in Organizational Learning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <https://schema.org/url> "https://ideas.repec.org/a/inm/ororsc/v2y1991i1p71-87.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s2> <http://purl.org/dc/terms/title> "The Ambidextrous Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s2> <https://schema.org/url> "https://hbr.org/2004/04/the-ambidextrous-organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s3> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business, Research Paper No. 2130 (EconPapers record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s3> <http://purl.org/dc/terms/title> "Organizational Ambidexterity: Past, Present and Future" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s3> <https://schema.org/url> "https://econpapers.repec.org/paper/eclstabus/2130.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s4> <http://purl.org/dc/terms/publisher> "Center for Effective Organizations, USC Marshall School of Business (CEO Publication T 02-6)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s4> <http://purl.org/dc/terms/title> "Contextual Determinants of Organizational Ambidexterity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s4> <https://schema.org/url> "https://ceo.usc.edu/wp-content/uploads/2002/02/2002_06-t02_6-Contextual_Determinants_of_Org_Ambidexterity.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s5> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s5> <http://purl.org/dc/terms/title> "Building Ambidexterity Into an Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s5> <https://schema.org/url> "https://shop.sloanreview.mit.edu/building-ambidexterity-into-an-organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s6> <http://purl.org/dc/terms/publisher> "Journal of Management (University of St. Gallen repository record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s6> <http://purl.org/dc/terms/title> "Organizational Ambidexterity: Antecedents, Outcomes, and Moderators" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s6> <https://schema.org/url> "https://www.alexandria.unisg.ch/id/eprint/47186" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business, Insights" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <http://purl.org/dc/terms/title> "The Secrets to Corporate Longevity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <https://schema.org/url> "https://www.gsb.stanford.edu/insights/secrets-corporate-longevity" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 44(2), 1999 (copy hosted by MIT)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

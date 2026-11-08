@@ -8,19 +8,23 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
+| `kt:innovators-dilemma` | `kt:disruptive-innovation`, `kt:organizational-ambidexterity`, `kt:organizational-ambidexterity` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
+| `kt:dynamic-capabilities` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:innovation-management` | `kt:disruptive-innovation`, `kt:organizational-ambidexterity` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
+| `kt:kodak-decline` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
-| `kt:organizational-ambidexterity` | `kt:ibm-turnaround`, `kt:ibm-turnaround` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
+| `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
@@ -44,6 +48,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:change-management` | `kt:ibm-turnaround` |
+| `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:clayton-christensen` | `kt:disruptive-innovation` |
 | `kt:competition-policy` | `kt:antitrust-law` |
@@ -59,7 +64,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:federal-acquisition-regulation` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
-| `kt:dynamic-capabilities` | `kt:ibm-turnaround` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
@@ -68,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
+| `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
@@ -86,15 +91,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:indefinite-delivery-indefinite-quantity` | `kt:federal-acquisition-regulation` |
-| `kt:innovation-management` | `kt:disruptive-innovation` |
-| `kt:innovators-dilemma` | `kt:disruptive-innovation` |
 | `kt:issue-tree` | `kt:mece-principle` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:just-in-time` | `kt:kanban` |
 | `kt:kanban-method` | `kt:kanban` |
-| `kt:kodak-decline` | `kt:ibm-turnaround` |
 | `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:littles-law` | `kt:kanban` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
@@ -112,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mergers-and-acquisitions` | `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-l-katz` | `kt:network-effect` |
+| `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:microeconomics` | `kt:industrial-organization` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
@@ -121,7 +124,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:okrs` | `kt:balanced-scorecard` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
-| `kt:organizational-learning` | `kt:psychological-safety` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:platform-business-model` | `kt:two-sided-market` |

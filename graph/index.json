@@ -504,6 +504,29 @@
     ]
   },
   {
+    "id": "kt:organizational-ambidexterity",
+    "title": "Organizational Ambidexterity",
+    "aliases": [
+      "ambidextrous organization",
+      "structural ambidexterity",
+      "contextual ambidexterity",
+      "ambidextrous leadership"
+    ],
+    "type": "Concept",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/organizational-ambidexterity.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://ideas.repec.org/a/inm/ororsc/v2y1991i1p71-87.html",
+      "https://hbr.org/2004/04/the-ambidextrous-organization",
+      "https://econpapers.repec.org/paper/eclstabus/2130.htm",
+      "https://ceo.usc.edu/wp-content/uploads/2002/02/2002_06-t02_6-Contextual_Determinants_of_Org_Ambidexterity.pdf",
+      "https://shop.sloanreview.mit.edu/building-ambidexterity-into-an-organization",
+      "https://www.alexandria.unisg.ch/id/eprint/47186",
+      "https://www.gsb.stanford.edu/insights/secrets-corporate-longevity"
+    ]
+  },
+  {
     "id": "kt:psychological-safety",
     "title": "Psychological Safety",
     "aliases": [

@@ -1648,6 +1648,110 @@
       ]
     },
     {
+      "@id": "kt:organizational-ambidexterity",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Organizational Ambidexterity",
+      "skos:definition": "An organization's capacity to exploit its existing businesses efficiently while simultaneously exploring new technologies and markets, achieved either by separating exploratory and exploitative units under a shared senior team (structural ambidexterity) or by a context that lets individuals split their time between alignment and adaptation (contextual ambidexterity).",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Exploration and Exploitation in Organizational Learning",
+          "dcterms:publisher": "Organization Science (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/inm/ororsc/v2y1991i1p71-87.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Ambidextrous Organization",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://hbr.org/2004/04/the-ambidextrous-organization",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Organizational Ambidexterity: Past, Present and Future",
+          "dcterms:publisher": "Stanford Graduate School of Business, Research Paper No. 2130 (EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/paper/eclstabus/2130.htm",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Contextual Determinants of Organizational Ambidexterity",
+          "dcterms:publisher": "Center for Effective Organizations, USC Marshall School of Business (CEO Publication T 02-6)",
+          "schema:url": "https://ceo.usc.edu/wp-content/uploads/2002/02/2002_06-t02_6-Contextual_Determinants_of_Org_Ambidexterity.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Building Ambidexterity Into an Organization",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://shop.sloanreview.mit.edu/building-ambidexterity-into-an-organization",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Organizational Ambidexterity: Antecedents, Outcomes, and Moderators",
+          "dcterms:publisher": "Journal of Management (University of St. Gallen repository record)",
+          "schema:url": "https://www.alexandria.unisg.ch/id/eprint/47186",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Secrets to Corporate Longevity",
+          "dcterms:publisher": "Stanford Graduate School of Business, Insights",
+          "schema:url": "https://www.gsb.stanford.edu/insights/secrets-corporate-longevity",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/organizational-ambidexterity.md",
+      "skos:altLabel": [
+        "ambidextrous organization",
+        "structural ambidexterity",
+        "contextual ambidexterity",
+        "ambidextrous leadership"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:innovators-dilemma"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:kodak-decline"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:charles-a-oreilly"
+        },
+        {
+          "@id": "kt:michael-l-tushman"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:exploration-and-exploitation-in-organizational-learning-1991"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ibm-turnaround"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:innovators-dilemma"
+        }
+      ]
+    },
+    {
       "@id": "kt:balanced-scorecard",
       "@type": "kto:Framework",
       "skos:prefLabel": "Balanced Scorecard",
