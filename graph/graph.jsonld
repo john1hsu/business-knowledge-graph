@@ -2007,6 +2007,96 @@
       ]
     },
     {
+      "@id": "kt:okrs",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Objectives and Key Results (OKRs)",
+      "skos:definition": "A goal-setting framework, developed by Andy Grove at Intel from Peter Drucker's management by objectives and popularised by John Doerr at Google, in which teams pair a short qualitative objective with a few measurable, verifiable key results, typically set and graded each quarter and kept separate from compensation.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is an OKR? Definition and Examples",
+          "dcterms:publisher": "What Matters",
+          "schema:url": "https://www.whatmatters.com/faqs/okr-meaning-definition-example",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The OKR Origin Story",
+          "dcterms:publisher": "What Matters",
+          "schema:url": "https://www.whatmatters.com/stories/the-origin-story",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Google's OKR Playbook",
+          "dcterms:publisher": "Google (hosted by What Matters)",
+          "schema:url": "https://www.whatmatters.com/resources/google-okr-playbook",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Do objectives and key results solve organizational performance measurement issues?",
+          "dcterms:publisher": "Benchmarking: An International Journal (Emerald)",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/BIJ-07-2022-0464/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting",
+          "dcterms:publisher": "Academy of Management Perspectives (via University of Pennsylvania ScholarlyCommons)",
+          "schema:url": "https://repository.upenn.edu/mgmt_papers/325",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "When Goal Setting Goes Bad",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/when-goal-setting-goes-bad",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/okrs.md",
+      "skos:altLabel": [
+        "OKR",
+        "OKRs",
+        "objectives and key results",
+        "OKR framework"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:performance-management"
+        },
+        {
+          "@id": "kt:strategy-execution"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:stretch-goals"
+        },
+        {
+          "@id": "kt:goal-setting-theory"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:andy-grove"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:management-by-objectives"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:intel"
+        },
+        {
+          "@id": "kt:google"
+        }
+      ]
+    },
+    {
       "@id": "kt:antitrust-law",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Antitrust Law",

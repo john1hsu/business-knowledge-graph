@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
 | `kt:innovators-dilemma` | `kt:disruptive-innovation`, `kt:organizational-ambidexterity`, `kt:organizational-ambidexterity` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
+| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:public-procurement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
@@ -24,12 +25,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovation-management` | `kt:disruptive-innovation`, `kt:organizational-ambidexterity` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:kodak-decline` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
+| `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:psychological-safety` |
-| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
@@ -40,6 +41,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:amy-edmondson` | `kt:psychological-safety` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
+| `kt:andy-grove` | `kt:okrs` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:aristotle` | `kt:mece-principle` |
@@ -85,6 +87,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:free-trial` | `kt:freemium` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:general-motors` | `kt:segmentation-targeting-positioning` |
+| `kt:goal-setting-theory` | `kt:okrs` |
+| `kt:google` | `kt:okrs` |
 | `kt:google-project-aristotle` | `kt:psychological-safety` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:groupthink` | `kt:psychological-safety` |
@@ -95,6 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hypothesis-driven-problem-solving` | `kt:mece-principle` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:intel` | `kt:okrs` |
 | `kt:issue-tree` | `kt:mece-principle` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
@@ -106,7 +111,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
-| `kt:management-by-objectives` | `kt:balanced-scorecard` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
@@ -127,7 +131,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
-| `kt:okrs` | `kt:balanced-scorecard` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
@@ -153,7 +156,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
+| `kt:strategy-execution` | `kt:okrs` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
+| `kt:stretch-goals` | `kt:okrs` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
 | `kt:structured-problem-solving` | `kt:mece-principle` |
 | `kt:sustainable-finance` | `kt:esg` |

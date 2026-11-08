@@ -547,6 +547,28 @@
     ]
   },
   {
+    "id": "kt:okrs",
+    "title": "Objectives and Key Results (OKRs)",
+    "aliases": [
+      "OKR",
+      "OKRs",
+      "objectives and key results",
+      "OKR framework"
+    ],
+    "type": "Framework",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/okrs.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://www.whatmatters.com/faqs/okr-meaning-definition-example",
+      "https://www.whatmatters.com/stories/the-origin-story",
+      "https://www.whatmatters.com/resources/google-okr-playbook",
+      "https://emerald.com/insight/content/doi/10.1108/BIJ-07-2022-0464/full/html",
+      "https://repository.upenn.edu/mgmt_papers/325",
+      "https://www.library.hbs.edu/working-knowledge/when-goal-setting-goes-bad"
+    ]
+  },
+  {
     "id": "kt:organizational-ambidexterity",
     "title": "Organizational Ambidexterity",
     "aliases": [
