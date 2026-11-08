@@ -379,6 +379,28 @@
     ]
   },
   {
+    "id": "kt:indefinite-delivery-indefinite-quantity",
+    "title": "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract",
+    "aliases": [
+      "IDIQ",
+      "IDIQ contract",
+      "indefinite-quantity contract",
+      "task-order contract",
+      "delivery-order contract"
+    ],
+    "type": "Concept",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/indefinite-delivery-indefinite-quantity.md",
+    "created": "2026-11-08",
+    "source_urls": [
+      "https://origin-www.acquisition.gov/far/subpart-16.5",
+      "https://www.everycrsreport.com/files/2024-11-12_IF12558_defcfc1081591de4879480a9796f5b76fd257f7e.html",
+      "https://www.gao.gov/assets/gao-17-329-highlights.pdf",
+      "https://www.gao.gov/assets/nsiad-98-215.pdf",
+      "https://www.acquisition.gov/node/63942"
+    ]
+  },
+  {
     "id": "kt:industrial-organization",
     "title": "Industrial Organization",
     "aliases": [

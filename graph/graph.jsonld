@@ -1565,6 +1565,91 @@
       ]
     },
     {
+      "@id": "kt:indefinite-delivery-indefinite-quantity",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract",
+      "skos:definition": "A US federal contract that buys an unspecified quantity of supplies or services, between a guaranteed minimum and a stated maximum, over a fixed period, with the actual work ordered later through individual task orders (services) or delivery orders (supplies).",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-08",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Subpart 16.5 - Indefinite-Delivery Contracts",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://origin-www.acquisition.gov/far/subpart-16.5",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Indefinite Delivery, Indefinite Quantity Contracts (IF12558)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/files/2024-11-12_IF12558_defcfc1081591de4879480a9796f5b76fd257f7e.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Federal Contracts: Agencies Widely Used Indefinite Contracts to Provide Flexibility to Meet Mission Needs (GAO-17-329, Highlights)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/assets/gao-17-329-highlights.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Acquisition Reform: Multiple-award Contracting at Six Federal Organizations (GAO/NSIAD-98-215)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/assets/nsiad-98-215.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FAR Overhaul New Model Deviation Text for Parts 15, 16, 22, 23, 25, 32, 42 and 53",
+          "dcterms:publisher": "Acquisition.gov (FAR Council)",
+          "schema:url": "https://www.acquisition.gov/node/63942",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/indefinite-delivery-indefinite-quantity.md",
+      "skos:altLabel": [
+        "IDIQ",
+        "IDIQ contract",
+        "indefinite-quantity contract",
+        "task-order contract",
+        "delivery-order contract"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:government-contract-types"
+        },
+        {
+          "@id": "kt:public-procurement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:best-value-tradeoff"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:governmentwide-acquisition-contract"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:federal-acquisition-streamlining-act"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:requirements-contract"
+        }
+      ]
+    },
+    {
       "@id": "kt:disruptive-innovation",
       "@type": "kto:Theory",
       "skos:prefLabel": "Disruptive Innovation",

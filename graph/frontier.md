@@ -13,10 +13,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
+| `kt:best-value-tradeoff` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:contracting-officer` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:dynamic-capabilities` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:innovation-management` | `kt:disruptive-innovation`, `kt:organizational-ambidexterity` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:kodak-decline` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
@@ -27,9 +30,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:public-procurement` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:amy-edmondson` | `kt:psychological-safety` |
@@ -38,7 +43,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:barbara-minto` | `kt:mece-principle` |
-| `kt:best-value-tradeoff` | `kt:federal-acquisition-regulation` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
@@ -53,7 +57,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-christensen` | `kt:disruptive-innovation` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
-| `kt:contracting-officer` | `kt:federal-acquisition-regulation` |
 | `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
@@ -74,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
+| `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
@@ -82,7 +86,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:general-motors` | `kt:segmentation-targeting-positioning` |
 | `kt:google-project-aristotle` | `kt:psychological-safety` |
-| `kt:government-contract-types` | `kt:federal-acquisition-regulation` |
+| `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:groupthink` | `kt:psychological-safety` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:high-performance-teams` | `kt:psychological-safety` |
@@ -90,7 +94,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hypothesis-driven-problem-solving` | `kt:mece-principle` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
-| `kt:indefinite-delivery-indefinite-quantity` | `kt:federal-acquisition-regulation` |
 | `kt:issue-tree` | `kt:mece-principle` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
@@ -133,9 +136,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pricing-strategy` | `kt:freemium` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
-| `kt:public-procurement` | `kt:federal-acquisition-regulation` |
 | `kt:pyramid-principle` | `kt:mece-principle` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
+| `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:revolutionary-far-overhaul` | `kt:federal-acquisition-regulation` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
@@ -145,7 +148,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-management` | `kt:ford-model-t` |
 | `kt:sherman-act` | `kt:antitrust-law` |
-| `kt:small-business-set-asides` | `kt:federal-acquisition-regulation` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
