@@ -484,6 +484,27 @@
     ]
   },
   {
+    "id": "kt:material-requirements-planning",
+    "title": "Material Requirements Planning",
+    "aliases": [
+      "MRP",
+      "MRP I",
+      "materials requirements planning"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/material-requirements-planning.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.ifm.eng.cam.ac.uk/research/dstools/mrp/",
+      "https://ocw.mit.edu/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf",
+      "https://core.ac.uk/download/296177114.pdf",
+      "https://link.springer.com/article/10.1023/B:FLEX.0000044837.86194.19",
+      "https://www.jiem.org/index.php/jiem/article/view/3331",
+      "https://irep.ntu.ac.uk/id/eprint/27704/"
+    ]
+  },
+  {
     "id": "kt:mece-principle",
     "title": "MECE Principle",
     "aliases": [

@@ -24,6 +24,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:innovation-management` | `kt:disruptive-innovation`, `kt:organizational-ambidexterity` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
+| `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:kodak-decline` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
@@ -35,6 +36,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
+| `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
@@ -46,6 +48,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:barbara-minto` | `kt:mece-principle` |
+| `kt:bill-of-materials` | `kt:material-requirements-planning` |
 | `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
@@ -68,13 +71,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
+| `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:ebitda` | `kt:free-cash-flow` |
+| `kt:economic-order-quantity` | `kt:material-requirements-planning` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:employee-voice` | `kt:psychological-safety` |
+| `kt:enterprise-resource-planning` | `kt:material-requirements-planning` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
@@ -100,11 +106,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:intel` | `kt:okrs` |
+| `kt:inventory-management` | `kt:material-requirements-planning` |
 | `kt:issue-tree` | `kt:mece-principle` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
-| `kt:just-in-time` | `kt:kanban` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:littles-law` | `kt:kanban` |
@@ -112,13 +118,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
+| `kt:manufacturing-resource-planning` | `kt:material-requirements-planning` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
 | `kt:marketing-mix` | `kt:segmentation-targeting-positioning` |
 | `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
-| `kt:material-requirements-planning` | `kt:kanban` |
+| `kt:master-production-schedule` | `kt:material-requirements-planning` |
+| `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:mergers-and-acquisitions` | `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
@@ -140,6 +148,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:pricing-strategy` | `kt:freemium` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
+| `kt:production-planning-and-control` | `kt:material-requirements-planning` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:pyramid-principle` | `kt:mece-principle` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
@@ -150,7 +159,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
-| `kt:scientific-management` | `kt:ford-model-t` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
@@ -165,6 +173,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |
 | `kt:team-learning` | `kt:psychological-safety` |
+| `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:toyota-motor-corporation` | `kt:kanban` |

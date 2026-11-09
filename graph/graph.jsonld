@@ -2700,6 +2700,116 @@
       ]
     },
     {
+      "@id": "kt:material-requirements-planning",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Material Requirements Planning",
+      "skos:definition": "A computerized production-planning method that converts a master production schedule into time-phased orders for components and raw materials by exploding bills of materials, netting out inventory and offsetting by lead times; the archetypal \"push\" system for dependent demand.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Materials Requirements Planning (MRP)",
+          "dcterms:publisher": "Institute for Manufacturing, University of Cambridge",
+          "schema:url": "https://www.ifm.eng.cam.ac.uk/research/dstools/mrp/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Material Requirements Planning and Manufacturing Resources Planning (lecture notes, MIT 2.854)",
+          "dcterms:publisher": "MIT OpenCourseWare",
+          "schema:url": "https://ocw.mit.edu/courses/2-854-introduction-to-manufacturing-systems-fall-2016/4eec617bb52d64f4ea1bed6d9905bc00_MIT2_854F16_MatrialRequire.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The origin of materials requirements planning in Frederick W. Taylor's planning office",
+          "dcterms:publisher": "International Journal of Production Research (via CORE)",
+          "schema:url": "https://core.ac.uk/download/296177114.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Re-Examining the Performance of MRP and Kanban Material Control Strategies for Multi-Product Flexible Manufacturing Systems",
+          "dcterms:publisher": "International Journal of Flexible Manufacturing Systems (Springer)",
+          "schema:url": "https://link.springer.com/article/10.1023/B:FLEX.0000044837.86194.19",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Demand Driven Material Requirements Planning (DDMRP): A systematic review and classification",
+          "dcterms:publisher": "Journal of Industrial Engineering and Management",
+          "schema:url": "https://www.jiem.org/index.php/jiem/article/view/3331",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Interpreting and applying demand driven MRP: a case study",
+          "dcterms:publisher": "Nottingham Trent University (DBA thesis)",
+          "schema:url": "https://irep.ntu.ac.uk/id/eprint/27704/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/material-requirements-planning.md",
+      "skos:altLabel": [
+        "MRP",
+        "MRP I",
+        "materials requirements planning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:production-planning-and-control"
+        },
+        {
+          "@id": "kt:inventory-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:kanban"
+        },
+        {
+          "@id": "kt:just-in-time"
+        },
+        {
+          "@id": "kt:enterprise-resource-planning"
+        },
+        {
+          "@id": "kt:theory-of-constraints"
+        },
+        {
+          "@id": "kt:economic-order-quantity"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:material-requirements-planning-1975"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:scientific-management"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:bill-of-materials"
+        },
+        {
+          "@id": "kt:master-production-schedule"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:kanban"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:manufacturing-resource-planning"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:demand-driven-mrp"
+        }
+      ]
+    },
+    {
       "@id": "kt:psychological-safety",
       "@type": "kto:Concept",
       "skos:prefLabel": "Psychological Safety",
