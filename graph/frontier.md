@@ -17,20 +17,22 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:public-procurement` |
+| `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:razor-and-blades-model` | `kt:kodak-decline`, `kt:freemium`, `kt:two-sided-market` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement` |
+| `kt:structured-problem-solving` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
 | `kt:business-model` | `kt:freemium`, `kt:saas-business-model` |
+| `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:hypothesis-driven-problem-solving` | `kt:issue-tree`, `kt:mece-principle` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
@@ -41,14 +43,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
-| `kt:pyramid-principle` | `kt:issue-tree`, `kt:mece-principle` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
-| `kt:structured-problem-solving` | `kt:issue-tree`, `kt:mece-principle` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
@@ -76,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
-| `kt:confirmation-bias` | `kt:issue-tree` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance` |
@@ -138,6 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:lean-manufacturing` | `kt:kanban` |
+| `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:littles-law` | `kt:kanban` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
@@ -192,6 +192,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:root-cause-analysis` | `kt:issue-tree` |
 | `kt:salesforce` | `kt:saas-business-model` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
+| `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:spotify` | `kt:freemium` |
@@ -211,11 +212,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-learning` | `kt:psychological-safety` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technological-disruption` | `kt:kodak-decline` |
+| `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:toyota-motor-corporation` | `kt:kanban` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
+| `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |

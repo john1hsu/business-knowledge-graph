@@ -483,6 +483,28 @@
     ]
   },
   {
+    "id": "kt:hypothesis-driven-problem-solving",
+    "title": "Hypothesis-Driven Problem Solving",
+    "aliases": [
+      "hypothesis-driven thinking",
+      "hypothesis-based consulting",
+      "hypothesis-led approach",
+      "answer-first problem solving"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/hypothesis-driven-problem-solving.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://store.hbr.org/product/using-hypothesis-driven-thinking-in-strategy-consulting/UV0991",
+      "https://econpapers.repec.org/RePEc:cpr:ceprdp:12421",
+      "https://www.unibocconi.it/en/news/entrepreneurs-who-think-scientists-get-better-results",
+      "https://econpapers.repec.org/RePEc:inm:orstsc:v:2:y:2017:i:4:p:258-271",
+      "https://pages.ucsd.edu/~cmckenzie/nickersonConfirmationBias.pdf",
+      "https://imd.org/research-knowledge/books/strategic-thinking-in-complex-problem-solving/"
+    ]
+  },
+  {
     "id": "kt:ibm-turnaround",
     "title": "IBM Turnaround",
     "aliases": [

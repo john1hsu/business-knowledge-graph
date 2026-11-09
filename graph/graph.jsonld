@@ -1476,6 +1476,99 @@
       ]
     },
     {
+      "@id": "kt:hypothesis-driven-problem-solving",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Hypothesis-Driven Problem Solving",
+      "skos:definition": "A problem-solving practice, widely used in strategy consulting, in which the team states candidate answers to a key question early and then designs analyses to confirm or refute them, applying the logic of the scientific method to business decisions instead of gathering data exhaustively first.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Using Hypothesis-Driven Thinking in Strategy Consulting (UV0991)",
+          "dcterms:publisher": "Darden School of Business, University of Virginia (Harvard Business Publishing)",
+          "schema:url": "https://store.hbr.org/product/using-hypothesis-driven-thinking-in-strategy-consulting/UV0991",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Scientific Approach to Entrepreneurial Decision-Making: Evidence from a Randomized Control Trial",
+          "dcterms:publisher": "Centre for Economic Policy Research (CEPR Discussion Paper 12421), via RePEc",
+          "schema:url": "https://econpapers.repec.org/RePEc:cpr:ceprdp:12421",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Entrepreneurs Who Think Like Scientists Get Better Results",
+          "dcterms:publisher": "Bocconi University",
+          "schema:url": "https://www.unibocconi.it/en/news/entrepreneurs-who-think-scientists-get-better-results",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Theory-Based View: Economic Actors as Theorists",
+          "dcterms:publisher": "Strategy Science (INFORMS), via RePEc",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:orstsc:v:2:y:2017:i:4:p:258-271",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises",
+          "dcterms:publisher": "Review of General Psychology (hosted by UC San Diego)",
+          "schema:url": "https://pages.ucsd.edu/~cmckenzie/nickersonConfirmationBias.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategic Thinking in Complex Problem Solving",
+          "dcterms:publisher": "IMD Business School",
+          "schema:url": "https://imd.org/research-knowledge/books/strategic-thinking-in-complex-problem-solving/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/hypothesis-driven-problem-solving.md",
+      "skos:altLabel": [
+        "hypothesis-driven thinking",
+        "hypothesis-based consulting",
+        "hypothesis-led approach",
+        "answer-first problem solving"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:mece-principle"
+        },
+        {
+          "@id": "kt:pyramid-principle"
+        },
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:confirmation-bias"
+        },
+        {
+          "@id": "kt:theory-based-view"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:scientific-method"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:issue-tree"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:trial-and-error-search"
+        }
+      ]
+    },
+    {
       "@id": "kt:issue-tree",
       "@type": "kto:Framework",
       "skos:prefLabel": "Issue Tree",
