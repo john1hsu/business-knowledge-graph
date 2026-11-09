@@ -623,6 +623,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/kanban-method> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2000/01/rdf-schema#label> "Kodak Decline" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#altLabel> "Kodak bankruptcy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#altLabel> "Kodak digital photography failure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#altLabel> "decline of Eastman Kodak" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#altLabel> "fall of Kodak" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/technological-disruption> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#definition> "The long slide of Eastman Kodak from dominant film-photography franchise to its January 2012 Chapter 11 filing, a case usually told as a failure to see digital coming but which recent business-history research reframes as repeated, well-funded renewal attempts defeated by high aspirations, timing uncertainty and a film business that stayed profitable for too long." .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kodak Decline" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#competesWith> <https://github.com/john1hsu/business-knowledge-graph/id/fujifilm> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/fujifilm-transformation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2000/01/rdf-schema#label> "Leveraged Buyout" .
@@ -1597,6 +1624,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://schema.org/url> "https://www.cio.com/article/286826/agile-development-how-the-kanban-method-changes-software-engineering.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <http://purl.org/dc/terms/publisher> "Business History Review 99(1), 3–38 (2025), Cambridge University Press (record via EconPapers/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <http://purl.org/dc/terms/title> "The Problem of Sustaining a Successful Enterprise: Kodak's Multiple Takes at Strategic Renewal that Culminated in Failure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <https://schema.org/url> "https://econpapers.repec.org/RePEc:cup:buhirw:v:99:y:2025:i:1:p:3-38_2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s2> <http://purl.org/dc/terms/publisher> "Mack Institute for Innovation Management, The Wharton School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s2> <http://purl.org/dc/terms/title> "Kodak's Surprisingly Long Journey Towards Strategic Renewal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s2> <https://schema.org/url> "https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2023/03/Vinokurova-Natalya_Kodaks-Surprisingly-Long-Journey-Towards-Strategic-Renewal.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s3> <http://purl.org/dc/terms/title> "Eastman Kodak Company, Form 10-K for fiscal year 2013" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s3> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/31235/000119312514106388/d693724d10k.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s4> <http://purl.org/dc/terms/publisher> "Review of Policy Research 35(3), 352–371 (2018), doi:10.1111/ropr.12278 (University of Minnesota Experts record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s4> <http://purl.org/dc/terms/title> "Managing the Disruptive and Sustaining the Disrupted: The Case of Kodak and Fujifilm in the Face of Digital Disruption" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s4> <https://schema.org/url> "https://experts.umn.edu/en/publications/managing-the-disruptive-and-sustaining-the-disrupted-the-case-of-/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s5> <http://purl.org/dc/terms/publisher> "IEEE Spectrum (The Institute), 2022" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s5> <http://purl.org/dc/terms/title> "The First Digital Camera Was the Size of a Toaster" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s5> <https://schema.org/url> "https://spectrum.ieee.org/first-digital-camera-history" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <http://purl.org/dc/terms/publisher> "CaseWorks, Columbia Business School, 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <http://purl.org/dc/terms/title> "Leap into the Void: How Digital Disruption Broke Kodak and Transformed Fuji" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <https://schema.org/url> "https://caseworks.business.columbia.edu/caseworks/leap-void-how-digital-disruption-broke-kodak-and-transformed-fuji" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 23(1), 121-146 (author copy, Stockholm School of Economics)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/title> "Leveraged Buyouts and Private Equity" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -916,6 +916,102 @@
       ]
     },
     {
+      "@id": "kt:kodak-decline",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Kodak Decline",
+      "skos:definition": "The long slide of Eastman Kodak from dominant film-photography franchise to its January 2012 Chapter 11 filing, a case usually told as a failure to see digital coming but which recent business-history research reframes as repeated, well-funded renewal attempts defeated by high aspirations, timing uncertainty and a film business that stayed profitable for too long.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Problem of Sustaining a Successful Enterprise: Kodak's Multiple Takes at Strategic Renewal that Culminated in Failure",
+          "dcterms:publisher": "Business History Review 99(1), 3–38 (2025), Cambridge University Press (record via EconPapers/RePEc)",
+          "schema:url": "https://econpapers.repec.org/RePEc:cup:buhirw:v:99:y:2025:i:1:p:3-38_2",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Kodak's Surprisingly Long Journey Towards Strategic Renewal",
+          "dcterms:publisher": "Mack Institute for Innovation Management, The Wharton School",
+          "schema:url": "https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2023/03/Vinokurova-Natalya_Kodaks-Surprisingly-Long-Journey-Towards-Strategic-Renewal.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Eastman Kodak Company, Form 10-K for fiscal year 2013",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/31235/000119312514106388/d693724d10k.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Managing the Disruptive and Sustaining the Disrupted: The Case of Kodak and Fujifilm in the Face of Digital Disruption",
+          "dcterms:publisher": "Review of Policy Research 35(3), 352–371 (2018), doi:10.1111/ropr.12278 (University of Minnesota Experts record)",
+          "schema:url": "https://experts.umn.edu/en/publications/managing-the-disruptive-and-sustaining-the-disrupted-the-case-of-/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The First Digital Camera Was the Size of a Toaster",
+          "dcterms:publisher": "IEEE Spectrum (The Institute), 2022",
+          "schema:url": "https://spectrum.ieee.org/first-digital-camera-history",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Leap into the Void: How Digital Disruption Broke Kodak and Transformed Fuji",
+          "dcterms:publisher": "CaseWorks, Columbia Business School, 2019",
+          "schema:url": "https://caseworks.business.columbia.edu/caseworks/leap-void-how-digital-disruption-broke-kodak-and-transformed-fuji",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/kodak-decline.md",
+      "skos:altLabel": [
+        "decline of Eastman Kodak",
+        "Kodak bankruptcy",
+        "fall of Kodak",
+        "Kodak digital photography failure"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-decline"
+        },
+        {
+          "@id": "kt:technological-disruption"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:innovators-dilemma"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:razor-and-blades-model"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:strategic-renewal"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:ibm-turnaround"
+        },
+        {
+          "@id": "kt:fujifilm-transformation"
+        }
+      ],
+      "kto:competesWith": [
+        {
+          "@id": "kt:fujifilm"
+        }
+      ]
+    },
+    {
       "@id": "kt:freemium",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Freemium",
