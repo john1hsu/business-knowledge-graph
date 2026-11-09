@@ -506,6 +506,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/edward-s-mason> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/jean-tirole> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joe-s-bain> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Work> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2000/01/rdf-schema#label> "The Innovator's Dilemma" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2004/02/skos/core#altLabel> "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2004/02/skos/core#altLabel> "innovator's dilemma" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2004/02/skos/core#definition> "Clayton Christensen's 1997 book, published by Harvard Business School Press, arguing that well-managed market leaders lose to entrants precisely because they keep serving their best customers, and the name for the resulting trap in which an incumbent's rational choices delay its response to new technology." .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Innovator's Dilemma" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-solution> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2000/01/rdf-schema#label> "Kanban" .
@@ -1336,6 +1358,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://schema.org/url> "https://www.kva.se/en/news/ekonomipriset-2014-2/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Faculty & Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <http://purl.org/dc/terms/title> "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=46" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s2> <http://purl.org/dc/terms/title> "How History Shaped the Innovator's Dilemma (Working Paper 21-014)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s2> <https://schema.org/url> "https://www.hbs.edu/ris/Publication%20Files/21-014_8e2e8eb1-59d5-43e2-b8a6-32907b72cfc6.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s3> <http://purl.org/dc/terms/publisher> "Journal of Political Economy (RePEc/EconPapers record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s3> <http://purl.org/dc/terms/title> "Estimating the Innovator's Dilemma: Structural Analysis of Creative Destruction in the Hard Disk Drive Industry, 1981-1998" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s3> <https://schema.org/url> "https://econpapers.repec.org/RePEc:ucp:jpolec:doi:10.1086/691524" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s4> <http://purl.org/dc/terms/publisher> "Yale University, Department of Economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s4> <http://purl.org/dc/terms/title> "Estimating the innovator's dilemma: Q&A with Yale economist Mitsuru Igami" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s4> <https://schema.org/url> "https://economics.yale.edu/news/170613/estimating-innovators-dilemma-qa-yale-economist-mitsuru-igami" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <http://purl.org/dc/terms/publisher> "Clayton Christensen Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <http://purl.org/dc/terms/title> "About Clayton Christensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <https://schema.org/url> "https://www.christenseninstitute.org/about/clayton-christensen/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/publisher> "Toyota UK Magazine (Toyota GB)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/title> "Kanban: Toyota Production System guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

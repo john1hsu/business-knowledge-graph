@@ -1815,6 +1815,94 @@
       ]
     },
     {
+      "@id": "kt:innovators-dilemma",
+      "@type": "kto:Work",
+      "skos:prefLabel": "The Innovator's Dilemma",
+      "skos:definition": "Clayton Christensen's 1997 book, published by Harvard Business School Press, arguing that well-managed market leaders lose to entrants precisely because they keep serving their best customers, and the name for the resulting trap in which an incumbent's rational choices delay its response to new technology.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+          "dcterms:publisher": "Harvard Business School, Faculty & Research",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=46",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How History Shaped the Innovator's Dilemma (Working Paper 21-014)",
+          "dcterms:publisher": "Harvard Business School",
+          "schema:url": "https://www.hbs.edu/ris/Publication%20Files/21-014_8e2e8eb1-59d5-43e2-b8a6-32907b72cfc6.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Estimating the Innovator's Dilemma: Structural Analysis of Creative Destruction in the Hard Disk Drive Industry, 1981-1998",
+          "dcterms:publisher": "Journal of Political Economy (RePEc/EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:ucp:jpolec:doi:10.1086/691524",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Estimating the innovator's dilemma: Q&A with Yale economist Mitsuru Igami",
+          "dcterms:publisher": "Yale University, Department of Economics",
+          "schema:url": "https://economics.yale.edu/news/170613/estimating-innovators-dilemma-qa-yale-economist-mitsuru-igami",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "About Clayton Christensen",
+          "dcterms:publisher": "Clayton Christensen Institute",
+          "schema:url": "https://www.christenseninstitute.org/about/clayton-christensen/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/innovators-dilemma.md",
+      "skos:altLabel": [
+        "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+        "innovator's dilemma"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:clayton-christensen"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:disruptive-innovation"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:innovators-solution"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:intel"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:cannibalization"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:creative-destruction"
+        }
+      ]
+    },
+    {
       "@id": "kt:organizational-ambidexterity",
       "@type": "kto:Concept",
       "skos:prefLabel": "Organizational Ambidexterity",

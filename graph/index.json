@@ -442,6 +442,25 @@
     ]
   },
   {
+    "id": "kt:innovators-dilemma",
+    "title": "The Innovator's Dilemma",
+    "aliases": [
+      "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+      "innovator's dilemma"
+    ],
+    "type": "Work",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/innovators-dilemma.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=46",
+      "https://www.hbs.edu/ris/Publication%20Files/21-014_8e2e8eb1-59d5-43e2-b8a6-32907b72cfc6.pdf",
+      "https://econpapers.repec.org/RePEc:ucp:jpolec:doi:10.1086/691524",
+      "https://economics.yale.edu/news/170613/estimating-innovators-dilemma-qa-yale-economist-mitsuru-igami",
+      "https://www.christenseninstitute.org/about/clayton-christensen/"
+    ]
+  },
+  {
     "id": "kt:kanban",
     "title": "Kanban",
     "aliases": [
