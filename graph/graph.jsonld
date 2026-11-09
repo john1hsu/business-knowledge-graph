@@ -3693,6 +3693,91 @@
       ]
     },
     {
+      "@id": "kt:bill-of-materials",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Bill of Materials",
+      "skos:definition": "The structured list of every component, subassembly and raw material, with quantities, needed to make one unit of a product, organised as parent–component links; it is the master data that production planning, costing and material requirements planning are built on.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "PROC BOM: Overview (SAS/OR 9.22 User's Guide: Bill of Material Processing)",
+          "dcterms:publisher": "SAS Institute",
+          "schema:url": "https://support.sas.com/documentation/cdl/en/orbomug/63350/HTML/default/orbomug_bom_sect001.htm",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Manufacturing bill of materials (MBOM)",
+          "dcterms:publisher": "Siemens",
+          "schema:url": "https://www.siemens.com/en-us/technology/manufacturing-bill-of-materials-mbom/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "A decision support tool for planning bills-of-material",
+          "dcterms:publisher": "Production Planning & Control (via University of Galway Research Repository)",
+          "schema:url": "https://researchrepository.universityofgalway.ie/entities/publication/0636e58e-36c7-4886-a748-c06dc696a622",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Impact of mass customization on bill of materials structure and master production schedule",
+          "dcterms:publisher": "Journal Européen des Systèmes Automatisés (IIETA)",
+          "schema:url": "https://www.iieta.org/journals/jesa/paper/10.3166/JESA.49.55-91",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Bill of Material and Item Standard Routing Data Accuracy – FPI (Program Statement 8340.11)",
+          "dcterms:publisher": "U.S. Department of Justice, Federal Bureau of Prisons",
+          "schema:url": "https://www2.fed.bop.gov/policy/progstat/8340_011.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Product-level bill of material development process: managing complexity",
+          "dcterms:publisher": "MIT Sloan School of Management / Leaders for Manufacturing (DSpace@MIT)",
+          "schema:url": "https://dspace.mit.edu/handle/1721.1/49784",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/bill-of-materials.md",
+      "skos:altLabel": [
+        "BOM",
+        "bill of material",
+        "product structure",
+        "parts list"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:production-planning-and-control"
+        },
+        {
+          "@id": "kt:inventory-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:material-requirements-planning"
+        },
+        {
+          "@id": "kt:master-production-schedule"
+        },
+        {
+          "@id": "kt:enterprise-resource-planning"
+        },
+        {
+          "@id": "kt:product-lifecycle-management"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:mass-customization"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:cisco-systems"
+        }
+      ]
+    },
+    {
       "@id": "kt:kanban",
       "@type": "kto:Practice",
       "skos:prefLabel": "Kanban",

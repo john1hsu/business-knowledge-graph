@@ -31,21 +31,25 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
+| `kt:enterprise-resource-planning` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:inventory-management` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
+| `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:price-elasticity` |
+| `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
@@ -64,7 +68,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:behavioral-finance` | `kt:arbitrage` |
-| `kt:bill-of-materials` | `kt:material-requirements-planning` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ecosystem` | `kt:dynamic-capabilities` |
@@ -80,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:chris-argyris` | `kt:amy-edmondson` |
 | `kt:churn-rate` | `kt:saas-business-model` |
+| `kt:cisco-systems` | `kt:bill-of-materials` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
@@ -109,7 +113,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-market-hypothesis` | `kt:arbitrage` |
 | `kt:employee-voice` | `kt:psychological-safety` |
-| `kt:enterprise-resource-planning` | `kt:material-requirements-planning` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
@@ -138,7 +141,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
-| `kt:inventory-management` | `kt:material-requirements-planning` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:j-richard-hackman` | `kt:amy-edmondson` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
@@ -160,8 +162,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
 | `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
+| `kt:mass-customization` | `kt:bill-of-materials` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
-| `kt:master-production-schedule` | `kt:material-requirements-planning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
@@ -190,7 +192,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:procurement` | `kt:public-procurement` |
-| `kt:production-planning-and-control` | `kt:material-requirements-planning` |
+| `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
