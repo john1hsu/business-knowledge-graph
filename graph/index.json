@@ -147,6 +147,26 @@
     ]
   },
   {
+    "id": "kt:clayton-christensen",
+    "title": "Clayton Christensen",
+    "aliases": [
+      "Clayton M. Christensen",
+      "Clay Christensen"
+    ],
+    "type": "Person",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/clayton-christensen.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.library.hbs.edu/working-knowledge/clayton-m-christensen-acclaimed-author-and-teacher-dies-at-67",
+      "https://computerhistory.org/profile/clayton-christensen/",
+      "https://econpapers.repec.org/RePEc:cup:buhirw:v:67:y:1993:i:04:p:531-588_00",
+      "https://hbswk.hbs.edu/item/october-18-2016",
+      "https://tuck.dartmouth.edu/news/articles/deflating-disruption-theory",
+      "https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/how-history-shaped-innovators-dilemma-tom-nicholas"
+    ]
+  },
+  {
     "id": "kt:corporate-governance",
     "title": "Corporate Governance",
     "aliases": [

@@ -165,6 +165,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton Christensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#altLabel> "Clay Christensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#altLabel> "Clayton M. Christensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#definition> "Harvard Business School professor (1952-2020) who developed the theory of disruptive innovation from a study of the disk drive industry, later popularized the jobs-to-be-done view of customer choice, and co-founded the consultancy Innosight and the Christensen Institute." .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Clayton Christensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Governance" .
@@ -1062,6 +1082,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s5> <https://schema.org/url> "https://login.acquisition.gov/sites/default/files/page_file_uploads/DoD_RFO_Deviation_Part-15.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/title> "Clayton M. Christensen, Acclaimed Author and Teacher, Dies at 67" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/clayton-m-christensen-acclaimed-author-and-teacher-dies-at-67" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s2> <http://purl.org/dc/terms/publisher> "Computer History Museum" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s2> <http://purl.org/dc/terms/title> "Clayton Christensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s2> <https://schema.org/url> "https://computerhistory.org/profile/clayton-christensen/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s3> <http://purl.org/dc/terms/publisher> "Business History Review 67(4), 531-588 (RePEc/EconPapers record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s3> <http://purl.org/dc/terms/title> "The Rigid Disk Drive Industry: A History of Commercial and Technological Turbulence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s3> <https://schema.org/url> "https://econpapers.repec.org/RePEc:cup:buhirw:v:67:y:1993:i:04:p:531-588_00" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge (book listing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s4> <http://purl.org/dc/terms/title> "Competing Against Luck: The Story of Innovation and Customer Choice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s4> <https://schema.org/url> "https://hbswk.hbs.edu/item/october-18-2016" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s5> <http://purl.org/dc/terms/publisher> "Tuck School of Business at Dartmouth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s5> <http://purl.org/dc/terms/title> "Deflating Disruption Theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s5> <https://schema.org/url> "https://tuck.dartmouth.edu/news/articles/deflating-disruption-theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <http://purl.org/dc/terms/publisher> "Harvard Kennedy School, Mossavar-Rahmani Center for Business and Government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <http://purl.org/dc/terms/title> "How History Shaped the Innovator's Dilemma (Tom Nicholas)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <https://schema.org/url> "https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/how-history-shaped-innovators-dilemma-tom-nicholas" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/publisher> "OECD Legal Instruments" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/title> "Recommendation of the Council on Principles of Corporate Governance (G20/OECD Principles of Corporate Governance)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -4,12 +4,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
-| `kt:innovation-management` | `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:public-procurement` |
@@ -18,14 +18,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
-| `kt:clayton-christensen` | `kt:disruptive-innovation`, `kt:innovators-dilemma` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
+| `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:intel` | `kt:innovators-dilemma`, `kt:okrs` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
+| `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:kodak-decline` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs` |
@@ -70,7 +71,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
-| `kt:creative-destruction` | `kt:innovators-dilemma` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value` |
 | `kt:david-j-teece` | `kt:dynamic-capabilities` |
@@ -117,7 +117,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:issue-tree` | `kt:mece-principle` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
-| `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:lean-manufacturing` | `kt:kanban` |

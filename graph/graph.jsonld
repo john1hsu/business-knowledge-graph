@@ -1819,6 +1819,81 @@
       ]
     },
     {
+      "@id": "kt:clayton-christensen",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Clayton Christensen",
+      "skos:definition": "Harvard Business School professor (1952-2020) who developed the theory of disruptive innovation from a study of the disk drive industry, later popularized the jobs-to-be-done view of customer choice, and co-founded the consultancy Innosight and the Christensen Institute.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Clayton M. Christensen, Acclaimed Author and Teacher, Dies at 67",
+          "dcterms:publisher": "Harvard Business School, Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/clayton-m-christensen-acclaimed-author-and-teacher-dies-at-67",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Clayton Christensen",
+          "dcterms:publisher": "Computer History Museum",
+          "schema:url": "https://computerhistory.org/profile/clayton-christensen/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Rigid Disk Drive Industry: A History of Commercial and Technological Turbulence",
+          "dcterms:publisher": "Business History Review 67(4), 531-588 (RePEc/EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:cup:buhirw:v:67:y:1993:i:04:p:531-588_00",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Competing Against Luck: The Story of Innovation and Customer Choice",
+          "dcterms:publisher": "Harvard Business School, Working Knowledge (book listing)",
+          "schema:url": "https://hbswk.hbs.edu/item/october-18-2016",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Deflating Disruption Theory",
+          "dcterms:publisher": "Tuck School of Business at Dartmouth",
+          "schema:url": "https://tuck.dartmouth.edu/news/articles/deflating-disruption-theory",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How History Shaped the Innovator's Dilemma (Tom Nicholas)",
+          "dcterms:publisher": "Harvard Kennedy School, Mossavar-Rahmani Center for Business and Government",
+          "schema:url": "https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/how-history-shaped-innovators-dilemma-tom-nicholas",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/clayton-christensen.md",
+      "skos:altLabel": [
+        "Clayton M. Christensen",
+        "Clay Christensen"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:innovators-dilemma"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:creative-destruction"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        }
+      ]
+    },
+    {
       "@id": "kt:disruptive-innovation",
       "@type": "kto:Theory",
       "skos:prefLabel": "Disruptive Innovation",
