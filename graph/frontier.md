@@ -10,6 +10,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
@@ -27,9 +28,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
-| `kt:google-project-aristotle` | `kt:amy-edmondson`, `kt:psychological-safety` |
+| `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:hypothesis-driven-problem-solving` | `kt:issue-tree`, `kt:mece-principle` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
@@ -114,7 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:general-motors` | `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs` |
-| `kt:google` | `kt:okrs` |
+| `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
@@ -163,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-behavior` | `kt:amy-edmondson` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
+| `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
@@ -201,6 +202,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |
+| `kt:team-effectiveness` | `kt:google-project-aristotle` |
 | `kt:team-learning` | `kt:psychological-safety` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technological-disruption` | `kt:kodak-decline` |

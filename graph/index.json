@@ -441,6 +441,27 @@
     ]
   },
   {
+    "id": "kt:google-project-aristotle",
+    "title": "Google Project Aristotle",
+    "aliases": [
+      "Project Aristotle",
+      "Google team effectiveness study",
+      "Google's five keys to team effectiveness"
+    ],
+    "type": "Case",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/google-project-aristotle.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness",
+      "https://www.michigan.gov/documents/mdhhs/Google-and-Psychological-Safety_684425_7.pdf",
+      "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/3/50375/files/2023/02/How-Google-Sold-Its-Engineers-on-Management.pdf",
+      "https://core.ac.uk/download/217291252.pdf",
+      "https://pubmed.ncbi.nlm.nih.gov/20929725/",
+      "https://www.eurekalert.org/news-releases/639223"
+    ]
+  },
+  {
     "id": "kt:groupthink",
     "title": "Groupthink",
     "aliases": [

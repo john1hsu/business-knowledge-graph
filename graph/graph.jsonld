@@ -3522,6 +3522,100 @@
       ]
     },
     {
+      "@id": "kt:google-project-aristotle",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Google Project Aristotle",
+      "skos:definition": "A multi-year internal people-analytics study at Google of 180 teams that concluded how members work together matters more than who is on the team, and ranked psychological safety first among five dynamics of effective teams (with dependability, structure and clarity, meaning and impact).",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Guide: Understand team effectiveness",
+          "dcterms:publisher": "Google re:Work",
+          "schema:url": "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The five keys to a successful Google team",
+          "dcterms:publisher": "Google re:Work blog, Julia Rozovsky, 17 Nov 2015 (copy hosted by Michigan Department of Health and Human Services)",
+          "schema:url": "https://www.michigan.gov/documents/mdhhs/Google-and-Psychological-Safety_684425_7.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "How Google Sold Its Engineers on Management",
+          "dcterms:publisher": "Harvard Business Review, David A. Garvin, December 2013 (course copy hosted by Penn State)",
+          "schema:url": "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/3/50375/files/2023/02/How-Google-Sold-Its-Engineers-on-Management.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Psychological Safety: A Meta-Analytic Review and Extension",
+          "dcterms:publisher": "Personnel Psychology 70, 113-165 (2017), open-access copy via CORE",
+          "schema:url": "https://core.ac.uk/download/217291252.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Evidence for a collective intelligence factor in the performance of human groups",
+          "dcterms:publisher": "Science 330(6004), 686-688 (2010), PubMed record",
+          "schema:url": "https://pubmed.ncbi.nlm.nih.gov/20929725/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "News release on the Science study of collective intelligence in groups",
+          "dcterms:publisher": "Carnegie Mellon University news release via EurekAlert! (AAAS)",
+          "schema:url": "https://www.eurekalert.org/news-releases/639223",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/google-project-aristotle.md",
+      "skos:altLabel": [
+        "Project Aristotle",
+        "Google team effectiveness study",
+        "Google's five keys to team effectiveness"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:people-analytics"
+        },
+        {
+          "@id": "kt:high-performance-teams"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:psychological-safety"
+        },
+        {
+          "@id": "kt:amy-edmondson"
+        },
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:psychological-safety"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:amy-edmondson"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:google-project-oxygen"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:team-effectiveness"
+        }
+      ]
+    },
+    {
       "@id": "kt:groupthink",
       "@type": "kto:Theory",
       "skos:prefLabel": "Groupthink",

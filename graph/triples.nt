@@ -502,6 +502,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Google Project Aristotle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#altLabel> "Google team effectiveness study" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#altLabel> "Google's five keys to team effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#altLabel> "Project Aristotle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/people-analytics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#definition> "A multi-year internal people-analytics study at Google of 180 teams that concluded how members work together matters more than who is on the team, and ranked psychological safety first among five dynamics of effective teams (with dependability, structure and clarity, meaning and impact)." .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#prefLabel> "Google Project Aristotle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/google> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-oxygen> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2000/01/rdf-schema#label> "Groupthink" .
@@ -1599,6 +1624,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <http://purl.org/dc/terms/publisher> "Google re:Work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <http://purl.org/dc/terms/title> "Guide: Understand team effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <https://schema.org/url> "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s2> <http://purl.org/dc/terms/publisher> "Google re:Work blog, Julia Rozovsky, 17 Nov 2015 (copy hosted by Michigan Department of Health and Human Services)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s2> <http://purl.org/dc/terms/title> "The five keys to a successful Google team" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s2> <https://schema.org/url> "https://www.michigan.gov/documents/mdhhs/Google-and-Psychological-Safety_684425_7.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review, David A. Garvin, December 2013 (course copy hosted by Penn State)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s3> <http://purl.org/dc/terms/title> "How Google Sold Its Engineers on Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s3> <https://schema.org/url> "https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/3/50375/files/2023/02/How-Google-Sold-Its-Engineers-on-Management.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s4> <http://purl.org/dc/terms/publisher> "Personnel Psychology 70, 113-165 (2017), open-access copy via CORE" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s4> <http://purl.org/dc/terms/title> "Psychological Safety: A Meta-Analytic Review and Extension" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s4> <https://schema.org/url> "https://core.ac.uk/download/217291252.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s5> <http://purl.org/dc/terms/publisher> "Science 330(6004), 686-688 (2010), PubMed record" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s5> <http://purl.org/dc/terms/title> "Evidence for a collective intelligence factor in the performance of human groups" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s5> <https://schema.org/url> "https://pubmed.ncbi.nlm.nih.gov/20929725/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <http://purl.org/dc/terms/publisher> "Carnegie Mellon University news release via EurekAlert! (AAAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <http://purl.org/dc/terms/title> "News release on the Science study of collective intelligence in groups" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://schema.org/url> "https://www.eurekalert.org/news-releases/639223" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://purl.org/dc/terms/title> "Groupthink" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
