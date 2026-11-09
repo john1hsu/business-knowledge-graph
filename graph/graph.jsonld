@@ -1198,6 +1198,87 @@
       ]
     },
     {
+      "@id": "kt:razor-and-blades-model",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Razor and Blades",
+      "skos:definition": "A business model in which a firm sells a durable base product cheaply, sometimes below cost, and earns its profit on the consumables or complements that customers must buy repeatedly to use it.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Razors-and-Blades Myth(s)",
+          "dcterms:publisher": "University of Chicago Law Review 78 (2011)",
+          "schema:url": "https://lawreview.uchicago.edu/sites/default/files/78-1-Razors-and-Blades%20Myth%28s%29-Picker.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Pricing the Razor: A Note on Two-Part Tariffs",
+          "dcterms:publisher": "International Journal of Industrial Organization 42 (2015) (MIT Sloan author copy)",
+          "schema:url": "https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4217",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Retail Competition and the Dynamics of Demand for Tied Goods",
+          "dcterms:publisher": "Stanford Graduate School of Business (Marketing Science)",
+          "schema:url": "https://www.gsb.stanford.edu/index%2ephp/node/327246",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Retail Competition and the Dynamics of Consumer Demand for Tied Goods (Working Paper No. 1990)",
+          "dcterms:publisher": "Stanford Graduate School of Business",
+          "schema:url": "https://www.gsb.stanford.edu/index%2ephp/node/318896",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "HP Inc. Form 10-K for the fiscal year ended October 31, 2023",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000100/hpq-20231031.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-models/razor-and-blades-model.md",
+      "skos:altLabel": [
+        "razor-and-blades model",
+        "razor and blade model",
+        "bait and hook model",
+        "razors-and-blades pricing"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:pricing-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:price-discrimination"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:freemium"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:gillette"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ]
+    },
+    {
       "@id": "kt:saas-business-model",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Software as a Service",

@@ -1156,6 +1156,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/oecd-recommendation-on-public-procurement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/agreement-on-government-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2000/01/rdf-schema#label> "Razor and Blades" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#altLabel> "bait and hook model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#altLabel> "razor and blade model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#altLabel> "razor-and-blades model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#altLabel> "razors-and-blades pricing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#definition> "A business model in which a firm sells a durable base product cheaply, sometimes below cost, and earns its profit on the consumables or complements that customers must buy repeatedly to use it." .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Razor and Blades" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gillette> .
+<https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2000/01/rdf-schema#label> "Software as a Service" .
@@ -2518,6 +2541,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://schema.org/url> "https://nber.org/papers/w23350" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <http://purl.org/dc/terms/publisher> "University of Chicago Law Review 78 (2011)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <http://purl.org/dc/terms/title> "The Razors-and-Blades Myth(s)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <https://schema.org/url> "https://lawreview.uchicago.edu/sites/default/files/78-1-Razors-and-Blades%20Myth%28s%29-Picker.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s2> <http://purl.org/dc/terms/publisher> "International Journal of Industrial Organization 42 (2015) (MIT Sloan author copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s2> <http://purl.org/dc/terms/title> "Pricing the Razor: A Note on Two-Part Tariffs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s2> <https://schema.org/url> "https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4217" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s3> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business (Marketing Science)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s3> <http://purl.org/dc/terms/title> "Retail Competition and the Dynamics of Demand for Tied Goods" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s3> <https://schema.org/url> "https://www.gsb.stanford.edu/index%2ephp/node/327246" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s4> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s4> <http://purl.org/dc/terms/title> "Retail Competition and the Dynamics of Consumer Demand for Tied Goods (Working Paper No. 1990)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s4> <https://schema.org/url> "https://www.gsb.stanford.edu/index%2ephp/node/318896" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <http://purl.org/dc/terms/title> "HP Inc. Form 10-K for the fiscal year ended October 31, 2023" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/47217/000004721723000100/hpq-20231031.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (Peter Mell and Timothy Grance), 2011" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://purl.org/dc/terms/title> "The NIST Definition of Cloud Computing (SP 800-145)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

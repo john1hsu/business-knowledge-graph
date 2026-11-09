@@ -989,6 +989,27 @@
     ]
   },
   {
+    "id": "kt:razor-and-blades-model",
+    "title": "Razor and Blades",
+    "aliases": [
+      "razor-and-blades model",
+      "razor and blade model",
+      "bait and hook model",
+      "razors-and-blades pricing"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/razor-and-blades-model.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://lawreview.uchicago.edu/sites/default/files/78-1-Razors-and-Blades%20Myth%28s%29-Picker.pdf",
+      "https://mitsloan.mit.edu/shared/ods/documents?DocumentID=4217",
+      "https://www.gsb.stanford.edu/index%2ephp/node/327246",
+      "https://www.gsb.stanford.edu/index%2ephp/node/318896",
+      "https://www.sec.gov/Archives/edgar/data/47217/000004721723000100/hpq-20231031.htm"
+    ]
+  },
+  {
     "id": "kt:saas-business-model",
     "title": "Software as a Service",
     "aliases": [
