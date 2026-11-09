@@ -960,6 +960,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/exploration-and-exploitation-in-organizational-learning-1991> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Drucker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#altLabel> "Peter F. Drucker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#altLabel> "Peter Ferdinand Drucker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#definition> "Austrian-born American writer, professor and adviser (1909-2005) who treated management as a discipline in its own right, introduced management by objectives, coined the term \"knowledge worker\" and framed each company's \"theory of the business\"." .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#prefLabel> "Peter Drucker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/general-motors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/knowledge-worker> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
+<https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-business> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2000/01/rdf-schema#label> "Psychological Safety" .
@@ -2140,6 +2162,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <https://schema.org/url> "https://www.gsb.stanford.edu/insights/secrets-corporate-longevity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://purl.org/dc/terms/title> "Peter F. Drucker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <https://schema.org/url> "https://www.britannica.com/biography/Peter-F-Drucker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s2> <http://purl.org/dc/terms/publisher> "Drucker Institute, Claremont Graduate University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s2> <http://purl.org/dc/terms/title> "Peter Drucker's Life and Legacy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s2> <https://schema.org/url> "https://drucker.institute/?p=929" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s3> <http://purl.org/dc/terms/publisher> "Academy of Management Review 6(2), 1981 (Ronald G. Greenwood)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s3> <http://purl.org/dc/terms/title> "Management by Objectives: As Developed by Peter Drucker, Assisted by Harold Smiddy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s3> <https://schema.org/url> "https://www.scilit.net/publications/5e8155cc14b5b22026b8675d0e0ab02f" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s4> <http://purl.org/dc/terms/publisher> "Drucker Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s4> <http://purl.org/dc/terms/title> "Archivist's Pick: The Birth of the Theory of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s4> <https://schema.org/url> "https://drucker.institute/?p=13742" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s5> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s5> <http://purl.org/dc/terms/title> "Deming's 14 points" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s5> <https://schema.org/url> "https://www.ifm.eng.cam.ac.uk/research/dstools/demings-14-points/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <http://purl.org/dc/terms/publisher> "Journal of Management History 29(3), 2023 (Karen Linkletter and Pooya Tabesh)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <http://purl.org/dc/terms/title> "\"When asked what I do, I say: 'I write'\": a systematic text analysis of Peter Drucker's writings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/JMH-04-2022-0011/full/html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 44(2), 1999 (copy hosted by MIT)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

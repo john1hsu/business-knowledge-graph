@@ -821,6 +821,26 @@
     ]
   },
   {
+    "id": "kt:peter-drucker",
+    "title": "Peter Drucker",
+    "aliases": [
+      "Peter F. Drucker",
+      "Peter Ferdinand Drucker"
+    ],
+    "type": "Person",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/peter-drucker.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.britannica.com/biography/Peter-F-Drucker",
+      "https://drucker.institute/?p=929",
+      "https://www.scilit.net/publications/5e8155cc14b5b22026b8675d0e0ab02f",
+      "https://drucker.institute/?p=13742",
+      "https://www.ifm.eng.cam.ac.uk/research/dstools/demings-14-points/",
+      "https://emerald.com/insight/content/doi/10.1108/JMH-04-2022-0011/full/html"
+    ]
+  },
+  {
     "id": "kt:psychological-safety",
     "title": "Psychological Safety",
     "aliases": [

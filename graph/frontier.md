@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
+| `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
@@ -31,12 +32,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
-| `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
@@ -115,7 +116,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm` | `kt:kodak-decline` |
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
-| `kt:general-motors` | `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
@@ -136,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:kanban-method` | `kt:kanban` |
+| `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:littles-law` | `kt:kanban` |
@@ -143,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
+| `kt:management-theory` | `kt:peter-drucker` |
 | `kt:manufacturing-resource-planning` | `kt:material-requirements-planning` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
@@ -214,6 +216,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:kodak-decline` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
+| `kt:theory-of-the-business` | `kt:peter-drucker` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:toyota-motor-corporation` | `kt:kanban` |
@@ -223,6 +226,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
+| `kt:w-edwards-deming` | `kt:peter-drucker` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |

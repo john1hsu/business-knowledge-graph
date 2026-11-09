@@ -2911,6 +2911,87 @@
       ]
     },
     {
+      "@id": "kt:peter-drucker",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Peter Drucker",
+      "skos:definition": "Austrian-born American writer, professor and adviser (1909-2005) who treated management as a discipline in its own right, introduced management by objectives, coined the term \"knowledge worker\" and framed each company's \"theory of the business\".",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Peter F. Drucker",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/biography/Peter-F-Drucker",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Peter Drucker's Life and Legacy",
+          "dcterms:publisher": "Drucker Institute, Claremont Graduate University",
+          "schema:url": "https://drucker.institute/?p=929",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Management by Objectives: As Developed by Peter Drucker, Assisted by Harold Smiddy",
+          "dcterms:publisher": "Academy of Management Review 6(2), 1981 (Ronald G. Greenwood)",
+          "schema:url": "https://www.scilit.net/publications/5e8155cc14b5b22026b8675d0e0ab02f",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Archivist's Pick: The Birth of the Theory of Business",
+          "dcterms:publisher": "Drucker Institute",
+          "schema:url": "https://drucker.institute/?p=13742",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Deming's 14 points",
+          "dcterms:publisher": "Institute for Manufacturing, University of Cambridge",
+          "schema:url": "https://www.ifm.eng.cam.ac.uk/research/dstools/demings-14-points/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "\"When asked what I do, I say: 'I write'\": a systematic text analysis of Peter Drucker's writings",
+          "dcterms:publisher": "Journal of Management History 29(3), 2023 (Karen Linkletter and Pooya Tabesh)",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/JMH-04-2022-0011/full/html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/peter-drucker.md",
+      "skos:altLabel": [
+        "Peter F. Drucker",
+        "Peter Ferdinand Drucker"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:general-motors"
+        },
+        {
+          "@id": "kt:w-edwards-deming"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:management-by-objectives"
+        },
+        {
+          "@id": "kt:knowledge-worker"
+        },
+        {
+          "@id": "kt:theory-of-the-business"
+        }
+      ]
+    },
+    {
       "@id": "kt:antitrust-law",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Antitrust Law",
