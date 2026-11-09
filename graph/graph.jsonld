@@ -3508,6 +3508,111 @@
       ]
     },
     {
+      "@id": "kt:cannibalization",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Cannibalization",
+      "skos:definition": "The loss of sales, revenue or profit on a firm's existing products when its own new product, line extension or channel draws away their customers; it shapes line-extension, channel and innovation decisions.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The measurement of cannibalization",
+          "dcterms:publisher": "Marketing Intelligence & Planning 14(7), Emerald",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/02634509610152673/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Estimating the Innovator's Dilemma: Structural Analysis of Creative Destruction in the Hard Disk Drive Industry, 1981–1998",
+          "dcterms:publisher": "Journal of Political Economy 125(3) (RePEc/EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:ucp:jpolec:doi:10.1086/691524",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Estimating the Innovator's Dilemma: A Q&A with Yale Economist Mitsuru Igami",
+          "dcterms:publisher": "Yale University Department of Economics",
+          "schema:url": "https://economics.yale.edu/news/170613/estimating-innovators-dilemma-qa-yale-economist-mitsuru-igami",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How Cannibalistic Is the Internet Channel? A Study of the Newspaper Industry in the United Kingdom and the Netherlands (ERS-2002-22-MKT)",
+          "dcterms:publisher": "Erasmus Research Institute of Management (ERIM) Report Series",
+          "schema:url": "https://repub.eur.nl/pub/171/ERS-2002-22-MKT.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Incumbent's Curse? Incumbency, Size, and Radical Product Innovation",
+          "dcterms:publisher": "Journal of Marketing 64(3) (copy hosted by Duke University)",
+          "schema:url": "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Chandy%20and%20Tellis.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Best Companies Aren't Afraid to Replace Their Most Profitable Products",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/the-best-companies-aren-t-afraid-to-replace-their-most-profitable-products/H0307I",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/marketing/cannibalization.md",
+      "skos:altLabel": [
+        "market cannibalization",
+        "sales cannibalization",
+        "product cannibalization",
+        "self-cannibalization",
+        "cannibalisation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:product-line-strategy"
+        },
+        {
+          "@id": "kt:new-product-development"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:innovators-dilemma"
+        },
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:freemium"
+        },
+        {
+          "@id": "kt:saas-business-model"
+        },
+        {
+          "@id": "kt:creative-destruction"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:cross-price-elasticity"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:innovators-dilemma"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:line-extension"
+        },
+        {
+          "@id": "kt:multichannel-retailing"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:hard-disk-drive-industry"
+        }
+      ]
+    },
+    {
       "@id": "kt:customer-lifetime-value",
       "@type": "kto:Metric",
       "skos:prefLabel": "Customer Lifetime Value",

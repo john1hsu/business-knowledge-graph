@@ -10,6 +10,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:business-model` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
@@ -31,7 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
-| `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
+| `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
@@ -76,7 +77,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
-| `kt:cannibalization` | `kt:innovators-dilemma` |
 | `kt:capital-asset-pricing-model` | `kt:weighted-average-cost-of-capital` |
 | `kt:capital-budgeting` | `kt:weighted-average-cost-of-capital` |
 | `kt:carl-shapiro` | `kt:network-effect` |
@@ -97,7 +97,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
-| `kt:cross-price-elasticity` | `kt:price-elasticity` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-j-teece` | `kt:dynamic-capabilities` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
@@ -137,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
+| `kt:hard-disk-drive-industry` | `kt:cannibalization` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
@@ -158,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
+| `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
@@ -178,10 +179,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
+| `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
+| `kt:new-product-development` | `kt:cannibalization` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
@@ -198,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:procurement` | `kt:public-procurement` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
+| `kt:product-line-strategy` | `kt:cannibalization` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |

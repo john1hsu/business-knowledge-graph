@@ -239,6 +239,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/mass-customization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/cisco-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2000/01/rdf-schema#label> "Cannibalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#altLabel> "cannibalisation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#altLabel> "market cannibalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#altLabel> "product cannibalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#altLabel> "sales cannibalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#altLabel> "self-cannibalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/product-line-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#definition> "The loss of sales, revenue or profit on a firm's existing products when its own new product, line extension or channel draws away their customers; it shapes line-extension, channel and innovation decisions." .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cannibalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/line-extension> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/multichannel-retailing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hard-disk-drive-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/cross-price-elasticity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton Christensen" .
@@ -1521,6 +1551,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/49784" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s1> <http://purl.org/dc/terms/publisher> "Marketing Intelligence & Planning 14(7), Emerald" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s1> <http://purl.org/dc/terms/title> "The measurement of cannibalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s1> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/02634509610152673/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s2> <http://purl.org/dc/terms/publisher> "Journal of Political Economy 125(3) (RePEc/EconPapers record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s2> <http://purl.org/dc/terms/title> "Estimating the Innovator's Dilemma: Structural Analysis of Creative Destruction in the Hard Disk Drive Industry, 1981–1998" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:ucp:jpolec:doi:10.1086/691524" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s3> <http://purl.org/dc/terms/publisher> "Yale University Department of Economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s3> <http://purl.org/dc/terms/title> "Estimating the Innovator's Dilemma: A Q&A with Yale Economist Mitsuru Igami" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s3> <https://schema.org/url> "https://economics.yale.edu/news/170613/estimating-innovators-dilemma-qa-yale-economist-mitsuru-igami" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s4> <http://purl.org/dc/terms/publisher> "Erasmus Research Institute of Management (ERIM) Report Series" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s4> <http://purl.org/dc/terms/title> "How Cannibalistic Is the Internet Channel? A Study of the Newspaper Industry in the United Kingdom and the Netherlands (ERS-2002-22-MKT)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s4> <https://schema.org/url> "https://repub.eur.nl/pub/171/ERS-2002-22-MKT.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing 64(3) (copy hosted by Duke University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s5> <http://purl.org/dc/terms/title> "The Incumbent's Curse? Incumbency, Size, and Radical Product Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s5> <https://schema.org/url> "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Chandy%20and%20Tellis.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <http://purl.org/dc/terms/title> "The Best Companies Aren't Afraid to Replace Their Most Profitable Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <https://schema.org/url> "https://store.hbr.org/product/the-best-companies-aren-t-afraid-to-replace-their-most-profitable-products/H0307I" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/title> "Clayton M. Christensen, Acclaimed Author and Teacher, Dies at 67" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

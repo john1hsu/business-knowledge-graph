@@ -209,6 +209,29 @@
     ]
   },
   {
+    "id": "kt:cannibalization",
+    "title": "Cannibalization",
+    "aliases": [
+      "market cannibalization",
+      "sales cannibalization",
+      "product cannibalization",
+      "self-cannibalization",
+      "cannibalisation"
+    ],
+    "type": "Concept",
+    "domain": "marketing",
+    "file": "articles/marketing/cannibalization.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.emerald.com/insight/content/doi/10.1108/02634509610152673/full/html",
+      "https://econpapers.repec.org/RePEc:ucp:jpolec:doi:10.1086/691524",
+      "https://economics.yale.edu/news/170613/estimating-innovators-dilemma-qa-yale-economist-mitsuru-igami",
+      "https://repub.eur.nl/pub/171/ERS-2002-22-MKT.pdf",
+      "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Chandy%20and%20Tellis.pdf",
+      "https://store.hbr.org/product/the-best-companies-aren-t-afraid-to-replace-their-most-profitable-products/H0307I"
+    ]
+  },
+  {
     "id": "kt:clayton-christensen",
     "title": "Clayton Christensen",
     "aliases": [
