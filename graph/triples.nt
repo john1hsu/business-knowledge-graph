@@ -598,6 +598,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-solution> .
 <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2000/01/rdf-schema#label> "Intel" .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#altLabel> "Intel Corp." .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#altLabel> "Intel Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/semiconductor-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#definition> "The Santa Clara semiconductor company founded in 1968 by Robert Noyce and Gordon Moore, best known in management research for its 1985 exit from the memory business it had pioneered, its pivot to microprocessors, the \"Intel Inside\" ingredient-branding program and its later struggle to rebuild manufacturing leadership as a foundry." .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#prefLabel> "Intel" .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/andy-grove> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/gordon-moore> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-noyce> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/ingredient-branding> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/semiconductor-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2000/01/rdf-schema#label> "Kanban" .
@@ -1594,6 +1620,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s5> <https://schema.org/url> "https://www.christenseninstitute.org/about/clayton-christensen/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s1> <http://purl.org/dc/terms/publisher> "Computer History Museum" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s1> <http://purl.org/dc/terms/title> "What Happened on July 18th: Intel incorporated" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s1> <https://schema.org/url> "https://www.computerhistory.org/tdih/July/18/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s2> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 39(1), 24–56 (1994); record at Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s2> <http://purl.org/dc/terms/title> "Fading Memories: A Process Theory of Strategic Business Exit in Dynamic Environments" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s2> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/publications/fading-memories-process-theory-strategic-business-exit-dynamic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s3> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s3> <http://purl.org/dc/terms/title> "Intel Corporation (C): Strategy for the 1990's (case BP256C)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s3> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/case-studies/intel-corporation-c-strategy-1990s" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s4> <http://purl.org/dc/terms/publisher> "Business History Review 93(2), 349–373 (2019), Cambridge University Press" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s4> <http://purl.org/dc/terms/title> "Confronting the Japanese Challenge: The Revival of Manufacturing at Intel" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s4> <https://schema.org/url> "https://www.cambridge.org/core/journals/business-history-review/article/confronting-the-japanese-challenge-the-revival-of-manufacturing-at-intel/E54925E8879CC197E5FAC73435E00681" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s5> <http://purl.org/dc/terms/publisher> "Intel Corporation (company history archive)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s5> <http://purl.org/dc/terms/title> "Ingredient Branding: End-User Marketing and Intel Inside" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s5> <https://schema.org/url> "https://intel.com/content/www/us/en/history/virtual-vault/articles/end-user-marketing-intel-inside.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <http://purl.org/dc/terms/title> "Intel Corporation, Form 10-K for fiscal year ended December 27, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/publisher> "Toyota UK Magazine (Toyota GB)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/title> "Kanban: Toyota Production System guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

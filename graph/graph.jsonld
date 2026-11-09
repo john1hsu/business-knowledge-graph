@@ -916,6 +916,103 @@
       ]
     },
     {
+      "@id": "kt:intel",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Intel",
+      "skos:definition": "The Santa Clara semiconductor company founded in 1968 by Robert Noyce and Gordon Moore, best known in management research for its 1985 exit from the memory business it had pioneered, its pivot to microprocessors, the \"Intel Inside\" ingredient-branding program and its later struggle to rebuild manufacturing leadership as a foundry.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What Happened on July 18th: Intel incorporated",
+          "dcterms:publisher": "Computer History Museum",
+          "schema:url": "https://www.computerhistory.org/tdih/July/18/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Fading Memories: A Process Theory of Strategic Business Exit in Dynamic Environments",
+          "dcterms:publisher": "Administrative Science Quarterly 39(1), 24–56 (1994); record at Stanford Graduate School of Business",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/publications/fading-memories-process-theory-strategic-business-exit-dynamic",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Intel Corporation (C): Strategy for the 1990's (case BP256C)",
+          "dcterms:publisher": "Stanford Graduate School of Business",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/case-studies/intel-corporation-c-strategy-1990s",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Confronting the Japanese Challenge: The Revival of Manufacturing at Intel",
+          "dcterms:publisher": "Business History Review 93(2), 349–373 (2019), Cambridge University Press",
+          "schema:url": "https://www.cambridge.org/core/journals/business-history-review/article/confronting-the-japanese-challenge-the-revival-of-manufacturing-at-intel/E54925E8879CC197E5FAC73435E00681",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Ingredient Branding: End-User Marketing and Intel Inside",
+          "dcterms:publisher": "Intel Corporation (company history archive)",
+          "schema:url": "https://intel.com/content/www/us/en/history/virtual-vault/articles/end-user-marketing-intel-inside.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Intel Corporation, Form 10-K for fiscal year ended December 27, 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/intel.md",
+      "skos:altLabel": [
+        "Intel Corporation",
+        "Intel Corp."
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:semiconductor-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:innovators-dilemma"
+        },
+        {
+          "@id": "kt:andy-grove"
+        },
+        {
+          "@id": "kt:kodak-decline"
+        },
+        {
+          "@id": "kt:ibm-turnaround"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:robert-noyce"
+        },
+        {
+          "@id": "kt:gordon-moore"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:strategic-renewal"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:ingredient-branding"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:semiconductor-industry"
+        }
+      ]
+    },
+    {
       "@id": "kt:kodak-decline",
       "@type": "kto:Case",
       "skos:prefLabel": "Kodak Decline",

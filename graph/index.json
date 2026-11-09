@@ -524,6 +524,26 @@
     ]
   },
   {
+    "id": "kt:intel",
+    "title": "Intel",
+    "aliases": [
+      "Intel Corporation",
+      "Intel Corp."
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/intel.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.computerhistory.org/tdih/July/18/",
+      "https://www.gsb.stanford.edu/faculty-research/publications/fading-memories-process-theory-strategic-business-exit-dynamic",
+      "https://www.gsb.stanford.edu/faculty-research/case-studies/intel-corporation-c-strategy-1990s",
+      "https://www.cambridge.org/core/journals/business-history-review/article/confronting-the-japanese-challenge-the-revival-of-manufacturing-at-intel/E54925E8879CC197E5FAC73435E00681",
+      "https://intel.com/content/www/us/en/history/virtual-vault/articles/end-user-marketing-intel-inside.html",
+      "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm"
+    ]
+  },
+  {
     "id": "kt:kanban",
     "title": "Kanban",
     "aliases": [

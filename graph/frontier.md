@@ -18,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
+| `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
@@ -25,7 +26,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:intel` | `kt:innovators-dilemma`, `kt:okrs` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
@@ -39,13 +39,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
+| `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:amy-edmondson` | `kt:psychological-safety` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
-| `kt:andy-grove` | `kt:okrs` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:aristotle` | `kt:mece-principle` |
@@ -105,6 +106,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:goal-setting-theory` | `kt:okrs` |
 | `kt:google` | `kt:okrs` |
 | `kt:google-project-aristotle` | `kt:psychological-safety` |
+| `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
 | `kt:henry-ford` | `kt:ford-model-t` |
@@ -114,6 +116,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hypothesis-driven-problem-solving` | `kt:mece-principle` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:inventory-management` | `kt:material-requirements-planning` |
 | `kt:irving-janis` | `kt:groupthink` |
@@ -169,6 +172,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
+| `kt:robert-noyce` | `kt:intel` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:sherman-act` | `kt:antitrust-law` |
@@ -178,7 +182,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management` | `kt:dynamic-capabilities` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
-| `kt:strategic-renewal` | `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:okrs` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
