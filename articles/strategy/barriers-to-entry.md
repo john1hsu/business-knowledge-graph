@@ -9,7 +9,7 @@ summary: >-
   hard or unprofitable for new firms to enter a market, allowing incumbents to sustain prices or
   profits above competitive levels.
 broader: [kt:market-structure]
-related: [kt:economies-of-scale, kt:network-effect, kt:switching-costs]
+related: [kt:economies-of-scale, kt:network-effect, kt:switching-costs, kt:first-mover-advantage]
 relations:
   - {predicate: partOf, object: kt:porters-five-forces}
   - {predicate: studiedIn, object: kt:industrial-organization}

@@ -4412,6 +4412,9 @@
         },
         {
           "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:first-mover-advantage"
         }
       ],
       "kto:partOf": [
@@ -4522,6 +4525,87 @@
       "kto:contrastsWith": [
         {
           "@id": "kt:porters-five-forces"
+        }
+      ]
+    },
+    {
+      "@id": "kt:first-mover-advantage",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "First-Mover Advantage",
+      "skos:definition": "The proposition that the first firm to enter a new product market can earn durable advantages, such as preempted resources, learning-cost leads and customer switching costs, over later entrants; research shows these gains are conditional and often offset by first-mover disadvantages.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "First-mover advantages",
+          "dcterms:publisher": "Strategic Management Journal 9(S1):41-58 (record at RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v9y1988is1p41-58.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "First-Mover Advantages (Stanford GSB Working Paper No. 969)",
+          "dcterms:publisher": "Stanford Graduate School of Business",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/working-papers/first-mover-advantages",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Pioneer Advantage: Marketing Logic or Marketing Legend?",
+          "dcterms:publisher": "Journal of Marketing Research 30(2):158-170 (copy hosted by Duke University)",
+          "schema:url": "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Golder%20and%20Tellis.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Timing, Order and Durability of New Product Advantages with Imitation",
+          "dcterms:publisher": "Strategic Management Journal 21:23-30 (copy via CORE)",
+          "schema:url": "https://core.ac.uk/download/206011685.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How First-Mover Advantage, Once Unquestioned, Lost Its Grip on Entrepreneurs and Business Researchers",
+          "dcterms:publisher": "UCLA Anderson Review",
+          "schema:url": "https://anderson-review.ucla.edu/how-first-mover-advantage-once-unquestioned-lost-its-grip-on-entrepreneurs-and-business-researchers/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/strategy/first-mover-advantage.md",
+      "skos:altLabel": [
+        "first-mover advantages",
+        "pioneer advantage",
+        "pioneering advantage",
+        "order-of-entry effect"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:competitive-advantage"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:economies-of-scale"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fast-follower-strategy"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:experience-curve"
         }
       ]
     }

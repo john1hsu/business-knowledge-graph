@@ -398,6 +398,27 @@
     ]
   },
   {
+    "id": "kt:first-mover-advantage",
+    "title": "First-Mover Advantage",
+    "aliases": [
+      "first-mover advantages",
+      "pioneer advantage",
+      "pioneering advantage",
+      "order-of-entry effect"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/first-mover-advantage.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://ideas.repec.org/a/bla/stratm/v9y1988is1p41-58.html",
+      "https://www.gsb.stanford.edu/faculty-research/working-papers/first-mover-advantages",
+      "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Golder%20and%20Tellis.pdf",
+      "https://core.ac.uk/download/206011685.pdf",
+      "https://anderson-review.ucla.edu/how-first-mover-advantage-once-unquestioned-lost-its-grip-on-entrepreneurs-and-business-researchers/"
+    ]
+  },
+  {
     "id": "kt:ford-model-t",
     "title": "Ford Model T",
     "aliases": [

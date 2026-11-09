@@ -5,9 +5,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:switching-costs` | `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
-| `kt:switching-costs` | `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
@@ -87,6 +87,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
+| `kt:competitive-advantage` | `kt:first-mover-advantage` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance` |
@@ -115,8 +116,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
+| `kt:experience-curve` | `kt:first-mover-advantage` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
+| `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:fault-tree-analysis` | `kt:issue-tree` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |

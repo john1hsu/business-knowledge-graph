@@ -155,6 +155,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#definition> "Legal, technological, cost or market conditions, and deliberate incumbent behaviour, that make it hard or unprofitable for new firms to enter a market, allowing incumbents to sustain prices or profits above competitive levels." .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barriers to Entry" .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s1> .
@@ -453,6 +454,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
 <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/defense-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2000/01/rdf-schema#label> "First-Mover Advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "first-mover advantages" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "order-of-entry effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "pioneer advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "pioneering advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#definition> "The proposition that the first firm to enter a new product market can earn durable advantages, such as preempted resources, learning-cost leads and customer switching costs, over later entrants; research shows these gains are conditional and often offset by first-mover disadvantages." .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#prefLabel> "First-Mover Advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/fast-follower-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2000/01/rdf-schema#label> "Ford Model T" .
@@ -1693,6 +1717,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/federal-acquisition-regulation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/federal-acquisition-regulation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/federal-acquisition-regulation/s6> <https://schema.org/url> "https://www.gao.gov/blog/snapshot-government-wide-contracting-fy-2025-interactive-dashboard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 9(S1):41-58 (record at RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <http://purl.org/dc/terms/title> "First-mover advantages" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v9y1988is1p41-58.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s2> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s2> <http://purl.org/dc/terms/title> "First-Mover Advantages (Stanford GSB Working Paper No. 969)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s2> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/working-papers/first-mover-advantages" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s3> <http://purl.org/dc/terms/publisher> "Journal of Marketing Research 30(2):158-170 (copy hosted by Duke University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s3> <http://purl.org/dc/terms/title> "Pioneer Advantage: Marketing Logic or Marketing Legend?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s3> <https://schema.org/url> "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%205/Golder%20and%20Tellis.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s4> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 21:23-30 (copy via CORE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s4> <http://purl.org/dc/terms/title> "Timing, Order and Durability of New Product Advantages with Imitation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s4> <https://schema.org/url> "https://core.ac.uk/download/206011685.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <http://purl.org/dc/terms/publisher> "UCLA Anderson Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <http://purl.org/dc/terms/title> "How First-Mover Advantage, Once Unquestioned, Lost Its Grip on Entrepreneurs and Business Researchers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <https://schema.org/url> "https://anderson-review.ucla.edu/how-first-mover-advantage-once-unquestioned-lost-its-grip-on-entrepreneurs-and-business-researchers/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://purl.org/dc/terms/title> "Model T" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
