@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
+| `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:public-procurement` |
 | `kt:razor-and-blades-model` | `kt:kodak-decline`, `kt:freemium`, `kt:two-sided-market` |
@@ -26,7 +27,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:google-project-aristotle` | `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
@@ -35,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
-| `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
@@ -46,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
-| `kt:amy-edmondson` | `kt:psychological-safety` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
@@ -64,6 +65,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:change-management` | `kt:ibm-turnaround` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
+| `kt:chris-argyris` | `kt:amy-edmondson` |
 | `kt:churn-rate` | `kt:saas-business-model` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
@@ -107,12 +109,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:general-motors` | `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs` |
 | `kt:google` | `kt:okrs` |
-| `kt:google-project-aristotle` | `kt:psychological-safety` |
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
 | `kt:henry-ford` | `kt:ford-model-t` |
-| `kt:high-performance-teams` | `kt:psychological-safety` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
 | `kt:hypothesis-driven-problem-solving` | `kt:mece-principle` |
@@ -120,9 +120,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
+| `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:inventory-management` | `kt:material-requirements-planning` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:issue-tree` | `kt:mece-principle` |
+| `kt:j-richard-hackman` | `kt:amy-edmondson` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:kanban-method` | `kt:kanban` |
@@ -155,6 +157,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
+| `kt:organizational-behavior` | `kt:amy-edmondson` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
@@ -196,6 +199,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |
 | `kt:team-learning` | `kt:psychological-safety` |
+| `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technological-disruption` | `kt:kodak-decline` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |

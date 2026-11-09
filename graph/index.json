@@ -42,6 +42,25 @@
     ]
   },
   {
+    "id": "kt:amy-edmondson",
+    "title": "Amy Edmondson",
+    "aliases": [
+      "Amy C. Edmondson"
+    ],
+    "type": "Person",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/amy-edmondson.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.gsd.harvard.edu/person/amy-c-edmondson-ab-81-am-95-phd-96",
+      "https://dash.harvard.edu/entities/publication/13a7b031-0fdd-45ec-a7e0-2b80e2bc679f",
+      "https://psnet.ahrq.gov/issue/learning-mistakes-easier-said-done-group-and-organizational-influences-detection-and",
+      "https://www.library.hbs.edu/working-knowledge/teaming-in-the-twenty-first-century",
+      "https://www.publishersweekly.com/9781982195069",
+      "https://experts.arizona.edu/en/publications/thick-as-thieves-the-effects-of-ethical-orientation-and-psycholog/"
+    ]
+  },
+  {
     "id": "kt:antitrust-law",
     "title": "Antitrust Law",
     "aliases": [

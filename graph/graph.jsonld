@@ -3347,6 +3347,94 @@
       ]
     },
     {
+      "@id": "kt:amy-edmondson",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Amy Edmondson",
+      "skos:definition": "Harvard Business School's Novartis Professor of Leadership and Management, whose field research on hospital and manufacturing teams introduced team psychological safety and the idea of \"teaming\", and whose later work offers a typology for learning from failure.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Amy C. Edmondson (AB '81, AM '95, PhD '96)",
+          "dcterms:publisher": "Harvard Graduate School of Design",
+          "schema:url": "https://www.gsd.harvard.edu/person/amy-c-edmondson-ab-81-am-95-phd-96",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Psychological Safety and Learning Behavior in Work Teams",
+          "dcterms:publisher": "Administrative Science Quarterly 44(2), 1999 (Harvard DASH record)",
+          "schema:url": "https://dash.harvard.edu/entities/publication/13a7b031-0fdd-45ec-a7e0-2b80e2bc679f",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Learning from Mistakes is Easier Said Than Done: Group and Organizational Influences on the Detection and Correction of Human Error",
+          "dcterms:publisher": "Agency for Healthcare Research and Quality, PSNet",
+          "schema:url": "https://psnet.ahrq.gov/issue/learning-mistakes-easier-said-done-group-and-organizational-influences-detection-and",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Teaming in the Twenty-First Century",
+          "dcterms:publisher": "Harvard Business School, Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/teaming-in-the-twenty-first-century",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Right Kind of Wrong: The Science of Failing Well (review)",
+          "dcterms:publisher": "Publishers Weekly",
+          "schema:url": "https://www.publishersweekly.com/9781982195069",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "Thick as Thieves: The Effects of Ethical Orientation and Psychological Safety on Unethical Team Behavior",
+          "dcterms:publisher": "Journal of Applied Psychology 96(2), 2011 (University of Arizona research record)",
+          "schema:url": "https://experts.arizona.edu/en/publications/thick-as-thieves-the-effects-of-ethical-orientation-and-psycholog/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/amy-edmondson.md",
+      "skos:altLabel": [
+        "Amy C. Edmondson"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-behavior"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organizational-learning"
+        },
+        {
+          "@id": "kt:high-performance-teams"
+        },
+        {
+          "@id": "kt:google-project-aristotle"
+        },
+        {
+          "@id": "kt:groupthink"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:psychological-safety"
+        },
+        {
+          "@id": "kt:teaming"
+        },
+        {
+          "@id": "kt:intelligent-failure"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:j-richard-hackman"
+        },
+        {
+          "@id": "kt:chris-argyris"
+        }
+      ]
+    },
+    {
       "@id": "kt:groupthink",
       "@type": "kto:Theory",
       "skos:prefLabel": "Groupthink",

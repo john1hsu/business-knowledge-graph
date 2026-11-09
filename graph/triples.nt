@@ -47,6 +47,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm-jensen-meckling-1976> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2000/01/rdf-schema#label> "Amy Edmondson" .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#altLabel> "Amy C. Edmondson" .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#definition> "Harvard Business School's Novartis Professor of Leadership and Management, whose field research on hospital and manufacturing teams introduced team psychological safety and the idea of \"teaming\", and whose later work offers a typology for learning from failure." .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#prefLabel> "Amy Edmondson" .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/intelligent-failure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/teaming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/chris-argyris> .
+<https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2000/01/rdf-schema#label> "Antitrust Law" .
@@ -1021,6 +1044,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://schema.org/url> "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://purl.org/dc/terms/publisher> "Harvard Graduate School of Design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://purl.org/dc/terms/title> "Amy C. Edmondson (AB '81, AM '95, PhD '96)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <https://schema.org/url> "https://www.gsd.harvard.edu/person/amy-c-edmondson-ab-81-am-95-phd-96" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s2> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 44(2), 1999 (Harvard DASH record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s2> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s2> <https://schema.org/url> "https://dash.harvard.edu/entities/publication/13a7b031-0fdd-45ec-a7e0-2b80e2bc679f" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s3> <http://purl.org/dc/terms/publisher> "Agency for Healthcare Research and Quality, PSNet" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s3> <http://purl.org/dc/terms/title> "Learning from Mistakes is Easier Said Than Done: Group and Organizational Influences on the Detection and Correction of Human Error" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s3> <https://schema.org/url> "https://psnet.ahrq.gov/issue/learning-mistakes-easier-said-done-group-and-organizational-influences-detection-and" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s4> <http://purl.org/dc/terms/title> "Teaming in the Twenty-First Century" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s4> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/teaming-in-the-twenty-first-century" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s5> <http://purl.org/dc/terms/publisher> "Publishers Weekly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s5> <http://purl.org/dc/terms/title> "Right Kind of Wrong: The Science of Failing Well (review)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s5> <https://schema.org/url> "https://www.publishersweekly.com/9781982195069" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s6> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology 96(2), 2011 (University of Arizona research record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s6> <http://purl.org/dc/terms/title> "Thick as Thieves: The Effects of Ethical Orientation and Psychological Safety on Unethical Team Behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s6> <https://schema.org/url> "https://experts.arizona.edu/en/publications/thick-as-thieves-the-effects-of-ethical-orientation-and-psycholog/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <http://purl.org/dc/terms/publisher> "Federal Trade Commission" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <http://purl.org/dc/terms/title> "The Antitrust Laws" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
