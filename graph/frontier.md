@@ -16,6 +16,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
+| `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
 | `kt:clayton-christensen` | `kt:disruptive-innovation`, `kt:innovators-dilemma` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
@@ -49,8 +50,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:barbara-minto` | `kt:mece-principle` |
+| `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:bill-of-materials` | `kt:material-requirements-planning` |
-| `kt:board-of-directors` | `kt:corporate-governance` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-model` | `kt:freemium` |
@@ -74,6 +75,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
+| `kt:devils-advocacy` | `kt:groupthink` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
@@ -99,7 +101,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:okrs` |
 | `kt:google-project-aristotle` | `kt:psychological-safety` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:groupthink` | `kt:psychological-safety` |
+| `kt:group-decision-making` | `kt:groupthink` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:high-performance-teams` | `kt:psychological-safety` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
@@ -109,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:inventory-management` | `kt:material-requirements-planning` |
+| `kt:irving-janis` | `kt:groupthink` |
 | `kt:issue-tree` | `kt:mece-principle` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jobs-to-be-done` | `kt:disruptive-innovation` |
@@ -162,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:sherman-act` | `kt:antitrust-law` |
+| `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
@@ -183,6 +187,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |
+| `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:weighted-average-cost-of-capital` | `kt:modigliani-miller-theorem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |

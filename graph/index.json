@@ -380,6 +380,27 @@
     ]
   },
   {
+    "id": "kt:groupthink",
+    "title": "Groupthink",
+    "aliases": [
+      "groupthink theory",
+      "Janis groupthink model",
+      "concurrence-seeking tendency"
+    ],
+    "type": "Theory",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/groupthink.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.britannica.com/technology/groupthink",
+      "https://core.ac.uk/download/232755725.pdf",
+      "https://sbp-journal.com/index.php/sbp/article/view/444",
+      "https://www.regent.edu/journal/emerging-leadership-journeys/groupthink-theory/",
+      "https://scilit.com/publications/224f0ade156235dc89f1052b999a8432",
+      "https://emerald.com/insight/content/doi/10.1108/00251741011068761"
+    ]
+  },
+  {
     "id": "kt:ibm-turnaround",
     "title": "IBM Turnaround",
     "aliases": [

@@ -2898,6 +2898,99 @@
       ]
     },
     {
+      "@id": "kt:groupthink",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Groupthink",
+      "skos:definition": "A mode of thinking in cohesive groups in which the drive for unanimity overrides realistic appraisal of alternatives, producing defective decisions; formulated by Irving Janis in his 1972 book Victims of Groupthink and still debated for its weak empirical support.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Groupthink",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/groupthink",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Groupthink and the Classroom: Changing Familiar Patterns to Encourage Critical Thought",
+          "dcterms:publisher": "Journal of Instructional Psychology 19(2), 1992 (University of Richmond repository via CORE)",
+          "schema:url": "https://core.ac.uk/download/232755725.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Groupthink: Effects of cohesiveness and problem-solving procedures on group decision making",
+          "dcterms:publisher": "Social Behavior and Personality 12(2), 1984",
+          "schema:url": "https://sbp-journal.com/index.php/sbp/article/view/444",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Diverse Perspectives on the Groupthink Theory – A Literary Review",
+          "dcterms:publisher": "Emerging Leadership Journeys 4(1), Regent University, 2011",
+          "schema:url": "https://www.regent.edu/journal/emerging-leadership-journeys/groupthink-theory/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Social Identity Maintenance Prescriptions for Preventing Groupthink: Reducing Identity Protection and Enhancing Intellectual Conflict",
+          "dcterms:publisher": "International Journal of Conflict Management 5(3), 1994",
+          "schema:url": "https://scilit.com/publications/224f0ade156235dc89f1052b999a8432",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The grounding of the \"flying bank\"",
+          "dcterms:publisher": "Management Decision 48(7), 2010",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/00251741011068761",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/groupthink.md",
+      "skos:altLabel": [
+        "groupthink theory",
+        "Janis groupthink model",
+        "concurrence-seeking tendency"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:group-decision-making"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:devils-advocacy"
+        },
+        {
+          "@id": "kt:social-identity-theory"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:irving-janis"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:victims-of-groupthink"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:bay-of-pigs-invasion"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:psychological-safety"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:board-of-directors"
+        }
+      ]
+    },
+    {
       "@id": "kt:psychological-safety",
       "@type": "kto:Concept",
       "skos:prefLabel": "Psychological Safety",

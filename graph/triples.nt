@@ -433,6 +433,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2000/01/rdf-schema#label> "Groupthink" .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#altLabel> "Janis groupthink model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#altLabel> "concurrence-seeking tendency" .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#altLabel> "groupthink theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#definition> "A mode of thinking in cohesive groups in which the drive for unanimity overrides realistic appraisal of alternatives, producing defective decisions; formulated by Irving Janis in his 1972 book Victims of Groupthink and still debated for its weak empirical support." .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groupthink" .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/social-identity-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/irving-janis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/bay-of-pigs-invasion> .
+<https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/victims-of-groupthink> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <http://www.w3.org/2000/01/rdf-schema#label> "IBM Turnaround" .
@@ -1288,6 +1312,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://purl.org/dc/terms/title> "Groupthink" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <https://schema.org/url> "https://www.britannica.com/technology/groupthink" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s2> <http://purl.org/dc/terms/publisher> "Journal of Instructional Psychology 19(2), 1992 (University of Richmond repository via CORE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s2> <http://purl.org/dc/terms/title> "Groupthink and the Classroom: Changing Familiar Patterns to Encourage Critical Thought" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s2> <https://schema.org/url> "https://core.ac.uk/download/232755725.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s3> <http://purl.org/dc/terms/publisher> "Social Behavior and Personality 12(2), 1984" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s3> <http://purl.org/dc/terms/title> "Groupthink: Effects of cohesiveness and problem-solving procedures on group decision making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s3> <https://schema.org/url> "https://sbp-journal.com/index.php/sbp/article/view/444" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s4> <http://purl.org/dc/terms/publisher> "Emerging Leadership Journeys 4(1), Regent University, 2011" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s4> <http://purl.org/dc/terms/title> "Diverse Perspectives on the Groupthink Theory – A Literary Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s4> <https://schema.org/url> "https://www.regent.edu/journal/emerging-leadership-journeys/groupthink-theory/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s5> <http://purl.org/dc/terms/publisher> "International Journal of Conflict Management 5(3), 1994" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s5> <http://purl.org/dc/terms/title> "Social Identity Maintenance Prescriptions for Preventing Groupthink: Reducing Identity Protection and Enhancing Intellectual Conflict" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s5> <https://schema.org/url> "https://scilit.com/publications/224f0ade156235dc89f1052b999a8432" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <http://purl.org/dc/terms/publisher> "Management Decision 48(7), 2010" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <http://purl.org/dc/terms/title> "The grounding of the \"flying bank\"" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/00251741011068761" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <http://purl.org/dc/terms/publisher> "IBM / U.S. Securities and Exchange Commission filing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <http://purl.org/dc/terms/title> "International Business Machines Corp., Form 10-K for fiscal year 1993 (incl. 1993 Annual Report financial section)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
