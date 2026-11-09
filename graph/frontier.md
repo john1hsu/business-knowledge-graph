@@ -41,18 +41,22 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
+| `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
+| `kt:pricing-strategy` | `kt:freemium`, `kt:price-elasticity` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
+| `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
+| `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:aristotle` | `kt:mece-principle` |
@@ -86,6 +90,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
+| `kt:cross-price-elasticity` | `kt:price-elasticity` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value` |
 | `kt:david-j-teece` | `kt:dynamic-capabilities` |
@@ -164,7 +169,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
-| `kt:microeconomics` | `kt:industrial-organization` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
@@ -181,7 +185,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
-| `kt:pricing-strategy` | `kt:freemium` |
+| `kt:price-discrimination` | `kt:price-elasticity` |
+| `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:procurement` | `kt:public-procurement` |
@@ -217,6 +222,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |
+| `kt:tax-incidence` | `kt:price-elasticity` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle` |
 | `kt:team-learning` | `kt:psychological-safety` |
 | `kt:teaming` | `kt:amy-edmondson` |

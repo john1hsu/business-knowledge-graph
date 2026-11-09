@@ -1008,6 +1008,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/knowledge-worker> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-business> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2000/01/rdf-schema#label> "Price Elasticity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#altLabel> "PED" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#altLabel> "own-price elasticity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#altLabel> "price elasticity of demand" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#altLabel> "price sensitivity of demand" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#definition> "The percentage change in quantity demanded divided by the percentage change in price; it tells a firm whether a price change will raise or lower revenue and is the core input to pricing decisions." .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Price Elasticity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cross-price-elasticity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/advertising-elasticity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/tax-incidence> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/principles-of-economics-marshall> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2000/01/rdf-schema#label> "Psychological Safety" .
@@ -2248,6 +2274,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/JMH-04-2022-0011/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/publisher> "Library of Economics and Liberty (Liberty Fund)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/title> "Principles of Economics, Book III, Chapter IV: The Elasticity of Wants (8th ed., 1920)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <https://schema.org/url> "https://www.econlib.org/library/Marshall/marP12.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s2> <http://purl.org/dc/terms/title> "5.3 Elasticity and Pricing — Principles of Economics 3e" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s2> <https://schema.org/url> "https://openstax.org/books/principles-economics-3e/pages/5-3-elasticity-and-pricing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s3> <http://purl.org/dc/terms/publisher> "Lumen Learning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s3> <http://purl.org/dc/terms/title> "Calculating Price Elasticities Using the Midpoint Formula (adapted from OpenStax)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s3> <https://schema.org/url> "https://courses.lumenlearning.com/wm-microeconomics/?p=8807" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s4> <http://purl.org/dc/terms/publisher> "Marketing Science Institute (working paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s4> <http://purl.org/dc/terms/title> "The Price Elasticity of Selective Demand: A Meta-Analysis of Sales Response Models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s4> <https://schema.org/url> "https://www.msi.org/working-papers/the-price-elasticity-of-selective-demand-a-metaanalysis-of-sales-response-models/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing Research 42(2) (University of Groningen research portal)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s5> <http://purl.org/dc/terms/title> "New Empirical Generalizations on the Determinants of Price Elasticity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s5> <https://schema.org/url> "https://research.rug.nl/en/publications/new-empirical-generalizations-on-the-determinants-of-price-elasti/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review (copy hosted by UNC Charlotte)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <http://purl.org/dc/terms/title> "Managing Price, Gaining Profit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <https://schema.org/url> "https://pages.charlotte.edu/wp-content/uploads/sites/868/2014/12/ManagingPrice.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 44(2), 1999 (copy hosted by MIT)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

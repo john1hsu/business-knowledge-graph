@@ -862,6 +862,28 @@
     ]
   },
   {
+    "id": "kt:price-elasticity",
+    "title": "Price Elasticity",
+    "aliases": [
+      "price elasticity of demand",
+      "own-price elasticity",
+      "PED",
+      "price sensitivity of demand"
+    ],
+    "type": "Metric",
+    "domain": "marketing",
+    "file": "articles/marketing/price-elasticity.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.econlib.org/library/Marshall/marP12.html",
+      "https://openstax.org/books/principles-economics-3e/pages/5-3-elasticity-and-pricing",
+      "https://courses.lumenlearning.com/wm-microeconomics/?p=8807",
+      "https://www.msi.org/working-papers/the-price-elasticity-of-selective-demand-a-metaanalysis-of-sales-response-models/",
+      "https://research.rug.nl/en/publications/new-empirical-generalizations-on-the-determinants-of-price-elasti/",
+      "https://pages.charlotte.edu/wp-content/uploads/sites/868/2014/12/ManagingPrice.pdf"
+    ]
+  },
+  {
     "id": "kt:psychological-safety",
     "title": "Psychological Safety",
     "aliases": [

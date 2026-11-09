@@ -3503,6 +3503,101 @@
       ]
     },
     {
+      "@id": "kt:price-elasticity",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Price Elasticity",
+      "skos:definition": "The percentage change in quantity demanded divided by the percentage change in price; it tells a firm whether a price change will raise or lower revenue and is the core input to pricing decisions.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Economics, Book III, Chapter IV: The Elasticity of Wants (8th ed., 1920)",
+          "dcterms:publisher": "Library of Economics and Liberty (Liberty Fund)",
+          "schema:url": "https://www.econlib.org/library/Marshall/marP12.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "5.3 Elasticity and Pricing — Principles of Economics 3e",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-economics-3e/pages/5-3-elasticity-and-pricing",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Calculating Price Elasticities Using the Midpoint Formula (adapted from OpenStax)",
+          "dcterms:publisher": "Lumen Learning",
+          "schema:url": "https://courses.lumenlearning.com/wm-microeconomics/?p=8807",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Price Elasticity of Selective Demand: A Meta-Analysis of Sales Response Models",
+          "dcterms:publisher": "Marketing Science Institute (working paper)",
+          "schema:url": "https://www.msi.org/working-papers/the-price-elasticity-of-selective-demand-a-metaanalysis-of-sales-response-models/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "New Empirical Generalizations on the Determinants of Price Elasticity",
+          "dcterms:publisher": "Journal of Marketing Research 42(2) (University of Groningen research portal)",
+          "schema:url": "https://research.rug.nl/en/publications/new-empirical-generalizations-on-the-determinants-of-price-elasti/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Managing Price, Gaining Profit",
+          "dcterms:publisher": "Harvard Business Review (copy hosted by UNC Charlotte)",
+          "schema:url": "https://pages.charlotte.edu/wp-content/uploads/sites/868/2014/12/ManagingPrice.pdf",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/marketing/price-elasticity.md",
+      "skos:altLabel": [
+        "price elasticity of demand",
+        "own-price elasticity",
+        "PED",
+        "price sensitivity of demand"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:pricing-strategy"
+        },
+        {
+          "@id": "kt:microeconomics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:price-discrimination"
+        },
+        {
+          "@id": "kt:cross-price-elasticity"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:alfred-marshall"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:principles-of-economics-marshall"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:tax-incidence"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:advertising-elasticity"
+        }
+      ]
+    },
+    {
       "@id": "kt:segmentation-targeting-positioning",
       "@type": "kto:Framework",
       "skos:prefLabel": "Segmentation, Targeting and Positioning",
