@@ -1843,6 +1843,103 @@
       ]
     },
     {
+      "@id": "kt:weighted-average-cost-of-capital",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Weighted Average Cost of Capital",
+      "skos:definition": "A firm's blended required return on its capital, computed by weighting the after-tax cost of debt, the cost of preferred stock and the cost of common equity by their shares of the capital structure; it is widely used as the discount rate or hurdle rate for investments of average company risk.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 17.3: Calculating the Weighted Average Cost of Capital",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/17-3-calculating-the-weighted-average-cost-of-capital",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Accounting, Volume 2, Section 12.3: Evaluate an Operating Segment or a Project Using Return on Investment, Residual Income, and Economic Value Added",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/12-3-evaluate-an-operating-segment-or-a-project-using-return-on-investment-residual-income-and-economic-value-added",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Theory and Practice of Corporate Finance: Evidence from the Field",
+          "dcterms:publisher": "Journal of Financial Economics (Scholars@Duke record)",
+          "schema:url": "https://scholars.duke.edu/publication/774079",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How Do CFOs Make Capital Budgeting and Capital Structure Decisions?",
+          "dcterms:publisher": "Journal of Applied Corporate Finance (author copy, Duke University)",
+          "schema:url": "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Cross-Section of Hurdle Rates for Capital Budgeting: An Empirical Analysis of Survey Data",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 16770",
+          "schema:url": "https://www.nber.org/papers/w16770.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The WACC Fallacy: The Real Effects of Using a Unique Discount Rate",
+          "dcterms:publisher": "Journal of Finance (RePEc/EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:jfinan:v:70:y:2015:i:3:p:1253-1285",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/weighted-average-cost-of-capital.md",
+      "skos:altLabel": [
+        "WACC",
+        "blended cost of capital",
+        "firm-wide cost of capital"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:cost-of-capital"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        },
+        {
+          "@id": "kt:capital-structure"
+        },
+        {
+          "@id": "kt:discounted-cash-flow"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:economic-value-added"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:capital-asset-pricing-model"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:capital-budgeting"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:hurdle-rate"
+        }
+      ]
+    },
+    {
       "@id": "kt:best-value-tradeoff",
       "@type": "kto:Practice",
       "skos:prefLabel": "Best-Value Tradeoff",

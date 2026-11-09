@@ -4,11 +4,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:switching-costs` | `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
-| `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
+| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
@@ -26,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
-| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
@@ -65,6 +65,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:cannibalization` | `kt:innovators-dilemma` |
+| `kt:capital-asset-pricing-model` | `kt:weighted-average-cost-of-capital` |
+| `kt:capital-budgeting` | `kt:weighted-average-cost-of-capital` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:change-management` | `kt:ibm-turnaround` |
@@ -79,6 +81,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
+| `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-structure` | `kt:economies-of-scale` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
@@ -92,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
+| `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
@@ -121,6 +125,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
+| `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:ingredient-branding` | `kt:intel` |
@@ -215,7 +220,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
-| `kt:weighted-average-cost-of-capital` | `kt:modigliani-miller-theorem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |

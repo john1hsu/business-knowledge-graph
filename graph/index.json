@@ -925,5 +925,26 @@
       "https://www.oecd.org/en/publications/two-sided-markets_1ab6f5f3-en.html",
       "https://www.law.cornell.edu/supremecourt/text/16-1454"
     ]
+  },
+  {
+    "id": "kt:weighted-average-cost-of-capital",
+    "title": "Weighted Average Cost of Capital",
+    "aliases": [
+      "WACC",
+      "blended cost of capital",
+      "firm-wide cost of capital"
+    ],
+    "type": "Metric",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/weighted-average-cost-of-capital.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/17-3-calculating-the-weighted-average-cost-of-capital",
+      "https://openstax.org/books/principles-managerial-accounting/pages/12-3-evaluate-an-operating-segment-or-a-project-using-return-on-investment-residual-income-and-economic-value-added",
+      "https://scholars.duke.edu/publication/774079",
+      "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf",
+      "https://www.nber.org/papers/w16770.pdf",
+      "https://econpapers.repec.org/RePEc:bla:jfinan:v:70:y:2015:i:3:p:1253-1285"
+    ]
   }
 ]
