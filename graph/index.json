@@ -333,6 +333,27 @@
     ]
   },
   {
+    "id": "kt:enterprise-resource-planning",
+    "title": "Enterprise Resource Planning",
+    "aliases": [
+      "ERP",
+      "ERP system",
+      "enterprise system"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/enterprise-resource-planning.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://futurelearn.com/info/courses/supply-chain-innovation/0/steps/19205",
+      "https://www.sap.com/about/company/history.html",
+      "https://www.scheller.gatech.edu/directory/research/information-technology-management/wu/pdf/hitt_wu_zhou_jmis_2002.pdf",
+      "https://core.ac.uk/download/301377569.pdf",
+      "https://jbt.sljol.info/articles/109",
+      "https://www.cio.com/article/270245/supply-chain-management-supply-chain-hershey-s-bittersweet-lesson.html"
+    ]
+  },
+  {
     "id": "kt:esg",
     "title": "ESG",
     "aliases": [

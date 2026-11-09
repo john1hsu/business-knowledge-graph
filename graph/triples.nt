@@ -379,6 +379,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Enterprise Resource Planning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "ERP system" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "ERP" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "enterprise system" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/information-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/production-planning-and-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#definition> "The use of a single, packaged, integrated software system with a shared database to run a firm's core transactions and processes across functions such as manufacturing, supply chain, sales, finance and human resources; it grew out of MRP and MRP II, and the term was coined by Gartner in the early 1990s." .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enterprise Resource Planning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-process-reengineering> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-relationship-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hershey-erp-implementation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/manufacturing-resource-planning> .
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <http://www.w3.org/2000/01/rdf-schema#label> "ESG" .
@@ -1632,6 +1658,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://schema.org/url> "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://purl.org/dc/terms/publisher> "University of Twente (via FutureLearn)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://purl.org/dc/terms/title> "Introduction to ERP systems (Supply Chain Innovation course)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <https://schema.org/url> "https://futurelearn.com/info/courses/supply-chain-innovation/0/steps/19205" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s2> <http://purl.org/dc/terms/publisher> "SAP SE" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s2> <http://purl.org/dc/terms/title> "SAP History" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s2> <https://schema.org/url> "https://www.sap.com/about/company/history.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s3> <http://purl.org/dc/terms/publisher> "Journal of Management Information Systems (via Georgia Tech Scheller College of Business)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s3> <http://purl.org/dc/terms/title> "Investment in Enterprise Resource Planning: Business Impact and Productivity Measures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s3> <https://schema.org/url> "https://www.scheller.gatech.edu/directory/research/information-technology-management/wu/pdf/hitt_wu_zhou_jmis_2002.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s4> <http://purl.org/dc/terms/publisher> "Communications of the Association for Information Systems (via CORE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s4> <http://purl.org/dc/terms/title> "Embedding the Enterprise System into the Enterprise: A Model of Corporate Diffusion" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s4> <https://schema.org/url> "https://core.ac.uk/download/301377569.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s5> <http://purl.org/dc/terms/publisher> "Journal of Business and Technology" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s5> <http://purl.org/dc/terms/title> "Critical Failure Factors in ERP Implementation: A Systematic Literature Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s5> <https://schema.org/url> "https://jbt.sljol.info/articles/109" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s6> <http://purl.org/dc/terms/publisher> "CIO" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s6> <http://purl.org/dc/terms/title> "Supply Chain: Hershey's Bittersweet Lesson" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s6> <https://schema.org/url> "https://www.cio.com/article/270245/supply-chain-management-supply-chain-hershey-s-bittersweet-lesson.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <http://purl.org/dc/terms/publisher> "UN Global Compact / International Finance Corporation (World Bank Group)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <http://purl.org/dc/terms/title> "Who Cares Wins: One Year On — A Review of the Integration of Environmental, Social and Governance Value Drivers in Asset Management, Financial Research and Investment Processes" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

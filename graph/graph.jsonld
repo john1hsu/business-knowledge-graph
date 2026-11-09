@@ -3778,6 +3778,103 @@
       ]
     },
     {
+      "@id": "kt:enterprise-resource-planning",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Enterprise Resource Planning",
+      "skos:definition": "The use of a single, packaged, integrated software system with a shared database to run a firm's core transactions and processes across functions such as manufacturing, supply chain, sales, finance and human resources; it grew out of MRP and MRP II, and the term was coined by Gartner in the early 1990s.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Introduction to ERP systems (Supply Chain Innovation course)",
+          "dcterms:publisher": "University of Twente (via FutureLearn)",
+          "schema:url": "https://futurelearn.com/info/courses/supply-chain-innovation/0/steps/19205",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "SAP History",
+          "dcterms:publisher": "SAP SE",
+          "schema:url": "https://www.sap.com/about/company/history.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Investment in Enterprise Resource Planning: Business Impact and Productivity Measures",
+          "dcterms:publisher": "Journal of Management Information Systems (via Georgia Tech Scheller College of Business)",
+          "schema:url": "https://www.scheller.gatech.edu/directory/research/information-technology-management/wu/pdf/hitt_wu_zhou_jmis_2002.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Embedding the Enterprise System into the Enterprise: A Model of Corporate Diffusion",
+          "dcterms:publisher": "Communications of the Association for Information Systems (via CORE)",
+          "schema:url": "https://core.ac.uk/download/301377569.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Critical Failure Factors in ERP Implementation: A Systematic Literature Review",
+          "dcterms:publisher": "Journal of Business and Technology",
+          "schema:url": "https://jbt.sljol.info/articles/109",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Supply Chain: Hershey's Bittersweet Lesson",
+          "dcterms:publisher": "CIO",
+          "schema:url": "https://www.cio.com/article/270245/supply-chain-management-supply-chain-hershey-s-bittersweet-lesson.html",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/enterprise-resource-planning.md",
+      "skos:altLabel": [
+        "ERP",
+        "ERP system",
+        "enterprise system"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:production-planning-and-control"
+        },
+        {
+          "@id": "kt:information-systems"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bill-of-materials"
+        },
+        {
+          "@id": "kt:inventory-management"
+        },
+        {
+          "@id": "kt:customer-relationship-management"
+        },
+        {
+          "@id": "kt:business-process-reengineering"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:material-requirements-planning"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:manufacturing-resource-planning"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:bill-of-materials"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:sap"
+        },
+        {
+          "@id": "kt:hershey-erp-implementation"
+        }
+      ]
+    },
+    {
       "@id": "kt:kanban",
       "@type": "kto:Practice",
       "skos:prefLabel": "Kanban",

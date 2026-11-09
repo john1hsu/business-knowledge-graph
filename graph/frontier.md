@@ -13,11 +13,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
+| `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:public-procurement` |
+| `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:razor-and-blades-model` | `kt:kodak-decline`, `kt:freemium`, `kt:two-sided-market` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
@@ -30,16 +32,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
+| `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
-| `kt:enterprise-resource-planning` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:inventory-management` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
+| `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
@@ -49,7 +51,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:price-elasticity` |
-| `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
@@ -72,6 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ecosystem` | `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
+| `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:cannibalization` | `kt:innovators-dilemma` |
@@ -97,7 +99,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:economies-of-scale` |
 | `kt:cross-price-elasticity` | `kt:price-elasticity` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
-| `kt:customer-relationship-management` | `kt:customer-lifetime-value` |
 | `kt:david-j-teece` | `kt:dynamic-capabilities` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
@@ -136,11 +137,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
 | `kt:henry-ford` | `kt:ford-model-t` |
+| `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
@@ -160,7 +163,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
 | `kt:management-theory` | `kt:peter-drucker` |
-| `kt:manufacturing-resource-planning` | `kt:material-requirements-planning` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
@@ -210,6 +212,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:root-cause-analysis` | `kt:issue-tree` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:salesforce` | `kt:saas-business-model` |
+| `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:sherman-act` | `kt:antitrust-law` |
