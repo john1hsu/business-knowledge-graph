@@ -1198,6 +1198,100 @@
       ]
     },
     {
+      "@id": "kt:saas-business-model",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Software as a Service",
+      "skos:definition": "A business model in which a vendor runs an application on its own cloud infrastructure and sells customers access to it over a network, usually for a recurring subscription or usage-based fee, instead of selling a perpetual licence to install and maintain the software themselves.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The NIST Definition of Cloud Computing (SP 800-145)",
+          "dcterms:publisher": "National Institute of Standards and Technology (Peter Mell and Timothy Grance), 2011",
+          "schema:url": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Cloud Computing and SaaS as New Computing Platforms",
+          "dcterms:publisher": "Communications of the ACM (Michael A. Cusumano), 2010, doi:10.1145/1721654.1721667",
+          "schema:url": "https://cacm.acm.org/opinion/cloud-computing-and-saas-as-new-computing-platforms",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Salesforce, Inc. Form 10-K for the fiscal year ended January 31, 2026",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Software-as-a-Service Revenue Models",
+          "dcterms:publisher": "IT Professional 15(3), 2013 (Arto Ojala; JYX repository record), doi:10.1109/MITP.2012.73",
+          "schema:url": "https://jyx.jyu.fi/handle/123456789/38554",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Software as a Service",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Software-as-a-Service",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/business-models/saas-business-model.md",
+      "skos:altLabel": [
+        "SaaS",
+        "SaaS business model",
+        "software-as-a-service model",
+        "hosted software model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:subscription-business-model"
+        },
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:freemium"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:cloud-computing"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:perpetual-software-license"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:salesforce"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:churn-rate"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:switching-costs"
+        }
+      ]
+    },
+    {
       "@id": "kt:two-sided-market",
       "@type": "kto:Concept",
       "skos:prefLabel": "Two-Sided Market",

@@ -5,6 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
+| `kt:switching-costs` | `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem` |
@@ -16,10 +17,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:razor-and-blades-model` | `kt:kodak-decline`, `kt:freemium`, `kt:two-sided-market` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement` |
-| `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
+| `kt:business-model` | `kt:freemium`, `kt:saas-business-model` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
@@ -56,7 +57,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ecosystem` | `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
-| `kt:business-model` | `kt:freemium` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:cannibalization` | `kt:innovators-dilemma` |
@@ -64,7 +64,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:change-management` | `kt:ibm-turnaround` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
+| `kt:churn-rate` | `kt:saas-business-model` |
 | `kt:clayton-act` | `kt:antitrust-law` |
+| `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
@@ -155,6 +157,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operational-effectiveness` | `kt:benchmarking` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
+| `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
@@ -174,6 +177,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
+| `kt:salesforce` | `kt:saas-business-model` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:social-identity-theory` | `kt:groupthink` |
@@ -187,6 +191,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stretch-goals` | `kt:okrs` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
 | `kt:structured-problem-solving` | `kt:mece-principle` |
+| `kt:subscription-business-model` | `kt:saas-business-model` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |

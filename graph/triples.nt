@@ -909,6 +909,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/oecd-recommendation-on-public-procurement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/agreement-on-government-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2000/01/rdf-schema#label> "Software as a Service" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "SaaS business model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "SaaS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "hosted software model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "software-as-a-service model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/subscription-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#definition> "A business model in which a vendor runs an application on its own cloud infrastructure and sells customers access to it over a network, usually for a recurring subscription or usage-based fee, instead of selling a perpetual licence to install and maintain the software themselves." .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Software as a Service" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/perpetual-software-license> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/cloud-computing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/salesforce> .
+<https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/2000/01/rdf-schema#label> "Segmentation, Targeting and Positioning" .
@@ -1955,6 +1981,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://schema.org/url> "https://nber.org/papers/w23350" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (Peter Mell and Timothy Grance), 2011" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://purl.org/dc/terms/title> "The NIST Definition of Cloud Computing (SP 800-145)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <https://schema.org/url> "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s2> <http://purl.org/dc/terms/publisher> "Communications of the ACM (Michael A. Cusumano), 2010, doi:10.1145/1721654.1721667" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s2> <http://purl.org/dc/terms/title> "Cloud Computing and SaaS as New Computing Platforms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s2> <https://schema.org/url> "https://cacm.acm.org/opinion/cloud-computing-and-saas-as-new-computing-platforms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s3> <http://purl.org/dc/terms/title> "Salesforce, Inc. Form 10-K for the fiscal year ended January 31, 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s3> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s4> <http://purl.org/dc/terms/publisher> "IT Professional 15(3), 2013 (Arto Ojala; JYX repository record), doi:10.1109/MITP.2012.73" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s4> <http://purl.org/dc/terms/title> "Software-as-a-Service Revenue Models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s4> <https://schema.org/url> "https://jyx.jyu.fi/handle/123456789/38554" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <http://purl.org/dc/terms/title> "Software as a Service" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <https://schema.org/url> "https://www.britannica.com/topic/Software-as-a-Service" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/publisher> "The Wharton School, University of Pennsylvania (faculty paper)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/title> "Market segmentation (Chapter 11, The Marketing Book)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

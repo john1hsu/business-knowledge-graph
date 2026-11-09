@@ -778,6 +778,27 @@
     ]
   },
   {
+    "id": "kt:saas-business-model",
+    "title": "Software as a Service",
+    "aliases": [
+      "SaaS",
+      "SaaS business model",
+      "software-as-a-service model",
+      "hosted software model"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/saas-business-model.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf",
+      "https://cacm.acm.org/opinion/cloud-computing-and-saas-as-new-computing-platforms",
+      "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm",
+      "https://jyx.jyu.fi/handle/123456789/38554",
+      "https://www.britannica.com/topic/Software-as-a-Service"
+    ]
+  },
+  {
     "id": "kt:segmentation-targeting-positioning",
     "title": "Segmentation, Targeting and Positioning",
     "aliases": [
