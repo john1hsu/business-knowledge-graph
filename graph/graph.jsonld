@@ -1738,6 +1738,103 @@
       ]
     },
     {
+      "@id": "kt:arbitrage",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Arbitrage",
+      "skos:definition": "The simultaneous purchase and sale of the same or equivalent assets in different markets or forms to profit from a price difference; in finance theory, the assumption that such riskless profits cannot persist underpins valuation results from the Modigliani-Miller theorem to option pricing.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Arbitrage (finance)",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://britannica.com/money/arbitrage-finance",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Cost of Capital, Corporation Finance and the Theory of Investment",
+          "dcterms:publisher": "American Economic Review (AEA Top 20 reprint)",
+          "schema:url": "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 1997",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (NobelPrize.org)",
+          "schema:url": "https://www.nobelprize.org/prizes/economic-sciences/1997/press-release/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Limits of Arbitrage",
+          "dcterms:publisher": "The Journal of Finance, 52(1), 35-55 (author copy)",
+          "schema:url": "https://ms.mcmaster.ca/%7Egrasselli/ShleiferVishny97.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How are Stock Prices Affected by the Location of Trade?",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 6572",
+          "schema:url": "https://www.nber.org/papers/w6572",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "RDP 2003-06: The Characteristics and Trading Behaviour of Dual-Listed Companies",
+          "dcterms:publisher": "Reserve Bank of Australia",
+          "schema:url": "https://www.rba.gov.au/publications/rdp/2003/2003-06/introduction.html",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/arbitrage.md",
+      "skos:altLabel": [
+        "riskless arbitrage",
+        "pure arbitrage",
+        "no-arbitrage principle"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-finance"
+        },
+        {
+          "@id": "kt:asset-pricing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        },
+        {
+          "@id": "kt:efficient-market-hypothesis"
+        },
+        {
+          "@id": "kt:law-of-one-price"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:behavioral-finance"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:merger-arbitrage"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:black-scholes-model"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:royal-dutch-shell-twin-shares"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:limits-to-arbitrage"
+        }
+      ]
+    },
+    {
       "@id": "kt:leveraged-buyout",
       "@type": "kto:Practice",
       "skos:prefLabel": "Leveraged Buyout",

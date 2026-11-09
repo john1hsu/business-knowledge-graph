@@ -94,6 +94,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/merger-guidelines> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/sherman-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2000/01/rdf-schema#label> "Arbitrage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#altLabel> "no-arbitrage principle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#altLabel> "pure arbitrage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#altLabel> "riskless arbitrage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/asset-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#definition> "The simultaneous purchase and sale of the same or equivalent assets in different markets or forms to profit from a price difference; in finance theory, the assumption that such riskless profits cannot persist underpins valuation results from the Modigliani-Miller theorem to option pricing." .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arbitrage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/law-of-one-price> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/limits-to-arbitrage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/royal-dutch-shell-twin-shares> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/merger-arbitrage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/black-scholes-model> .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2000/01/rdf-schema#label> "Balanced Scorecard" .
@@ -1202,6 +1228,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://schema.org/url> "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <http://purl.org/dc/terms/title> "Arbitrage (finance)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <https://schema.org/url> "https://britannica.com/money/arbitrage-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s2> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s2> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s2> <https://schema.org/url> "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s3> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (NobelPrize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s3> <http://purl.org/dc/terms/title> "Press release: The Prize in Economic Sciences 1997" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s3> <https://schema.org/url> "https://www.nobelprize.org/prizes/economic-sciences/1997/press-release/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s4> <http://purl.org/dc/terms/publisher> "The Journal of Finance, 52(1), 35-55 (author copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s4> <http://purl.org/dc/terms/title> "The Limits of Arbitrage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s4> <https://schema.org/url> "https://ms.mcmaster.ca/%7Egrasselli/ShleiferVishny97.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s5> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 6572" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s5> <http://purl.org/dc/terms/title> "How are Stock Prices Affected by the Location of Trade?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s5> <https://schema.org/url> "https://www.nber.org/papers/w6572" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <http://purl.org/dc/terms/publisher> "Reserve Bank of Australia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <http://purl.org/dc/terms/title> "RDP 2003-06: The Characteristics and Trading Behaviour of Dual-Listed Companies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <https://schema.org/url> "https://www.rba.gov.au/publications/rdp/2003/2003-06/introduction.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/title> "The Balanced Scorecard: Measures That Drive Performance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

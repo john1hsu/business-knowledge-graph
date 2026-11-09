@@ -82,6 +82,27 @@
     ]
   },
   {
+    "id": "kt:arbitrage",
+    "title": "Arbitrage",
+    "aliases": [
+      "riskless arbitrage",
+      "pure arbitrage",
+      "no-arbitrage principle"
+    ],
+    "type": "Concept",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/arbitrage.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://britannica.com/money/arbitrage-finance",
+      "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf",
+      "https://www.nobelprize.org/prizes/economic-sciences/1997/press-release/",
+      "https://ms.mcmaster.ca/%7Egrasselli/ShleiferVishny97.pdf",
+      "https://www.nber.org/papers/w6572",
+      "https://www.rba.gov.au/publications/rdp/2003/2003-06/introduction.html"
+    ]
+  },
+  {
     "id": "kt:balanced-scorecard",
     "title": "Balanced Scorecard",
     "aliases": [

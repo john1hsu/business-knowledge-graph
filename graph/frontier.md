@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
-| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:switching-costs` | `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
@@ -55,11 +55,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
-| `kt:arbitrage` | `kt:modigliani-miller-theorem` |
 | `kt:aristotle` | `kt:mece-principle` |
+| `kt:asset-pricing` | `kt:arbitrage` |
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
+| `kt:behavioral-finance` | `kt:arbitrage` |
 | `kt:bill-of-materials` | `kt:material-requirements-planning` |
+| `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-ecosystem` | `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
@@ -100,6 +102,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
+| `kt:efficient-market-hypothesis` | `kt:arbitrage` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:enterprise-resource-planning` | `kt:material-requirements-planning` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
@@ -137,8 +140,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
+| `kt:law-of-one-price` | `kt:arbitrage` |
 | `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
+| `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:littles-law` | `kt:kanban` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
@@ -153,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:master-production-schedule` | `kt:material-requirements-planning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
+| `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:mergers-and-acquisitions` | `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
@@ -192,6 +198,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:root-cause-analysis` | `kt:issue-tree` |
+| `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:salesforce` | `kt:saas-business-model` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
