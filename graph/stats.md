@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **42**
-- Frontier nodes (referenced, unwritten): **211**
-- Edges: **406**
-- Citations: **233**
+- Articles (nodes written): **43**
+- Frontier nodes (referenced, unwritten): **214**
+- Edges: **415**
+- Citations: **238**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,34 +12,34 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:industrial-organization` | 0.0073 | yes |
-| `kt:disruptive-innovation` | 0.0063 | yes |
-| `kt:network-effect` | 0.0063 | yes |
-| `kt:innovators-dilemma` | 0.0061 | yes |
-| `kt:barriers-to-entry` | 0.0061 | yes |
-| `kt:organizational-ambidexterity` | 0.0058 | yes |
-| `kt:innovation-management` | 0.0056 | no |
-| `kt:economies-of-scale` | 0.0056 | yes |
-| `kt:two-sided-market` | 0.0055 | yes |
-| `kt:agency-costs` | 0.0055 | yes |
+| `kt:industrial-organization` | 0.0071 | yes |
+| `kt:disruptive-innovation` | 0.0062 | yes |
+| `kt:network-effect` | 0.0062 | yes |
+| `kt:innovators-dilemma` | 0.0060 | yes |
+| `kt:barriers-to-entry` | 0.0060 | yes |
+| `kt:organizational-ambidexterity` | 0.0057 | yes |
+| `kt:innovation-management` | 0.0055 | no |
+| `kt:economies-of-scale` | 0.0055 | yes |
+| `kt:two-sided-market` | 0.0054 | yes |
+| `kt:agency-costs` | 0.0054 | yes |
 | `kt:switching-costs` | 0.0052 | no |
-| `kt:corporate-governance` | 0.0052 | yes |
-| `kt:dynamic-capabilities` | 0.0050 | yes |
-| `kt:ibm-turnaround` | 0.0049 | yes |
-| `kt:financial-accounting` | 0.0048 | no |
+| `kt:corporate-governance` | 0.0051 | yes |
+| `kt:dynamic-capabilities` | 0.0049 | yes |
+| `kt:ibm-turnaround` | 0.0048 | yes |
+| `kt:financial-accounting` | 0.0047 | no |
 
 ## Communities (Louvain): 11
 
 1. `kt:business-ecosystem`, `kt:cannibalization`, `kt:change-management`, `kt:charles-a-oreilly`, `kt:clayton-christensen`, `kt:corporate-decline`, `kt:corporate-turnaround`, `kt:creative-destruction`, `kt:david-j-teece`, `kt:disruptive-innovation`, `kt:dynamic-capabilities`, `kt:dynamic-capabilities-and-strategic-management-1997` …
 2. `kt:aggregation-theory`, `kt:antitrust-law`, `kt:barriers-to-entry`, `kt:carl-shapiro`, `kt:clayton-act`, `kt:competition-policy`, `kt:contestable-markets`, `kt:cost-structure`, `kt:economies-of-scale`, `kt:economies-of-scope`, `kt:edward-s-mason`, `kt:game-theory-in-business` …
-3. `kt:agency-costs`, `kt:arbitrage`, `kt:capital-structure`, `kt:corporate-finance`, `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958`, `kt:dividend-policy`, `kt:ebitda`, `kt:financial-statement-analysis`, `kt:franco-modigliani`, `kt:free-cash-flow`, `kt:high-yield-bonds`, `kt:leveraged-buyout` …
-4. `kt:bay-of-pigs-invasion`, `kt:board-of-directors`, `kt:business-ethics`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:cadbury-report`, `kt:corporate-governance`, `kt:corporate-law`, `kt:corporate-social-responsibility`, `kt:devils-advocacy`, `kt:entrenchment-index`, `kt:esg`, `kt:esg-ratings` …
-5. `kt:annual-model-change`, `kt:aristotle`, `kt:barbara-minto`, `kt:brand-equity`, `kt:efficiency-wages`, `kt:ford-model-a`, `kt:ford-model-t`, `kt:general-motors`, `kt:henry-ford`, `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:market-segmentation-1956` …
+3. `kt:annual-model-change`, `kt:aristotle`, `kt:barbara-minto`, `kt:brand-equity`, `kt:confirmation-bias`, `kt:efficiency-wages`, `kt:fault-tree-analysis`, `kt:ford-model-a`, `kt:ford-model-t`, `kt:general-motors`, `kt:henry-ford`, `kt:hypothesis-driven-problem-solving` …
+4. `kt:agency-costs`, `kt:arbitrage`, `kt:capital-structure`, `kt:corporate-finance`, `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958`, `kt:dividend-policy`, `kt:ebitda`, `kt:financial-statement-analysis`, `kt:franco-modigliani`, `kt:free-cash-flow`, `kt:high-yield-bonds`, `kt:leveraged-buyout` …
+5. `kt:amy-edmondson`, `kt:bay-of-pigs-invasion`, `kt:board-of-directors`, `kt:chris-argyris`, `kt:devils-advocacy`, `kt:edgar-schein`, `kt:employee-voice`, `kt:google-project-aristotle`, `kt:group-decision-making`, `kt:groupthink`, `kt:high-performance-teams`, `kt:intelligent-failure` …
 6. `kt:analog-devices`, `kt:andy-grove`, `kt:balanced-scorecard`, `kt:benchmarking`, `kt:david-p-norton`, `kt:goal-setting-theory`, `kt:google`, `kt:malcolm-baldrige-national-quality-award`, `kt:management-by-objectives`, `kt:management-control-systems`, `kt:okrs`, `kt:operational-effectiveness` …
 7. `kt:agreement-on-government-procurement`, `kt:best-value-tradeoff`, `kt:contracting-officer`, `kt:defense-acquisition-regulation`, `kt:defense-federal-acquisition-regulation-supplement`, `kt:far-council`, `kt:federal-acquisition-regulation`, `kt:federal-acquisition-streamlining-act`, `kt:government-contract-types`, `kt:governmentwide-acquisition-contract`, `kt:highest-technically-rated-fair-and-reasonable-price`, `kt:indefinite-delivery-indefinite-quantity` …
 8. `kt:business-model`, `kt:churn-rate`, `kt:cloud-computing`, `kt:customer-equity`, `kt:customer-lifetime-value`, `kt:customer-relationship-management`, `kt:discounted-cash-flow`, `kt:fred-wilson`, `kt:free-trial`, `kt:freemium`, `kt:marketing-metrics`, `kt:perpetual-software-license` …
 9. `kt:agile-software-development`, `kt:bill-of-materials`, `kt:demand-driven-mrp`, `kt:economic-order-quantity`, `kt:enterprise-resource-planning`, `kt:inventory-management`, `kt:just-in-time`, `kt:kanban`, `kt:kanban-method`, `kt:lean-manufacturing`, `kt:littles-law`, `kt:manufacturing-resource-planning` …
-10. `kt:amy-edmondson`, `kt:chris-argyris`, `kt:edgar-schein`, `kt:employee-voice`, `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:intelligent-failure`, `kt:j-richard-hackman`, `kt:organizational-behavior`, `kt:organizational-learning`, `kt:psychological-safety`, `kt:psychological-safety-and-learning-behavior-in-work-teams` …
+10. `kt:business-ethics`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:cadbury-report`, `kt:corporate-governance`, `kt:corporate-law`, `kt:corporate-social-responsibility`, `kt:entrenchment-index`, `kt:esg`, `kt:esg-ratings`, `kt:ifrs-sustainability-disclosure-standards`, `kt:r-edward-freeman`, `kt:separation-of-ownership-and-control` …
 
 ## By type
 
@@ -48,7 +48,7 @@
 - Company: 1
 - Concept: 10
 - Field: 1
-- Framework: 7
+- Framework: 8
 - Metric: 2
 - Person: 2
 - Practice: 6
@@ -62,7 +62,7 @@
 - business-ethics-and-governance: 4
 - business-history-and-cases: 4
 - business-models: 3
-- consulting-and-problem-solving: 2
+- consulting-and-problem-solving: 3
 - corporate-finance: 2
 - government-contracting-and-public-sector: 4
 - innovation-and-entrepreneurship: 4

@@ -563,6 +563,28 @@
     ]
   },
   {
+    "id": "kt:issue-tree",
+    "title": "Issue Tree",
+    "aliases": [
+      "logic tree",
+      "question map",
+      "issue map",
+      "why tree",
+      "how tree"
+    ],
+    "type": "Framework",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/issue-tree.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://blog.oup.com/2020/02/how-to-use-maps-to-solve-complex-problems/",
+      "https://business.rice.edu/wisdom/peer-reviewed-research/solving-problems-exploring-far-end-possibility",
+      "https://assets.publishing.service.gov.uk/media/5a816cd1e5274a2e8ab53eb1/Issue_Trees.pdf",
+      "https://fao.org/4/ad694e/ad694e0a.htm",
+      "https://apps.dtic.mil/sti/pdfs/ADA354973.pdf"
+    ]
+  },
+  {
     "id": "kt:kanban",
     "title": "Kanban",
     "aliases": [

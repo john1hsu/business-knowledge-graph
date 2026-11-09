@@ -30,21 +30,25 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google-project-aristotle` | `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:psychological-safety` |
+| `kt:hypothesis-driven-problem-solving` | `kt:issue-tree`, `kt:mece-principle` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs` |
+| `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
+| `kt:pyramid-principle` | `kt:issue-tree`, `kt:mece-principle` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
+| `kt:structured-problem-solving` | `kt:issue-tree`, `kt:mece-principle` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
@@ -70,6 +74,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
+| `kt:confirmation-bias` | `kt:issue-tree` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance` |
@@ -97,6 +102,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
+| `kt:fault-tree-analysis` | `kt:issue-tree` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
@@ -115,7 +121,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
-| `kt:hypothesis-driven-problem-solving` | `kt:mece-principle` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:ingredient-branding` | `kt:intel` |
@@ -123,7 +128,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:inventory-management` | `kt:material-requirements-planning` |
 | `kt:irving-janis` | `kt:groupthink` |
-| `kt:issue-tree` | `kt:mece-principle` |
 | `kt:j-richard-hackman` | `kt:amy-edmondson` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
@@ -138,7 +142,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
-| `kt:marketing-mix` | `kt:segmentation-targeting-positioning` |
 | `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:master-production-schedule` | `kt:material-requirements-planning` |
@@ -166,11 +169,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:pricing-strategy` | `kt:freemium` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
+| `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:procurement` | `kt:public-procurement` |
 | `kt:production-planning-and-control` | `kt:material-requirements-planning` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
-| `kt:pyramid-principle` | `kt:mece-principle` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:resource-based-view` | `kt:dynamic-capabilities` |
@@ -180,6 +183,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
+| `kt:root-cause-analysis` | `kt:issue-tree` |
 | `kt:salesforce` | `kt:saas-business-model` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:sherman-act` | `kt:antitrust-law` |
@@ -193,7 +197,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
-| `kt:structured-problem-solving` | `kt:mece-principle` |
 | `kt:subscription-business-model` | `kt:saas-business-model` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |

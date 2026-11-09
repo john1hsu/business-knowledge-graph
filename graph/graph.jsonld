@@ -1476,6 +1476,93 @@
       ]
     },
     {
+      "@id": "kt:issue-tree",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Issue Tree",
+      "skos:definition": "A hierarchical diagram that decomposes a single key question into progressively smaller sub-questions or options, either diagnostic (\"why?\") or solution-oriented (\"how?\"), so that a complex problem can be analysed piece by piece and work can be planned against each branch.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "How to use maps to solve complex problems",
+          "dcterms:publisher": "OUPblog (Oxford University Press)",
+          "schema:url": "https://blog.oup.com/2020/02/how-to-use-maps-to-solve-complex-problems/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Solving Problems by Exploring the Far End of Possibility",
+          "dcterms:publisher": "Rice Business Wisdom (Jones Graduate School of Business, Rice University)",
+          "schema:url": "https://business.rice.edu/wisdom/peer-reviewed-research/solving-problems-exploring-far-end-possibility",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Implementation Insights: Using Issue Trees",
+          "dcterms:publisher": "UK Government (GOV.UK)",
+          "schema:url": "https://assets.publishing.service.gov.uk/media/5a816cd1e5274a2e8ab53eb1/Issue_Trees.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Annex 6: Guidance Sheet on Objective Tree Analysis",
+          "dcterms:publisher": "Food and Agriculture Organization of the United Nations (FAO)",
+          "schema:url": "https://fao.org/4/ad694e/ad694e0a.htm",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Fault Tree Handbook (NUREG-0492)",
+          "dcterms:publisher": "U.S. Nuclear Regulatory Commission",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/ADA354973.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/issue-tree.md",
+      "skos:altLabel": [
+        "logic tree",
+        "question map",
+        "issue map",
+        "why tree",
+        "how tree"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        },
+        {
+          "@id": "kt:pyramid-principle"
+        },
+        {
+          "@id": "kt:root-cause-analysis"
+        },
+        {
+          "@id": "kt:marketing-mix"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:mece-principle"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fault-tree-analysis"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:confirmation-bias"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:problem-tree-analysis"
+        }
+      ]
+    },
+    {
       "@id": "kt:mece-principle",
       "@type": "kto:Framework",
       "skos:prefLabel": "MECE Principle",

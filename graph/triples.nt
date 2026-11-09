@@ -647,6 +647,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/ingredient-branding> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/semiconductor-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2000/01/rdf-schema#label> "Issue Tree" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#altLabel> "how tree" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#altLabel> "issue map" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#altLabel> "logic tree" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#altLabel> "question map" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#altLabel> "why tree" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#definition> "A hierarchical diagram that decomposes a single key question into progressively smaller sub-questions or options, either diagnostic (\"why?\") or solution-oriented (\"how?\"), so that a complex problem can be analysed piece by piece and work can be planned against each branch." .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#prefLabel> "Issue Tree" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/problem-tree-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/fault-tree-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/confirmation-bias> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2000/01/rdf-schema#label> "Kanban" .
@@ -1729,6 +1754,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <http://purl.org/dc/terms/publisher> "OUPblog (Oxford University Press)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <http://purl.org/dc/terms/title> "How to use maps to solve complex problems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <https://schema.org/url> "https://blog.oup.com/2020/02/how-to-use-maps-to-solve-complex-problems/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s2> <http://purl.org/dc/terms/publisher> "Rice Business Wisdom (Jones Graduate School of Business, Rice University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s2> <http://purl.org/dc/terms/title> "Solving Problems by Exploring the Far End of Possibility" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s2> <https://schema.org/url> "https://business.rice.edu/wisdom/peer-reviewed-research/solving-problems-exploring-far-end-possibility" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s3> <http://purl.org/dc/terms/publisher> "UK Government (GOV.UK)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s3> <http://purl.org/dc/terms/title> "Implementation Insights: Using Issue Trees" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s3> <https://schema.org/url> "https://assets.publishing.service.gov.uk/media/5a816cd1e5274a2e8ab53eb1/Issue_Trees.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s4> <http://purl.org/dc/terms/publisher> "Food and Agriculture Organization of the United Nations (FAO)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s4> <http://purl.org/dc/terms/title> "Annex 6: Guidance Sheet on Objective Tree Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s4> <https://schema.org/url> "https://fao.org/4/ad694e/ad694e0a.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <http://purl.org/dc/terms/publisher> "U.S. Nuclear Regulatory Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <http://purl.org/dc/terms/title> "Fault Tree Handbook (NUREG-0492)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/ADA354973.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/publisher> "Toyota UK Magazine (Toyota GB)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/title> "Kanban: Toyota Production System guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
