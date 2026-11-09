@@ -1732,6 +1732,93 @@
       ]
     },
     {
+      "@id": "kt:public-procurement",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Public Procurement",
+      "skos:definition": "The process by which governments, their agencies and state-owned enterprises buy goods, services and works from outside suppliers, across a cycle that runs from needs assessment through tendering, award and contract management, under rules meant to secure value for money, fair access and integrity.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Size of public procurement (Government at a Glance 2025)",
+          "dcterms:publisher": "OECD Publishing",
+          "schema:url": "https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/size-of-public-procurement_6979cd47",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "OECD Recommendation of the Council on Public Procurement",
+          "dcterms:publisher": "OECD",
+          "schema:url": "https://search.oecd.org/governance/ethics/OECD-Recommendation-on-Public-Procurement.pdf",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries (Overview)",
+          "dcterms:publisher": "OECD Publishing",
+          "schema:url": "https://www.oecd.org/en/publications/implementing-the-oecd-recommendation-on-public-procurement-in-oecd-and-partner-countries_02a46a58-en/full-report/overview_fab2711c.html",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Committee on Government Procurement: Timor-Leste launches accession process (news, 18 June 2025)",
+          "dcterms:publisher": "World Trade Organization",
+          "schema:url": "https://www.wto.org/english/news_e/news25_e/gpro_18jun25_e.htm",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Active and Passive Waste in Government Spending: Evidence from a Policy Experiment",
+          "dcterms:publisher": "American Economic Review 99(4), 1278-1308 (via LSE Research Online)",
+          "schema:url": "https://researchonline.lse.ac.uk/id/eprint/33672",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Individuals and Organizations as Sources of State Effectiveness (NBER Working Paper 23350; AER 2023)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://nber.org/papers/w23350",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/public-procurement.md",
+      "skos:altLabel": [
+        "government procurement",
+        "public purchasing",
+        "public sector procurement"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-administration"
+        },
+        {
+          "@id": "kt:procurement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        },
+        {
+          "@id": "kt:best-value-tradeoff"
+        },
+        {
+          "@id": "kt:indefinite-delivery-indefinite-quantity"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:agreement-on-government-procurement"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:oecd-recommendation-on-public-procurement"
+        }
+      ]
+    },
+    {
       "@id": "kt:disruptive-innovation",
       "@type": "kto:Theory",
       "skos:prefLabel": "Disruptive Innovation",

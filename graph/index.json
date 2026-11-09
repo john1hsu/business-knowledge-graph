@@ -673,6 +673,27 @@
     ]
   },
   {
+    "id": "kt:public-procurement",
+    "title": "Public Procurement",
+    "aliases": [
+      "government procurement",
+      "public purchasing",
+      "public sector procurement"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/public-procurement.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/size-of-public-procurement_6979cd47",
+      "https://search.oecd.org/governance/ethics/OECD-Recommendation-on-Public-Procurement.pdf",
+      "https://www.oecd.org/en/publications/implementing-the-oecd-recommendation-on-public-procurement-in-oecd-and-partner-countries_02a46a58-en/full-report/overview_fab2711c.html",
+      "https://www.wto.org/english/news_e/news25_e/gpro_18jun25_e.htm",
+      "https://researchonline.lse.ac.uk/id/eprint/33672",
+      "https://nber.org/papers/w23350"
+    ]
+  },
+  {
     "id": "kt:segmentation-targeting-positioning",
     "title": "Segmentation, Targeting and Positioning",
     "aliases": [

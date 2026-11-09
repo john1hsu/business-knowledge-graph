@@ -12,8 +12,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovation-management` | `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
-| `kt:public-procurement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:public-procurement` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
+| `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement` |
 | `kt:switching-costs` | `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
@@ -34,15 +35,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:psychological-safety` |
-| `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
-| `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
+| `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:amy-edmondson` | `kt:psychological-safety` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:andy-grove` | `kt:okrs` |
@@ -143,6 +143,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
+| `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
 | `kt:path-dependence` | `kt:network-effect` |
@@ -153,8 +154,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:pricing-strategy` | `kt:freemium` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
+| `kt:procurement` | `kt:public-procurement` |
 | `kt:production-planning-and-control` | `kt:material-requirements-planning` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
+| `kt:public-administration` | `kt:public-procurement` |
 | `kt:pyramid-principle` | `kt:mece-principle` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |

@@ -786,6 +786,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/edgar-schein> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety-and-learning-behavior-in-work-teams> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2000/01/rdf-schema#label> "Public Procurement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#altLabel> "government procurement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#altLabel> "public purchasing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#altLabel> "public sector procurement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-administration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#definition> "The process by which governments, their agencies and state-owned enterprises buy goods, services and works from outside suppliers, across a cycle that runs from needs assessment through tendering, award and contract management, under rules meant to secure value for money, fair access and integrity." .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public Procurement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/oecd-recommendation-on-public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/agreement-on-government-procurement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/2000/01/rdf-schema#label> "Segmentation, Targeting and Positioning" .
@@ -1682,6 +1706,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s5> <https://schema.org/url> "https://hsph.harvard.edu/news/debunking-misconceptions-about-workplace-psychological-safety/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s1> <http://purl.org/dc/terms/publisher> "OECD Publishing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s1> <http://purl.org/dc/terms/title> "Size of public procurement (Government at a Glance 2025)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s1> <https://schema.org/url> "https://www.oecd.org/en/publications/government-at-a-glance-2025_0efd0bcd-en/full-report/size-of-public-procurement_6979cd47" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s2> <http://purl.org/dc/terms/publisher> "OECD" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s2> <http://purl.org/dc/terms/title> "OECD Recommendation of the Council on Public Procurement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s2> <https://schema.org/url> "https://search.oecd.org/governance/ethics/OECD-Recommendation-on-Public-Procurement.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s3> <http://purl.org/dc/terms/publisher> "OECD Publishing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s3> <http://purl.org/dc/terms/title> "Implementing the OECD Recommendation on Public Procurement in OECD and Partner Countries (Overview)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s3> <https://schema.org/url> "https://www.oecd.org/en/publications/implementing-the-oecd-recommendation-on-public-procurement-in-oecd-and-partner-countries_02a46a58-en/full-report/overview_fab2711c.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s4> <http://purl.org/dc/terms/publisher> "World Trade Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s4> <http://purl.org/dc/terms/title> "Committee on Government Procurement: Timor-Leste launches accession process (news, 18 June 2025)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s4> <https://schema.org/url> "https://www.wto.org/english/news_e/news25_e/gpro_18jun25_e.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s5> <http://purl.org/dc/terms/publisher> "American Economic Review 99(4), 1278-1308 (via LSE Research Online)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s5> <http://purl.org/dc/terms/title> "Active and Passive Waste in Government Spending: Evidence from a Policy Experiment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s5> <https://schema.org/url> "https://researchonline.lse.ac.uk/id/eprint/33672" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <http://purl.org/dc/terms/title> "Individuals and Organizations as Sources of State Effectiveness (NBER Working Paper 23350; AER 2023)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://schema.org/url> "https://nber.org/papers/w23350" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/publisher> "The Wharton School, University of Pennsylvania (faculty paper)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/title> "Market segmentation (Chapter 11, The Marketing Book)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
