@@ -237,6 +237,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/resource-dependence-theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2000/01/rdf-schema#label> "Dynamic Capabilities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#altLabel> "dynamic capabilities framework" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#altLabel> "dynamic capabilities view" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#altLabel> "dynamic capability theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#altLabel> "sensing seizing transforming" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#definition> "A strategy theory holding that durable competitive advantage in fast-changing markets comes from a firm's ability to integrate, build and reconfigure its resources and competences, usually described as sensing opportunities, seizing them and transforming the organization." .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dynamic Capabilities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities-and-strategic-management-1997> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <http://www.w3.org/2000/01/rdf-schema#label> "Economies of Scale" .
@@ -1106,6 +1132,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <https://schema.org/url> "https://sloanreview.mit.edu/article/debating-disruptive-innovation/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://purl.org/dc/terms/title> "Dynamic capabilities and strategic management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v18y1997i7p509-533.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s2> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (author version at eScholarship, University of California)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s2> <http://purl.org/dc/terms/title> "Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s2> <https://schema.org/url> "https://escholarship.org/content/qt2k86c3mf/qt2k86c3mf.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s3> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at EconPapers/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s3> <http://purl.org/dc/terms/title> "Dynamic capabilities: what are they?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s3> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:stratm:v:21:y:2000:i:10-11:p:1105-1121" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s4> <http://purl.org/dc/terms/publisher> "Journal of Management & Organization, Cambridge University Press" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s4> <http://purl.org/dc/terms/title> "Dynamic capabilities and performance: How has the relationship been assessed?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s4> <https://schema.org/url> "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s5> <http://purl.org/dc/terms/publisher> "Newcastle University TheoryHub" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s5> <http://purl.org/dc/terms/title> "Dynamic Capabilities Theory: A review (TheoryHub)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s5> <https://schema.org/url> "https://open.ncl.ac.uk/theory-library/dynamic-capabilities-theory.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s6> <http://purl.org/dc/terms/publisher> "California Management Review, Berkeley Haas" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s6> <http://purl.org/dc/terms/title> "The Key to Keeping Up: Dynamic Capabilities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s6> <https://schema.org/url> "https://cmr.berkeley.edu/2016/08/dynamic-capabilities/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://purl.org/dc/terms/title> "7.5 Costs in the Long Run (Principles of Economics 2e)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

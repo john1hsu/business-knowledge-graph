@@ -209,6 +209,28 @@
     ]
   },
   {
+    "id": "kt:dynamic-capabilities",
+    "title": "Dynamic Capabilities",
+    "aliases": [
+      "dynamic capabilities framework",
+      "dynamic capabilities view",
+      "dynamic capability theory",
+      "sensing seizing transforming"
+    ],
+    "type": "Theory",
+    "domain": "strategy",
+    "file": "articles/strategy/dynamic-capabilities.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://ideas.repec.org/a/bla/stratm/v18y1997i7p509-533.html",
+      "https://escholarship.org/content/qt2k86c3mf/qt2k86c3mf.pdf",
+      "https://econpapers.repec.org/RePEc:bla:stratm:v:21:y:2000:i:10-11:p:1105-1121",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf",
+      "https://open.ncl.ac.uk/theory-library/dynamic-capabilities-theory.pdf",
+      "https://cmr.berkeley.edu/2016/08/dynamic-capabilities/"
+    ]
+  },
+  {
     "id": "kt:economies-of-scale",
     "title": "Economies of Scale",
     "aliases": [

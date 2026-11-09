@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:customer-lifetime-value` |
-| `kt:dynamic-capabilities` | `kt:ibm-turnaround`, `kt:organizational-ambidexterity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:intel` | `kt:innovators-dilemma`, `kt:okrs` |
@@ -35,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:psychological-safety` |
+| `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:razor-and-blades-model` | `kt:freemium`, `kt:two-sided-market` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:revolutionary-far-overhaul` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
@@ -53,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:bill-of-materials` | `kt:material-requirements-planning` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
+| `kt:business-ecosystem` | `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-model` | `kt:freemium` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
@@ -72,11 +73,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:creative-destruction` | `kt:innovators-dilemma` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value` |
+| `kt:david-j-teece` | `kt:dynamic-capabilities` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:devils-advocacy` | `kt:groupthink` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
+| `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
@@ -150,7 +153,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
-| `kt:porters-five-forces` | `kt:barriers-to-entry` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:pricing-strategy` | `kt:freemium` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
@@ -161,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pyramid-principle` | `kt:mece-principle` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:resource-based-view` | `kt:dynamic-capabilities` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
@@ -171,6 +174,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
+| `kt:strategic-management` | `kt:dynamic-capabilities` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:strategy-execution` | `kt:okrs` |

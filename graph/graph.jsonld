@@ -3250,6 +3250,101 @@
           "@id": "kt:contestable-markets"
         }
       ]
+    },
+    {
+      "@id": "kt:dynamic-capabilities",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Dynamic Capabilities",
+      "skos:definition": "A strategy theory holding that durable competitive advantage in fast-changing markets comes from a firm's ability to integrate, build and reconfigure its resources and competences, usually described as sensing opportunities, seizing them and transforming the organization.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Dynamic capabilities and strategic management",
+          "dcterms:publisher": "Strategic Management Journal (record at IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v18y1997i7p509-533.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Explicating dynamic capabilities: the nature and microfoundations of (sustainable) enterprise performance",
+          "dcterms:publisher": "Strategic Management Journal (author version at eScholarship, University of California)",
+          "schema:url": "https://escholarship.org/content/qt2k86c3mf/qt2k86c3mf.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dynamic capabilities: what are they?",
+          "dcterms:publisher": "Strategic Management Journal (record at EconPapers/RePEc)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:stratm:v:21:y:2000:i:10-11:p:1105-1121",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dynamic capabilities and performance: How has the relationship been assessed?",
+          "dcterms:publisher": "Journal of Management & Organization, Cambridge University Press",
+          "schema:url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Dynamic Capabilities Theory: A review (TheoryHub)",
+          "dcterms:publisher": "Newcastle University TheoryHub",
+          "schema:url": "https://open.ncl.ac.uk/theory-library/dynamic-capabilities-theory.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Key to Keeping Up: Dynamic Capabilities",
+          "dcterms:publisher": "California Management Review, Berkeley Haas",
+          "schema:url": "https://cmr.berkeley.edu/2016/08/dynamic-capabilities/",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/strategy/dynamic-capabilities.md",
+      "skos:altLabel": [
+        "dynamic capabilities framework",
+        "dynamic capabilities view",
+        "dynamic capability theory",
+        "sensing seizing transforming"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        },
+        {
+          "@id": "kt:resource-based-view"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:innovators-dilemma"
+        },
+        {
+          "@id": "kt:business-ecosystem"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:david-j-teece"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:dynamic-capabilities-and-strategic-management-1997"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ibm-turnaround"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:porters-five-forces"
+        }
+      ]
     }
   ]
 }
