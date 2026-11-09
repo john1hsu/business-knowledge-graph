@@ -8,6 +8,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
+| `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
+| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:business-model` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
@@ -16,10 +18,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
-| `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
-| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:okrs` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:public-procurement` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -42,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
+| `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
@@ -58,6 +59,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
+| `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
+| `kt:total-quality-management` | `kt:benchmarking`, `kt:hoshin-kanri` |
+| `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
@@ -139,6 +143,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hard-disk-drive-industry` | `kt:cannibalization` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
+| `kt:hewlett-packard` | `kt:hoshin-kanri` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
@@ -155,7 +160,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
-| `kt:lean-manufacturing` | `kt:kanban` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
@@ -190,6 +194,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operational-effectiveness` | `kt:benchmarking` |
 | `kt:organizational-behavior` | `kt:amy-edmondson` |
 | `kt:path-dependence` | `kt:network-effect` |
+| `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
@@ -226,7 +231,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management` | `kt:dynamic-capabilities` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
-| `kt:strategy-execution` | `kt:okrs` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
@@ -243,7 +247,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
-| `kt:total-quality-management` | `kt:benchmarking` |
 | `kt:toyota-motor-corporation` | `kt:kanban` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
@@ -255,4 +258,3 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |
-| `kt:xerox` | `kt:benchmarking` |

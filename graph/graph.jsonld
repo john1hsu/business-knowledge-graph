@@ -2999,6 +2999,98 @@
       ]
     },
     {
+      "@id": "kt:hoshin-kanri",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Hoshin Kanri",
+      "skos:definition": "A Japanese management system, developed in the 1960s alongside company-wide quality control, that applies the Plan-Do-Check-Act cycle to a few breakthrough objectives, cascading them through the organization by negotiated \"catchball\" and reviewing both results and the planning process itself.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-09",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Hoshin Kanri",
+          "dcterms:publisher": "Perspectives on Performance (via University of East Anglia Digital Repository)",
+          "schema:url": "https://ueaeprints.uea.ac.uk/id/document/8686",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Hoshin Kanri Process: A Review and Bibliometric Analysis on the Connection of Theory and Practice",
+          "dcterms:publisher": "Processes (MDPI)",
+          "schema:url": "https://www.mdpi.com/2227-9717/10/9/1854/htm",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Hoshin Kanri: policy management in Japanese subsidiaries based in Poland",
+          "dcterms:publisher": "Business, Management and Education",
+          "schema:url": "https://aviation.vgtu.lt/index.php/BMEE/article/download/5280/4561",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Brief Note on Hoshin Kanri: Strategy Deployment",
+          "dcterms:publisher": "University of Virginia Darden School of Business",
+          "schema:url": "https://store.darden.virginia.edu/a-brief-note-on-hoshin-kanri-strategy-deployment",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Hoshin Kanri (Lean Policy Deployment)",
+          "dcterms:publisher": "Texas Manufacturing Assistance Center, University of Houston",
+          "schema:url": "https://tmac.egr.uh.edu/services/leancontinuousimprovementandoperationalexcellence/hoshin-kanri-lean-policy-deployment",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/hoshin-kanri.md",
+      "skos:altLabel": [
+        "policy deployment",
+        "hoshin planning",
+        "strategy deployment",
+        "policy management"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategy-execution"
+        },
+        {
+          "@id": "kt:performance-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:lean-manufacturing"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:management-by-objectives"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pdca-cycle"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:okrs"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:hewlett-packard"
+        },
+        {
+          "@id": "kt:xerox"
+        }
+      ]
+    },
+    {
       "@id": "kt:okrs",
       "@type": "kto:Framework",
       "skos:prefLabel": "Objectives and Key Results (OKRs)",
@@ -3067,6 +3159,9 @@
         },
         {
           "@id": "kt:goal-setting-theory"
+        },
+        {
+          "@id": "kt:hoshin-kanri"
         }
       ],
       "kto:createdBy": [

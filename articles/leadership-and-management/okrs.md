@@ -9,7 +9,7 @@ summary: >-
   popularised by John Doerr at Google, in which teams pair a short qualitative objective with a few measurable,
   verifiable key results, typically set and graded each quarter and kept separate from compensation.
 broader: [kt:performance-management, kt:strategy-execution]
-related: [kt:balanced-scorecard, kt:stretch-goals, kt:goal-setting-theory]
+related: [kt:balanced-scorecard, kt:stretch-goals, kt:goal-setting-theory, kt:hoshin-kanri]
 relations:
   - {predicate: createdBy, object: kt:andy-grove}
   - {predicate: influencedBy, object: kt:management-by-objectives}

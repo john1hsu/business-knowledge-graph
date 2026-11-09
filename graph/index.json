@@ -591,6 +591,27 @@
     ]
   },
   {
+    "id": "kt:hoshin-kanri",
+    "title": "Hoshin Kanri",
+    "aliases": [
+      "policy deployment",
+      "hoshin planning",
+      "strategy deployment",
+      "policy management"
+    ],
+    "type": "Practice",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/hoshin-kanri.md",
+    "created": "2026-11-09",
+    "source_urls": [
+      "https://ueaeprints.uea.ac.uk/id/document/8686",
+      "https://www.mdpi.com/2227-9717/10/9/1854/htm",
+      "https://aviation.vgtu.lt/index.php/BMEE/article/download/5280/4561",
+      "https://store.darden.virginia.edu/a-brief-note-on-hoshin-kanri-strategy-deployment",
+      "https://tmac.egr.uh.edu/services/leancontinuousimprovementandoperationalexcellence/hoshin-kanri-lean-policy-deployment"
+    ]
+  },
+  {
     "id": "kt:hypothesis-driven-problem-solving",
     "title": "Hypothesis-Driven Problem Solving",
     "aliases": [

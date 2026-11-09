@@ -681,6 +681,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/bay-of-pigs-invasion> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/victims-of-groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://purl.org/dc/terms/created> "2026-11-09" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2000/01/rdf-schema#label> "Hoshin Kanri" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#altLabel> "hoshin planning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#altLabel> "policy deployment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#altLabel> "policy management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#altLabel> "strategy deployment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#definition> "A Japanese management system, developed in the 1960s alongside company-wide quality control, that applies the Plan-Do-Check-Act cycle to a few breakthrough objectives, cascading them through the organization by negotiated \"catchball\" and reviewing both results and the planning process itself." .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hoshin Kanri" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/xerox> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
 <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> <http://www.w3.org/2000/01/rdf-schema#label> "Hypothesis-Driven Problem Solving" .
@@ -1050,6 +1076,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/2004/02/skos/core#prefLabel> "Objectives and Key Results (OKRs)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stretch-goals> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s1> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s2> .
@@ -2056,6 +2083,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/00251741011068761" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <http://purl.org/dc/terms/publisher> "Perspectives on Performance (via University of East Anglia Digital Repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <http://purl.org/dc/terms/title> "Hoshin Kanri" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <https://schema.org/url> "https://ueaeprints.uea.ac.uk/id/document/8686" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s2> <http://purl.org/dc/terms/publisher> "Processes (MDPI)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s2> <http://purl.org/dc/terms/title> "Hoshin Kanri Process: A Review and Bibliometric Analysis on the Connection of Theory and Practice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s2> <https://schema.org/url> "https://www.mdpi.com/2227-9717/10/9/1854/htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s3> <http://purl.org/dc/terms/publisher> "Business, Management and Education" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s3> <http://purl.org/dc/terms/title> "Hoshin Kanri: policy management in Japanese subsidiaries based in Poland" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s3> <https://schema.org/url> "https://aviation.vgtu.lt/index.php/BMEE/article/download/5280/4561" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s4> <http://purl.org/dc/terms/publisher> "University of Virginia Darden School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s4> <http://purl.org/dc/terms/title> "A Brief Note on Hoshin Kanri: Strategy Deployment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s4> <https://schema.org/url> "https://store.darden.virginia.edu/a-brief-note-on-hoshin-kanri-strategy-deployment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s5> <http://purl.org/dc/terms/publisher> "Texas Manufacturing Assistance Center, University of Houston" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s5> <http://purl.org/dc/terms/title> "Hoshin Kanri (Lean Policy Deployment)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s5> <https://schema.org/url> "https://tmac.egr.uh.edu/services/leancontinuousimprovementandoperationalexcellence/hoshin-kanri-lean-policy-deployment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/hypothesis-driven-problem-solving/s1> <http://purl.org/dc/terms/publisher> "Darden School of Business, University of Virginia (Harvard Business Publishing)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/hypothesis-driven-problem-solving/s1> <http://purl.org/dc/terms/title> "Using Hypothesis-Driven Thinking in Strategy Consulting (UV0991)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/hypothesis-driven-problem-solving/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
