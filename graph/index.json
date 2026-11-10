@@ -464,6 +464,26 @@
     ]
   },
   {
+    "id": "kt:fiduciary-duty",
+    "title": "Fiduciary Duty",
+    "aliases": [
+      "fiduciary duties",
+      "fiduciary obligation",
+      "duty of care and duty of loyalty"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/fiduciary-duty.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.britannica.com/money/fiduciary",
+      "https://corplaw.delaware.gov/delaware-way-business-judgment",
+      "https://corpgov.law.harvard.edu/2022/01/23/a-directors-duty-of-oversight-after-marchand-in-caremark-case",
+      "https://www.sec.gov/files/rules/interp/2019/ia-5248.pdf",
+      "https://core.ac.uk/download/70375519.pdf"
+    ]
+  },
+  {
     "id": "kt:first-mover-advantage",
     "title": "First-Mover Advantage",
     "aliases": [

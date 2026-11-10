@@ -13,6 +13,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
+| `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:public-procurement` |
+| `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
+| `kt:board-of-directors` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:business-model` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
@@ -21,17 +24,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
-| `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:public-procurement` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
-| `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement` |
 | `kt:structured-problem-solving` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
-| `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
+| `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
@@ -86,11 +87,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bruce-henderson` | `kt:experience-curve` |
 | `kt:business-ecosystem` | `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
+| `kt:business-judgment-rule` | `kt:fiduciary-duty` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:capital-asset-pricing-model` | `kt:weighted-average-cost-of-capital` |
 | `kt:capital-budgeting` | `kt:weighted-average-cost-of-capital` |
+| `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:change-management` | `kt:ibm-turnaround` |
@@ -103,7 +106,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
-| `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
@@ -159,6 +161,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:intangible-assets` | `kt:goodwill` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:international-accounting-standards-board` | `kt:goodwill` |
+| `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
@@ -177,6 +180,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
 | `kt:management-theory` | `kt:peter-drucker` |
+| `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |

@@ -626,6 +626,9 @@
         },
         {
           "@id": "kt:esg"
+        },
+        {
+          "@id": "kt:fiduciary-duty"
         }
       ],
       "kto:mitigates": [
@@ -746,6 +749,97 @@
       "kto:contrastsWith": [
         {
           "@id": "kt:shareholder-primacy"
+        }
+      ]
+    },
+    {
+      "@id": "kt:fiduciary-duty",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Fiduciary Duty",
+      "skos:definition": "The legal obligation of a person entrusted with power over another's property or interests, such as a corporate director, trustee or investment adviser, to act in that party's interest rather than their own, usually expressed as a duty of care and a duty of loyalty.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fiduciary",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/fiduciary",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Delaware Way: Deference to the Business Judgment of Directors Who Act Loyally and Carefully",
+          "dcterms:publisher": "Delaware Department of State, Division of Corporations",
+          "schema:url": "https://corplaw.delaware.gov/delaware-way-business-judgment",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "A Director's Duty of Oversight after Marchand in Caremark Case",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance",
+          "schema:url": "https://corpgov.law.harvard.edu/2022/01/23/a-directors-duty-of-oversight-after-marchand-in-caremark-case",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Commission Interpretation Regarding Standard of Conduct for Investment Advisers (Release No. IA-5248)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/files/rules/interp/2019/ia-5248.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "What If Fiduciary Obligations Are Like Contractual Ones?",
+          "dcterms:publisher": "Georgetown University Law Center (via CORE)",
+          "schema:url": "https://core.ac.uk/download/70375519.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/fiduciary-duty.md",
+      "skos:altLabel": [
+        "fiduciary duties",
+        "fiduciary obligation",
+        "duty of care and duty of loyalty"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:corporate-law"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:business-judgment-rule"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        },
+        {
+          "@id": "kt:stakeholder-theory"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:caremark-oversight-duty"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:marchand-v-barnhill"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:investment-advisers-act-of-1940"
         }
       ]
     },

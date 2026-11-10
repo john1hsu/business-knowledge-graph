@@ -9,7 +9,7 @@ summary: >-
   linking its management, board, shareholders and other stakeholders and setting how objectives
   are chosen and performance is monitored.
 broader: [kt:corporate-law]
-related: [kt:agency-costs, kt:stakeholder-theory, kt:shareholder-primacy, kt:board-of-directors, kt:esg]
+related: [kt:agency-costs, kt:stakeholder-theory, kt:shareholder-primacy, kt:board-of-directors, kt:esg, kt:fiduciary-duty]
 relations:
   - {predicate: mitigates, object: kt:principal-agent-problem}
   - {predicate: dependsOn, object: kt:separation-of-ownership-and-control}

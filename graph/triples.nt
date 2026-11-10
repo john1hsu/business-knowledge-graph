@@ -300,6 +300,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/esg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> .
@@ -535,6 +536,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
 <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/defense-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2000/01/rdf-schema#label> "Fiduciary Duty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#altLabel> "duty of care and duty of loyalty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#altLabel> "fiduciary duties" .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#altLabel> "fiduciary obligation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#definition> "The legal obligation of a person entrusted with power over another's property or interests, such as a corporate director, trustee or investment adviser, to act in that party's interest rather than their own, usually expressed as a duty of care and a duty of loyalty." .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fiduciary Duty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/marchand-v-barnhill> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/caremark-oversight-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/investment-advisers-act-of-1940> .
 <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <http://www.w3.org/2000/01/rdf-schema#label> "First-Mover Advantage" .
@@ -1992,6 +2018,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/federal-acquisition-regulation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/federal-acquisition-regulation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/federal-acquisition-regulation/s6> <https://schema.org/url> "https://www.gao.gov/blog/snapshot-government-wide-contracting-fy-2025-interactive-dashboard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s1> <http://purl.org/dc/terms/title> "Fiduciary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s1> <https://schema.org/url> "https://www.britannica.com/money/fiduciary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s2> <http://purl.org/dc/terms/publisher> "Delaware Department of State, Division of Corporations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s2> <http://purl.org/dc/terms/title> "The Delaware Way: Deference to the Business Judgment of Directors Who Act Loyally and Carefully" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s2> <https://schema.org/url> "https://corplaw.delaware.gov/delaware-way-business-judgment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s3> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s3> <http://purl.org/dc/terms/title> "A Director's Duty of Oversight after Marchand in Caremark Case" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s3> <https://schema.org/url> "https://corpgov.law.harvard.edu/2022/01/23/a-directors-duty-of-oversight-after-marchand-in-caremark-case" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s4> <http://purl.org/dc/terms/title> "Commission Interpretation Regarding Standard of Conduct for Investment Advisers (Release No. IA-5248)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s4> <https://schema.org/url> "https://www.sec.gov/files/rules/interp/2019/ia-5248.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s5> <http://purl.org/dc/terms/publisher> "Georgetown University Law Center (via CORE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s5> <http://purl.org/dc/terms/title> "What If Fiduciary Obligations Are Like Contractual Ones?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/fiduciary-duty/s5> <https://schema.org/url> "https://core.ac.uk/download/70375519.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 9(S1):41-58 (record at RePEc/IDEAS)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <http://purl.org/dc/terms/title> "First-mover advantages" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
