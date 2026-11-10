@@ -1406,6 +1406,103 @@
       ]
     },
     {
+      "@id": "kt:direct-selling",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Direct Selling",
+      "skos:definition": "A business model in which a company distributes products to consumers through independent, commission-paid salespeople who sell face to face away from a fixed retail location; its multi-level form also pays sellers on the sales of the people they recruit.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is direct selling? Definition, perspectives, and research agenda",
+          "dcterms:publisher": "Academic journal article (ProQuest record)",
+          "schema:url": "https://www.proquest.com/docview/216748632",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Letter from FTC Chairwoman Edith Ramirez to Joseph N. Mariano, Direct Selling Association",
+          "dcterms:publisher": "U.S. Federal Trade Commission",
+          "schema:url": "https://www.Ftc.Gov/system/files/documents/public_statements/1068663/response_to_dsa_letter_ramirez.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FTC Staff Offers Business Guidance Concerning Multi-Level Marketing",
+          "dcterms:publisher": "U.S. Federal Trade Commission",
+          "schema:url": "https://www.ftc.gov/node/45519",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FTC: AdvoCare business model was pyramid scheme",
+          "dcterms:publisher": "U.S. Federal Trade Commission, Consumer Advice",
+          "schema:url": "https://consumer.ftc.gov/node/298298",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Herbalife Ltd. Form 10-K for the fiscal year ended December 31, 2024",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1180262/000095017025023207/hlf-20241231.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Global Statistics",
+          "dcterms:publisher": "World Federation of Direct Selling Associations",
+          "schema:url": "https://wfdsa.org/global-statistics/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "What is multi-level marketing? A business model that relies on your social connections",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://WWW.Britannica.com/money/what-is-multi-level-marketing",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/business-models/direct-selling.md",
+      "skos:altLabel": [
+        "direct sales",
+        "party plan selling",
+        "network marketing",
+        "multi-level marketing",
+        "MLM"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:distribution-channel"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:franchising"
+        },
+        {
+          "@id": "kt:personal-selling"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:pyramid-scheme"
+        },
+        {
+          "@id": "kt:direct-marketing"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-trade-commission-act"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:herbalife"
+        }
+      ]
+    },
+    {
       "@id": "kt:freemium",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Freemium",

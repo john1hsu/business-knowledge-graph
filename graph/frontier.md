@@ -7,6 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
+| `kt:business-model` | `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
@@ -15,7 +16,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
-| `kt:business-model` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
@@ -44,6 +44,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
+| `kt:information-asymmetry` | `kt:direct-selling`, `kt:principal-agent-problem` |
 | `kt:j-richard-hackman` | `kt:amy-edmondson`, `kt:high-performance-teams` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
@@ -119,6 +120,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:devils-advocacy` | `kt:groupthink` |
+| `kt:direct-marketing` | `kt:direct-selling` |
+| `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:ebitda` | `kt:free-cash-flow` |
@@ -139,8 +142,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:fault-tree-analysis` | `kt:issue-tree` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
+| `kt:franchising` | `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
@@ -153,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
 | `kt:henry-ford` | `kt:ford-model-t` |
+| `kt:herbalife` | `kt:direct-selling` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
@@ -160,7 +166,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
-| `kt:information-asymmetry` | `kt:principal-agent-problem` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
@@ -218,6 +223,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
+| `kt:personal-selling` | `kt:direct-selling` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
@@ -229,6 +235,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-line-strategy` | `kt:cannibalization` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
+| `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:resource-based-view` | `kt:dynamic-capabilities` |

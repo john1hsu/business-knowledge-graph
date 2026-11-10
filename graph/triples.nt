@@ -366,6 +366,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/customer-equity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2000/01/rdf-schema#label> "Direct Selling" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#altLabel> "MLM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#altLabel> "direct sales" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#altLabel> "multi-level marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#altLabel> "network marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#altLabel> "party plan selling" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/distribution-channel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#definition> "A business model in which a company distributes products to consumers through independent, commission-paid salespeople who sell face to face away from a fixed retail location; its multi-level form also pays sellers on the sales of the people they recruit." .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#prefLabel> "Direct Selling" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/franchising> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/personal-selling> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/direct-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-scheme> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/herbalife> .
+<https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-trade-commission-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2000/01/rdf-schema#label> "Disruptive Innovation" .
@@ -1904,6 +1931,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <https://schema.org/url> "https://foster.uw.edu/wp-content/uploads/2016/07/11_Reinartz_Kumar_2002.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/publisher> "Academic journal article (ProQuest record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/title> "What is direct selling? Definition, perspectives, and research agenda" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <https://schema.org/url> "https://www.proquest.com/docview/216748632" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s2> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s2> <http://purl.org/dc/terms/title> "Letter from FTC Chairwoman Edith Ramirez to Joseph N. Mariano, Direct Selling Association" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s2> <https://schema.org/url> "https://www.Ftc.Gov/system/files/documents/public_statements/1068663/response_to_dsa_letter_ramirez.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s3> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s3> <http://purl.org/dc/terms/title> "FTC Staff Offers Business Guidance Concerning Multi-Level Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s3> <https://schema.org/url> "https://www.ftc.gov/node/45519" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s4> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission, Consumer Advice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s4> <http://purl.org/dc/terms/title> "FTC: AdvoCare business model was pyramid scheme" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s4> <https://schema.org/url> "https://consumer.ftc.gov/node/298298" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s5> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s5> <http://purl.org/dc/terms/title> "Herbalife Ltd. Form 10-K for the fiscal year ended December 31, 2024" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s5> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1180262/000095017025023207/hlf-20241231.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s6> <http://purl.org/dc/terms/publisher> "World Federation of Direct Selling Associations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s6> <http://purl.org/dc/terms/title> "Global Statistics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s6> <https://schema.org/url> "https://wfdsa.org/global-statistics/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <http://purl.org/dc/terms/title> "What is multi-level marketing? A business model that relies on your social connections" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <https://schema.org/url> "https://WWW.Britannica.com/money/what-is-multi-level-marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/publisher> "Harvard DASH (author manuscript of Journal of Management Studies article)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/title> "Disruptive Innovation: An Intellectual History and Directions for Future Research (Journal of Management Studies 55(7), 2018)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
