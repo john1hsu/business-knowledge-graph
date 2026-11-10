@@ -26,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
+| `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
@@ -33,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
+| `kt:airline-industry` | `kt:southwest-airlines`, `kt:southwest-airlines` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
@@ -66,8 +68,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
+| `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
-| `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
@@ -78,6 +80,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
+| `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
@@ -88,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
+| `kt:airline-deregulation-act` | `kt:southwest-airlines` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
@@ -175,6 +179,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
 | `kt:henry-ford` | `kt:ford-model-t` |
+| `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri` |
@@ -245,7 +250,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
-| `kt:operational-effectiveness` | `kt:benchmarking` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:path-dependence` | `kt:network-effect` |
@@ -273,6 +277,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
+| `kt:relational-coordination` | `kt:southwest-airlines` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
@@ -280,6 +285,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
+| `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:root-cause-analysis` | `kt:issue-tree` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:salesforce` | `kt:saas-business-model` |
@@ -295,7 +301,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
-| `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |

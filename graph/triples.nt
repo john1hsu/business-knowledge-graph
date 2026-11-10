@@ -3773,6 +3773,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852020" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Michael E. Porter, November–December 1996)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/title> "What Is Strategy?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <https://schema.org/url> "https://hbr.org/1996/11/what-is-strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s2> <http://purl.org/dc/terms/title> "Southwest Airlines Co." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s2> <https://schema.org/url> "https://britannica.com/topic/Southwest-Airlines-Co" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s3> <http://purl.org/dc/terms/title> "Southwest Airlines Co. Form 10-K for the fiscal year ended December 31, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s3> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/luv-20251231.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s4> <http://purl.org/dc/terms/title> "Southwest Airlines Reports Fourth Quarter and Full Year 2025 Results (Form 8-K, Exhibit 99.1)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s4> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/92380/000009238026000002/er-12312025xerdoc.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s5> <http://purl.org/dc/terms/publisher> "Jody Hoffer Gittell, Brandeis University; presentation hosted by the Federal Reserve Bank of Minneapolis (2006)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s5> <http://purl.org/dc/terms/title> "The Southwest Airlines Way: Using the Power of Relationships to Achieve High Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s5> <https://schema.org/url> "https://www.minneapolisfed.org/-/media/files/mea/conferences/2006program/gittell.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of Transportation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <http://purl.org/dc/terms/title> "DOT Penalizes Southwest Airlines $140 Million for 2022 Holiday Meltdown" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <https://schema.org/url> "https://www.transportation.gov/briefing-room/dot-penalizes-southwest-airlines-140-million-2022-holiday-meltdown" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -3863,6 +3893,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:jfinan:v:70:y:2015:i:3:p:1253-1285" .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2000/01/rdf-schema#label> "Southwest Airlines" .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#altLabel> "Air Southwest Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#altLabel> "LUV" .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#altLabel> "Southwest Airlines Co." .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#definition> "The Dallas-based U.S. carrier founded by Rollin King and Herb Kelleher that began flying in 1971, best known in strategy teaching as Michael Porter's example of a low-cost position protected by a tightly fitting system of activities, and in organizational research for its relational coordination; since 2025 it has dismantled several of those signature trade-offs." .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#prefLabel> "Southwest Airlines" .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/herb-kelleher> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/rollin-king> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/relational-coordination> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/airline-deregulation-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Theory" .

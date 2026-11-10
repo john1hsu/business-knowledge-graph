@@ -1503,6 +1503,27 @@
     ]
   },
   {
+    "id": "kt:southwest-airlines",
+    "title": "Southwest Airlines",
+    "aliases": [
+      "Southwest Airlines Co.",
+      "Air Southwest Company",
+      "LUV"
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/southwest-airlines.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://hbr.org/1996/11/what-is-strategy",
+      "https://britannica.com/topic/Southwest-Airlines-Co",
+      "https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/luv-20251231.htm",
+      "https://www.sec.gov/Archives/edgar/data/92380/000009238026000002/er-12312025xerdoc.htm",
+      "https://www.minneapolisfed.org/-/media/files/mea/conferences/2006program/gittell.pdf",
+      "https://www.transportation.gov/briefing-room/dot-penalizes-southwest-airlines-140-million-2022-holiday-meltdown"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [

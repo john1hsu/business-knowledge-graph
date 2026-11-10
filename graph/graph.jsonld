@@ -1607,6 +1607,103 @@
       ]
     },
     {
+      "@id": "kt:southwest-airlines",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Southwest Airlines",
+      "skos:definition": "The Dallas-based U.S. carrier founded by Rollin King and Herb Kelleher that began flying in 1971, best known in strategy teaching as Michael Porter's example of a low-cost position protected by a tightly fitting system of activities, and in organizational research for its relational coordination; since 2025 it has dismantled several of those signature trade-offs.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What Is Strategy?",
+          "dcterms:publisher": "Harvard Business Review (Michael E. Porter, November–December 1996)",
+          "schema:url": "https://hbr.org/1996/11/what-is-strategy",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Southwest Airlines Co.",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://britannica.com/topic/Southwest-Airlines-Co",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Southwest Airlines Co. Form 10-K for the fiscal year ended December 31, 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000004/luv-20251231.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Southwest Airlines Reports Fourth Quarter and Full Year 2025 Results (Form 8-K, Exhibit 99.1)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/92380/000009238026000002/er-12312025xerdoc.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Southwest Airlines Way: Using the Power of Relationships to Achieve High Performance",
+          "dcterms:publisher": "Jody Hoffer Gittell, Brandeis University; presentation hosted by the Federal Reserve Bank of Minneapolis (2006)",
+          "schema:url": "https://www.minneapolisfed.org/-/media/files/mea/conferences/2006program/gittell.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "DOT Penalizes Southwest Airlines $140 Million for 2022 Holiday Meltdown",
+          "dcterms:publisher": "U.S. Department of Transportation",
+          "schema:url": "https://www.transportation.gov/briefing-room/dot-penalizes-southwest-airlines-140-million-2022-holiday-meltdown",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/southwest-airlines.md",
+      "skos:altLabel": [
+        "Southwest Airlines Co.",
+        "Air Southwest Company",
+        "LUV"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:airline-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:operational-effectiveness"
+        },
+        {
+          "@id": "kt:organizational-culture"
+        },
+        {
+          "@id": "kt:economies-of-scale"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:herb-kelleher"
+        },
+        {
+          "@id": "kt:rollin-king"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:strategic-positioning"
+        },
+        {
+          "@id": "kt:relational-coordination"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:airline-industry"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:airline-deregulation-act"
+        }
+      ]
+    },
+    {
       "@id": "kt:direct-selling",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Direct Selling",
