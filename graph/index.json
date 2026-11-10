@@ -571,6 +571,29 @@
     ]
   },
   {
+    "id": "kt:goodwill",
+    "title": "Goodwill",
+    "aliases": [
+      "accounting goodwill",
+      "purchased goodwill",
+      "goodwill impairment",
+      "goodwill impairment test"
+    ],
+    "type": "Concept",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/goodwill.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/",
+      "https://cdn.ifrs.org/content/dam/ifrs/project/goodwill-and-impairment/exposure-draft-2024/iasb-bc-2024-1-bcdgi.pdf",
+      "https://ideas.repec.org/a/spr/reaccs/v22y2017i2d10.1007_s11142-017-9401-7.html",
+      "https://www.ifrs.org/content/dam/ifrs/meetings/2022/september/fasb-iasb/ap18a-identifiable-intangible-assets-and-subsequent-accounting-for-goodwill.pdf",
+      "https://news.kraftheinzcompany.com/press-releases-details/2019/Kraft-Heinz-Reports-Fourth-Quarter-and-Full-Year-2018-Results/default.aspx",
+      "https://dart.deloitte.com/USDART/home/publications/archive/deloitte-publications/heads-up/2017/fasb-eliminates-step-2-from-goodwill",
+      "https://www.ifrs.org/-/media/feature/meetings/2019/may/iasb/ap18b-goodwill-and-impairment.pdf"
+    ]
+  },
+  {
     "id": "kt:google-project-aristotle",
     "title": "Google Project Aristotle",
     "aliases": [

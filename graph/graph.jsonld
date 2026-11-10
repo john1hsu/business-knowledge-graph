@@ -358,6 +358,108 @@
       ]
     },
     {
+      "@id": "kt:goodwill",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Goodwill",
+      "skos:definition": "An intangible asset recognised in a business combination, measured as the residual of the consideration paid over the acquired net identifiable assets, and under both US GAAP and IFRS tested for impairment rather than amortised.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "IAS 36 Impairment of Assets",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Basis for Conclusions on Exposure Draft: Business Combinations—Disclosures, Goodwill and Impairment",
+          "dcterms:publisher": "International Accounting Standards Board",
+          "schema:url": "https://cdn.ifrs.org/content/dam/ifrs/project/goodwill-and-impairment/exposure-draft-2024/iasb-bc-2024-1-bcdgi.pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Has goodwill accounting gone bad?",
+          "dcterms:publisher": "Review of Accounting Studies 22(2), 964-1003 (Kevin K. Li and Richard G. Sloan)",
+          "schema:url": "https://ideas.repec.org/a/spr/reaccs/v22y2017i2d10.1007_s11142-017-9401-7.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Joint FASB-IASB meeting, Agenda Paper 18A: Identifiable Intangible Assets and Subsequent Accounting for Goodwill",
+          "dcterms:publisher": "IFRS Foundation / FASB staff",
+          "schema:url": "https://www.ifrs.org/content/dam/ifrs/meetings/2022/september/fasb-iasb/ap18a-identifiable-intangible-assets-and-subsequent-accounting-for-goodwill.pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Kraft Heinz Reports Fourth Quarter and Full Year 2018 Results",
+          "dcterms:publisher": "The Kraft Heinz Company",
+          "schema:url": "https://news.kraftheinzcompany.com/press-releases-details/2019/Kraft-Heinz-Reports-Fourth-Quarter-and-Full-Year-2018-Results/default.aspx",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "FASB Eliminates Step 2 From the Goodwill Impairment Test (Heads Up, 2017)",
+          "dcterms:publisher": "Deloitte",
+          "schema:url": "https://dart.deloitte.com/USDART/home/publications/archive/deloitte-publications/heads-up/2017/fasb-eliminates-step-2-from-goodwill",
+          "kto:sourceType": "consultancy"
+        },
+        {
+          "dcterms:title": "Goodwill and Impairment, Agenda Paper 18B: Relief from mandatory annual impairment test",
+          "dcterms:publisher": "International Accounting Standards Board (staff paper)",
+          "schema:url": "https://www.ifrs.org/-/media/feature/meetings/2019/may/iasb/ap18b-goodwill-and-impairment.pdf",
+          "kto:sourceType": "standards-body"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/goodwill.md",
+      "skos:altLabel": [
+        "accounting goodwill",
+        "purchased goodwill",
+        "goodwill impairment",
+        "goodwill impairment test"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        },
+        {
+          "@id": "kt:intangible-assets"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mergers-and-acquisitions"
+        },
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:ifrs"
+        },
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:discounted-cash-flow"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:financial-accounting-standards-board"
+        },
+        {
+          "@id": "kt:international-accounting-standards-board"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:fair-value-measurement"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kraft-heinz"
+        }
+      ]
+    },
+    {
       "@id": "kt:agency-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Agency Costs",

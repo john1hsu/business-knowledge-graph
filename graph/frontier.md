@@ -7,16 +7,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
+| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
+| `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:business-model` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
-| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
-| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap` |
+| `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
-| `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:esg` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
@@ -37,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
-| `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
@@ -51,6 +51,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
+| `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
@@ -123,6 +124,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
+| `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:fault-tree-analysis` | `kt:issue-tree` |
@@ -152,13 +154,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
+| `kt:intangible-assets` | `kt:goodwill` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
+| `kt:international-accounting-standards-board` | `kt:goodwill` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:j-richard-hackman` | `kt:amy-edmondson` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
+| `kt:kraft-heinz` | `kt:goodwill` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:learning-curve` | `kt:experience-curve` |
@@ -179,7 +184,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
-| `kt:mergers-and-acquisitions` | `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |

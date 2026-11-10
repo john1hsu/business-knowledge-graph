@@ -657,6 +657,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2000/01/rdf-schema#label> "Goodwill" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#altLabel> "accounting goodwill" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#altLabel> "goodwill impairment test" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#altLabel> "goodwill impairment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#altLabel> "purchased goodwill" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/intangible-assets> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#definition> "An intangible asset recognised in a business combination, measured as the residual of the consideration paid over the acquired net identifiable assets, and under both US GAAP and IFRS tested for impairment rather than amortised." .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goodwill" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/fair-value-measurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kraft-heinz> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting-standards-board> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/international-accounting-standards-board> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <http://www.w3.org/2000/01/rdf-schema#label> "Google Project Aristotle" .
@@ -2078,6 +2106,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://purl.org/dc/terms/publisher> "IFRS Foundation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://purl.org/dc/terms/title> "IAS 36 Impairment of Assets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <https://schema.org/url> "https://www.ifrs.org/issued-standards/list-of-standards/ias-36-impairment-of-assets/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s2> <http://purl.org/dc/terms/publisher> "International Accounting Standards Board" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s2> <http://purl.org/dc/terms/title> "Basis for Conclusions on Exposure Draft: Business Combinations—Disclosures, Goodwill and Impairment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s2> <https://schema.org/url> "https://cdn.ifrs.org/content/dam/ifrs/project/goodwill-and-impairment/exposure-draft-2024/iasb-bc-2024-1-bcdgi.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s3> <http://purl.org/dc/terms/publisher> "Review of Accounting Studies 22(2), 964-1003 (Kevin K. Li and Richard G. Sloan)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s3> <http://purl.org/dc/terms/title> "Has goodwill accounting gone bad?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s3> <https://schema.org/url> "https://ideas.repec.org/a/spr/reaccs/v22y2017i2d10.1007_s11142-017-9401-7.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s4> <http://purl.org/dc/terms/publisher> "IFRS Foundation / FASB staff" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s4> <http://purl.org/dc/terms/title> "Joint FASB-IASB meeting, Agenda Paper 18A: Identifiable Intangible Assets and Subsequent Accounting for Goodwill" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s4> <https://schema.org/url> "https://www.ifrs.org/content/dam/ifrs/meetings/2022/september/fasb-iasb/ap18a-identifiable-intangible-assets-and-subsequent-accounting-for-goodwill.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s5> <http://purl.org/dc/terms/publisher> "The Kraft Heinz Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s5> <http://purl.org/dc/terms/title> "Kraft Heinz Reports Fourth Quarter and Full Year 2018 Results" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s5> <https://schema.org/url> "https://news.kraftheinzcompany.com/press-releases-details/2019/Kraft-Heinz-Reports-Fourth-Quarter-and-Full-Year-2018-Results/default.aspx" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s6> <http://purl.org/dc/terms/publisher> "Deloitte" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s6> <http://purl.org/dc/terms/title> "FASB Eliminates Step 2 From the Goodwill Impairment Test (Heads Up, 2017)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s6> <https://schema.org/url> "https://dart.deloitte.com/USDART/home/publications/archive/deloitte-publications/heads-up/2017/fasb-eliminates-step-2-from-goodwill" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s7> <http://purl.org/dc/terms/publisher> "International Accounting Standards Board (staff paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s7> <http://purl.org/dc/terms/title> "Goodwill and Impairment, Agenda Paper 18B: Relief from mandatory annual impairment test" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s7> <https://schema.org/url> "https://www.ifrs.org/-/media/feature/meetings/2019/may/iasb/ap18b-goodwill-and-impairment.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <http://purl.org/dc/terms/publisher> "Google re:Work" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <http://purl.org/dc/terms/title> "Guide: Understand team effectiveness" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
