@@ -274,6 +274,27 @@
     ]
   },
   {
+    "id": "kt:contingency-theory-of-leadership",
+    "title": "Contingency Theory of Leadership",
+    "aliases": [
+      "Fiedler contingency model",
+      "Fiedler's contingency theory",
+      "contingency model of leadership effectiveness",
+      "LPC contingency model"
+    ],
+    "type": "Theory",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/contingency-theory-of-leadership.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/13-6-situational-contingency-approaches-to-leadership",
+      "https://saylordotorg.github.io/text_organizational-behavior-v1.1/s16-04-what-is-the-role-of-the-contex.html",
+      "https://profiles.wustl.edu/en/publications/a-meta-analytic-investigation-of-fiedlers-contingency-model-of-le",
+      "https://pure.tue.nl/ws/files/4271307/352989.pdf",
+      "https://apps.dtic.mil/sti/pdfs/AD0655102.pdf"
+    ]
+  },
+  {
     "id": "kt:corporate-governance",
     "title": "Corporate Governance",
     "aliases": [

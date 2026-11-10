@@ -3765,6 +3765,90 @@
       ]
     },
     {
+      "@id": "kt:contingency-theory-of-leadership",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Contingency Theory of Leadership",
+      "skos:definition": "Fred Fiedler's theory, introduced in 1964, that a group's performance depends on the match between a leader's relatively fixed task- or relationship-oriented style (measured by the least-preferred-coworker scale) and how much control the situation gives the leader.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "13.6 Situational (Contingency) Approaches to Leadership",
+          "dcterms:publisher": "OpenStax (Principles of Management)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/13-6-situational-contingency-approaches-to-leadership",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "What Is the Role of the Context? Contingency Approaches to Leadership",
+          "dcterms:publisher": "Saylor Academy (Organizational Behavior v1.1)",
+          "schema:url": "https://saylordotorg.github.io/text_organizational-behavior-v1.1/s16-04-what-is-the-role-of-the-contex.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A meta-analytic investigation of Fiedler's contingency model of leadership effectiveness",
+          "dcterms:publisher": "Psychological Bulletin (record at Washington University research profiles)",
+          "schema:url": "https://profiles.wustl.edu/en/publications/a-meta-analytic-investigation-of-fiedlers-contingency-model-of-le",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Fiedler's contingency model of leadership effectiveness: Background and recent developments",
+          "dcterms:publisher": "Eindhoven University of Technology",
+          "schema:url": "https://pure.tue.nl/ws/files/4271307/352989.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A Consideration of Two Assumptions Underlying Fiedler's Contingency Model for the Prediction of Leadership Effectiveness",
+          "dcterms:publisher": "University of Illinois Group Effectiveness Research Laboratory (via DTIC)",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/AD0655102.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/contingency-theory-of-leadership.md",
+      "skos:altLabel": [
+        "Fiedler contingency model",
+        "Fiedler's contingency theory",
+        "contingency model of leadership effectiveness",
+        "LPC contingency model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:leadership"
+        },
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:situational-leadership"
+        },
+        {
+          "@id": "kt:path-goal-theory"
+        },
+        {
+          "@id": "kt:vroom-yetton-decision-model"
+        },
+        {
+          "@id": "kt:hofstedes-cultural-dimensions"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:fred-fiedler"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:trait-theory-of-leadership"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:least-preferred-coworker-scale"
+        }
+      ]
+    },
+    {
       "@id": "kt:hoshin-kanri",
       "@type": "kto:Practice",
       "skos:prefLabel": "Hoshin Kanri",

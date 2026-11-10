@@ -54,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban` |
+| `kt:management-theory` | `kt:contingency-theory-of-leadership`, `kt:peter-drucker` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
@@ -151,6 +152,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:franchising` | `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
+| `kt:fred-fiedler` | `kt:contingency-theory-of-leadership` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
 | `kt:fujifilm` | `kt:kodak-decline` |
@@ -167,6 +169,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hewlett-packard` | `kt:hoshin-kanri` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
+| `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
@@ -187,8 +190,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
+| `kt:leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:learning-curve` | `kt:experience-curve` |
+| `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
@@ -198,7 +203,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
-| `kt:management-theory` | `kt:peter-drucker` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
@@ -230,6 +234,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:path-dependence` | `kt:network-effect` |
+| `kt:path-goal-theory` | `kt:contingency-theory-of-leadership` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
@@ -266,6 +271,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:sherman-act` | `kt:antitrust-law` |
+| `kt:situational-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
@@ -290,12 +296,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:toyota-motor-corporation` | `kt:kanban` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
+| `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
+| `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:w-edwards-deming` | `kt:peter-drucker` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |

@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **67**
-- Frontier nodes (referenced, unwritten): **297**
-- Edges: **661**
-- Citations: **378**
+- Articles (nodes written): **68**
+- Frontier nodes (referenced, unwritten): **305**
+- Edges: **670**
+- Citations: **383**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,33 +12,33 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:industrial-organization` | 0.0063 | yes |
-| `kt:network-effect` | 0.0051 | yes |
-| `kt:disruptive-innovation` | 0.0051 | yes |
-| `kt:barriers-to-entry` | 0.0051 | yes |
-| `kt:innovators-dilemma` | 0.0046 | yes |
-| `kt:two-sided-market` | 0.0046 | yes |
-| `kt:economies-of-scale` | 0.0046 | yes |
-| `kt:organizational-ambidexterity` | 0.0046 | yes |
-| `kt:agency-costs` | 0.0045 | yes |
-| `kt:innovation-management` | 0.0045 | no |
-| `kt:switching-costs` | 0.0044 | no |
-| `kt:corporate-governance` | 0.0042 | yes |
+| `kt:industrial-organization` | 0.0062 | yes |
+| `kt:network-effect` | 0.0050 | yes |
+| `kt:disruptive-innovation` | 0.0050 | yes |
+| `kt:barriers-to-entry` | 0.0050 | yes |
+| `kt:innovators-dilemma` | 0.0045 | yes |
+| `kt:two-sided-market` | 0.0045 | yes |
+| `kt:economies-of-scale` | 0.0045 | yes |
+| `kt:organizational-ambidexterity` | 0.0045 | yes |
+| `kt:agency-costs` | 0.0044 | yes |
+| `kt:innovation-management` | 0.0044 | no |
+| `kt:switching-costs` | 0.0043 | no |
+| `kt:corporate-governance` | 0.0041 | yes |
 | `kt:segmentation-targeting-positioning` | 0.0038 | yes |
-| `kt:clayton-christensen` | 0.0038 | yes |
+| `kt:clayton-christensen` | 0.0037 | yes |
 | `kt:okrs` | 0.0037 | yes |
 
-## Communities (Louvain): 12
+## Communities (Louvain): 14
 
-1. `kt:andy-grove`, `kt:cannibalization`, `kt:change-management`, `kt:charles-a-oreilly`, `kt:clayton-christensen`, `kt:complementary-assets`, `kt:corporate-decline`, `kt:corporate-turnaround`, `kt:creative-destruction`, `kt:david-j-teece`, `kt:disruptive-innovation`, `kt:dynamic-capabilities` …
-2. `kt:aggregation-theory`, `kt:antitrust-law`, `kt:app-store`, `kt:apple-inc`, `kt:apple-iphone-launch`, `kt:barriers-to-entry`, `kt:bruce-henderson`, `kt:business-ecosystem`, `kt:carl-shapiro`, `kt:clayton-act`, `kt:competition-policy`, `kt:competitive-advantage` …
+1. `kt:aggregation-theory`, `kt:antitrust-law`, `kt:app-store`, `kt:apple-inc`, `kt:apple-iphone-launch`, `kt:barriers-to-entry`, `kt:bruce-henderson`, `kt:business-ecosystem`, `kt:carl-shapiro`, `kt:clayton-act`, `kt:competition-policy`, `kt:competitive-advantage` …
+2. `kt:cannibalization`, `kt:change-management`, `kt:charles-a-oreilly`, `kt:clayton-christensen`, `kt:complementary-assets`, `kt:corporate-decline`, `kt:corporate-turnaround`, `kt:creative-destruction`, `kt:david-j-teece`, `kt:disruptive-innovation`, `kt:dynamic-capabilities`, `kt:dynamic-capabilities-and-strategic-management-1997` …
 3. `kt:arbitrage`, `kt:asset-pricing`, `kt:behavioral-finance`, `kt:black-scholes-model`, `kt:capital-asset-pricing-model`, `kt:capital-budgeting`, `kt:capital-structure`, `kt:corporate-finance`, `kt:cost-of-capital`, `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958`, `kt:dividend-policy`, `kt:ebitda` …
-4. `kt:advertising-elasticity`, `kt:alfred-marshall`, `kt:business-model`, `kt:churn-rate`, `kt:cloud-computing`, `kt:cross-price-elasticity`, `kt:customer-equity`, `kt:customer-lifetime-value`, `kt:customer-relationship-management`, `kt:direct-marketing`, `kt:direct-selling`, `kt:discounted-cash-flow` …
-5. `kt:adverse-selection`, `kt:agency-costs`, `kt:bengt-holmstrom`, `kt:business-ethics`, `kt:business-judgment-rule`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:cadbury-report`, `kt:caremark-oversight-duty`, `kt:contract-theory`, `kt:corporate-governance`, `kt:corporate-law`, `kt:corporate-social-responsibility` …
-6. `kt:amy-edmondson`, `kt:bay-of-pigs-invasion`, `kt:board-of-directors`, `kt:chris-argyris`, `kt:devils-advocacy`, `kt:edgar-schein`, `kt:employee-voice`, `kt:goal-setting-theory`, `kt:google`, `kt:google-project-aristotle`, `kt:google-project-oxygen`, `kt:group-decision-making` …
-7. `kt:analog-devices`, `kt:balanced-scorecard`, `kt:benchmarking`, `kt:david-p-norton`, `kt:general-motors`, `kt:hewlett-packard`, `kt:hoshin-kanri`, `kt:knowledge-worker`, `kt:lean-manufacturing`, `kt:malcolm-baldrige-national-quality-award`, `kt:management-by-objectives`, `kt:management-control-systems` …
-8. `kt:aristotle`, `kt:barbara-minto`, `kt:confirmation-bias`, `kt:eighty-twenty-rule`, `kt:fault-tree-analysis`, `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:joseph-juran`, `kt:lean-startup`, `kt:long-tail`, `kt:lorenz-curve`, `kt:marketing-mix` …
-9. `kt:agile-software-development`, `kt:bill-of-materials`, `kt:business-process-reengineering`, `kt:cisco-systems`, `kt:demand-driven-mrp`, `kt:economic-order-quantity`, `kt:enterprise-resource-planning`, `kt:hershey-erp-implementation`, `kt:information-systems`, `kt:inventory-management`, `kt:just-in-time`, `kt:kanban` …
+4. `kt:adverse-selection`, `kt:agency-costs`, `kt:bengt-holmstrom`, `kt:board-of-directors`, `kt:business-ethics`, `kt:business-judgment-rule`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:cadbury-report`, `kt:caremark-oversight-duty`, `kt:contract-theory`, `kt:corporate-governance`, `kt:corporate-law` …
+5. `kt:analog-devices`, `kt:andy-grove`, `kt:balanced-scorecard`, `kt:benchmarking`, `kt:david-p-norton`, `kt:general-motors`, `kt:gordon-moore`, `kt:hewlett-packard`, `kt:hoshin-kanri`, `kt:ingredient-branding`, `kt:intel`, `kt:knowledge-worker` …
+6. `kt:advertising-elasticity`, `kt:alfred-marshall`, `kt:business-model`, `kt:churn-rate`, `kt:cloud-computing`, `kt:cross-price-elasticity`, `kt:customer-equity`, `kt:customer-lifetime-value`, `kt:customer-relationship-management`, `kt:discounted-cash-flow`, `kt:fred-wilson`, `kt:free-trial` …
+7. `kt:amy-edmondson`, `kt:bay-of-pigs-invasion`, `kt:chris-argyris`, `kt:devils-advocacy`, `kt:edgar-schein`, `kt:employee-voice`, `kt:goal-setting-theory`, `kt:google`, `kt:google-project-aristotle`, `kt:google-project-oxygen`, `kt:group-decision-making`, `kt:groupthink` …
+8. `kt:agile-software-development`, `kt:bill-of-materials`, `kt:business-process-reengineering`, `kt:cisco-systems`, `kt:demand-driven-mrp`, `kt:economic-order-quantity`, `kt:enterprise-resource-planning`, `kt:hershey-erp-implementation`, `kt:information-systems`, `kt:inventory-management`, `kt:just-in-time`, `kt:kanban` …
+9. `kt:aristotle`, `kt:barbara-minto`, `kt:confirmation-bias`, `kt:eighty-twenty-rule`, `kt:fault-tree-analysis`, `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:joseph-juran`, `kt:lean-startup`, `kt:long-tail`, `kt:lorenz-curve`, `kt:marketing-mix` …
 10. `kt:agreement-on-government-procurement`, `kt:best-value-tradeoff`, `kt:contracting-officer`, `kt:defense-acquisition-regulation`, `kt:defense-federal-acquisition-regulation-supplement`, `kt:executive-order-14275`, `kt:far-council`, `kt:federal-acquisition-regulation`, `kt:federal-acquisition-streamlining-act`, `kt:government-contract-types`, `kt:governmentwide-acquisition-contract`, `kt:highest-technically-rated-fair-and-reasonable-price` …
 
 ## By type
@@ -53,7 +53,7 @@
 - Person: 4
 - Practice: 9
 - Regulation: 3
-- Theory: 8
+- Theory: 9
 - Work: 1
 
 ## By domain
@@ -66,7 +66,7 @@
 - corporate-finance: 5
 - government-contracting-and-public-sector: 5
 - innovation-and-entrepreneurship: 5
-- leadership-and-management: 4
+- leadership-and-management: 5
 - managerial-economics: 5
 - marketing: 4
 - operations-and-supply-chain: 4
