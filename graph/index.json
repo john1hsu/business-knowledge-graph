@@ -399,6 +399,28 @@
     ]
   },
   {
+    "id": "kt:experience-curve",
+    "title": "Experience Curve",
+    "aliases": [
+      "experience curve effect",
+      "experience curve effects",
+      "BCG experience curve",
+      "Henderson's law"
+    ],
+    "type": "Framework",
+    "domain": "strategy",
+    "file": "articles/strategy/experience-curve.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.bcg.com/publications/2013/growth-business-unit-strategy-experience-curve-bcg-classics-revisited",
+      "https://gaoinnovations.gov/cost-guide/cumulative-average-formulation.html",
+      "https://store.hbr.org/product/limits-of-the-learning-curve/74501",
+      "https://www.gsb.stanford.edu/faculty-research/working-papers/learning-curve-pricing-chemical-processing-industries",
+      "https://www.gsb.stanford.edu/faculty-research/publications/diagnosing-experience-curve",
+      "https://dspace.mit.edu/handle/1721.1/78582"
+    ]
+  },
+  {
     "id": "kt:fasb-conceptual-framework",
     "title": "FASB Conceptual Framework",
     "aliases": [

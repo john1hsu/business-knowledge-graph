@@ -462,6 +462,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/who-cares-wins-report> .
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/esg-ratings> .
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs-sustainability-disclosure-standards> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2000/01/rdf-schema#label> "Experience Curve" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#altLabel> "BCG experience curve" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#altLabel> "Henderson's law" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#altLabel> "experience curve effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#altLabel> "experience curve effects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#definition> "The empirical regularity, popularized by the Boston Consulting Group in the mid-1960s, that a product's real unit cost falls by a roughly constant percentage each time cumulative production doubles, used to argue that market-share leaders can build a self-reinforcing cost advantage." .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#prefLabel> "Experience Curve" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/bruce-henderson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hard-disk-drive-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/learning-curve> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> <http://www.w3.org/2000/01/rdf-schema#label> "FASB Conceptual Framework" .
@@ -1823,6 +1848,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <https://schema.org/url> "https://sec.gov/newsroom/press-releases/2025-58" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://purl.org/dc/terms/publisher> "Boston Consulting Group" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://purl.org/dc/terms/title> "BCG Classics Revisited: The Experience Curve" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <https://schema.org/url> "https://www.bcg.com/publications/2013/growth-business-unit-strategy-experience-curve-bcg-classics-revisited" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s2> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s2> <http://purl.org/dc/terms/title> "Cumulative Average Formulation (GAO Cost Estimating and Assessment Guide)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s2> <https://schema.org/url> "https://gaoinnovations.gov/cost-guide/cumulative-average-formulation.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s3> <http://purl.org/dc/terms/title> "Limits of the Learning Curve" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s3> <https://schema.org/url> "https://store.hbr.org/product/limits-of-the-learning-curve/74501" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s4> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s4> <http://purl.org/dc/terms/title> "The Learning Curve and Pricing in the Chemical Processing Industries (Stanford GSB Working Paper No. 719)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s4> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/working-papers/learning-curve-pricing-chemical-processing-industries" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing 47(2):44-58 (record at Stanford GSB)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s5> <http://purl.org/dc/terms/title> "Diagnosing the Experience Curve" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s5> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/publications/diagnosing-experience-curve" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s6> <http://purl.org/dc/terms/publisher> "PLoS ONE 8(2):e52669 (record at DSpace@MIT)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s6> <http://purl.org/dc/terms/title> "Statistical Basis for Predicting Technological Progress" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s6> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/78582" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/fasb-conceptual-framework/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

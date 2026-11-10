@@ -4907,6 +4907,96 @@
       ]
     },
     {
+      "@id": "kt:experience-curve",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Experience Curve",
+      "skos:definition": "The empirical regularity, popularized by the Boston Consulting Group in the mid-1960s, that a product's real unit cost falls by a roughly constant percentage each time cumulative production doubles, used to argue that market-share leaders can build a self-reinforcing cost advantage.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "BCG Classics Revisited: The Experience Curve",
+          "dcterms:publisher": "Boston Consulting Group",
+          "schema:url": "https://www.bcg.com/publications/2013/growth-business-unit-strategy-experience-curve-bcg-classics-revisited",
+          "kto:sourceType": "consultancy"
+        },
+        {
+          "dcterms:title": "Cumulative Average Formulation (GAO Cost Estimating and Assessment Guide)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://gaoinnovations.gov/cost-guide/cumulative-average-formulation.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Limits of the Learning Curve",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/limits-of-the-learning-curve/74501",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "The Learning Curve and Pricing in the Chemical Processing Industries (Stanford GSB Working Paper No. 719)",
+          "dcterms:publisher": "Stanford Graduate School of Business",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/working-papers/learning-curve-pricing-chemical-processing-industries",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Diagnosing the Experience Curve",
+          "dcterms:publisher": "Journal of Marketing 47(2):44-58 (record at Stanford GSB)",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/publications/diagnosing-experience-curve",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Statistical Basis for Predicting Technological Progress",
+          "dcterms:publisher": "PLoS ONE 8(2):e52669 (record at DSpace@MIT)",
+          "schema:url": "https://dspace.mit.edu/handle/1721.1/78582",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/strategy/experience-curve.md",
+      "skos:altLabel": [
+        "experience curve effect",
+        "experience curve effects",
+        "BCG experience curve",
+        "Henderson's law"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:competitive-advantage"
+        },
+        {
+          "@id": "kt:cost-structure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:first-mover-advantage"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:bruce-henderson"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:learning-curve"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:hard-disk-drive-industry"
+        }
+      ]
+    },
+    {
       "@id": "kt:first-mover-advantage",
       "@type": "kto:Concept",
       "skos:prefLabel": "First-Mover Advantage",

@@ -30,8 +30,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:groupthink` |
+| `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
+| `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
@@ -39,6 +41,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
@@ -76,6 +79,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:behavioral-finance` | `kt:arbitrage` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
+| `kt:bruce-henderson` | `kt:experience-curve` |
 | `kt:business-ecosystem` | `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
@@ -93,14 +97,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
-| `kt:competitive-advantage` | `kt:first-mover-advantage` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
-| `kt:cost-structure` | `kt:economies-of-scale` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-j-teece` | `kt:dynamic-capabilities` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
@@ -120,7 +122,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
-| `kt:experience-curve` | `kt:first-mover-advantage` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
 | `kt:far-council` | `kt:federal-acquisition-regulation` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
@@ -140,7 +141,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
-| `kt:hard-disk-drive-industry` | `kt:cannibalization` |
 | `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri` |
@@ -161,6 +161,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
+| `kt:learning-curve` | `kt:experience-curve` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
