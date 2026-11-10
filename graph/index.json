@@ -485,6 +485,26 @@
     ]
   },
   {
+    "id": "kt:dividend-policy",
+    "title": "Dividend Policy",
+    "aliases": [
+      "payout policy",
+      "dividend payout policy",
+      "dividend decision"
+    ],
+    "type": "Practice",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/dividend-policy.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.chicagobooth.edu/review/why-merton-miller-remains-misunderstood",
+      "https://people.duke.edu/~charvey/Research/GHSurvey/dividend_policy.htm",
+      "https://ideas.repec.org/a/eee/jfinec/v60y2001i1p3-43.html",
+      "https://www.nber.org/papers/w9657",
+      "https://www.spglobal.com/spdji/en/corporate-news/article/sp-500-q4-2024-buybacks-increase-74-and-2024-expenditure-sets-new-record-by-increasing-18-5"
+    ]
+  },
+  {
     "id": "kt:dynamic-capabilities",
     "title": "Dynamic Capabilities",
     "aliases": [

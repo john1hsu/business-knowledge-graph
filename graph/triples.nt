@@ -561,6 +561,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/resource-dependence-theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2000/01/rdf-schema#label> "Dividend Policy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "dividend decision" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "dividend payout policy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#altLabel> "payout policy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#definition> "A firm's choices about how much of its earnings to return to shareholders, in what form (cash dividends or share repurchases) and on what schedule, as opposed to retaining the cash for reinvestment; Miller and Modigliani showed it is irrelevant to value in frictionless markets, so real-world payout behaviour is explained by taxes, information and agency problems." .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dividend Policy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/franco-modigliani> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/merton-miller> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2000/01/rdf-schema#label> "Dynamic Capabilities" .
@@ -2481,6 +2507,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s4> <https://schema.org/url> "https://sloanreview.mit.edu/article/debating-disruptive-innovation/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s1> <http://purl.org/dc/terms/publisher> "Chicago Booth Review (University of Chicago Booth School of Business)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s1> <http://purl.org/dc/terms/title> "Why Merton Miller remains misunderstood" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s1> <https://schema.org/url> "https://www.chicagobooth.edu/review/why-merton-miller-remains-misunderstood" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s2> <http://purl.org/dc/terms/publisher> "Duke University, Fuqua School of Business (Campbell R. Harvey)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s2> <http://purl.org/dc/terms/title> "Dividend policy (annotated research review)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s2> <https://schema.org/url> "https://people.duke.edu/~charvey/Research/GHSurvey/dividend_policy.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s3> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics 60(1), 3-43 (via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s3> <http://purl.org/dc/terms/title> "Disappearing dividends: changing firm characteristics or lower propensity to pay?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s3> <https://schema.org/url> "https://ideas.repec.org/a/eee/jfinec/v60y2001i1p3-43.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 9657" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s4> <http://purl.org/dc/terms/title> "Payout Policy in the 21st Century" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s4> <https://schema.org/url> "https://www.nber.org/papers/w9657" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <http://purl.org/dc/terms/publisher> "S&P Dow Jones Indices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <http://purl.org/dc/terms/title> "S&P 500 Q4 2024 Buybacks Increase 7.4% and 2024 Expenditure Sets New Record by Increasing 18.5%" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <https://schema.org/url> "https://www.spglobal.com/spdji/en/corporate-news/article/sp-500-q4-2024-buybacks-increase-74-and-2024-expenditure-sets-new-record-by-increasing-18-5" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at IDEAS/RePEc)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://purl.org/dc/terms/title> "Dynamic capabilities and strategic management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

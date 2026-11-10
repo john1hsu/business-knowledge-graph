@@ -2804,6 +2804,102 @@
       ]
     },
     {
+      "@id": "kt:dividend-policy",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Dividend Policy",
+      "skos:definition": "A firm's choices about how much of its earnings to return to shareholders, in what form (cash dividends or share repurchases) and on what schedule, as opposed to retaining the cash for reinvestment; Miller and Modigliani showed it is irrelevant to value in frictionless markets, so real-world payout behaviour is explained by taxes, information and agency problems.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Why Merton Miller remains misunderstood",
+          "dcterms:publisher": "Chicago Booth Review (University of Chicago Booth School of Business)",
+          "schema:url": "https://www.chicagobooth.edu/review/why-merton-miller-remains-misunderstood",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Dividend policy (annotated research review)",
+          "dcterms:publisher": "Duke University, Fuqua School of Business (Campbell R. Harvey)",
+          "schema:url": "https://people.duke.edu/~charvey/Research/GHSurvey/dividend_policy.htm",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Disappearing dividends: changing firm characteristics or lower propensity to pay?",
+          "dcterms:publisher": "Journal of Financial Economics 60(1), 3-43 (via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/eee/jfinec/v60y2001i1p3-43.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Payout Policy in the 21st Century",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 9657",
+          "schema:url": "https://www.nber.org/papers/w9657",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "S&P 500 Q4 2024 Buybacks Increase 7.4% and 2024 Expenditure Sets New Record by Increasing 18.5%",
+          "dcterms:publisher": "S&P Dow Jones Indices",
+          "schema:url": "https://www.spglobal.com/spdji/en/corporate-news/article/sp-500-q4-2024-buybacks-increase-74-and-2024-expenditure-sets-new-record-by-increasing-18-5",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/dividend-policy.md",
+      "skos:altLabel": [
+        "payout policy",
+        "dividend payout policy",
+        "dividend decision"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:capital-structure"
+        },
+        {
+          "@id": "kt:share-repurchase"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:merton-miller"
+        },
+        {
+          "@id": "kt:franco-modigliani"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:share-repurchase"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:free-cash-flow"
+        }
+      ]
+    },
+    {
       "@id": "kt:efficient-market-hypothesis",
       "@type": "kto:Theory",
       "skos:prefLabel": "Efficient Market Hypothesis",

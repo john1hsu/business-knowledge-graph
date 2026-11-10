@@ -4,14 +4,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
+| `kt:capital-structure` | `kt:agency-costs`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
-| `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
@@ -50,6 +50,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
+| `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:gaps-model-of-service-quality` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs`, `kt:high-performance-teams` |
@@ -67,6 +68,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
+| `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:principal-agent-problem` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
@@ -81,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:servqual` |
+| `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
@@ -138,7 +141,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:devils-advocacy` | `kt:groupthink` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:distribution-channel` | `kt:direct-selling` |
-| `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
@@ -166,7 +168,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
-| `kt:franco-modigliani` | `kt:modigliani-miller-theorem` |
 | `kt:fred-fiedler` | `kt:contingency-theory-of-leadership` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
@@ -237,7 +238,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mcdonalds` | `kt:business-format-franchising` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
-| `kt:merton-miller` | `kt:modigliani-miller-theorem` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
