@@ -1,5 +1,25 @@
 [
   {
+    "id": "kt:a-parasuraman",
+    "title": "A. Parasuraman",
+    "aliases": [
+      "Parsu Parasuraman",
+      "A. \"Parsu\" Parasuraman"
+    ],
+    "type": "Person",
+    "domain": "marketing",
+    "file": "articles/marketing/a-parasuraman.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://herbert.miami.edu/_assets/pdfs/faculty-research/emeritus/parasuraman-cv.pdf",
+      "https://www.servsig.org/wordpress/2017/07/getting-to-know-a-parsu-parasuraman/",
+      "https://scispace.com/pdf/e-s-qual-a-multiple-item-scale-for-assessing-electronic-2f9xy8ot5i.pdf",
+      "https://mycourses.aalto.fi/mod/resource/view.php?id=406553",
+      "https://scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33",
+      "https://emerald.com/insight/content/doi/10.1108/03090569610105762/full/html"
+    ]
+  },
+  {
     "id": "kt:accrual-accounting",
     "title": "Accrual Accounting",
     "aliases": [

@@ -45,7 +45,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
+| `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
+| `kt:gaps-model-of-service-quality` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs`, `kt:high-performance-teams` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
@@ -73,13 +75,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:service-quality` | `kt:a-parasuraman`, `kt:servqual` |
+| `kt:services-marketing` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
-| `kt:a-parasuraman` | `kt:servqual` |
 | `kt:adverse-selection` | `kt:principal-agent-problem` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
@@ -124,7 +127,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
-| `kt:customer-satisfaction` | `kt:servqual` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
@@ -134,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
+| `kt:e-s-qual` | `kt:a-parasuraman` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
@@ -166,7 +169,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm` | `kt:kodak-decline` |
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
-| `kt:gaps-model-of-service-quality` | `kt:servqual` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
@@ -284,8 +286,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
-| `kt:service-quality` | `kt:servqual` |
-| `kt:services-marketing` | `kt:servqual` |
 | `kt:servperf` | `kt:servqual` |
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:sherman-act` | `kt:antitrust-law` |
@@ -306,6 +306,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tax-incidence` | `kt:price-elasticity` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technological-disruption` | `kt:kodak-decline` |
+| `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |

@@ -4752,6 +4752,84 @@
       ]
     },
     {
+      "@id": "kt:a-parasuraman",
+      "@type": "kto:Person",
+      "skos:prefLabel": "A. Parasuraman",
+      "skos:definition": "Marketing scholar, trained at IIT Madras, IIM Ahmedabad and Indiana University and emeritus James W. McLamore Chair at the University of Miami, who with Valarie Zeithaml and Leonard Berry created the gaps model of service quality and SERVQUAL, and later developed the Technology Readiness Index and the E-S-QUAL scale.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Curriculum Vitae: A. Parasuraman",
+          "dcterms:publisher": "Miami Herbert Business School, University of Miami",
+          "schema:url": "https://herbert.miami.edu/_assets/pdfs/faculty-research/emeritus/parasuraman-cv.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Getting to Know A. 'Parsu' Parasuraman",
+          "dcterms:publisher": "American Marketing Association SERVSIG (interview by Matt Weingarden, AMA), 2017",
+          "schema:url": "https://www.servsig.org/wordpress/2017/07/getting-to-know-a-parsu-parasuraman/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "E-S-QUAL: A Multiple-Item Scale for Assessing Electronic Service Quality",
+          "dcterms:publisher": "Journal of Service Research 7, 2005 (author copy via SciSpace)",
+          "schema:url": "https://scispace.com/pdf/e-s-qual-a-multiple-item-scale-for-assessing-electronic-2f9xy8ot5i.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "An Updated and Streamlined Technology Readiness Index: TRI 2.0",
+          "dcterms:publisher": "Journal of Service Research, 2014 (course copy hosted by Aalto University)",
+          "schema:url": "https://mycourses.aalto.fi/mod/resource/view.php?id=406553",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Measuring Service Quality: A Reexamination and Extension",
+          "dcterms:publisher": "Journal of Marketing 56(3), 55–68 (1992), via Scilit",
+          "schema:url": "https://scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "SERVQUAL: review, critique, research agenda",
+          "dcterms:publisher": "European Journal of Marketing 30(1), 8–32 (1996), Emerald",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/03090569610105762/full/html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/marketing/a-parasuraman.md",
+      "skos:altLabel": [
+        "Parsu Parasuraman",
+        "A. \"Parsu\" Parasuraman"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:services-marketing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:servqual"
+        },
+        {
+          "@id": "kt:service-quality"
+        },
+        {
+          "@id": "kt:customer-satisfaction"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:gaps-model-of-service-quality"
+        },
+        {
+          "@id": "kt:technology-readiness-index"
+        },
+        {
+          "@id": "kt:e-s-qual"
+        }
+      ]
+    },
+    {
       "@id": "kt:cannibalization",
       "@type": "kto:Concept",
       "skos:prefLabel": "Cannibalization",

@@ -1,3 +1,24 @@
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2000/01/rdf-schema#label> "A. Parasuraman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#altLabel> "A. \"Parsu\" Parasuraman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#altLabel> "Parsu Parasuraman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#definition> "Marketing scholar, trained at IIT Madras, IIM Ahmedabad and Indiana University and emeritus James W. McLamore Chair at the University of Miami, who with Valarie Zeithaml and Leonard Berry created the gaps model of service quality and SERVQUAL, and later developed the Technology Readiness Index and the E-S-QUAL scale." .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#prefLabel> "A. Parasuraman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/service-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/e-s-qual> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/technology-readiness-index> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2000/01/rdf-schema#label> "Accrual Accounting" .
@@ -1747,6 +1768,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/servqual-multiple-item-scale-1988> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/publisher> "Miami Herbert Business School, University of Miami" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/title> "Curriculum Vitae: A. Parasuraman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <https://schema.org/url> "https://herbert.miami.edu/_assets/pdfs/faculty-research/emeritus/parasuraman-cv.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s2> <http://purl.org/dc/terms/publisher> "American Marketing Association SERVSIG (interview by Matt Weingarden, AMA), 2017" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s2> <http://purl.org/dc/terms/title> "Getting to Know A. 'Parsu' Parasuraman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s2> <https://schema.org/url> "https://www.servsig.org/wordpress/2017/07/getting-to-know-a-parsu-parasuraman/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s3> <http://purl.org/dc/terms/publisher> "Journal of Service Research 7, 2005 (author copy via SciSpace)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s3> <http://purl.org/dc/terms/title> "E-S-QUAL: A Multiple-Item Scale for Assessing Electronic Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s3> <https://schema.org/url> "https://scispace.com/pdf/e-s-qual-a-multiple-item-scale-for-assessing-electronic-2f9xy8ot5i.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s4> <http://purl.org/dc/terms/publisher> "Journal of Service Research, 2014 (course copy hosted by Aalto University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s4> <http://purl.org/dc/terms/title> "An Updated and Streamlined Technology Readiness Index: TRI 2.0" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s4> <https://schema.org/url> "https://mycourses.aalto.fi/mod/resource/view.php?id=406553" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing 56(3), 55–68 (1992), via Scilit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s5> <http://purl.org/dc/terms/title> "Measuring Service Quality: A Reexamination and Extension" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s5> <https://schema.org/url> "https://scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <http://purl.org/dc/terms/publisher> "European Journal of Marketing 30(1), 8–32 (1996), Emerald" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <http://purl.org/dc/terms/title> "SERVQUAL: review, critique, research agenda" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/03090569610105762/full/html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
