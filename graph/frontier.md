@@ -7,6 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
+| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:business-model` | `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:revolutionary-far-overhaul` |
@@ -14,10 +15,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
-| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
+| `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:hoshin-kanri`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
@@ -29,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
-| `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:hoshin-kanri` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
@@ -90,6 +90,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:apple-inc` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
+| `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:bengt-holmstrom` | `kt:principal-agent-problem` |
@@ -204,7 +205,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
-| `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
+| `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
@@ -222,6 +223,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:moral-hazard` | `kt:principal-agent-problem` |
+| `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |

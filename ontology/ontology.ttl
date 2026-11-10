@@ -49,6 +49,8 @@ kto:Regulation   a owl:Class ; rdfs:subClassOf kto:Entity , schema:Legislation ;
     rdfs:comment "A law, regulation or accounting/reporting standard: Sarbanes-Oxley, ASC 606, the FAR." .
 kto:Work         a owl:Class ; rdfs:subClassOf kto:Entity , schema:CreativeWork ;
     rdfs:comment "An influential book or paper: The Goal, The Innovator's Dilemma, 'The Nature of the Firm'." .
+kto:Award        a owl:Class ; rdfs:subClassOf kto:Entity ; rdfs:label "Award" ;
+    rdfs:comment "A recognition or award programme with published criteria: the Malcolm Baldrige National Quality Award, the Deming Prize." .
 kto:Field        a owl:Class ; rdfs:subClassOf kto:Concept ;
     rdfs:comment "A discipline: corporate finance, operations management, organizational behavior." .
 kto:Source       a owl:Class ; rdfs:subClassOf prov:Entity , schema:CreativeWork .

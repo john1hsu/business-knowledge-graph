@@ -5288,6 +5288,89 @@
       ]
     },
     {
+      "@id": "kt:malcolm-baldrige-national-quality-award",
+      "@type": "kto:Award",
+      "skos:prefLabel": "Malcolm Baldrige National Quality Award",
+      "skos:definition": "The U.S. presidential award for organizational performance excellence, created by Congress in 1987 and administered under NIST, which judges applicants against the Baldrige Excellence Framework's criteria for leadership, strategy, customers, workforce, operations and results.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "History",
+          "dcterms:publisher": "The Foundation for the Malcolm Baldrige National Quality Award",
+          "schema:url": "https://baldrigefoundation.org/who-we-are/history.html",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Baldrige Program Celebrates 25 Years of Performance Excellence",
+          "dcterms:publisher": "National Institute of Standards and Technology",
+          "schema:url": "https://www.nist.gov/node/400961",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Transformation of American Business—and the Other Sectors",
+          "dcterms:publisher": "National Institute of Standards and Technology",
+          "schema:url": "https://www.nist.gov/baldrige/how-baldrige-works/about-baldrige/history/how-baldrige-program-began/transformation",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "2 Health Care Organizations Will Receive 2025 Baldrige National Quality Awards",
+          "dcterms:publisher": "National Institute of Standards and Technology",
+          "schema:url": "https://nist.gov/news-events/news/2026/02/2-health-care-organizations-will-receive-2025-baldrige-national-quality",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Revisiting the Stock Price Impact of Quality Awards",
+          "dcterms:publisher": "OMEGA: The International Journal of Management Science",
+          "schema:url": "https://scholarsarchive.byu.edu/facpub/8962",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Financial performance of Baldrige Award winners: a review and synthesis",
+          "dcterms:publisher": "International Journal of Quality & Reliability Management",
+          "schema:url": "https://www.emeraldinsight.com/insight/content/doi/10.1108/02656711211199937/full/html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/malcolm-baldrige-national-quality-award.md",
+      "skos:altLabel": [
+        "Baldrige Award",
+        "Baldrige National Quality Award",
+        "MBNQA"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:benchmarking"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:performance-management"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:malcolm-baldrige-national-quality-improvement-act"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:motorola"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:baldrige-excellence-framework"
+        }
+      ]
+    },
+    {
       "@id": "kt:material-requirements-planning",
       "@type": "kto:Practice",
       "skos:prefLabel": "Material Requirements Planning",

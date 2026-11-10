@@ -1061,6 +1061,27 @@
     ]
   },
   {
+    "id": "kt:malcolm-baldrige-national-quality-award",
+    "title": "Malcolm Baldrige National Quality Award",
+    "aliases": [
+      "Baldrige Award",
+      "Baldrige National Quality Award",
+      "MBNQA"
+    ],
+    "type": "Award",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/malcolm-baldrige-national-quality-award.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://baldrigefoundation.org/who-we-are/history.html",
+      "https://www.nist.gov/node/400961",
+      "https://www.nist.gov/baldrige/how-baldrige-works/about-baldrige/history/how-baldrige-program-began/transformation",
+      "https://nist.gov/news-events/news/2026/02/2-health-care-organizations-will-receive-2025-baldrige-national-quality",
+      "https://scholarsarchive.byu.edu/facpub/8962",
+      "https://www.emeraldinsight.com/insight/content/doi/10.1108/02656711211199937/full/html"
+    ]
+  },
+  {
     "id": "kt:material-requirements-planning",
     "title": "Material Requirements Planning",
     "aliases": [
