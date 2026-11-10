@@ -936,6 +936,107 @@
       ]
     },
     {
+      "@id": "kt:apple-iphone-launch",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Apple iPhone Launch",
+      "skos:definition": "Apple's 2007–2008 entry into mobile phones: the iPhone was unveiled at Macworld in January 2007, shipped in the U.S. in June 2007 through an exclusive Cingular/AT&T deal, was repriced within ten weeks, and was turned into a third-party software platform with the iPhone 3G and App Store in July 2008, a case in category redefinition, carrier bargaining power and platform strategy.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Apple Reinvents the Phone with iPhone",
+          "dcterms:publisher": "Apple Inc. press release, January 9, 2007",
+          "schema:url": "https://apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Apple Sets iPhone Price at $399 for this Holiday Season",
+          "dcterms:publisher": "Apple Inc. press release, September 5, 2007",
+          "schema:url": "https://apple.com/newsroom/2007/09/05Apple-Sets-iPhone-Price-at-399-for-this-Holiday-Season",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Apple Inc., Form 10-K for fiscal year 2008",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/0000320193/000119312508224958/d10k.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "iPhone App Store Downloads Top 10 Million in First Weekend",
+          "dcterms:publisher": "Apple Inc. press release, July 14, 2008",
+          "schema:url": "https://www.apple.com/newsroom/2008/07/14iPhone-App-Store-Downloads-Top-10-Million-in-First-Weekend/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Browsing as the killer app: Explaining the rapid success of Apple's iPhone",
+          "dcterms:publisher": "Joel West and Michael Mace, Telecommunications Policy 34(5–6), 270–286 (record via EconPapers/RePEc)",
+          "schema:url": "https://econpapers.repec.org/RePEc:eee:telpol:v:34:y::i:5-6:p:270-286",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Apple Inc., 2008 (HBS Case 708-480)",
+          "dcterms:publisher": "David B. Yoffie and Michael Slind, Harvard Business School faculty research page",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=35657",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/apple-iphone-launch.md",
+      "skos:altLabel": [
+        "launch of the iPhone",
+        "original iPhone launch",
+        "iPhone introduction 2007",
+        "Apple's entry into the mobile phone market"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:product-launch"
+        },
+        {
+          "@id": "kt:new-market-entry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:first-mover-advantage"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:platform-business-model"
+        },
+        {
+          "@id": "kt:business-ecosystem"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:platform-business-model"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:first-mover-advantage"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:apple-inc"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:app-store"
+        }
+      ]
+    },
+    {
       "@id": "kt:ford-model-t",
       "@type": "kto:Case",
       "skos:prefLabel": "Ford Model T",

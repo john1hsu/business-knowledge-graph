@@ -94,6 +94,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/merger-guidelines> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/sherman-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2000/01/rdf-schema#label> "Apple iPhone Launch" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#altLabel> "Apple's entry into the mobile phone market" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#altLabel> "iPhone introduction 2007" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#altLabel> "launch of the iPhone" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#altLabel> "original iPhone launch" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/new-market-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/product-launch> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#definition> "Apple's 2007–2008 entry into mobile phones: the iPhone was unveiled at Macworld in January 2007, shipped in the U.S. in June 2007 through an exclusive Cingular/AT&T deal, was repriced within ten weeks, and was turned into a third-party software platform with the iPhone 3G and App Store in July 2008, a case in category redefinition, carrier bargaining power and platform strategy." .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apple iPhone Launch" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/app-store> .
 <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <http://www.w3.org/2000/01/rdf-schema#label> "Arbitrage" .
@@ -1540,6 +1568,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://schema.org/url> "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <http://purl.org/dc/terms/publisher> "Apple Inc. press release, January 9, 2007" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <http://purl.org/dc/terms/title> "Apple Reinvents the Phone with iPhone" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <https://schema.org/url> "https://apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s2> <http://purl.org/dc/terms/publisher> "Apple Inc. press release, September 5, 2007" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s2> <http://purl.org/dc/terms/title> "Apple Sets iPhone Price at $399 for this Holiday Season" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s2> <https://schema.org/url> "https://apple.com/newsroom/2007/09/05Apple-Sets-iPhone-Price-at-399-for-this-Holiday-Season" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s3> <http://purl.org/dc/terms/title> "Apple Inc., Form 10-K for fiscal year 2008" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s3> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0000320193/000119312508224958/d10k.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s4> <http://purl.org/dc/terms/publisher> "Apple Inc. press release, July 14, 2008" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s4> <http://purl.org/dc/terms/title> "iPhone App Store Downloads Top 10 Million in First Weekend" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s4> <https://schema.org/url> "https://www.apple.com/newsroom/2008/07/14iPhone-App-Store-Downloads-Top-10-Million-in-First-Weekend/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s5> <http://purl.org/dc/terms/publisher> "Joel West and Michael Mace, Telecommunications Policy 34(5–6), 270–286 (record via EconPapers/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s5> <http://purl.org/dc/terms/title> "Browsing as the killer app: Explaining the rapid success of Apple's iPhone" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s5> <https://schema.org/url> "https://econpapers.repec.org/RePEc:eee:telpol:v:34:y::i:5-6:p:270-286" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s6> <http://purl.org/dc/terms/publisher> "David B. Yoffie and Michael Slind, Harvard Business School faculty research page" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s6> <http://purl.org/dc/terms/title> "Apple Inc., 2008 (HBS Case 708-480)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s6> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=35657" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <http://purl.org/dc/terms/title> "Arbitrage (finance)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

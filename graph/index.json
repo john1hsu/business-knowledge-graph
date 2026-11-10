@@ -82,6 +82,28 @@
     ]
   },
   {
+    "id": "kt:apple-iphone-launch",
+    "title": "Apple iPhone Launch",
+    "aliases": [
+      "launch of the iPhone",
+      "original iPhone launch",
+      "iPhone introduction 2007",
+      "Apple's entry into the mobile phone market"
+    ],
+    "type": "Case",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/apple-iphone-launch.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "https://apple.com/newsroom/2007/09/05Apple-Sets-iPhone-Price-at-399-for-this-Holiday-Season",
+      "https://www.sec.gov/Archives/edgar/data/0000320193/000119312508224958/d10k.htm",
+      "https://www.apple.com/newsroom/2008/07/14iPhone-App-Store-Downloads-Top-10-Million-in-First-Weekend/",
+      "https://econpapers.repec.org/RePEc:eee:telpol:v:34:y::i:5-6:p:270-286",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=35657"
+    ]
+  },
+  {
     "id": "kt:arbitrage",
     "title": "Arbitrage",
     "aliases": [

@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
+| `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
@@ -29,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:structured-problem-solving` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
+| `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
@@ -77,6 +79,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
+| `kt:app-store` | `kt:apple-iphone-launch` |
+| `kt:apple-inc` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:asset-pricing` | `kt:arbitrage` |
 | `kt:barbara-minto` | `kt:mece-principle` |
@@ -86,7 +90,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:bruce-henderson` | `kt:experience-curve` |
-| `kt:business-ecosystem` | `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
@@ -204,6 +207,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
+| `kt:new-market-entry` | `kt:apple-iphone-launch` |
 | `kt:new-product-development` | `kt:cannibalization` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
@@ -214,13 +218,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
-| `kt:platform-business-model` | `kt:two-sided-market` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:procurement` | `kt:public-procurement` |
+| `kt:product-launch` | `kt:apple-iphone-launch` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
