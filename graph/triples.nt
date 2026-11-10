@@ -1235,6 +1235,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/ingredient-branding> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/semiconductor-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2000/01/rdf-schema#label> "Ishikawa Diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#altLabel> "Ishikawa fishbone diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#altLabel> "cause-and-effect diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#altLabel> "fishbone chart" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#altLabel> "fishbone diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#definition> "A visual root-cause analysis tool, devised by the Japanese quality pioneer Kaoru Ishikawa, that places a problem (the effect) at the head of a fish-shaped chart and arranges its possible causes as categorized branches, so that a team can brainstorm, organize and prioritize causes before acting." .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ishikawa Diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/five-whys> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/fault-tree-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/kaoru-ishikawa> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/seven-basic-quality-tools> .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2000/01/rdf-schema#label> "Issue Tree" .
@@ -1247,6 +1272,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#definition> "A hierarchical diagram that decomposes a single key question into progressively smaller sub-questions or options, either diagnostic (\"why?\") or solution-oriented (\"how?\"), so that a complex problem can be analysed piece by piece and work can be planned against each branch." .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#prefLabel> "Issue Tree" .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
@@ -3257,6 +3283,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <http://purl.org/dc/terms/publisher> "American Society for Quality (ASQ)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <http://purl.org/dc/terms/title> "What is a Fishbone Diagram? Ishikawa Cause & Effect Diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <https://schema.org/url> "https://asq.org/quality-resources/fishbone" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s2> <http://purl.org/dc/terms/publisher> "Asian Productivity Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s2> <http://purl.org/dc/terms/title> "Fishbone Diagram (P-Glossary)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s2> <https://schema.org/url> "https://www.apo-tokyo.org/wp-content/uploads/2014/10/record40.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s3> <http://purl.org/dc/terms/publisher> "University of Alberta (course materials, ORGA 432)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s3> <http://purl.org/dc/terms/title> "Fishbone Diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s3> <https://schema.org/url> "https://sites.ualberta.ca/~yreshef/orga432/fishbone.HTML" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s4> <http://purl.org/dc/terms/publisher> "Cogent Engineering" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s4> <http://purl.org/dc/terms/title> "Determining which of the classic seven quality tools are in the quality practitioner's RCA tool kit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s4> <https://schema.org/url> "https://doaj.org/article/401d9e367d41475abfe5f52c381d188d" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s5> <http://purl.org/dc/terms/publisher> "International Journal of Quality and Service Sciences (Emerald)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s5> <http://purl.org/dc/terms/title> "Cornerstone root causes through the analysis of the Ishikawa diagram, is it possible to find them?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s5> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/IJQSS-12-2017-0113/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s6> <http://purl.org/dc/terms/publisher> "Los Angeles County Department of Public Health" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s6> <http://purl.org/dc/terms/title> "Fishbone Diagram & The 5 Whys" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s6> <https://schema.org/url> "https://admin.publichealth.lacounty.gov/qiap/docs/Topic3-Fishbone.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <http://purl.org/dc/terms/publisher> "OUPblog (Oxford University Press)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <http://purl.org/dc/terms/title> "How to use maps to solve complex problems" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

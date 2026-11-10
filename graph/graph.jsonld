@@ -2538,6 +2538,96 @@
       ]
     },
     {
+      "@id": "kt:ishikawa-diagram",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Ishikawa Diagram",
+      "skos:definition": "A visual root-cause analysis tool, devised by the Japanese quality pioneer Kaoru Ishikawa, that places a problem (the effect) at the head of a fish-shaped chart and arranges its possible causes as categorized branches, so that a team can brainstorm, organize and prioritize causes before acting.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is a Fishbone Diagram? Ishikawa Cause & Effect Diagram",
+          "dcterms:publisher": "American Society for Quality (ASQ)",
+          "schema:url": "https://asq.org/quality-resources/fishbone",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Fishbone Diagram (P-Glossary)",
+          "dcterms:publisher": "Asian Productivity Organization",
+          "schema:url": "https://www.apo-tokyo.org/wp-content/uploads/2014/10/record40.pdf",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Fishbone Diagram",
+          "dcterms:publisher": "University of Alberta (course materials, ORGA 432)",
+          "schema:url": "https://sites.ualberta.ca/~yreshef/orga432/fishbone.HTML",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Determining which of the classic seven quality tools are in the quality practitioner's RCA tool kit",
+          "dcterms:publisher": "Cogent Engineering",
+          "schema:url": "https://doaj.org/article/401d9e367d41475abfe5f52c381d188d",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Cornerstone root causes through the analysis of the Ishikawa diagram, is it possible to find them?",
+          "dcterms:publisher": "International Journal of Quality and Service Sciences (Emerald)",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/IJQSS-12-2017-0113/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Fishbone Diagram & The 5 Whys",
+          "dcterms:publisher": "Los Angeles County Department of Public Health",
+          "schema:url": "https://admin.publichealth.lacounty.gov/qiap/docs/Topic3-Fishbone.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/ishikawa-diagram.md",
+      "skos:altLabel": [
+        "fishbone diagram",
+        "cause-and-effect diagram",
+        "fishbone chart",
+        "Ishikawa fishbone diagram"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:root-cause-analysis"
+        },
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:eighty-twenty-rule"
+        },
+        {
+          "@id": "kt:five-whys"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:kaoru-ishikawa"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:seven-basic-quality-tools"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fault-tree-analysis"
+        }
+      ]
+    },
+    {
       "@id": "kt:issue-tree",
       "@type": "kto:Framework",
       "skos:prefLabel": "Issue Tree",
@@ -2601,6 +2691,9 @@
         },
         {
           "@id": "kt:marketing-mix"
+        },
+        {
+          "@id": "kt:ishikawa-diagram"
         }
       ],
       "kto:dependsOn": [

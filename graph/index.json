@@ -1055,6 +1055,28 @@
     ]
   },
   {
+    "id": "kt:ishikawa-diagram",
+    "title": "Ishikawa Diagram",
+    "aliases": [
+      "fishbone diagram",
+      "cause-and-effect diagram",
+      "fishbone chart",
+      "Ishikawa fishbone diagram"
+    ],
+    "type": "Framework",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/ishikawa-diagram.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://asq.org/quality-resources/fishbone",
+      "https://www.apo-tokyo.org/wp-content/uploads/2014/10/record40.pdf",
+      "https://sites.ualberta.ca/~yreshef/orga432/fishbone.HTML",
+      "https://doaj.org/article/401d9e367d41475abfe5f52c381d188d",
+      "https://emerald.com/insight/content/doi/10.1108/IJQSS-12-2017-0113/full/html",
+      "https://admin.publichealth.lacounty.gov/qiap/docs/Topic3-Fishbone.pdf"
+    ]
+  },
+  {
     "id": "kt:issue-tree",
     "title": "Issue Tree",
     "aliases": [

@@ -9,7 +9,7 @@ summary: >-
   sub-questions or options, either diagnostic ("why?") or solution-oriented ("how?"), so that a
   complex problem can be analysed piece by piece and work can be planned against each branch.
 broader: [kt:structured-problem-solving]
-related: [kt:hypothesis-driven-problem-solving, kt:pyramid-principle, kt:root-cause-analysis, kt:marketing-mix]
+related: [kt:hypothesis-driven-problem-solving, kt:pyramid-principle, kt:root-cause-analysis, kt:marketing-mix, kt:ishikawa-diagram]
 relations:
   - {predicate: dependsOn, object: kt:mece-principle}
   - {predicate: contrastsWith, object: kt:fault-tree-analysis}
