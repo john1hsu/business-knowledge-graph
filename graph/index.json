@@ -315,6 +315,27 @@
     ]
   },
   {
+    "id": "kt:david-j-teece",
+    "title": "David J. Teece",
+    "aliases": [
+      "David Teece",
+      "David John Teece",
+      "Teece"
+    ],
+    "type": "Person",
+    "domain": "strategy",
+    "file": "articles/strategy/david-j-teece.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://businessinnovation.berkeley.edu/intellectual-capital/research",
+      "https://businessinnovation.berkeley.edu/intellectual-capital/key-research-topics",
+      "https://ideas.repec.org/a/bla/stratm/v18y1997i7p509-533.html",
+      "https://thinkbrg.com/people/david-teece",
+      "https://escholarship.org/content/qt58h69717/qt58h69717.pdf?t=pjak0z",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf"
+    ]
+  },
+  {
     "id": "kt:direct-selling",
     "title": "Direct Selling",
     "aliases": [

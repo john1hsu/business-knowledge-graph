@@ -366,6 +366,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/customer-equity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2000/01/rdf-schema#label> "David J. Teece" .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#altLabel> "David John Teece" .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#altLabel> "David Teece" .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#altLabel> "Teece" .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#definition> "UC Berkeley Haas economist and strategy scholar best known for the \"profiting from innovation\" framework (1986), which explains why innovators often lose the returns from their inventions, and for co-founding the dynamic capabilities view of strategic management (1997); he also co-founded the economics consultancies LECG and Berkeley Research Group." .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#prefLabel> "David J. Teece" .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/complementary-assets> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/profiting-from-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2000/01/rdf-schema#label> "Direct Selling" .
@@ -1984,6 +2009,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s4> <https://schema.org/url> "https://foster.uw.edu/wp-content/uploads/2016/07/11_Reinartz_Kumar_2002.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s1> <http://purl.org/dc/terms/publisher> "Tusher Initiative for the Management of Intellectual Capital, Haas School of Business, UC Berkeley" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s1> <http://purl.org/dc/terms/title> "Research of David J. Teece" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s1> <https://schema.org/url> "https://businessinnovation.berkeley.edu/intellectual-capital/research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s2> <http://purl.org/dc/terms/publisher> "Tusher Initiative for the Management of Intellectual Capital, Haas School of Business, UC Berkeley" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s2> <http://purl.org/dc/terms/title> "Research of David J. Teece: Key Research Topics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s2> <https://schema.org/url> "https://businessinnovation.berkeley.edu/intellectual-capital/key-research-topics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s3> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 18(7):509-533 (record at IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s3> <http://purl.org/dc/terms/title> "Dynamic capabilities and strategic management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s3> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v18y1997i7p509-533.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s4> <http://purl.org/dc/terms/publisher> "Berkeley Research Group" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s4> <http://purl.org/dc/terms/title> "David Teece (professional biography)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s4> <https://schema.org/url> "https://thinkbrg.com/people/david-teece" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s5> <http://purl.org/dc/terms/publisher> "Research Policy 47(8):1367-1387 (author copy at eScholarship, University of California)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s5> <http://purl.org/dc/terms/title> "Profiting from innovation in the digital economy: Enabling technologies, standards, and licensing models in the wireless world" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s5> <https://schema.org/url> "https://escholarship.org/content/qt58h69717/qt58h69717.pdf?t=pjak0z" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <http://purl.org/dc/terms/publisher> "Journal of Management & Organization 30(1) (Cambridge University Press)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <http://purl.org/dc/terms/title> "Dynamic capabilities and performance: How has the relationship been assessed?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <https://schema.org/url> "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/publisher> "Academic journal article (ProQuest record)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/title> "What is direct selling? Definition, perspectives, and research agenda" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

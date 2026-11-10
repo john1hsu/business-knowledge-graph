@@ -5694,6 +5694,96 @@
       ]
     },
     {
+      "@id": "kt:david-j-teece",
+      "@type": "kto:Person",
+      "skos:prefLabel": "David J. Teece",
+      "skos:definition": "UC Berkeley Haas economist and strategy scholar best known for the \"profiting from innovation\" framework (1986), which explains why innovators often lose the returns from their inventions, and for co-founding the dynamic capabilities view of strategic management (1997); he also co-founded the economics consultancies LECG and Berkeley Research Group.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Research of David J. Teece",
+          "dcterms:publisher": "Tusher Initiative for the Management of Intellectual Capital, Haas School of Business, UC Berkeley",
+          "schema:url": "https://businessinnovation.berkeley.edu/intellectual-capital/research",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Research of David J. Teece: Key Research Topics",
+          "dcterms:publisher": "Tusher Initiative for the Management of Intellectual Capital, Haas School of Business, UC Berkeley",
+          "schema:url": "https://businessinnovation.berkeley.edu/intellectual-capital/key-research-topics",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Dynamic capabilities and strategic management",
+          "dcterms:publisher": "Strategic Management Journal 18(7):509-533 (record at IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v18y1997i7p509-533.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "David Teece (professional biography)",
+          "dcterms:publisher": "Berkeley Research Group",
+          "schema:url": "https://thinkbrg.com/people/david-teece",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Profiting from innovation in the digital economy: Enabling technologies, standards, and licensing models in the wireless world",
+          "dcterms:publisher": "Research Policy 47(8):1367-1387 (author copy at eScholarship, University of California)",
+          "schema:url": "https://escholarship.org/content/qt58h69717/qt58h69717.pdf?t=pjak0z",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Dynamic capabilities and performance: How has the relationship been assessed?",
+          "dcterms:publisher": "Journal of Management & Organization 30(1) (Cambridge University Press)",
+          "schema:url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/strategy/david-j-teece.md",
+      "skos:altLabel": [
+        "David Teece",
+        "David John Teece",
+        "Teece"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:resource-based-view"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:transaction-cost-economics"
+        },
+        {
+          "@id": "kt:antitrust-law"
+        },
+        {
+          "@id": "kt:clayton-christensen"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:profiting-from-innovation"
+        },
+        {
+          "@id": "kt:complementary-assets"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:transaction-cost-economics"
+        }
+      ]
+    },
+    {
       "@id": "kt:dynamic-capabilities",
       "@type": "kto:Theory",
       "skos:prefLabel": "Dynamic Capabilities",

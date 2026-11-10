@@ -62,14 +62,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
+| `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
+| `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
+| `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:adverse-selection` | `kt:principal-agent-problem` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
@@ -108,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
+| `kt:complementary-assets` | `kt:david-j-teece` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contract-theory` | `kt:principal-agent-problem` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
@@ -115,7 +119,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
-| `kt:david-j-teece` | `kt:dynamic-capabilities` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
@@ -240,6 +243,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-launch` | `kt:apple-iphone-launch` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
+| `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
@@ -247,7 +251,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:resource-based-view` | `kt:dynamic-capabilities` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
@@ -265,7 +268,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
-| `kt:strategic-management` | `kt:dynamic-capabilities` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
