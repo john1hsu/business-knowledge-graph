@@ -1270,6 +1270,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/tax-incidence> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/principles-of-economics-marshall> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2000/01/rdf-schema#label> "Principal-Agent Problem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#altLabel> "agency dilemma" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#altLabel> "agency problem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#altLabel> "principal-agent model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#altLabel> "principal-agent theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#definition> "The incentive problem that arises when one party (the principal) relies on another (the agent) to act on its behalf but cannot fully observe the agent's actions or information, so the principal must design a contract that trades off motivating the agent against the cost of loading risk onto them." .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Principal-Agent Problem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/stephen-a-ross> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/wells-fargo-cross-selling-scandal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/economic-theory-of-agency-ross-1973> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2000/01/rdf-schema#label> "Psychological Safety" .
@@ -2823,6 +2850,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <https://schema.org/url> "https://pages.charlotte.edu/wp-content/uploads/sites/868/2014/12/ManagingPrice.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review, vol. 63, no. 2 (AEA Top 20 reprint)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <http://purl.org/dc/terms/title> "The Economic Theory of Agency: The Principal's Problem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <https://schema.org/url> "https://www.aeaweb.org/aer/top20/63.2.134-139.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s2> <http://purl.org/dc/terms/publisher> "Bell Journal of Economics, vol. 10, no. 1, via EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s2> <http://purl.org/dc/terms/title> "Moral Hazard and Observability (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:rje:bellje:v:10:y:1979:i:spring:p:74-91" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s3> <http://purl.org/dc/terms/publisher> "Journal of Law, Economics, & Organization, vol. 7 (course copy, Duke University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s3> <http://purl.org/dc/terms/title> "Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s3> <https://schema.org/url> "https://people.duke.edu/~qc2/BA532/1991%20JLEO%20Holmstrom%20Milgrom.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s4> <http://purl.org/dc/terms/publisher> "Journal of Political Economy, vol. 98, no. 2, via EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s4> <http://purl.org/dc/terms/title> "Performance Pay and Top-Management Incentives (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s4> <https://schema.org/url> "https://econpapers.repec.org/RePEc:ucp:jpolec:v:98:y:1990:i:2:p:225-64" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s5> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (nobelprize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s5> <http://purl.org/dc/terms/title> "Press release: The Prize in Economic Sciences 2016" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s5> <https://schema.org/url> "https://www.nobelprize.org/prizes/economic-sciences/2016/press-release/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <http://purl.org/dc/terms/publisher> "Consumer Financial Protection Bureau" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <http://purl.org/dc/terms/title> "Wells Fargo Bank, N.A. (2016) enforcement action" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://schema.org/url> "https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 44(2), 1999 (copy hosted by MIT)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

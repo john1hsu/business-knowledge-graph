@@ -13,7 +13,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
-| `kt:principal-agent-problem` | `kt:agency-costs`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:public-procurement` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:business-model` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
@@ -70,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
+| `kt:adverse-selection` | `kt:principal-agent-problem` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
@@ -82,6 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:behavioral-finance` | `kt:arbitrage` |
+| `kt:bengt-holmstrom` | `kt:principal-agent-problem` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:bruce-henderson` | `kt:experience-curve` |
@@ -105,6 +106,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
+| `kt:contract-theory` | `kt:principal-agent-problem` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
@@ -119,6 +121,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
+| `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
@@ -155,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:information-asymmetry` | `kt:principal-agent-problem` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
@@ -194,6 +198,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
+| `kt:moral-hazard` | `kt:principal-agent-problem` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
@@ -239,6 +244,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
+| `kt:stephen-a-ross` | `kt:principal-agent-problem` |
 | `kt:strategic-management` | `kt:dynamic-capabilities` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-positioning` | `kt:benchmarking` |
@@ -265,6 +271,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:w-edwards-deming` | `kt:peter-drucker` |
+| `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
 | `kt:working-capital` | `kt:accrual-accounting` |

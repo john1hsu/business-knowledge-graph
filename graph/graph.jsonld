@@ -3799,6 +3799,104 @@
       ]
     },
     {
+      "@id": "kt:principal-agent-problem",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Principal-Agent Problem",
+      "skos:definition": "The incentive problem that arises when one party (the principal) relies on another (the agent) to act on its behalf but cannot fully observe the agent's actions or information, so the principal must design a contract that trades off motivating the agent against the cost of loading risk onto them.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Economic Theory of Agency: The Principal's Problem",
+          "dcterms:publisher": "American Economic Review, vol. 63, no. 2 (AEA Top 20 reprint)",
+          "schema:url": "https://www.aeaweb.org/aer/top20/63.2.134-139.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Moral Hazard and Observability (RePEc record)",
+          "dcterms:publisher": "Bell Journal of Economics, vol. 10, no. 1, via EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:rje:bellje:v:10:y:1979:i:spring:p:74-91",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design",
+          "dcterms:publisher": "Journal of Law, Economics, & Organization, vol. 7 (course copy, Duke University)",
+          "schema:url": "https://people.duke.edu/~qc2/BA532/1991%20JLEO%20Holmstrom%20Milgrom.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Performance Pay and Top-Management Incentives (RePEc record)",
+          "dcterms:publisher": "Journal of Political Economy, vol. 98, no. 2, via EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:ucp:jpolec:v:98:y:1990:i:2:p:225-64",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 2016",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (nobelprize.org)",
+          "schema:url": "https://www.nobelprize.org/prizes/economic-sciences/2016/press-release/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Wells Fargo Bank, N.A. (2016) enforcement action",
+          "dcterms:publisher": "Consumer Financial Protection Bureau",
+          "schema:url": "https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/principal-agent-problem.md",
+      "skos:altLabel": [
+        "principal-agent model",
+        "agency problem",
+        "agency dilemma",
+        "principal-agent theory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:contract-theory"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:moral-hazard"
+        },
+        {
+          "@id": "kt:adverse-selection"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:fiduciary-duty"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:stephen-a-ross"
+        },
+        {
+          "@id": "kt:bengt-holmstrom"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:economic-theory-of-agency-ross-1973"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:wells-fargo-cross-selling-scandal"
+        }
+      ]
+    },
+    {
       "@id": "kt:cannibalization",
       "@type": "kto:Concept",
       "skos:prefLabel": "Cannibalization",
