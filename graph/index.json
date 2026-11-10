@@ -272,6 +272,27 @@
     ]
   },
   {
+    "id": "kt:business-format-franchising",
+    "title": "Business Format Franchising",
+    "aliases": [
+      "business-format franchise",
+      "turnkey franchising"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/business-format-franchising.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.ftc.gov/system/files/documents/plain-language/bus70-franchise-rule-compliance-guide.pdf",
+      "https://paulcollege.unh.edu/rosenberg/education/what-franchising",
+      "https://ideas.repec.org/a/rje/randje/v23y1992isummerp263-283.html",
+      "https://www.ftc.gov/sites/default/files/documents/public_events/Federal%20Trade%20Commission%20Microeconomics%20Conference/lafontaine.pdf",
+      "https://www.census.gov/library/stories/2021/12/franchising-is-more-than-just-fast-food.html",
+      "https://econpapers.repec.org/RePEc:cen:wpaper:94-3",
+      "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm"
+    ]
+  },
+  {
     "id": "kt:business-roundtable-statement-on-corporate-purpose",
     "title": "Business Roundtable Statement on the Purpose of a Corporation",
     "aliases": [

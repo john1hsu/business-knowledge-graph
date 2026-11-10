@@ -1704,6 +1704,102 @@
       ]
     },
     {
+      "@id": "kt:business-format-franchising",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Business Format Franchising",
+      "skos:definition": "A franchising model in which a franchisor licenses not just its trademark but an entire operating system (methods, training, supply standards and marketing) to independent franchisees, who invest their own capital and pay an upfront fee plus ongoing royalties on sales.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Franchise Rule Compliance Guide",
+          "dcterms:publisher": "U.S. Federal Trade Commission",
+          "schema:url": "https://www.ftc.gov/system/files/documents/plain-language/bus70-franchise-rule-compliance-guide.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "What Is Franchising?",
+          "dcterms:publisher": "Rosenberg International Franchise Center, Peter T. Paul College of Business and Economics, University of New Hampshire",
+          "schema:url": "https://paulcollege.unh.edu/rosenberg/education/what-franchising",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Agency Theory and Franchising: Some Empirical Results",
+          "dcterms:publisher": "RAND Journal of Economics 23(2), 263-283 (1992)",
+          "schema:url": "https://ideas.repec.org/a/rje/randje/v23y1992isummerp263-283.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Financial Constraints and Moral Hazard: The Case of Franchising",
+          "dcterms:publisher": "Ying Fan, Kai-Uwe Kühn and Francine Lafontaine, University of Michigan (working paper presented at the FTC Microeconomics Conference, 2013)",
+          "schema:url": "https://www.ftc.gov/sites/default/files/documents/public_events/Federal%20Trade%20Commission%20Microeconomics%20Conference/lafontaine.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Nearly 300 Industries Offer Franchise Opportunities",
+          "dcterms:publisher": "U.S. Census Bureau",
+          "schema:url": "https://www.census.gov/library/stories/2021/12/franchising-is-more-than-just-fast-food.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Firms Started As Franchises Have Lower Survival Rates Than Independent Small Business Startups",
+          "dcterms:publisher": "U.S. Census Bureau, Center for Economic Studies Working Paper 94-3 (1994)",
+          "schema:url": "https://econpapers.repec.org/RePEc:cen:wpaper:94-3",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "McDonald's Corporation Form 10-K for fiscal year 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-models/business-format-franchising.md",
+      "skos:altLabel": [
+        "business-format franchise",
+        "turnkey franchising"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:franchising"
+        },
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:direct-selling"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:product-distribution-franchising"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:moral-hazard"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:ftc-franchise-rule"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:mcdonalds"
+        }
+      ]
+    },
+    {
       "@id": "kt:direct-selling",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Direct Selling",
