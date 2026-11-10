@@ -3104,6 +3104,99 @@
       ]
     },
     {
+      "@id": "kt:jobs-to-be-done",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Jobs to Be Done",
+      "skos:definition": "A theory of customer choice, popularized by Clayton Christensen and colleagues, holding that people \"hire\" products to make progress on a job arising in a particular circumstance, so innovators should segment markets and design offerings around jobs rather than customer demographics or product categories.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Integrating Around the Job to Be Done (HBS Module Note 9-611-004, rev. 2020)",
+          "dcterms:publisher": "Harvard Business School Publishing (hosted by Texas A&M Ellison Chair)",
+          "schema:url": "https://ellisonchair.tamu.edu/files/2020/10/Integrating-Around-the-Job-to-Be-Done.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Know Your Customers' 'Jobs to Be Done'",
+          "dcterms:publisher": "Harvard Business School, Faculty & Research (Harvard Business Review 94(9), 2016)",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=51553",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "What Customers Want from Your Products",
+          "dcterms:publisher": "Harvard Business School, Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/what-customers-want-from-your-products",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Clay Christensen's Milkshake Marketing",
+          "dcterms:publisher": "Harvard Business School, Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Use of the 'Job to Be Done' methodology to identify value co-creation opportunities in the context of the Service Dominant Logic",
+          "dcterms:publisher": "BBR. Brazilian Business Review 16(1), 2019 (SciELO)",
+          "schema:url": "https://www.scielo.br/j/bbr/a/63LdMnWkhKFFwXfhWgKm6VM/?lang=en",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Potential and Perils of 'Job To Be Done'?",
+          "dcterms:publisher": "Research World",
+          "schema:url": "https://archive.researchworld.com/the-potential-and-perils-of-job-to-be-done",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/jobs-to-be-done.md",
+      "skos:altLabel": [
+        "JTBD",
+        "jobs-to-be-done theory",
+        "job to be done",
+        "theory of jobs to be done",
+        "milkshake marketing"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:clayton-christensen"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:clayton-christensen"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:theodore-levitt"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:outcome-driven-innovation"
+        }
+      ]
+    },
+    {
       "@id": "kt:organizational-ambidexterity",
       "@type": "kto:Concept",
       "skos:prefLabel": "Organizational Ambidexterity",

@@ -865,6 +865,29 @@
     ]
   },
   {
+    "id": "kt:jobs-to-be-done",
+    "title": "Jobs to Be Done",
+    "aliases": [
+      "JTBD",
+      "jobs-to-be-done theory",
+      "job to be done",
+      "theory of jobs to be done",
+      "milkshake marketing"
+    ],
+    "type": "Theory",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/jobs-to-be-done.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://ellisonchair.tamu.edu/files/2020/10/Integrating-Around-the-Job-to-Be-Done.pdf",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=51553",
+      "https://www.library.hbs.edu/working-knowledge/what-customers-want-from-your-products",
+      "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing",
+      "https://www.scielo.br/j/bbr/a/63LdMnWkhKFFwXfhWgKm6VM/?lang=en",
+      "https://archive.researchworld.com/the-potential-and-perils-of-job-to-be-done"
+    ]
+  },
+  {
     "id": "kt:kanban",
     "title": "Kanban",
     "aliases": [

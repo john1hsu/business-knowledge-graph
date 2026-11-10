@@ -1012,6 +1012,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/confirmation-bias> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2000/01/rdf-schema#label> "Jobs to Be Done" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#altLabel> "JTBD" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#altLabel> "job to be done" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#altLabel> "jobs-to-be-done theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#altLabel> "milkshake marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#altLabel> "theory of jobs to be done" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#definition> "A theory of customer choice, popularized by Clayton Christensen and colleagues, holding that people \"hire\" products to make progress on a job arising in a particular circumstance, so innovators should segment markets and design offerings around jobs rather than customer demographics or product categories." .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#prefLabel> "Jobs to Be Done" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/outcome-driven-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/theodore-levitt> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2000/01/rdf-schema#label> "Kanban" .
@@ -2598,6 +2624,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/ADA354973.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School Publishing (hosted by Texas A&M Ellison Chair)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <http://purl.org/dc/terms/title> "Integrating Around the Job to Be Done (HBS Module Note 9-611-004, rev. 2020)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <https://schema.org/url> "https://ellisonchair.tamu.edu/files/2020/10/Integrating-Around-the-Job-to-Be-Done.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School, Faculty & Research (Harvard Business Review 94(9), 2016)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s2> <http://purl.org/dc/terms/title> "Know Your Customers' 'Jobs to Be Done'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s2> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=51553" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s3> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s3> <http://purl.org/dc/terms/title> "What Customers Want from Your Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s3> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/what-customers-want-from-your-products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s4> <http://purl.org/dc/terms/title> "Clay Christensen's Milkshake Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s4> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/clay-christensens-milkshake-marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s5> <http://purl.org/dc/terms/publisher> "BBR. Brazilian Business Review 16(1), 2019 (SciELO)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s5> <http://purl.org/dc/terms/title> "The Use of the 'Job to Be Done' methodology to identify value co-creation opportunities in the context of the Service Dominant Logic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s5> <https://schema.org/url> "https://www.scielo.br/j/bbr/a/63LdMnWkhKFFwXfhWgKm6VM/?lang=en" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <http://purl.org/dc/terms/publisher> "Research World" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <http://purl.org/dc/terms/title> "The Potential and Perils of 'Job To Be Done'?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <https://schema.org/url> "https://archive.researchworld.com/the-potential-and-perils-of-job-to-be-done" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/publisher> "Toyota UK Magazine (Toyota GB)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/title> "Kanban: Toyota Production System guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -6,11 +6,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
-| `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:organizational-ambidexterity` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
@@ -46,7 +46,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:j-richard-hackman` | `kt:amy-edmondson`, `kt:high-performance-teams` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
-| `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -213,6 +212,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
 | `kt:organizational-behavior` | `kt:amy-edmondson` |
+| `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
@@ -263,6 +263,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technological-disruption` | `kt:kodak-decline` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
+| `kt:theodore-levitt` | `kt:jobs-to-be-done` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
