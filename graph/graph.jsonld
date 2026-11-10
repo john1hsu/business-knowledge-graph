@@ -4922,6 +4922,96 @@
       ]
     },
     {
+      "@id": "kt:servqual",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "SERVQUAL",
+      "skos:definition": "A 22-item survey instrument, published by Parasuraman, Zeithaml and Berry in 1988, that measures service quality as the gap between what customers expect from a service and what they perceive they received, across five dimensions: tangibles, reliability, responsiveness, assurance and empathy.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "SERVQUAL: A Multiple-Item Scale for Measuring Consumer Perceptions of Service Quality",
+          "dcterms:publisher": "Journal of Retailing 64(1), 12–40 (1988); course copy hosted by Aalto University",
+          "schema:url": "https://mycourses.aalto.fi/mod/resource/view.php?id=406549",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Conceptual Model of Service Quality and Its Implications for Future Research",
+          "dcterms:publisher": "Journal of Marketing 49(4), 41–50 (1985), via Scilit",
+          "schema:url": "https://www.scilit.net/publications/8d501494664f672251c3b3cd8a1aecc8",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Measuring Service Quality: A Reexamination and Extension",
+          "dcterms:publisher": "Journal of Marketing 56(3), 55–68 (1992), via Scilit",
+          "schema:url": "https://www.scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An empirical assessment of the SERVQUAL scale",
+          "dcterms:publisher": "Journal of Business Research 24(3), 253–268 (1992), University of Memphis Digital Commons",
+          "schema:url": "https://digitalcommons.memphis.edu/facpubs/11735",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "SERVQUAL: review, critique, research agenda",
+          "dcterms:publisher": "European Journal of Marketing 30(1), 8–32 (1996), Emerald",
+          "schema:url": "https://www.emerald.com/ejm/article/30/1/8/31598/SERVQUAL-review-critique-research-agenda",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Evaluation of outpatient service quality in Eastern Saudi Arabia: Patient's expectations and perceptions",
+          "dcterms:publisher": "Saudi Medical Journal 37(4), 420–428 (2016), via PubMed Central",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852020",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/marketing/servqual.md",
+      "skos:altLabel": [
+        "SERVQUAL scale",
+        "SERVQUAL instrument"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:service-quality"
+        },
+        {
+          "@id": "kt:services-marketing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:benchmarking"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:a-parasuraman"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:servqual-multiple-item-scale-1988"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:gaps-model-of-service-quality"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:servperf"
+        }
+      ]
+    },
+    {
       "@id": "kt:bill-of-materials",
       "@type": "kto:Concept",
       "skos:prefLabel": "Bill of Materials",

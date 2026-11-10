@@ -1626,6 +1626,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/general-motors> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/positioning> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/market-segmentation-1956> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2000/01/rdf-schema#label> "SERVQUAL" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#altLabel> "SERVQUAL instrument" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#altLabel> "SERVQUAL scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/service-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#definition> "A 22-item survey instrument, published by Parasuraman, Zeithaml and Berry in 1988, that measures service quality as the gap between what customers expect from a service and what they perceive they received, across five dimensions: tangibles, reliability, responsiveness, assurance and empathy." .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#prefLabel> "SERVQUAL" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/servperf> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/servqual-multiple-item-scale-1988> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -3451,6 +3474,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s6> <https://schema.org/url> "https://www.mrweb.com/mrt/seg10mar.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <http://purl.org/dc/terms/publisher> "Journal of Retailing 64(1), 12–40 (1988); course copy hosted by Aalto University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <http://purl.org/dc/terms/title> "SERVQUAL: A Multiple-Item Scale for Measuring Consumer Perceptions of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <https://schema.org/url> "https://mycourses.aalto.fi/mod/resource/view.php?id=406549" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s2> <http://purl.org/dc/terms/publisher> "Journal of Marketing 49(4), 41–50 (1985), via Scilit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s2> <http://purl.org/dc/terms/title> "A Conceptual Model of Service Quality and Its Implications for Future Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s2> <https://schema.org/url> "https://www.scilit.net/publications/8d501494664f672251c3b3cd8a1aecc8" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s3> <http://purl.org/dc/terms/publisher> "Journal of Marketing 56(3), 55–68 (1992), via Scilit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s3> <http://purl.org/dc/terms/title> "Measuring Service Quality: A Reexamination and Extension" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s3> <https://schema.org/url> "https://www.scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s4> <http://purl.org/dc/terms/publisher> "Journal of Business Research 24(3), 253–268 (1992), University of Memphis Digital Commons" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s4> <http://purl.org/dc/terms/title> "An empirical assessment of the SERVQUAL scale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s4> <https://schema.org/url> "https://digitalcommons.memphis.edu/facpubs/11735" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s5> <http://purl.org/dc/terms/publisher> "European Journal of Marketing 30(1), 8–32 (1996), Emerald" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s5> <http://purl.org/dc/terms/title> "SERVQUAL: review, critique, research agenda" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s5> <https://schema.org/url> "https://www.emerald.com/ejm/article/30/1/8/31598/SERVQUAL-review-critique-research-agenda" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <http://purl.org/dc/terms/publisher> "Saudi Medical Journal 37(4), 420–428 (2016), via PubMed Central" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <http://purl.org/dc/terms/title> "Evaluation of outpatient service quality in Eastern Saudi Arabia: Patient's expectations and perceptions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852020" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

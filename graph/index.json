@@ -1379,6 +1379,26 @@
     ]
   },
   {
+    "id": "kt:servqual",
+    "title": "SERVQUAL",
+    "aliases": [
+      "SERVQUAL scale",
+      "SERVQUAL instrument"
+    ],
+    "type": "Metric",
+    "domain": "marketing",
+    "file": "articles/marketing/servqual.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://mycourses.aalto.fi/mod/resource/view.php?id=406549",
+      "https://www.scilit.net/publications/8d501494664f672251c3b3cd8a1aecc8",
+      "https://www.scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33",
+      "https://digitalcommons.memphis.edu/facpubs/11735",
+      "https://www.emerald.com/ejm/article/30/1/8/31598/SERVQUAL-review-critique-research-agenda",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852020"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [

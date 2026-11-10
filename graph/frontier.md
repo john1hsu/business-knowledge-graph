@@ -78,6 +78,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
+| `kt:a-parasuraman` | `kt:servqual` |
 | `kt:adverse-selection` | `kt:principal-agent-problem` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
@@ -120,6 +121,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
+| `kt:customer-satisfaction` | `kt:servqual` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
@@ -158,6 +160,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm` | `kt:kodak-decline` |
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
+| `kt:gaps-model-of-service-quality` | `kt:servqual` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
@@ -270,6 +273,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
+| `kt:service-quality` | `kt:servqual` |
+| `kt:services-marketing` | `kt:servqual` |
+| `kt:servperf` | `kt:servqual` |
+| `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:situational-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:social-identity-theory` | `kt:groupthink` |
