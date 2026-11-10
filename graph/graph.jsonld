@@ -2410,6 +2410,89 @@
       ]
     },
     {
+      "@id": "kt:efficient-market-hypothesis",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Efficient Market Hypothesis",
+      "skos:definition": "The theory, formalized by Eugene Fama in 1970, that security prices fully reflect available information, so investors cannot systematically earn above-normal risk-adjusted returns by trading on that information; it is usually tested in weak, semi-strong and strong forms.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Efficient Capital Markets: A Review of Theory and Empirical Work",
+          "dcterms:publisher": "The Journal of Finance 25(2), 383-417 (copy filed with the California Public Utilities Commission)",
+          "schema:url": "https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A1704001/770/193982534.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Efficient Market Hypothesis and Its Critics",
+          "dcterms:publisher": "Journal of Economic Perspectives 17(1), 59-82 (course copy, UC Berkeley)",
+          "schema:url": "https://eml.berkeley.edu/~craine/EconH195/Fall_16/webpage/Malkiel_Efficient%20Mkts.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Popular information: The Prize in Economic Sciences 2013",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (NobelPrize.org)",
+          "schema:url": "https://www.nobelprize.org/prizes/economic-sciences/2013/popular-information/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Efficient-market hypothesis",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/efficient-market-hypothesis",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Lasting Impact of a 1976 Paper on Stock Information and Prices",
+          "dcterms:publisher": "Knowledge at Wharton",
+          "schema:url": "https://knowledge.wharton.upenn.edu/article/the-lasting-impact-of-a-1976-paper-on-stock-information-and-prices/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/efficient-market-hypothesis.md",
+      "skos:altLabel": [
+        "EMH",
+        "efficient markets hypothesis",
+        "efficient-market hypothesis",
+        "market efficiency"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:asset-pricing"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:arbitrage"
+        },
+        {
+          "@id": "kt:capital-asset-pricing-model"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:eugene-fama"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:efficient-capital-markets-review-1970"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:behavioral-finance"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:index-fund"
+        }
+      ]
+    },
+    {
       "@id": "kt:leveraged-buyout",
       "@type": "kto:Practice",
       "skos:prefLabel": "Leveraged Buyout",

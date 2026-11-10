@@ -490,6 +490,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2000/01/rdf-schema#label> "Efficient Market Hypothesis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#altLabel> "EMH" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#altLabel> "efficient markets hypothesis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#altLabel> "efficient-market hypothesis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#altLabel> "market efficiency" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/asset-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#definition> "The theory, formalized by Eugene Fama in 1970, that security prices fully reflect available information, so investors cannot systematically earn above-normal risk-adjusted returns by trading on that information; it is usually tested in weak, semi-strong and strong forms." .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Efficient Market Hypothesis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/eugene-fama> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/index-fund> .
+<https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/efficient-capital-markets-review-1970> .
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2000/01/rdf-schema#label> "80/20 Rule" .
@@ -2154,6 +2177,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://schema.org/url> "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <http://purl.org/dc/terms/publisher> "The Journal of Finance 25(2), 383-417 (copy filed with the California Public Utilities Commission)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <http://purl.org/dc/terms/title> "Efficient Capital Markets: A Review of Theory and Empirical Work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <https://schema.org/url> "https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A1704001/770/193982534.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s2> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 17(1), 59-82 (course copy, UC Berkeley)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s2> <http://purl.org/dc/terms/title> "The Efficient Market Hypothesis and Its Critics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s2> <https://schema.org/url> "https://eml.berkeley.edu/~craine/EconH195/Fall_16/webpage/Malkiel_Efficient%20Mkts.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s3> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (NobelPrize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s3> <http://purl.org/dc/terms/title> "Popular information: The Prize in Economic Sciences 2013" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s3> <https://schema.org/url> "https://www.nobelprize.org/prizes/economic-sciences/2013/popular-information/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s4> <http://purl.org/dc/terms/title> "Efficient-market hypothesis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s4> <https://schema.org/url> "https://www.britannica.com/topic/efficient-market-hypothesis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s5> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s5> <http://purl.org/dc/terms/title> "The Lasting Impact of a 1976 Paper on Stock Information and Prices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s5> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/article/the-lasting-impact-of-a-1976-paper-on-stock-information-and-prices/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <http://purl.org/dc/terms/publisher> "Juran Institute (reprint of J. M. Juran, 1974)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <http://purl.org/dc/terms/title> "The Non-Pareto Principle; Mea Culpa" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

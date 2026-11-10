@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
-| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:business-model` | `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
@@ -32,7 +32,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:hoshin-kanri` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
+| `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
+| `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
+| `kt:capital-asset-pricing-model` | `kt:efficient-market-hypothesis`, `kt:weighted-average-cost-of-capital` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
@@ -85,10 +88,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:apple-inc` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
-| `kt:asset-pricing` | `kt:arbitrage` |
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
-| `kt:behavioral-finance` | `kt:arbitrage` |
 | `kt:bengt-holmstrom` | `kt:principal-agent-problem` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
@@ -98,7 +99,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
-| `kt:capital-asset-pricing-model` | `kt:weighted-average-cost-of-capital` |
 | `kt:capital-budgeting` | `kt:weighted-average-cost-of-capital` |
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
@@ -135,10 +135,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
-| `kt:efficient-market-hypothesis` | `kt:arbitrage` |
+| `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
+| `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:exploration-and-exploitation-in-organizational-learning-1991` | `kt:organizational-ambidexterity` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
@@ -169,6 +170,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:index-fund` | `kt:efficient-market-hypothesis` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |

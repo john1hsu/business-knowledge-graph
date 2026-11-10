@@ -423,6 +423,27 @@
     ]
   },
   {
+    "id": "kt:efficient-market-hypothesis",
+    "title": "Efficient Market Hypothesis",
+    "aliases": [
+      "EMH",
+      "efficient markets hypothesis",
+      "efficient-market hypothesis",
+      "market efficiency"
+    ],
+    "type": "Theory",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/efficient-market-hypothesis.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://docs.cpuc.ca.gov/PublishedDocs/SupDoc/A1704001/770/193982534.pdf",
+      "https://eml.berkeley.edu/~craine/EconH195/Fall_16/webpage/Malkiel_Efficient%20Mkts.pdf",
+      "https://www.nobelprize.org/prizes/economic-sciences/2013/popular-information/",
+      "https://www.britannica.com/topic/efficient-market-hypothesis",
+      "https://knowledge.wharton.upenn.edu/article/the-lasting-impact-of-a-1976-paper-on-stock-information-and-prices/"
+    ]
+  },
+  {
     "id": "kt:eighty-twenty-rule",
     "title": "80/20 Rule",
     "aliases": [
