@@ -68,6 +68,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm-jensen-meckling-1976> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2000/01/rdf-schema#label> "Airline Industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#altLabel> "airline sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#altLabel> "commercial aviation industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#altLabel> "passenger airline industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#definition> "The industry of carriers that sell scheduled air transport of passengers and cargo; a standard case in industrial organization because of its regulatory history, hub-and-spoke networks, low-cost entry, merger waves and persistently thin, volatile profit margins." .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#prefLabel> "Airline Industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hub-and-spoke-network> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/low-cost-carrier> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/airline-deregulation-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2000/01/rdf-schema#label> "Amy Edmondson" .
@@ -1858,6 +1882,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s6> <https://schema.org/url> "https://www.chicagobooth.edu/research/fama-miller/finance-research/working-papers/2025/agency-cost-of-free-cash-flow-capital-allocation-and-payouts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s1> <http://purl.org/dc/terms/publisher> "Federal Reserve Bank of San Francisco" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s1> <http://purl.org/dc/terms/title> "Competition and Regulation in the Airline Industry (Economic Letter 2002-01)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s1> <https://schema.org/url> "https://www.frbsf.org/wp-content/uploads/el2002-01.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s2> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s2> <http://purl.org/dc/terms/title> "How Airline Markets Work...Or Do They? Regulatory Reform in the Airline Industry (Working Paper 13452)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s2> <https://schema.org/url> "https://www.nber.org/papers/w13452" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s3> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s3> <http://purl.org/dc/terms/title> "Airline Industry: Potential Mergers and Acquisitions Driven by Financial and Competitive Pressures (GAO-08-845)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s3> <https://schema.org/url> "https://www.gao.gov/assets/a278898.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s4> <http://purl.org/dc/terms/title> "hub-and-spoke network" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s4> <https://schema.org/url> "https://www.britannica.com:443/technology/hub-and-spoke-network" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s5> <http://purl.org/dc/terms/publisher> "Bureau of Transportation Statistics, U.S. Department of Transportation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s5> <http://purl.org/dc/terms/title> "US Airlines Profited $6.0 Billion in 2025, a Decrease over 2024" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s5> <https://schema.org/url> "https://www.bts.gov/newsroom/us-airlines-profited-60-billion-2025-decrease-over-2024" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <http://purl.org/dc/terms/publisher> "International Air Transport Association (Airlines magazine)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <http://purl.org/dc/terms/title> "Industry set for record net profit in 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <https://schema.org/url> "https://airlines.iata.org/2025/12/10/industry-set-record-net-profit-2026" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://purl.org/dc/terms/publisher> "Harvard Graduate School of Design" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://purl.org/dc/terms/title> "Amy C. Edmondson (AB '81, AM '95, PhD '96)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

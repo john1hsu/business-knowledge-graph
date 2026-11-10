@@ -4413,6 +4413,95 @@
       ]
     },
     {
+      "@id": "kt:airline-industry",
+      "@type": "kto:Industry",
+      "skos:prefLabel": "Airline Industry",
+      "skos:definition": "The industry of carriers that sell scheduled air transport of passengers and cargo; a standard case in industrial organization because of its regulatory history, hub-and-spoke networks, low-cost entry, merger waves and persistently thin, volatile profit margins.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Competition and Regulation in the Airline Industry (Economic Letter 2002-01)",
+          "dcterms:publisher": "Federal Reserve Bank of San Francisco",
+          "schema:url": "https://www.frbsf.org/wp-content/uploads/el2002-01.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "How Airline Markets Work...Or Do They? Regulatory Reform in the Airline Industry (Working Paper 13452)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://www.nber.org/papers/w13452",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Airline Industry: Potential Mergers and Acquisitions Driven by Financial and Competitive Pressures (GAO-08-845)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/assets/a278898.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "hub-and-spoke network",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com:443/technology/hub-and-spoke-network",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "US Airlines Profited $6.0 Billion in 2025, a Decrease over 2024",
+          "dcterms:publisher": "Bureau of Transportation Statistics, U.S. Department of Transportation",
+          "schema:url": "https://www.bts.gov/newsroom/us-airlines-profited-60-billion-2025-decrease-over-2024",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Industry set for record net profit in 2026",
+          "dcterms:publisher": "International Air Transport Association (Airlines magazine)",
+          "schema:url": "https://airlines.iata.org/2025/12/10/industry-set-record-net-profit-2026",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/airline-industry.md",
+      "skos:altLabel": [
+        "airline sector",
+        "commercial aviation industry",
+        "passenger airline industry"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:hub-and-spoke-network"
+        },
+        {
+          "@id": "kt:low-cost-carrier"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:airline-deregulation-act"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:southwest-airlines"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ]
+    },
+    {
       "@id": "kt:antitrust-law",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Antitrust Law",

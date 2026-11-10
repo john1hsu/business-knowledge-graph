@@ -62,6 +62,27 @@
     ]
   },
   {
+    "id": "kt:airline-industry",
+    "title": "Airline Industry",
+    "aliases": [
+      "airline sector",
+      "commercial aviation industry",
+      "passenger airline industry"
+    ],
+    "type": "Industry",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/airline-industry.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.frbsf.org/wp-content/uploads/el2002-01.pdf",
+      "https://www.nber.org/papers/w13452",
+      "https://www.gao.gov/assets/a278898.html",
+      "https://www.britannica.com:443/technology/hub-and-spoke-network",
+      "https://www.bts.gov/newsroom/us-airlines-profited-60-billion-2025-decrease-over-2024",
+      "https://airlines.iata.org/2025/12/10/industry-set-record-net-profit-2026"
+    ]
+  },
+  {
     "id": "kt:amy-edmondson",
     "title": "Amy Edmondson",
     "aliases": [

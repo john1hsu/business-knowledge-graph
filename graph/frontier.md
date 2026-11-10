@@ -34,7 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
-| `kt:airline-industry` | `kt:southwest-airlines`, `kt:southwest-airlines` |
+| `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
@@ -91,7 +91,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:aggregation-theory` | `kt:two-sided-market` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
-| `kt:airline-deregulation-act` | `kt:southwest-airlines` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
@@ -186,6 +185,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
+| `kt:hub-and-spoke-network` | `kt:airline-industry` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
@@ -219,6 +219,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:long-tail` | `kt:eighty-twenty-rule` |
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
+| `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
