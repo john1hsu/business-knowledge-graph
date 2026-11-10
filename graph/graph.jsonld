@@ -460,6 +460,110 @@
       ]
     },
     {
+      "@id": "kt:sarbanes-oxley-act",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "Sarbanes-Oxley Act of 2002",
+      "skos:definition": "US federal law (Public Law 107-204, signed July 30, 2002) that responded to the Enron and WorldCom scandals by creating the PCAOB to oversee auditors, tightening auditor independence, making CEOs and CFOs certify financial reports, and requiring management and auditor reports on internal control.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Remarks on Signing the Sarbanes-Oxley Act of 2002 (Weekly Compilation of Presidential Documents, Vol. 38, No. 31)",
+          "dcterms:publisher": "U.S. Government Publishing Office (govinfo)",
+          "schema:url": "https://www.govinfo.gov/content/pkg/WCPD-2002-08-05/html/WCPD-2002-08-05-Pg1283.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Goals and Promise of the Sarbanes-Oxley Act",
+          "dcterms:publisher": "Journal of Economic Perspectives 21(1), 91-116 (via EconPapers)",
+          "schema:url": "https://econpapers.repec.org/RePEc:aea:jecper:v:21:y:2007:i:1:p:91-116",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Effect of SOX Section 404: Costs, Earnings Quality, and Stock Prices",
+          "dcterms:publisher": "Journal of Finance 65(3), 1163-1196 (via EconPapers)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:jfinan:v:65:y:2010:i:3:p:1163-1196",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Effect of SOX Section 404 (summary by Peter Iliev)",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance",
+          "schema:url": "https://corpgov.law.harvard.edu/2009/09/21/the-effect-of-sox-section-404/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Section 404 of the Sarbanes-Oxley Act of 2002 (Management Assessment of Internal Controls): Current Regulation and Congressional Concerns (RS22482)",
+          "dcterms:publisher": "Congressional Research Service",
+          "schema:url": "https://www.everycrsreport.com/files/20111220_RS22482_824a905b921d50544a6223207e91503d98aefb86.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Study and Recommendations on Section 404(b) of the Sarbanes-Oxley Act of 2002 for Issuers With Public Float Between $75 and $250 Million",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Office of the Chief Accountant",
+          "schema:url": "https://SEC.GOV/files/404bfloat-study.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Sarbanes-Oxley Act of 2002: A Side-by-Side Comparison of House, Senate, and Conference Versions (RL31483)",
+          "dcterms:publisher": "Congressional Research Service",
+          "schema:url": "https://www.everycrsreport.com/reports/RL31483.html",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/sarbanes-oxley-act.md",
+      "skos:altLabel": [
+        "Sarbanes-Oxley",
+        "SOX",
+        "Sarbox",
+        "Public Company Accounting Reform and Investor Protection Act"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:securities-regulation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:internal-control-over-financial-reporting"
+        },
+        {
+          "@id": "kt:audit-committee"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:public-company-accounting-oversight-board"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:enron-scandal"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:dodd-frank-act"
+        }
+      ]
+    },
+    {
       "@id": "kt:agency-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Agency Costs",

@@ -8,6 +8,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
+| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:business-model` | `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:revolutionary-far-overhaul` |
@@ -19,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:hoshin-kanri`, `kt:malcolm-baldrige-national-quality-award` |
-| `kt:board-of-directors` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
@@ -90,6 +90,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:apple-inc` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
+| `kt:audit-committee` | `kt:sarbanes-oxley-act` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
@@ -130,6 +131,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:dividend-policy` | `kt:modigliani-miller-theorem` |
+| `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
@@ -141,6 +143,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
 | `kt:employee-voice` | `kt:psychological-safety` |
+| `kt:enron-scandal` | `kt:sarbanes-oxley-act` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
@@ -183,6 +186,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:intangible-assets` | `kt:goodwill` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
+| `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act` |
 | `kt:international-accounting-standards-board` | `kt:goodwill` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-janis` | `kt:groupthink` |
@@ -258,6 +262,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
+| `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
@@ -273,8 +278,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:salesforce` | `kt:saas-business-model` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
-| `kt:sarbanes-oxley-act` | `kt:gaap` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
+| `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:service-quality` | `kt:servqual` |
 | `kt:services-marketing` | `kt:servqual` |
 | `kt:servperf` | `kt:servqual` |

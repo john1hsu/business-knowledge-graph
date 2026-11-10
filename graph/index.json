@@ -1378,6 +1378,29 @@
     ]
   },
   {
+    "id": "kt:sarbanes-oxley-act",
+    "title": "Sarbanes-Oxley Act of 2002",
+    "aliases": [
+      "Sarbanes-Oxley",
+      "SOX",
+      "Sarbox",
+      "Public Company Accounting Reform and Investor Protection Act"
+    ],
+    "type": "Regulation",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/sarbanes-oxley-act.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/WCPD-2002-08-05/html/WCPD-2002-08-05-Pg1283.htm",
+      "https://econpapers.repec.org/RePEc:aea:jecper:v:21:y:2007:i:1:p:91-116",
+      "https://econpapers.repec.org/RePEc:bla:jfinan:v:65:y:2010:i:3:p:1163-1196",
+      "https://corpgov.law.harvard.edu/2009/09/21/the-effect-of-sox-section-404/",
+      "https://www.everycrsreport.com/files/20111220_RS22482_824a905b921d50544a6223207e91503d98aefb86.html",
+      "https://SEC.GOV/files/404bfloat-study.pdf",
+      "https://www.everycrsreport.com/reports/RL31483.html"
+    ]
+  },
+  {
     "id": "kt:segmentation-targeting-positioning",
     "title": "Segmentation, Targeting and Positioning",
     "aliases": [

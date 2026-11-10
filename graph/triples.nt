@@ -1622,6 +1622,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/salesforce> .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2000/01/rdf-schema#label> "Sarbanes-Oxley Act of 2002" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Public Company Accounting Reform and Investor Protection Act" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#altLabel> "SOX" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Sarbanes-Oxley" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Sarbox" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/securities-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#definition> "US federal law (Public Law 107-204, signed July 30, 2002) that responded to the Enron and WorldCom scandals by creating the PCAOB to oversee auditors, tightening auditor independence, making CEOs and CFOs certify financial reports, and requiring management and auditor reports on internal control." .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sarbanes-Oxley Act of 2002" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/internal-control-over-financial-reporting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dodd-frank-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/public-company-accounting-oversight-board> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> <http://www.w3.org/2000/01/rdf-schema#label> "Segmentation, Targeting and Positioning" .
@@ -3496,6 +3524,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s5> <https://schema.org/url> "https://www.britannica.com/topic/Software-as-a-Service" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s1> <http://purl.org/dc/terms/publisher> "U.S. Government Publishing Office (govinfo)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s1> <http://purl.org/dc/terms/title> "Remarks on Signing the Sarbanes-Oxley Act of 2002 (Weekly Compilation of Presidential Documents, Vol. 38, No. 31)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s1> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/WCPD-2002-08-05/html/WCPD-2002-08-05-Pg1283.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s2> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 21(1), 91-116 (via EconPapers)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s2> <http://purl.org/dc/terms/title> "The Goals and Promise of the Sarbanes-Oxley Act" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:aea:jecper:v:21:y:2007:i:1:p:91-116" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s3> <http://purl.org/dc/terms/publisher> "Journal of Finance 65(3), 1163-1196 (via EconPapers)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s3> <http://purl.org/dc/terms/title> "The Effect of SOX Section 404: Costs, Earnings Quality, and Stock Prices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s3> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:jfinan:v:65:y:2010:i:3:p:1163-1196" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s4> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s4> <http://purl.org/dc/terms/title> "The Effect of SOX Section 404 (summary by Peter Iliev)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s4> <https://schema.org/url> "https://corpgov.law.harvard.edu/2009/09/21/the-effect-of-sox-section-404/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s5> <http://purl.org/dc/terms/publisher> "Congressional Research Service" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s5> <http://purl.org/dc/terms/title> "Section 404 of the Sarbanes-Oxley Act of 2002 (Management Assessment of Internal Controls): Current Regulation and Congressional Concerns (RS22482)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s5> <https://schema.org/url> "https://www.everycrsreport.com/files/20111220_RS22482_824a905b921d50544a6223207e91503d98aefb86.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, Office of the Chief Accountant" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s6> <http://purl.org/dc/terms/title> "Study and Recommendations on Section 404(b) of the Sarbanes-Oxley Act of 2002 for Issuers With Public Float Between $75 and $250 Million" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s6> <https://schema.org/url> "https://SEC.GOV/files/404bfloat-study.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <http://purl.org/dc/terms/publisher> "Congressional Research Service" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <http://purl.org/dc/terms/title> "The Sarbanes-Oxley Act of 2002: A Side-by-Side Comparison of House, Senate, and Conference Versions (RL31483)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <https://schema.org/url> "https://www.everycrsreport.com/reports/RL31483.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/publisher> "The Wharton School, University of Pennsylvania (faculty paper)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://purl.org/dc/terms/title> "Market segmentation (Chapter 11, The Marketing Book)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/segmentation-targeting-positioning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
