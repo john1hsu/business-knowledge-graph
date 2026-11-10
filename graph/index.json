@@ -231,6 +231,27 @@
     ]
   },
   {
+    "id": "kt:business-roundtable-statement-on-corporate-purpose",
+    "title": "Business Roundtable Statement on the Purpose of a Corporation",
+    "aliases": [
+      "BRT statement on corporate purpose",
+      "2019 Business Roundtable statement",
+      "Business Roundtable stakeholder pledge"
+    ],
+    "type": "Case",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/business-roundtable-statement-on-corporate-purpose.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans",
+      "https://cornelllawreview.org/wp-content/uploads/2021/02/The-Illusory-Promise-of-Stakeholder-Governance.pdf.",
+      "https://papers.ssrn.com/abstract=3544978",
+      "https://chicagounbound.uchicago.edu/jle/vol67/iss4/2/",
+      "https://www.businessroundtable.org/five-years-on-corporate-purpose-and-profit",
+      "https://corpgov.law.harvard.edu/2020/03/02/the-illusory-promise-of-stakeholder-governance"
+    ]
+  },
+  {
     "id": "kt:cannibalization",
     "title": "Cannibalization",
     "aliases": [

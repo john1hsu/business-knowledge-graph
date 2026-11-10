@@ -661,6 +661,103 @@
       ]
     },
     {
+      "@id": "kt:business-roundtable-statement-on-corporate-purpose",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Business Roundtable Statement on the Purpose of a Corporation",
+      "skos:definition": "An August 2019 statement, signed initially by 181 chief executives of large U.S. companies, in which the Business Roundtable dropped its 1997 endorsement of shareholder primacy and committed signers to deliver value to customers, employees, suppliers, communities and shareholders.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Business Roundtable Redefines the Purpose of a Corporation to Promote 'An Economy That Serves All Americans'",
+          "dcterms:publisher": "Business Roundtable",
+          "schema:url": "https://www.businessroundtable.org/business-roundtable-redefines-the-purpose-of-a-corporation-to-promote-an-economy-that-serves-all-americans",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Illusory Promise of Stakeholder Governance",
+          "dcterms:publisher": "Cornell Law Review, Vol. 106 (2020), pp. 91-178",
+          "schema:url": "https://cornelllawreview.org/wp-content/uploads/2021/02/The-Illusory-Promise-of-Stakeholder-Governance.pdf.",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Illusory Promise of Stakeholder Governance (SSRN abstract 3544978)",
+          "dcterms:publisher": "SSRN / Harvard Law School Program on Corporate Governance",
+          "schema:url": "https://papers.ssrn.com/abstract=3544978",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Do Socially Responsible Firms Walk the Talk?",
+          "dcterms:publisher": "Journal of Law and Economics, Vol. 67, No. 4 (2024)",
+          "schema:url": "https://chicagounbound.uchicago.edu/jle/vol67/iss4/2/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Five Years On: Corporate Purpose and Profit",
+          "dcterms:publisher": "Business Roundtable",
+          "schema:url": "https://www.businessroundtable.org/five-years-on-corporate-purpose-and-profit",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Illusory Promise of Stakeholder Governance (Harvard Law School Forum on Corporate Governance)",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance",
+          "schema:url": "https://corpgov.law.harvard.edu/2020/03/02/the-illusory-promise-of-stakeholder-governance",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/business-roundtable-statement-on-corporate-purpose.md",
+      "skos:altLabel": [
+        "BRT statement on corporate purpose",
+        "2019 Business Roundtable statement",
+        "Business Roundtable stakeholder pledge"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:business-ethics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:shareholder-primacy"
+        },
+        {
+          "@id": "kt:corporate-social-responsibility"
+        },
+        {
+          "@id": "kt:esg"
+        },
+        {
+          "@id": "kt:fiduciary-duty"
+        },
+        {
+          "@id": "kt:board-of-directors"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:stakeholder-theory"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:business-roundtable"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:business-roundtable-statement-on-corporate-governance-1997"
+        }
+      ]
+    },
+    {
       "@id": "kt:corporate-governance",
       "@type": "kto:Concept",
       "skos:prefLabel": "Corporate Governance",

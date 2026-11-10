@@ -5,10 +5,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
+| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
-| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:business-model` | `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:revolutionary-far-overhaul` |
@@ -16,10 +17,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
-| `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:hoshin-kanri`, `kt:malcolm-baldrige-national-quality-award` |
+| `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
@@ -36,11 +37,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
+| `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
 | `kt:capital-asset-pricing-model` | `kt:efficient-market-hypothesis`, `kt:weighted-average-cost-of-capital` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
-| `kt:corporate-social-responsibility` | `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
@@ -98,10 +99,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:bruce-henderson` | `kt:experience-curve` |
-| `kt:business-ethics` | `kt:stakeholder-theory` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
-| `kt:business-roundtable-statement-on-corporate-purpose` | `kt:stakeholder-theory` |
+| `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
+| `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:capital-budgeting` | `kt:weighted-average-cost-of-capital` |
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
