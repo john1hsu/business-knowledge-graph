@@ -17,7 +17,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
-| `kt:high-performance-teams` | `kt:amy-edmondson`, `kt:google-project-aristotle`, `kt:psychological-safety` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-learning` | `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
@@ -39,9 +38,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
+| `kt:goal-setting-theory` | `kt:okrs`, `kt:high-performance-teams` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
+| `kt:j-richard-hackman` | `kt:amy-edmondson`, `kt:high-performance-teams` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:jobs-to-be-done` | `kt:clayton-christensen`, `kt:disruptive-innovation` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
@@ -64,6 +65,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
+| `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams` |
+| `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
@@ -138,7 +141,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
-| `kt:goal-setting-theory` | `kt:okrs` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
@@ -158,9 +160,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:international-accounting-standards-board` | `kt:goodwill` |
 | `kt:irving-janis` | `kt:groupthink` |
-| `kt:j-richard-hackman` | `kt:amy-edmondson` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
+| `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
@@ -244,10 +246,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:taiichi-ohno` | `kt:kanban` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
-| `kt:team-effectiveness` | `kt:google-project-aristotle` |
-| `kt:team-learning` | `kt:psychological-safety` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technological-disruption` | `kt:kodak-decline` |
+| `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |

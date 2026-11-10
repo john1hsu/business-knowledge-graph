@@ -636,6 +636,27 @@
     ]
   },
   {
+    "id": "kt:high-performance-teams",
+    "title": "High-Performance Teams",
+    "aliases": [
+      "high-performing teams",
+      "high performance team",
+      "real teams"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/high-performance-teams.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://hci.stanford.edu/courses/cs147/2015/au/readings/restricted/The%20Discipline%20of%20Teams.html",
+      "https://dash.harvard.edu/bitstream/handle/1/4412633/SD%20Hackman%20Leading%20Teams.pdf?sequence=1&isAllowed=y",
+      "https://openstax.org/books/principles-management/pages/15-1-teamwork-in-the-workplace",
+      "https://hbr.org/2009/05/why-teams-dont-work",
+      "https://hbr.org/2016/06/the-secrets-of-great-teamwork",
+      "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2006.00030.x/"
+    ]
+  },
+  {
     "id": "kt:hoshin-kanri",
     "title": "Hoshin Kanri",
     "aliases": [

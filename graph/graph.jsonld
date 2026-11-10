@@ -4737,6 +4737,107 @@
       ]
     },
     {
+      "@id": "kt:high-performance-teams",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "High-Performance Teams",
+      "skos:definition": "Small groups with complementary skills, a common purpose and goals, an agreed approach and mutual accountability whose collective work products exceed what members would achieve alone; studied by Katzenbach and Smith (1993) and, as a set of design conditions, by J. Richard Hackman.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Discipline of Teams",
+          "dcterms:publisher": "Harvard Business Review 71(2), March-April 1993 (copy hosted by Stanford HCI course readings)",
+          "schema:url": "https://hci.stanford.edu/courses/cs147/2015/au/readings/restricted/The%20Discipline%20of%20Teams.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Leading Teams When the Time is Right: Finding the Best Moments to Act",
+          "dcterms:publisher": "Organizational Dynamics 38(3), 2009 (Harvard DASH repository)",
+          "schema:url": "https://dash.harvard.edu/bitstream/handle/1/4412633/SD%20Hackman%20Leading%20Teams.pdf?sequence=1&isAllowed=y",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Principles of Management, Section 15.1: Teamwork in the Workplace",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-management/pages/15-1-teamwork-in-the-workplace",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Why Teams Don't Work (interview with J. Richard Hackman)",
+          "dcterms:publisher": "Harvard Business Review, May 2009",
+          "schema:url": "https://hbr.org/2009/05/why-teams-dont-work",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "The Secrets of Great Teamwork",
+          "dcterms:publisher": "Harvard Business Review, June 2016",
+          "schema:url": "https://hbr.org/2016/06/the-secrets-of-great-teamwork",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Enhancing the Effectiveness of Work Groups and Teams",
+          "dcterms:publisher": "Psychological Science in the Public Interest 7(3), 2006",
+          "schema:url": "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2006.00030.x/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/high-performance-teams.md",
+      "skos:altLabel": [
+        "high-performing teams",
+        "high performance team",
+        "real teams"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:team-effectiveness"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:team-learning"
+        },
+        {
+          "@id": "kt:amy-edmondson"
+        },
+        {
+          "@id": "kt:goal-setting-theory"
+        },
+        {
+          "@id": "kt:okrs"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:jon-katzenbach"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-discipline-of-teams"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:j-richard-hackman"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:psychological-safety"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:google-project-aristotle"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:groupthink"
+        }
+      ]
+    },
+    {
       "@id": "kt:psychological-safety",
       "@type": "kto:Concept",
       "skos:prefLabel": "Psychological Safety",

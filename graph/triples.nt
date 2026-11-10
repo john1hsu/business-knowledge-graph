@@ -734,6 +734,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/bay-of-pigs-invasion> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/victims-of-groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2000/01/rdf-schema#label> "High-Performance Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#altLabel> "high performance team" .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#altLabel> "high-performing teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#altLabel> "real teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#definition> "Small groups with complementary skills, a common purpose and goals, an agreed approach and mutual accountability whose collective work products exceed what members would achieve alone; studied by Katzenbach and Smith (1993) and, as a set of design conditions, by J. Richard Hackman." .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#prefLabel> "High-Performance Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/team-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/jon-katzenbach> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-discipline-of-teams> .
 <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> <http://www.w3.org/2000/01/rdf-schema#label> "Hoshin Kanri" .
@@ -2201,6 +2227,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/00251741011068761" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review 71(2), March-April 1993 (copy hosted by Stanford HCI course readings)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://purl.org/dc/terms/title> "The Discipline of Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <https://schema.org/url> "https://hci.stanford.edu/courses/cs147/2015/au/readings/restricted/The%20Discipline%20of%20Teams.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s2> <http://purl.org/dc/terms/publisher> "Organizational Dynamics 38(3), 2009 (Harvard DASH repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s2> <http://purl.org/dc/terms/title> "Leading Teams When the Time is Right: Finding the Best Moments to Act" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s2> <https://schema.org/url> "https://dash.harvard.edu/bitstream/handle/1/4412633/SD%20Hackman%20Leading%20Teams.pdf?sequence=1&isAllowed=y" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s3> <http://purl.org/dc/terms/title> "Principles of Management, Section 15.1: Teamwork in the Workplace" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s3> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/15-1-teamwork-in-the-workplace" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review, May 2009" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s4> <http://purl.org/dc/terms/title> "Why Teams Don't Work (interview with J. Richard Hackman)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s4> <https://schema.org/url> "https://hbr.org/2009/05/why-teams-dont-work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s5> <http://purl.org/dc/terms/publisher> "Harvard Business Review, June 2016" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s5> <http://purl.org/dc/terms/title> "The Secrets of Great Teamwork" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s5> <https://schema.org/url> "https://hbr.org/2016/06/the-secrets-of-great-teamwork" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s6> <http://purl.org/dc/terms/publisher> "Psychological Science in the Public Interest 7(3), 2006" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s6> <http://purl.org/dc/terms/title> "Enhancing the Effectiveness of Work Groups and Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s6> <https://schema.org/url> "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2006.00030.x/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <http://purl.org/dc/terms/publisher> "Perspectives on Performance (via University of East Anglia Digital Repository)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <http://purl.org/dc/terms/title> "Hoshin Kanri" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/hoshin-kanri/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
