@@ -5961,6 +5961,84 @@
       ]
     },
     {
+      "@id": "kt:j-richard-hackman",
+      "@type": "kto:Person",
+      "skos:prefLabel": "J. Richard Hackman",
+      "skos:definition": "American social and organizational psychologist (1940–2013) at Yale and then Harvard who led two research streams: work design, through the job characteristics model developed with Greg Oldham, and team effectiveness, through a theory of the conditions that let task-performing teams succeed.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "J. Richard Hackman (1940-2013)",
+          "dcterms:publisher": "Harvard Business School, Working Knowledge",
+          "schema:url": "https://hbswk.hbs.edu/item/j-richard-hackman-1940-2013",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Memorial service for former faculty member John Richard Hackman",
+          "dcterms:publisher": "Yale News, Yale University",
+          "schema:url": "https://news.yale.edu/2013/01/15/memorial-service-former-faculty-member-john-richard-hackman",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Conditions Under Which Employees Respond Positively to Enriched Work",
+          "dcterms:publisher": "Journal of Applied Psychology 61(4), 1976 (eScholarship, University of California)",
+          "schema:url": "https://escholarship.org/content/qt9fd2v2pd/qt9fd2v2pd.pdf?t=pwljv1",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature",
+          "dcterms:publisher": "Journal of Applied Psychology 92(5), 2007 (Penn State research record)",
+          "schema:url": "https://pure.psu.edu/en/publications/integrating-motivational-social-and-contextual-work-design-featur/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "In Memoriam: Richard Hackman, 1940 – 2013",
+          "dcterms:publisher": "Institute for Music Leadership, Eastman School of Music, University of Rochester",
+          "schema:url": "https://iml.esm.rochester.edu/polyphonic-archive/article/in-memoriam-richard-hackman-1940-2013/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/j-richard-hackman.md",
+      "skos:altLabel": [
+        "Richard Hackman",
+        "John Richard Hackman"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-behavior"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:high-performance-teams"
+        },
+        {
+          "@id": "kt:psychological-safety"
+        },
+        {
+          "@id": "kt:motivation-hygiene-theory"
+        },
+        {
+          "@id": "kt:employee-motivation"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:job-characteristics-model"
+        },
+        {
+          "@id": "kt:amy-edmondson"
+        },
+        {
+          "@id": "kt:team-effectiveness"
+        },
+        {
+          "@id": "kt:job-enrichment"
+        }
+      ]
+    },
+    {
       "@id": "kt:psychological-safety",
       "@type": "kto:Concept",
       "skos:prefLabel": "Psychological Safety",

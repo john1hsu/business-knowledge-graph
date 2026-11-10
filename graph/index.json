@@ -974,6 +974,25 @@
     ]
   },
   {
+    "id": "kt:j-richard-hackman",
+    "title": "J. Richard Hackman",
+    "aliases": [
+      "Richard Hackman",
+      "John Richard Hackman"
+    ],
+    "type": "Person",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/j-richard-hackman.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://hbswk.hbs.edu/item/j-richard-hackman-1940-2013",
+      "https://news.yale.edu/2013/01/15/memorial-service-former-faculty-member-john-richard-hackman",
+      "https://escholarship.org/content/qt9fd2v2pd/qt9fd2v2pd.pdf?t=pwljv1",
+      "https://pure.psu.edu/en/publications/integrating-motivational-social-and-contextual-work-design-featur/",
+      "https://iml.esm.rochester.edu/polyphonic-archive/article/in-memoriam-richard-hackman-1940-2013/"
+    ]
+  },
+  {
     "id": "kt:jobs-to-be-done",
     "title": "Jobs to Be Done",
     "aliases": [

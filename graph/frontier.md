@@ -30,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
+| `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
@@ -50,7 +51,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:information-asymmetry` | `kt:direct-selling`, `kt:principal-agent-problem` |
-| `kt:j-richard-hackman` | `kt:amy-edmondson`, `kt:high-performance-teams` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban` |
@@ -63,6 +63,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
+| `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:psychological-safety` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
@@ -74,7 +75,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
-| `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
@@ -142,6 +142,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edward-s-mason` | `kt:industrial-organization` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
+| `kt:employee-motivation` | `kt:j-richard-hackman` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:enron-scandal` | `kt:sarbanes-oxley-act` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
@@ -191,6 +192,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
+| `kt:job-characteristics-model` | `kt:j-richard-hackman` |
+| `kt:job-enrichment` | `kt:j-richard-hackman` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule` |
@@ -227,6 +230,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:moral-hazard` | `kt:principal-agent-problem` |
+| `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
@@ -239,7 +243,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:operational-effectiveness` | `kt:benchmarking` |
-| `kt:organizational-behavior` | `kt:amy-edmondson` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:path-dependence` | `kt:network-effect` |

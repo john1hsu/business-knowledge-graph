@@ -1139,6 +1139,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/confirmation-bias> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2000/01/rdf-schema#label> "J. Richard Hackman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#altLabel> "John Richard Hackman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#altLabel> "Richard Hackman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#definition> "American social and organizational psychologist (1940–2013) at Yale and then Harvard who led two research streams: work design, through the job characteristics model developed with Greg Oldham, and team effectiveness, through a theory of the conditions that let task-performing teams succeed." .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#prefLabel> "J. Richard Hackman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/motivation-hygiene-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/job-characteristics-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/job-enrichment> .
+<https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> .
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <http://www.w3.org/2000/01/rdf-schema#label> "Jobs to Be Done" .
@@ -2989,6 +3011,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/issue-tree/s5> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/ADA354973.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s1> <http://purl.org/dc/terms/title> "J. Richard Hackman (1940-2013)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s1> <https://schema.org/url> "https://hbswk.hbs.edu/item/j-richard-hackman-1940-2013" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s2> <http://purl.org/dc/terms/publisher> "Yale News, Yale University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s2> <http://purl.org/dc/terms/title> "Memorial service for former faculty member John Richard Hackman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s2> <https://schema.org/url> "https://news.yale.edu/2013/01/15/memorial-service-former-faculty-member-john-richard-hackman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s3> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology 61(4), 1976 (eScholarship, University of California)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s3> <http://purl.org/dc/terms/title> "Conditions Under Which Employees Respond Positively to Enriched Work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s3> <https://schema.org/url> "https://escholarship.org/content/qt9fd2v2pd/qt9fd2v2pd.pdf?t=pwljv1" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s4> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology 92(5), 2007 (Penn State research record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s4> <http://purl.org/dc/terms/title> "Integrating Motivational, Social, and Contextual Work Design Features: A Meta-Analytic Summary and Theoretical Extension of the Work Design Literature" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s4> <https://schema.org/url> "https://pure.psu.edu/en/publications/integrating-motivational-social-and-contextual-work-design-featur/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s5> <http://purl.org/dc/terms/publisher> "Institute for Music Leadership, Eastman School of Music, University of Rochester" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s5> <http://purl.org/dc/terms/title> "In Memoriam: Richard Hackman, 1940 – 2013" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/j-richard-hackman/s5> <https://schema.org/url> "https://iml.esm.rochester.edu/polyphonic-archive/article/in-memoriam-richard-hackman-1940-2013/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School Publishing (hosted by Texas A&M Ellison Chair)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <http://purl.org/dc/terms/title> "Integrating Around the Job to Be Done (HBS Module Note 9-611-004, rev. 2020)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
