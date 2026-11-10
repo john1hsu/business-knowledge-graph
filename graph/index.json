@@ -1231,6 +1231,26 @@
     ]
   },
   {
+    "id": "kt:revolutionary-far-overhaul",
+    "title": "Revolutionary FAR Overhaul",
+    "aliases": [
+      "RFO",
+      "FAR overhaul"
+    ],
+    "type": "Regulation",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/revolutionary-far-overhaul.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/FR-2025-04-18/html/2025-06839.htm",
+      "https://www.acquisition.gov/far-overhaul",
+      "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-omb-nasa-dod-launch-revolutionary-far-overhaul-website-05062025",
+      "https://www.federalregister.gov/documents/2026/06/23/2026-12559/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33",
+      "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19158.pdf",
+      "https://www.washingtontechnology.com/contracts/2026/10/maps-ruling-exposes-far-overhauls-clause-confusion/416443/"
+    ]
+  },
+  {
     "id": "kt:saas-business-model",
     "title": "Software as a Service",
     "aliases": [

@@ -2955,6 +2955,102 @@
       ]
     },
     {
+      "@id": "kt:revolutionary-far-overhaul",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "Revolutionary FAR Overhaul",
+      "skos:definition": "The US government's 2025–2026 initiative to rewrite the entire Federal Acquisition Regulation in plain language and strip it back to statutory requirements and essential safeguards, launched under Executive Order 14275 and carried out by OFPP and the FAR Council first through model class deviations and then through formal rulemaking.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Executive Order 14275: Restoring Common Sense to Federal Procurement",
+          "dcterms:publisher": "Federal Register (90 FR 16447), via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2025-04-18/html/2025-06839.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Revolutionary FAR Overhaul",
+          "dcterms:publisher": "Acquisition.gov (OFPP / FAR Council / GSA)",
+          "schema:url": "https://www.acquisition.gov/far-overhaul",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "GSA, OMB, NASA, DoD Launch Revolutionary FAR Overhaul Website",
+          "dcterms:publisher": "U.S. General Services Administration",
+          "schema:url": "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-omb-nasa-dod-launch-revolutionary-far-overhaul-website-05062025",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Federal Acquisition Regulation: Revolutionary Federal Acquisition Regulation Overhaul Parts 1, 2, 4, 33, 39, 40, and 53 (FAR Case 2026-001, proposed rule)",
+          "dcterms:publisher": "Federal Register (91 FR 37550), FAR Council",
+          "schema:url": "https://www.federalregister.gov/documents/2026/06/23/2026-12559/federal-acquisition-regulation-revolutionary-federal-acquisition-regulation-overhaul-parts-1-2-4-33",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Revolutionary FAR Overhaul Parts 14, 28, 36, and 52 (FAR Case 2026-010, proposed rule)",
+          "dcterms:publisher": "Federal Register (Vol. 91, No. 180), via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2026-09-18/pdf/2026-19158.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "MAPS protest ruling exposes FAR overhaul's clause confusion",
+          "dcterms:publisher": "Washington Technology",
+          "schema:url": "https://www.washingtontechnology.com/contracts/2026/10/maps-ruling-exposes-far-overhauls-clause-confusion/416443/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/revolutionary-far-overhaul.md",
+      "skos:altLabel": [
+        "RFO",
+        "FAR overhaul"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:regulatory-reform"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:best-value-tradeoff"
+        },
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:defense-federal-acquisition-regulation-supplement"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:far-council"
+        },
+        {
+          "@id": "kt:office-of-federal-procurement-policy"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:executive-order-14275"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:marketplace-for-the-acquisition-of-professional-services"
+        }
+      ]
+    },
+    {
       "@id": "kt:clayton-christensen",
       "@type": "kto:Person",
       "skos:prefLabel": "Clayton Christensen",
