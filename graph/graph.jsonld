@@ -1951,6 +1951,106 @@
       ]
     },
     {
+      "@id": "kt:eighty-twenty-rule",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "80/20 Rule",
+      "skos:definition": "The heuristic that, in many populations of causes, a small share of items accounts for most of the effect (conventionally 20% producing 80%), named by Joseph Juran after Vilfredo Pareto's observations on wealth and used to focus analysis and improvement on the \"vital few\".",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-10",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Non-Pareto Principle; Mea Culpa",
+          "dcterms:publisher": "Juran Institute (reprint of J. M. Juran, 1974)",
+          "schema:url": "https://www.juran.com/wp-content/uploads/2021/03/The-Non-Pareto-Principle-1974.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Vilfredo Pareto",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/print/article/443519",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Power laws, Pareto distributions and Zipf's law",
+          "dcterms:publisher": "Contemporary Physics (arXiv preprint cond-mat/0412004)",
+          "schema:url": "https://arxiv.org/abs/cond-mat/0412004",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What is a Pareto Chart? Analysis & Diagram",
+          "dcterms:publisher": "American Society for Quality (ASQ)",
+          "schema:url": "https://asq.org/quality-resources/pareto",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Should You Invest in the Long Tail?",
+          "dcterms:publisher": "Harvard Business School Faculty & Research",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=32337",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/eighty-twenty-rule.md",
+      "skos:altLabel": [
+        "Pareto principle",
+        "Pareto's principle",
+        "principle of factor sparsity",
+        "vital few and trivial many",
+        "law of the vital few"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        },
+        {
+          "@id": "kt:mece-principle"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:joseph-juran"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:vilfredo-pareto"
+        },
+        {
+          "@id": "kt:lorenz-curve"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:quality-control-handbook"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:pareto-chart"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:power-law"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:long-tail"
+        }
+      ]
+    },
+    {
       "@id": "kt:hypothesis-driven-problem-solving",
       "@type": "kto:Practice",
       "skos:prefLabel": "Hypothesis-Driven Problem Solving",

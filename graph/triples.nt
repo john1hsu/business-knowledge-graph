@@ -465,6 +465,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://purl.org/dc/terms/created> "2026-11-10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2000/01/rdf-schema#label> "80/20 Rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "Pareto principle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "Pareto's principle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "law of the vital few" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "principle of factor sparsity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "vital few and trivial many" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#definition> "The heuristic that, in many populations of causes, a small share of items accounts for most of the effect (conventionally 20% producing 80%), named by Joseph Juran after Vilfredo Pareto's observations on wealth and used to focus analysis and improvement on the \"vital few\"." .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#prefLabel> "80/20 Rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/long-tail> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/power-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/lorenz-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/vilfredo-pareto> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/quality-control-handbook> .
+<https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/pareto-chart> .
 <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Enterprise Resource Planning" .
@@ -2071,6 +2099,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://schema.org/url> "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <http://purl.org/dc/terms/publisher> "Juran Institute (reprint of J. M. Juran, 1974)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <http://purl.org/dc/terms/title> "The Non-Pareto Principle; Mea Culpa" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s1> <https://schema.org/url> "https://www.juran.com/wp-content/uploads/2021/03/The-Non-Pareto-Principle-1974.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s2> <http://purl.org/dc/terms/title> "Vilfredo Pareto" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s2> <https://schema.org/url> "https://www.britannica.com/print/article/443519" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s3> <http://purl.org/dc/terms/publisher> "Contemporary Physics (arXiv preprint cond-mat/0412004)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s3> <http://purl.org/dc/terms/title> "Power laws, Pareto distributions and Zipf's law" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s3> <https://schema.org/url> "https://arxiv.org/abs/cond-mat/0412004" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s4> <http://purl.org/dc/terms/publisher> "American Society for Quality (ASQ)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s4> <http://purl.org/dc/terms/title> "What is a Pareto Chart? Analysis & Diagram" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s4> <https://schema.org/url> "https://asq.org/quality-resources/pareto" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <http://purl.org/dc/terms/publisher> "Harvard Business School Faculty & Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <http://purl.org/dc/terms/title> "Should You Invest in the Long Tail?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=32337" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://purl.org/dc/terms/publisher> "University of Twente (via FutureLearn)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://purl.org/dc/terms/title> "Introduction to ERP systems (Supply Chain Innovation course)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

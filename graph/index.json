@@ -402,6 +402,28 @@
     ]
   },
   {
+    "id": "kt:eighty-twenty-rule",
+    "title": "80/20 Rule",
+    "aliases": [
+      "Pareto principle",
+      "Pareto's principle",
+      "principle of factor sparsity",
+      "vital few and trivial many",
+      "law of the vital few"
+    ],
+    "type": "Concept",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/eighty-twenty-rule.md",
+    "created": "2026-11-10",
+    "source_urls": [
+      "https://www.juran.com/wp-content/uploads/2021/03/The-Non-Pareto-Principle-1974.pdf",
+      "https://www.britannica.com/print/article/443519",
+      "https://arxiv.org/abs/cond-mat/0412004",
+      "https://asq.org/quality-resources/pareto",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=32337"
+    ]
+  },
+  {
     "id": "kt:enterprise-resource-planning",
     "title": "Enterprise Resource Planning",
     "aliases": [

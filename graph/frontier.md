@@ -17,6 +17,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:shareholder-primacy` | `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
+| `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:board-of-directors` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
@@ -28,7 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
-| `kt:structured-problem-solving` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
+| `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:hoshin-kanri` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
@@ -69,7 +70,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
-| `kt:total-quality-management` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:adverse-selection` | `kt:principal-agent-problem` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
@@ -177,6 +177,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
+| `kt:joseph-juran` | `kt:eighty-twenty-rule` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
@@ -186,6 +187,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
+| `kt:long-tail` | `kt:eighty-twenty-rule` |
+| `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:lowest-price-technically-acceptable` | `kt:best-value-tradeoff` |
 | `kt:malcolm-baldrige-national-quality-award` | `kt:benchmarking` |
@@ -220,6 +223,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operational-effectiveness` | `kt:benchmarking` |
 | `kt:organizational-behavior` | `kt:amy-edmondson` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
+| `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:path-dependence` | `kt:network-effect` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
@@ -228,6 +232,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:personal-selling` | `kt:direct-selling` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
+| `kt:power-law` | `kt:eighty-twenty-rule` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
@@ -238,6 +243,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
+| `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
@@ -285,6 +291,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
+| `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
 | `kt:w-edwards-deming` | `kt:peter-drucker` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
