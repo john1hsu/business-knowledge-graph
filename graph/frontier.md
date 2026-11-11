@@ -25,6 +25,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
+| `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -39,6 +40,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:gaap` |
+| `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
+| `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
@@ -55,12 +58,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
-| `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
-| `kt:gaps-model-of-service-quality` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs`, `kt:high-performance-teams` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
@@ -91,8 +92,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
-| `kt:service-quality` | `kt:a-parasuraman`, `kt:servqual` |
-| `kt:services-marketing` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
@@ -141,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:complementary-assets` | `kt:david-j-teece` |
+| `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contract-theory` | `kt:principal-agent-problem` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
@@ -235,6 +235,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:learning-curve` | `kt:experience-curve` |
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
+| `kt:leonard-berry` | `kt:gaps-model-of-service-quality` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
@@ -352,6 +353,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
+| `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |

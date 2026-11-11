@@ -9,7 +9,7 @@ summary: >-
   Miami, who with Valarie Zeithaml and Leonard Berry created the gaps model of service quality and
   SERVQUAL, and later developed the Technology Readiness Index and the E-S-QUAL scale.
 broader: [kt:services-marketing]
-related: [kt:servqual, kt:service-quality, kt:customer-satisfaction]
+related: [kt:servqual, kt:service-quality, kt:customer-satisfaction, kt:gaps-model-of-service-quality]
 relations:
   - {predicate: influenced, object: kt:gaps-model-of-service-quality}
   - {predicate: influenced, object: kt:technology-readiness-index}

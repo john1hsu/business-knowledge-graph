@@ -7,6 +7,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#definition> "Marketing scholar, trained at IIT Madras, IIM Ahmedabad and Indiana University and emeritus James W. McLamore Chair at the University of Miami, who with Valarie Zeithaml and Leonard Berry created the gaps model of service quality and SERVQUAL, and later developed the Technology Readiness Index and the E-S-QUAL scale." .
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#prefLabel> "A. Parasuraman" .
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/service-quality> .
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> .
@@ -1037,6 +1038,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaap> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2000/01/rdf-schema#label> "Gaps Model of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#altLabel> "PZB gaps model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#altLabel> "customer service gap model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#altLabel> "five-gap model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#altLabel> "gap model of service quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/service-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#definition> "A diagnostic framework, introduced by Parasuraman, Zeithaml and Berry in 1985, that explains a shortfall in perceived service quality (the customer gap between expected and perceived service) as the result of four gaps inside the provider: knowledge, standards, delivery and communication." .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gaps Model of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/leonard-berry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/valarie-zeithaml> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/conceptual-model-of-service-quality-1985> .
+<https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
 <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2000/01/rdf-schema#label> "Goodwill" .
@@ -3220,6 +3249,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaap/s6> <https://schema.org/url> "https://www.sechistorical.org/museum/galleries/rev/rev04d.php" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s1> <http://purl.org/dc/terms/publisher> "Journal of Marketing 49(4), 41–50 (1985), via Scilit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s1> <http://purl.org/dc/terms/title> "A Conceptual Model of Service Quality and Its Implications for Future Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s1> <https://schema.org/url> "https://scilit.com/publications/8d501494664f672251c3b3cd8a1aecc8" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s2> <http://purl.org/dc/terms/publisher> "Journal of Marketing 52(2), 35–48 (1988), via Scilit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s2> <http://purl.org/dc/terms/title> "Communication and Control Processes in the Delivery of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s2> <https://schema.org/url> "https://scilit.com/publications/7a1e6a05bdc8b3ae19fe705d2cb9c653" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Marketing (Rice University, 2023)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s3> <http://purl.org/dc/terms/title> "11.3 The Gap Model of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s3> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/11-3-the-gap-model-of-service-quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s4> <http://purl.org/dc/terms/publisher> "Springer, Handbook of Service Science, 197–218 (2010)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s4> <http://purl.org/dc/terms/title> "Technology's Impact on the Gaps Model of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s4> <https://schema.org/url> "https://rd.springer.com/chapter/10.1007/978-1-4419-1628-0_10" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s5> <http://purl.org/dc/terms/publisher> "Knowledge at W. P. Carey, Arizona State University (2007)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s5> <http://purl.org/dc/terms/title> "Keeping promises: Closing the services gap" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s5> <https://schema.org/url> "https://knowledge.wpcarey.asu.edu/20070328-keeping-promises-closing-services-gap" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s6> <http://purl.org/dc/terms/publisher> "The Journal of Applied Business Research 19(1), via CORE" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s6> <http://purl.org/dc/terms/title> "Impact of the Internet on Internal Service Quality Factors: The Travel Industry Case" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s6> <https://schema.org/url> "https://core.ac.uk/download/268103928.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <http://purl.org/dc/terms/publisher> "International Journal of Quality & Reliability Management 22(9), 913–949 (2005), Emerald" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <http://purl.org/dc/terms/title> "Service quality models: a review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <https://schema.org/url> "https://www.emeraldinsight.com/doi/abs/10.1108/02656710510625211" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://purl.org/dc/terms/publisher> "IFRS Foundation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://purl.org/dc/terms/title> "IAS 36 Impairment of Assets" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

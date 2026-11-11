@@ -5743,6 +5743,9 @@
         },
         {
           "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:gaps-model-of-service-quality"
         }
       ],
       "kto:influenced": [
@@ -5935,6 +5938,110 @@
       "kto:alternativeTo": [
         {
           "@id": "kt:rfm-analysis"
+        }
+      ]
+    },
+    {
+      "@id": "kt:gaps-model-of-service-quality",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Gaps Model of Service Quality",
+      "skos:definition": "A diagnostic framework, introduced by Parasuraman, Zeithaml and Berry in 1985, that explains a shortfall in perceived service quality (the customer gap between expected and perceived service) as the result of four gaps inside the provider: knowledge, standards, delivery and communication.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Conceptual Model of Service Quality and Its Implications for Future Research",
+          "dcterms:publisher": "Journal of Marketing 49(4), 41–50 (1985), via Scilit",
+          "schema:url": "https://scilit.com/publications/8d501494664f672251c3b3cd8a1aecc8",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Communication and Control Processes in the Delivery of Service Quality",
+          "dcterms:publisher": "Journal of Marketing 52(2), 35–48 (1988), via Scilit",
+          "schema:url": "https://scilit.com/publications/7a1e6a05bdc8b3ae19fe705d2cb9c653",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "11.3 The Gap Model of Service Quality",
+          "dcterms:publisher": "OpenStax, Principles of Marketing (Rice University, 2023)",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/11-3-the-gap-model-of-service-quality",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Technology's Impact on the Gaps Model of Service Quality",
+          "dcterms:publisher": "Springer, Handbook of Service Science, 197–218 (2010)",
+          "schema:url": "https://rd.springer.com/chapter/10.1007/978-1-4419-1628-0_10",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Keeping promises: Closing the services gap",
+          "dcterms:publisher": "Knowledge at W. P. Carey, Arizona State University (2007)",
+          "schema:url": "https://knowledge.wpcarey.asu.edu/20070328-keeping-promises-closing-services-gap",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Impact of the Internet on Internal Service Quality Factors: The Travel Industry Case",
+          "dcterms:publisher": "The Journal of Applied Business Research 19(1), via CORE",
+          "schema:url": "https://core.ac.uk/download/268103928.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Service quality models: a review",
+          "dcterms:publisher": "International Journal of Quality & Reliability Management 22(9), 913–949 (2005), Emerald",
+          "schema:url": "https://www.emeraldinsight.com/doi/abs/10.1108/02656710510625211",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/marketing/gaps-model-of-service-quality.md",
+      "skos:altLabel": [
+        "gap model of service quality",
+        "five-gap model",
+        "customer service gap model",
+        "PZB gaps model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:service-quality"
+        },
+        {
+          "@id": "kt:services-marketing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:servqual"
+        },
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:southwest-airlines"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:a-parasuraman"
+        },
+        {
+          "@id": "kt:valarie-zeithaml"
+        },
+        {
+          "@id": "kt:leonard-berry"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:conceptual-model-of-service-quality-1985"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:servqual"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:servqual"
         }
       ]
     },
