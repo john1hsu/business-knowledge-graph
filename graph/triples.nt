@@ -4810,6 +4810,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://schema.org/url> "https://www.apo-tokyo.org/?p=1983" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://purl.org/dc/terms/title> "15.403-4 Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <https://schema.org/url> "https://www.acquisition.gov/far/15.403-4" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s2> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s2> <http://purl.org/dc/terms/title> "15.403-1 Prohibition on obtaining certified cost or pricing data" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s2> <https://schema.org/url> "https://www.acquisition.gov/far/15.403-1" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s3> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s3> <http://purl.org/dc/terms/title> "15.407-1 Defective certified cost or pricing data" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s3> <https://schema.org/url> "https://www.acquisition.gov/far/15.407-1" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s4> <http://purl.org/dc/terms/publisher> "Legal Information Institute, Cornell Law School (text of the US Code)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s4> <http://purl.org/dc/terms/title> "10 U.S. Code § 3702 - Required cost or pricing data and certification" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s4> <https://schema.org/url> "https://www.law.cornell.edu/uscode/text/10/3702" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s5> <http://purl.org/dc/terms/publisher> "Naval Postgraduate School Acquisition Research Program" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s5> <http://purl.org/dc/terms/title> "An Economic Analysis of the Truth in Negotiations Act (TINA) (SYM-AM-16-037)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s5> <https://schema.org/url> "https://www.dair.nps.edu/bitstream/123456789/1627/1/SYM-AM-16-037.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s6> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s6> <http://purl.org/dc/terms/title> "Contract Pricing: DOD's Use of the Truth in Negotiations Act Deterrents Could Be Increased (NSIAD-94-7)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s6> <https://schema.org/url> "https://www.gao.gov/products/nsiad-94-7" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://purl.org/dc/terms/publisher> "Journal of the European Economic Association (author copy, Universidad de Granada)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://purl.org/dc/terms/title> "Platform Competition in Two-Sided Markets" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -4946,6 +4976,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-ford> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kiichiro-toyoda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2000/01/rdf-schema#label> "Truth in Negotiations Act" .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#altLabel> "TINA" .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#altLabel> "Truthful Cost or Pricing Data statute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#altLabel> "certified cost or pricing data requirement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/contract-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#definition> "A 1962 US federal statute, now codified at 10 U.S.C. chapter 271 and 41 U.S.C. chapter 35, that makes contractors in largely non-competitive negotiations above a dollar threshold disclose and certify their cost or pricing data as accurate, complete and current, and lets the government cut the price if the data prove defective." .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#prefLabel> "Truth in Negotiations Act" .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/government-accountability-office> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2000/01/rdf-schema#label> "Two-Sided Market" .

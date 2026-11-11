@@ -4465,6 +4465,98 @@
       ]
     },
     {
+      "@id": "kt:truth-in-negotiations-act",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "Truth in Negotiations Act",
+      "skos:definition": "A 1962 US federal statute, now codified at 10 U.S.C. chapter 271 and 41 U.S.C. chapter 35, that makes contractors in largely non-competitive negotiations above a dollar threshold disclose and certify their cost or pricing data as accurate, complete and current, and lets the government cut the price if the data prove defective.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "15.403-4 Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/far/15.403-4",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "15.403-1 Prohibition on obtaining certified cost or pricing data",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/far/15.403-1",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "15.407-1 Defective certified cost or pricing data",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/far/15.407-1",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "10 U.S. Code § 3702 - Required cost or pricing data and certification",
+          "dcterms:publisher": "Legal Information Institute, Cornell Law School (text of the US Code)",
+          "schema:url": "https://www.law.cornell.edu/uscode/text/10/3702",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "An Economic Analysis of the Truth in Negotiations Act (TINA) (SYM-AM-16-037)",
+          "dcterms:publisher": "Naval Postgraduate School Acquisition Research Program",
+          "schema:url": "https://www.dair.nps.edu/bitstream/123456789/1627/1/SYM-AM-16-037.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Contract Pricing: DOD's Use of the Truth in Negotiations Act Deterrents Could Be Increased (NSIAD-94-7)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/nsiad-94-7",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/truth-in-negotiations-act.md",
+      "skos:altLabel": [
+        "TINA",
+        "Truthful Cost or Pricing Data statute",
+        "certified cost or pricing data requirement"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:contract-pricing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:government-contract-types"
+        },
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:government-accountability-office"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:adverse-selection"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:sole-source-contracting"
+        }
+      ]
+    },
+    {
       "@id": "kt:andrew-van-de-ven",
       "@type": "kto:Person",
       "skos:prefLabel": "Andrew Van de Ven",

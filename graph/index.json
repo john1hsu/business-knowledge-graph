@@ -1928,6 +1928,27 @@
     ]
   },
   {
+    "id": "kt:truth-in-negotiations-act",
+    "title": "Truth in Negotiations Act",
+    "aliases": [
+      "TINA",
+      "Truthful Cost or Pricing Data statute",
+      "certified cost or pricing data requirement"
+    ],
+    "type": "Regulation",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/truth-in-negotiations-act.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.acquisition.gov/far/15.403-4",
+      "https://www.acquisition.gov/far/15.403-1",
+      "https://www.acquisition.gov/far/15.407-1",
+      "https://www.law.cornell.edu/uscode/text/10/3702",
+      "https://www.dair.nps.edu/bitstream/123456789/1627/1/SYM-AM-16-037.pdf",
+      "https://www.gao.gov/products/nsiad-94-7"
+    ]
+  },
+  {
     "id": "kt:two-sided-market",
     "title": "Two-Sided Market",
     "aliases": [
