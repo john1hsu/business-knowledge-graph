@@ -1505,6 +1505,26 @@
     ]
   },
   {
+    "id": "kt:proxy-advisory-firm",
+    "title": "Proxy Advisory Firm",
+    "aliases": [
+      "proxy advisory firms",
+      "proxy voting advice business"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/proxy-advisory-firm.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.gsb.stanford.edu/faculty-research/publications/outsourcing-shareholder-voting-proxy-advisory-firms",
+      "https://ideas.repec.org/a/oup/rfinst/v29y2016i12p3394-3427..html",
+      "https://corpgov.law.harvard.edu/2024/05/13/seven-questions-about-proxy-advisors/",
+      "https://www.whitehouse.gov/presidential-actions/2025/12/protecting-american-investors-from-foreign-owned-and-politically-motivated-proxy-advisors/",
+      "https://whitecase.com/insight-alert/sec-amends-proxy-voting-advice-rules-rescinds-portions-2020-rules",
+      "https://sechistorical.org/exhibition/the-center-for-audit-quality-gallery-on-corporate-governance/the-deals-decade/rise-of-institutional-investors/"
+    ]
+  },
+  {
     "id": "kt:psychological-safety",
     "title": "Psychological Safety",
     "aliases": [

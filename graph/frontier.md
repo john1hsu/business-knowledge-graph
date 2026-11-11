@@ -5,10 +5,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory` |
+| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:groupthink` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
-| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:stakeholder-theory` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
-| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:groupthink` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
@@ -191,6 +191,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
+| `kt:glass-lewis` | `kt:proxy-advisory-firm` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:government-accountability-office` | `kt:lowest-price-technically-acceptable` |
@@ -210,6 +211,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
+| `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
 | `kt:intangible-assets` | `kt:goodwill` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act` |
@@ -311,7 +313,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
+| `kt:say-on-pay` | `kt:proxy-advisory-firm` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
+| `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:servperf` | `kt:servqual` |
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |

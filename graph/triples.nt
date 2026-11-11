@@ -1774,6 +1774,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/wells-fargo-cross-selling-scandal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/economic-theory-of-agency-ross-1973> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2000/01/rdf-schema#label> "Proxy Advisory Firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#altLabel> "proxy advisory firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#altLabel> "proxy voting advice business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#definition> "A firm that researches the matters on public companies' shareholder ballots and sells voting recommendations, voting policies and vote-execution services to institutional investors; in the United States the market is dominated by Institutional Shareholder Services (ISS) and Glass Lewis." .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#prefLabel> "Proxy Advisory Firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/esg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/say-on-pay> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/glass-lewis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/institutional-shareholder-services> .
+<https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/securities-exchange-act-of-1934> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> <http://www.w3.org/2000/01/rdf-schema#label> "Psychological Safety" .
@@ -4011,6 +4035,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://schema.org/url> "https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business (Journal of Law and Economics, 58(1), 2015)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <http://purl.org/dc/terms/title> "Outsourcing Shareholder Voting to Proxy Advisory Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/publications/outsourcing-shareholder-voting-proxy-advisory-firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s2> <http://purl.org/dc/terms/publisher> "Review of Financial Studies, 29(12), 2016 (RePEc/IDEAS listing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s2> <http://purl.org/dc/terms/title> "The Role of Proxy Advisory Firms: Evidence from a Regression-Discontinuity Design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s2> <https://schema.org/url> "https://ideas.repec.org/a/oup/rfinst/v29y2016i12p3394-3427..html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s3> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance (David F. Larcker and Brian Tayan, Stanford GSB)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s3> <http://purl.org/dc/terms/title> "Seven Questions about Proxy Advisors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s3> <https://schema.org/url> "https://corpgov.law.harvard.edu/2024/05/13/seven-questions-about-proxy-advisors/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s4> <http://purl.org/dc/terms/publisher> "The White House" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s4> <http://purl.org/dc/terms/title> "Protecting American Investors from Foreign-Owned and Politically-Motivated Proxy Advisors (Executive Order 14366)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s4> <https://schema.org/url> "https://www.whitehouse.gov/presidential-actions/2025/12/protecting-american-investors-from-foreign-owned-and-politically-motivated-proxy-advisors/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s5> <http://purl.org/dc/terms/publisher> "White & Case" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s5> <http://purl.org/dc/terms/title> "SEC Amends Proxy Voting Advice Rules, Rescinds Portions of 2020 Rules" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s5> <https://schema.org/url> "https://whitecase.com/insight-alert/sec-amends-proxy-voting-advice-rules-rescinds-portions-2020-rules" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s6> <http://purl.org/dc/terms/publisher> "Securities and Exchange Commission Historical Society" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s6> <http://purl.org/dc/terms/title> "Rise of Institutional Investors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s6> <https://schema.org/url> "https://sechistorical.org/exhibition/the-center-for-audit-quality-gallery-on-corporate-governance/the-deals-decade/rise-of-institutional-investors/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly 44(2), 1999 (copy hosted by MIT)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://purl.org/dc/terms/title> "Psychological Safety and Learning Behavior in Work Teams" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/psychological-safety/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
