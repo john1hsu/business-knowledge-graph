@@ -4221,6 +4221,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://schema.org/url> "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <http://purl.org/dc/terms/publisher> "Productivity Press / Routledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <http://purl.org/dc/terms/title> "Toyota Production System: Beyond Large-Scale Production (book page and author biography)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <https://schema.org/url> "https://www.routledge.com/Toyota-Production-System/Ohno/p/book/9780915299140" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s2> <http://purl.org/dc/terms/publisher> "Automotive Hall of Fame" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s2> <http://purl.org/dc/terms/title> "Taiichi Ohno (2022 inductee)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s2> <https://schema.org/url> "https://www.automotivehalloffame.org/?p=10497" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s3> <http://purl.org/dc/terms/publisher> "Toyota Motor Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s3> <http://purl.org/dc/terms/title> "Construction of the Automotive Department Assembly Plant and Koromo Plant (Toyota 75-Year History)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s3> <https://schema.org/url> "https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section4/item5.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s4> <http://purl.org/dc/terms/publisher> "Journal of Operations Management, 2021 (Cusumano, Holweg, Howell, Netland, Shah, Shook, Ward, Womack; via MIT DSpace)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s4> <http://purl.org/dc/terms/title> "JOM Forum: Commentaries on 'The Lenses of Lean'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s4> <https://schema.org/url> "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <http://purl.org/dc/terms/publisher> "Asian Productivity Organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <http://purl.org/dc/terms/title> "7 Wastes (glossary)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://schema.org/url> "https://www.apo-tokyo.org/?p=1983" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://purl.org/dc/terms/publisher> "Journal of the European Economic Association (author copy, Universidad de Granada)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://purl.org/dc/terms/title> "Platform Competition in Two-Sided Markets" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -4332,6 +4357,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-roundtable-statement-on-corporate-purpose> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management-a-stakeholder-approach> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2000/01/rdf-schema#label> "Taiichi Ohno" .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#altLabel> "Ohno Taiichi" .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#altLabel> "Taiichi Ōno" .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#altLabel> "father of the Toyota Production System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#definition> "Japanese engineer and Toyota executive (1912-1990) who built the Toyota Production System on the pillars of just-in-time and jidoka, introduced kanban-controlled pull production and a taxonomy of seven wastes, and wrote the book that carried these ideas to Western managers." .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#prefLabel> "Taiichi Ohno" .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kanban> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/kanban> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/seven-wastes> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-ford> .
+<https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kiichiro-toyoda> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <http://www.w3.org/2000/01/rdf-schema#label> "Two-Sided Market" .

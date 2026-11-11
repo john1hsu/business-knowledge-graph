@@ -1696,6 +1696,26 @@
     ]
   },
   {
+    "id": "kt:taiichi-ohno",
+    "title": "Taiichi Ohno",
+    "aliases": [
+      "Ohno Taiichi",
+      "Taiichi Ōno",
+      "father of the Toyota Production System"
+    ],
+    "type": "Person",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/taiichi-ohno.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.routledge.com/Toyota-Production-System/Ohno/p/book/9780915299140",
+      "https://www.automotivehalloffame.org/?p=10497",
+      "https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section4/item5.html",
+      "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf",
+      "https://www.apo-tokyo.org/?p=1983"
+    ]
+  },
+  {
     "id": "kt:two-sided-market",
     "title": "Two-Sided Market",
     "aliases": [

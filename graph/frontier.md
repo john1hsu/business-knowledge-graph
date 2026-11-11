@@ -22,11 +22,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:organizational-learning` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
+| `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno` |
+| `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:management-theory` | `kt:contingency-theory-of-leadership`, `kt:peter-drucker`, `kt:situational-leadership` |
+| `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
@@ -34,7 +38,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
-| `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
@@ -60,15 +63,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
+| `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
 | `kt:information-asymmetry` | `kt:direct-selling`, `kt:principal-agent-problem` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
-| `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
-| `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
-| `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
@@ -96,6 +97,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
+| `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
@@ -187,7 +189,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-accountability-office` | `kt:lowest-price-technically-acceptable` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-decision-making` | `kt:groupthink` |
-| `kt:henry-ford` | `kt:ford-model-t` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
@@ -218,6 +219,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
+| `kt:kiichiro-toyoda` | `kt:taiichi-ohno` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
@@ -306,6 +308,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:servperf` | `kt:servqual` |
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
+| `kt:seven-wastes` | `kt:taiichi-ohno` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
@@ -320,7 +323,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:subscription-business-model` | `kt:saas-business-model` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
-| `kt:taiichi-ohno` | `kt:kanban` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technological-disruption` | `kt:kodak-decline` |
@@ -332,7 +334,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
-| `kt:toyota-motor-corporation` | `kt:kanban` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |

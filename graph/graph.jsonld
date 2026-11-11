@@ -6508,6 +6508,93 @@
       ]
     },
     {
+      "@id": "kt:taiichi-ohno",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Taiichi Ohno",
+      "skos:definition": "Japanese engineer and Toyota executive (1912-1990) who built the Toyota Production System on the pillars of just-in-time and jidoka, introduced kanban-controlled pull production and a taxonomy of seven wastes, and wrote the book that carried these ideas to Western managers.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Toyota Production System: Beyond Large-Scale Production (book page and author biography)",
+          "dcterms:publisher": "Productivity Press / Routledge",
+          "schema:url": "https://www.routledge.com/Toyota-Production-System/Ohno/p/book/9780915299140",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Taiichi Ohno (2022 inductee)",
+          "dcterms:publisher": "Automotive Hall of Fame",
+          "schema:url": "https://www.automotivehalloffame.org/?p=10497",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Construction of the Automotive Department Assembly Plant and Koromo Plant (Toyota 75-Year History)",
+          "dcterms:publisher": "Toyota Motor Corporation",
+          "schema:url": "https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section4/item5.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "JOM Forum: Commentaries on 'The Lenses of Lean'",
+          "dcterms:publisher": "Journal of Operations Management, 2021 (Cusumano, Holweg, Howell, Netland, Shah, Shook, Ward, Womack; via MIT DSpace)",
+          "schema:url": "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "7 Wastes (glossary)",
+          "dcterms:publisher": "Asian Productivity Organization",
+          "schema:url": "https://www.apo-tokyo.org/?p=1983",
+          "kto:sourceType": "intergovernmental"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/taiichi-ohno.md",
+      "skos:altLabel": [
+        "Ohno Taiichi",
+        "Taiichi Ōno",
+        "father of the Toyota Production System"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:lean-manufacturing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:kanban"
+        },
+        {
+          "@id": "kt:just-in-time"
+        },
+        {
+          "@id": "kt:toyota-motor-corporation"
+        },
+        {
+          "@id": "kt:ford-model-t"
+        },
+        {
+          "@id": "kt:mass-production"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:toyota-production-system"
+        },
+        {
+          "@id": "kt:kanban"
+        },
+        {
+          "@id": "kt:seven-wastes"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:kiichiro-toyoda"
+        },
+        {
+          "@id": "kt:henry-ford"
+        }
+      ]
+    },
+    {
       "@id": "kt:amy-edmondson",
       "@type": "kto:Person",
       "skos:prefLabel": "Amy Edmondson",
