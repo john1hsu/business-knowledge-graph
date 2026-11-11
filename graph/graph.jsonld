@@ -4465,6 +4465,93 @@
       ]
     },
     {
+      "@id": "kt:andrew-van-de-ven",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Andrew Van de Ven",
+      "skos:definition": "American organization scholar (died 2022) at the University of Minnesota's Carlson School of Management who co-created the Nominal Group Technique, led the Minnesota Innovation Research Program that tracked innovations in real time, co-authored a widely used typology of four process theories of organizational change, and championed \"engaged scholarship\" linking research and practice.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Remembering Professor Emeritus Andy Van de Ven",
+          "dcterms:publisher": "Carlson School of Management, University of Minnesota",
+          "schema:url": "https://carlsonschool.umn.edu/news/remembering-professor-emeritus-andy-van-de-ven",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "About Professor Van de Ven (Van de Ven Engaged Scholarship Conference)",
+          "dcterms:publisher": "Carlson School of Management, University of Minnesota",
+          "schema:url": "https://carlsonschool.umn.edu/conferences/van-de-ven-engaged-scholarship-conference/about-professor-van-de-ven",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Remembering Andy Van de Ven",
+          "dcterms:publisher": "Martin Kilduff, UCL Discovery (University College London repository)",
+          "schema:url": "https://discovery.ucl.ac.uk/10152298/1/Kilduff_REMEMBERING%20ANDY%20VAN%20DE%20VEN.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Explaining Development and Change in Organizations (Academy of Management Review 20(3):510-540, 1995)",
+          "dcterms:publisher": "Andrew H. Van de Ven and Marshall Scott Poole, via CORE",
+          "schema:url": "https://core.ac.uk/download/357583486.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Knowledge for Theory and Practice (Academy of Management Review 31(4):802-821, 2006)",
+          "dcterms:publisher": "Andrew H. Van de Ven and Paul E. Johnson, via Universidade Presbiteriana Mackenzie",
+          "schema:url": "https://www.mackenzie.br/fileadmin/user_upload/Van_de_Ven___Johnson__2006__Knowledge_for_theory_and_practice.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Innovation Journey (Oxford University Press, 1999), publisher's description",
+          "dcterms:publisher": "Schweitzer Fachinformationen (book listing)",
+          "schema:url": "https://www.schweitzer-online.de/en/buch/de-Ven/Innovation-Journey/9780195133073/A1031940/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/andrew-van-de-ven.md",
+      "skos:altLabel": [
+        "Andrew H. Van de Ven",
+        "Andy Van de Ven"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:organization-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:andre-delbecq"
+        },
+        {
+          "@id": "kt:change-management"
+        },
+        {
+          "@id": "kt:delphi-method"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:nominal-group-technique"
+        },
+        {
+          "@id": "kt:process-theories-of-organizational-change"
+        },
+        {
+          "@id": "kt:engaged-scholarship"
+        },
+        {
+          "@id": "kt:the-innovation-journey"
+        }
+      ]
+    },
+    {
       "@id": "kt:clayton-christensen",
       "@type": "kto:Person",
       "skos:prefLabel": "Clayton Christensen",

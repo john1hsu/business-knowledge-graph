@@ -6,22 +6,22 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:michael-c-jensen`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:michael-c-jensen` |
+| `kt:innovation-management` | `kt:andrew-van-de-ven`, `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:groupthink` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
-| `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle`, `kt:nominal-group-technique` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
+| `kt:organizational-learning` | `kt:andrew-van-de-ven`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:ishikawa-diagram`, `kt:hoshin-kanri`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
-| `kt:organizational-learning` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:netflix-business-model-shift`, `kt:membership-warehouse-club`, `kt:saas-business-model` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
@@ -46,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
+| `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
@@ -53,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
 | `kt:capital-asset-pricing-model` | `kt:efficient-market-hypothesis`, `kt:weighted-average-cost-of-capital` |
+| `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
@@ -61,6 +63,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
+| `kt:delphi-method` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
@@ -116,8 +119,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
-| `kt:andre-delbecq` | `kt:nominal-group-technique` |
-| `kt:andrew-van-de-ven` | `kt:nominal-group-technique` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:apple-inc` | `kt:apple-iphone-launch` |
@@ -140,7 +141,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
-| `kt:change-management` | `kt:ibm-turnaround` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:churn-rate` | `kt:saas-business-model` |
 | `kt:cisco-systems` | `kt:bill-of-materials` |
@@ -159,7 +159,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
-| `kt:delphi-method` | `kt:nominal-group-technique` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:devils-advocacy` | `kt:groupthink` |
 | `kt:direct-marketing` | `kt:direct-selling` |
@@ -179,6 +178,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
 | `kt:employee-motivation` | `kt:j-richard-hackman` |
 | `kt:employee-voice` | `kt:psychological-safety` |
+| `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
 | `kt:enron-scandal` | `kt:sarbanes-oxley-act` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
@@ -285,6 +285,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-state-leadership-studies` | `kt:situational-leadership` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom` |
+| `kt:organization-theory` | `kt:andrew-van-de-ven` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
@@ -300,6 +301,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
+| `kt:process-theories-of-organizational-change` | `kt:andrew-van-de-ven` |
 | `kt:procurement` | `kt:public-procurement` |
 | `kt:product-distribution-franchising` | `kt:business-format-franchising` |
 | `kt:product-launch` | `kt:apple-iphone-launch` |
@@ -355,6 +357,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
+| `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |

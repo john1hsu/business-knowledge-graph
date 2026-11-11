@@ -102,6 +102,26 @@
     ]
   },
   {
+    "id": "kt:andrew-van-de-ven",
+    "title": "Andrew Van de Ven",
+    "aliases": [
+      "Andrew H. Van de Ven",
+      "Andy Van de Ven"
+    ],
+    "type": "Person",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/andrew-van-de-ven.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://carlsonschool.umn.edu/news/remembering-professor-emeritus-andy-van-de-ven",
+      "https://carlsonschool.umn.edu/conferences/van-de-ven-engaged-scholarship-conference/about-professor-van-de-ven",
+      "https://discovery.ucl.ac.uk/10152298/1/Kilduff_REMEMBERING%20ANDY%20VAN%20DE%20VEN.pdf",
+      "https://core.ac.uk/download/357583486.pdf",
+      "https://www.mackenzie.br/fileadmin/user_upload/Van_de_Ven___Johnson__2006__Knowledge_for_theory_and_practice.pdf",
+      "https://www.schweitzer-online.de/en/buch/de-Ven/Innovation-Journey/9780195133073/A1031940/"
+    ]
+  },
+  {
     "id": "kt:antitrust-law",
     "title": "Antitrust Law",
     "aliases": [
