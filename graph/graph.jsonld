@@ -3975,6 +3975,89 @@
       ]
     },
     {
+      "@id": "kt:exploration-and-exploitation-in-organizational-learning-1991",
+      "@type": "kto:Work",
+      "skos:prefLabel": "Exploration and Exploitation in Organizational Learning",
+      "skos:definition": "James G. March's 1991 Organization Science article arguing that organizations must balance exploration of new possibilities against exploitation of old certainties, and that adaptive processes systematically favour exploitation in ways that pay off in the short run but can be self-destructive in the long run.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Exploration and Exploitation in Organizational Learning (full text)",
+          "dcterms:publisher": "Organization Science 2(1):71-87 (copy hosted by the Norwegian University of Life Sciences)",
+          "schema:url": "https://arken.nmbu.no/~sigury/AOS_234/320_Pensum/March_91_Exploration%20and%20exploitation.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Exploration and Exploitation in Organizational Learning (bibliographic record)",
+          "dcterms:publisher": "Organization Science, INFORMS (EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ororsc:v:2:y:1991:i:1:p:71-87",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Continuum Conception of Exploration and Exploitation: An Update to March's Theory",
+          "dcterms:publisher": "M@n@gement 21(3):1050-1079",
+          "schema:url": "https://management-aims.com/index.php/mgmt/article/download/3810/9506",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Group-Level Exploration and Exploitation: A Computer Simulation-Based Analysis",
+          "dcterms:publisher": "Journal of Artificial Societies and Social Simulation 14(4):18",
+          "schema:url": "https://www.jasss.org/14/4/18.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "James G. March, Professor of Business, Education, and Humanities, Dies at 90",
+          "dcterms:publisher": "Stanford University",
+          "schema:url": "https://stanford.io/38wkQRL",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/exploration-and-exploitation-in-organizational-learning-1991.md",
+      "skos:altLabel": [
+        "March 1991",
+        "exploration-exploitation trade-off",
+        "exploration versus exploitation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-learning"
+        },
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:innovators-dilemma"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:path-dependence"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:james-g-march"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:a-behavioral-theory-of-the-firm"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:organizational-ambidexterity"
+        }
+      ]
+    },
+    {
       "@id": "kt:innovators-dilemma",
       "@type": "kto:Work",
       "skos:prefLabel": "The Innovator's Dilemma",
