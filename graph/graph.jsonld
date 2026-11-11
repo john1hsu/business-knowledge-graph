@@ -549,6 +549,95 @@
       ]
     },
     {
+      "@id": "kt:revenue-recognition-asc-606",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "Revenue from Contracts with Customers",
+      "skos:definition": "The converged accounting standard, issued in May 2014 as FASB ASC Topic 606 and IASB IFRS 15, that requires companies to recognise revenue when they transfer promised goods or services to customers, in the amount of consideration they expect to be entitled to, using a five-step contract-based model.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "IFRS 15 Revenue from Contracts with Customers",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "IFRS 15 Revenue from Contracts with Customers: Project Summary and Feedback Statement",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/-/media/project/revenue-from-contracts-with-customers/project-summary-feedback-statement.pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "9.1 Explain the Revenue Recognition Principle and How It Relates to Current and Future Sales and Purchase Transactions",
+          "dcterms:publisher": "OpenStax (Principles of Accounting, Volume 1)",
+          "schema:url": "https://openstax.org/books/principles-financial-accounting/pages/9-1-explain-the-revenue-recognition-principle-and-how-it-relates-to-current-and-future-sales-and-purchase-transactions",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Microsoft Corporation Form 8-K (August 3, 2017): adoption of new revenue and lease standards",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/789019/000119312517247395/d410488d8k.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Post-implementation Review of IFRS 15 Revenue from Contracts with Customers",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/projects/completed-projects/2024/post-implementation-review-of-ifrs-15-revenue-from-contracts-with-customers/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Heterogeneity in the Financial-Reporting Effects of ASC 606 Adoptions: Evidence from an Industry-Focused Approach",
+          "dcterms:publisher": "Columbia Business School (working paper by Diana Choi, Sehwa Kim and Xue Wang)",
+          "schema:url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/CEASA/Events%20Page/heterogeneity_financial-reporting_effects_asc_606_adoptions.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/revenue-recognition-asc-606.md",
+      "skos:altLabel": [
+        "ASC 606",
+        "Topic 606",
+        "IFRS 15",
+        "ASU 2014-09",
+        "revenue recognition standard",
+        "five-step revenue recognition model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:deferred-revenue"
+        },
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:ifrs"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:gaap"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:financial-accounting-standards-board"
+        },
+        {
+          "@id": "kt:international-accounting-standards-board"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:microsoft"
+        }
+      ]
+    },
+    {
       "@id": "kt:sarbanes-oxley-act",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Sarbanes-Oxley Act of 2002",

@@ -1798,6 +1798,30 @@
     ]
   },
   {
+    "id": "kt:revenue-recognition-asc-606",
+    "title": "Revenue from Contracts with Customers",
+    "aliases": [
+      "ASC 606",
+      "Topic 606",
+      "IFRS 15",
+      "ASU 2014-09",
+      "revenue recognition standard",
+      "five-step revenue recognition model"
+    ],
+    "type": "Regulation",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/revenue-recognition-asc-606.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-15-revenue-from-contracts-with-customers/",
+      "https://www.ifrs.org/-/media/project/revenue-from-contracts-with-customers/project-summary-feedback-statement.pdf",
+      "https://openstax.org/books/principles-financial-accounting/pages/9-1-explain-the-revenue-recognition-principle-and-how-it-relates-to-current-and-future-sales-and-purchase-transactions",
+      "https://www.sec.gov/Archives/edgar/data/789019/000119312517247395/d410488d8k.htm",
+      "https://www.ifrs.org/projects/completed-projects/2024/post-implementation-review-of-ifrs-15-revenue-from-contracts-with-customers/",
+      "https://business.columbia.edu/sites/default/files-efs/imce-uploads/CEASA/Events%20Page/heterogeneity_financial-reporting_effects_asc_606_adoptions.pdf"
+    ]
+  },
+  {
     "id": "kt:revolutionary-far-overhaul",
     "title": "Revolutionary FAR Overhaul",
     "aliases": [
