@@ -12,14 +12,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
+| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
+| `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:ishikawa-diagram`, `kt:hoshin-kanri`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
-| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
-| `kt:ifrs` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:organizational-learning` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
@@ -38,6 +38,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
+| `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:gaap` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
@@ -85,8 +86,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
-| `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
+| `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:material-requirements-planning` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
@@ -97,11 +98,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
+| `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
+| `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
+| `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adverse-selection` | `kt:principal-agent-problem` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
@@ -306,7 +310,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
-| `kt:salesforce` | `kt:saas-business-model` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
@@ -326,7 +329,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
-| `kt:subscription-business-model` | `kt:saas-business-model` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
@@ -354,4 +356,3 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-h-meckling` | `kt:agency-costs` |
-| `kt:working-capital` | `kt:accrual-accounting` |

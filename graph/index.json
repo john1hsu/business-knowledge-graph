@@ -463,6 +463,27 @@
     ]
   },
   {
+    "id": "kt:deferred-revenue",
+    "title": "Deferred Revenue",
+    "aliases": [
+      "unearned revenue",
+      "contract liability",
+      "customer deposits received in advance"
+    ],
+    "type": "Concept",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/deferred-revenue.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://openstax.org/books/principles-financial-accounting/pages/4-2-discuss-the-adjustment-process-and-illustrate-common-types-of-adjusting-entries",
+      "https://www.icab.org.bd/icabadmin/uploads/ckeditor/7910IFRS%2015.pdf",
+      "https://s205.q4cdn.com/626266368/files/doc_financials/2026/ar/Salesforce-FY26-Annual-Report_Bookmarked.pdf",
+      "https://digitalcommons.cwu.edu/cobfac_accounting/12",
+      "https://trace.tennessee.edu/server/api/core/bitstreams/d3b5f4f6-0ab2-4942-8790-61c89e96fe89/content",
+      "https://dart.deloitte.com/USDART/home/publications/deloitte/heads-up/2021/fasb-asu-contract-assets-liabilities-revenue"
+    ]
+  },
+  {
     "id": "kt:direct-selling",
     "title": "Direct Selling",
     "aliases": [

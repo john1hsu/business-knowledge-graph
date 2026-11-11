@@ -540,6 +540,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
 <https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/profiting-from-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2000/01/rdf-schema#label> "Deferred Revenue" .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#altLabel> "contract liability" .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#altLabel> "customer deposits received in advance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#altLabel> "unearned revenue" .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#definition> "A liability recorded when a business collects (or has an unconditional right to) payment from a customer before delivering the promised goods or services; it becomes revenue as the business performs." .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deferred Revenue" .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/subscription-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/accrued-revenue> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/salesforce> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2000/01/rdf-schema#label> "Direct Selling" .
@@ -2617,6 +2641,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <https://schema.org/url> "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s1> <http://purl.org/dc/terms/title> "Principles of Accounting, Volume 1, Section 4.2: Discuss the Adjustment Process and Illustrate Common Types of Adjusting Entries" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s1> <https://schema.org/url> "https://openstax.org/books/principles-financial-accounting/pages/4-2-discuss-the-adjustment-process-and-illustrate-common-types-of-adjusting-entries" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s2> <http://purl.org/dc/terms/publisher> "IFRS Foundation (copy hosted by the Institute of Chartered Accountants of Bangladesh)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s2> <http://purl.org/dc/terms/title> "IFRS 15 Revenue from Contracts with Customers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s2> <https://schema.org/url> "https://www.icab.org.bd/icabadmin/uploads/ckeditor/7910IFRS%2015.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s3> <http://purl.org/dc/terms/publisher> "Salesforce, Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s3> <http://purl.org/dc/terms/title> "Salesforce Fiscal 2026 Annual Report (Form 10-K)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s3> <https://schema.org/url> "https://s205.q4cdn.com/626266368/files/doc_financials/2026/ar/Salesforce-FY26-Annual-Report_Bookmarked.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s4> <http://purl.org/dc/terms/publisher> "Quarterly Journal of Finance and Accounting (record at Central Washington University ScholarWorks)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s4> <http://purl.org/dc/terms/title> "Implications of Deferred Revenue Changes for Future Financial Performance and Market Underreaction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s4> <https://schema.org/url> "https://digitalcommons.cwu.edu/cobfac_accounting/12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s5> <http://purl.org/dc/terms/publisher> "University of Tennessee, Knoxville (doctoral dissertation)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s5> <http://purl.org/dc/terms/title> "The Impact of CEO Compensation Incentives on Financial Reporting Choices: Evidence from Potential Ghost Revenues Created in Mergers and Acquisitions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s5> <https://schema.org/url> "https://trace.tennessee.edu/server/api/core/bitstreams/d3b5f4f6-0ab2-4942-8790-61c89e96fe89/content" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <http://purl.org/dc/terms/publisher> "Deloitte DART" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <http://purl.org/dc/terms/title> "Heads Up: FASB Issues ASU on Accounting for Contract Assets and Contract Liabilities From Contracts With Customers in a Business Combination" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <https://schema.org/url> "https://dart.deloitte.com/USDART/home/publications/deloitte/heads-up/2021/fasb-asu-contract-assets-liabilities-revenue" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/publisher> "Academic journal article (ProQuest record)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/title> "What is direct selling? Definition, perspectives, and research agenda" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -94,6 +94,95 @@
       ]
     },
     {
+      "@id": "kt:deferred-revenue",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Deferred Revenue",
+      "skos:definition": "A liability recorded when a business collects (or has an unconditional right to) payment from a customer before delivering the promised goods or services; it becomes revenue as the business performs.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Accounting, Volume 1, Section 4.2: Discuss the Adjustment Process and Illustrate Common Types of Adjusting Entries",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-financial-accounting/pages/4-2-discuss-the-adjustment-process-and-illustrate-common-types-of-adjusting-entries",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "IFRS 15 Revenue from Contracts with Customers",
+          "dcterms:publisher": "IFRS Foundation (copy hosted by the Institute of Chartered Accountants of Bangladesh)",
+          "schema:url": "https://www.icab.org.bd/icabadmin/uploads/ckeditor/7910IFRS%2015.pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Salesforce Fiscal 2026 Annual Report (Form 10-K)",
+          "dcterms:publisher": "Salesforce, Inc.",
+          "schema:url": "https://s205.q4cdn.com/626266368/files/doc_financials/2026/ar/Salesforce-FY26-Annual-Report_Bookmarked.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Implications of Deferred Revenue Changes for Future Financial Performance and Market Underreaction",
+          "dcterms:publisher": "Quarterly Journal of Finance and Accounting (record at Central Washington University ScholarWorks)",
+          "schema:url": "https://digitalcommons.cwu.edu/cobfac_accounting/12",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Impact of CEO Compensation Incentives on Financial Reporting Choices: Evidence from Potential Ghost Revenues Created in Mergers and Acquisitions",
+          "dcterms:publisher": "University of Tennessee, Knoxville (doctoral dissertation)",
+          "schema:url": "https://trace.tennessee.edu/server/api/core/bitstreams/d3b5f4f6-0ab2-4942-8790-61c89e96fe89/content",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Heads Up: FASB Issues ASU on Accounting for Contract Assets and Contract Liabilities From Contracts With Customers in a Business Combination",
+          "dcterms:publisher": "Deloitte DART",
+          "schema:url": "https://dart.deloitte.com/USDART/home/publications/deloitte/heads-up/2021/fasb-asu-contract-assets-liabilities-revenue",
+          "kto:sourceType": "consultancy"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/deferred-revenue.md",
+      "skos:altLabel": [
+        "unearned revenue",
+        "contract liability",
+        "customer deposits received in advance"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:saas-business-model"
+        },
+        {
+          "@id": "kt:working-capital"
+        },
+        {
+          "@id": "kt:subscription-business-model"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:revenue-recognition-asc-606"
+        },
+        {
+          "@id": "kt:ifrs"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:accrued-revenue"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:salesforce"
+        }
+      ]
+    },
+    {
       "@id": "kt:fasb-conceptual-framework",
       "@type": "kto:Framework",
       "skos:prefLabel": "FASB Conceptual Framework",
