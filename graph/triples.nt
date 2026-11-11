@@ -1672,6 +1672,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/costco> .
 <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sams-club> .
 <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Jensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#altLabel> "Michael C. Jensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#altLabel> "Mike Jensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#definition> "American financial economist (1939–2024) at the University of Rochester and Harvard Business School who co-authored the 1976 agency-cost theory of the firm with William Meckling, introduced Jensen's alpha for fund performance, founded the Journal of Financial Economics and co-founded SSRN; his ideas shaped equity-based executive pay, leveraged buyouts and the shareholder-value movement." .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Michael Jensen" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/william-h-meckling> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/jensens-alpha> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Modigliani-Miller Theorem" .
@@ -4041,6 +4066,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <https://schema.org/url> "https://economics.wfu.edu/?p=1194" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <http://purl.org/dc/terms/publisher> "European Corporate Governance Institute (ECGI)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <http://purl.org/dc/terms/title> "Michael Jensen (deceased): member profile" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <https://schema.org/url> "https://www.ecgi.global/network/our-members/michael-jensen-deceased" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s2> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics 3(4), 1976, via SSRN" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s2> <http://purl.org/dc/terms/title> "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure (SSRN abstract 94043)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s2> <https://schema.org/url> "https://papers.ssrn.com/abstract=94043" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s3> <http://purl.org/dc/terms/publisher> "Journal of Finance 23(2), via SSRN" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s3> <http://purl.org/dc/terms/title> "The Performance of Mutual Funds in the Period 1945-1964 (SSRN abstract 244153)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s3> <https://schema.org/url> "https://papers.ssrn.com/abstract=244153" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s4> <http://purl.org/dc/terms/publisher> "University of Rochester News Center" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s4> <http://purl.org/dc/terms/title> "Economist Michael Jensen's 'Theory of the firm' changed how we think about business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s4> <https://schema.org/url> "https://www.rochester.edu/newscenter/economist-michael-jensen-theory-of-the-firm-tribute-601412" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s5> <http://purl.org/dc/terms/publisher> "ProMarket (Stigler Center, University of Chicago Booth School of Business)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s5> <http://purl.org/dc/terms/title> "Mike Jensen on CEO Pay" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s5> <https://schema.org/url> "https://www.promarket.org/2024/05/04/mike-jensen-on-ceo-pay/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <http://purl.org/dc/terms/publisher> "NBER Summer Institute 2005, Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <http://purl.org/dc/terms/title> "CEO Pay . . . and How to Fix It (HBS NOM Research Paper 04-28, rev. 2005)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <https://schema.org/url> "https://conference.nber.org/confer/2005/si2005/cg/jensen.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -3546,6 +3546,96 @@
       ]
     },
     {
+      "@id": "kt:michael-c-jensen",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Michael Jensen",
+      "skos:definition": "American financial economist (1939–2024) at the University of Rochester and Harvard Business School who co-authored the 1976 agency-cost theory of the firm with William Meckling, introduced Jensen's alpha for fund performance, founded the Journal of Financial Economics and co-founded SSRN; his ideas shaped equity-based executive pay, leveraged buyouts and the shareholder-value movement.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Michael Jensen (deceased): member profile",
+          "dcterms:publisher": "European Corporate Governance Institute (ECGI)",
+          "schema:url": "https://www.ecgi.global/network/our-members/michael-jensen-deceased",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure (SSRN abstract 94043)",
+          "dcterms:publisher": "Journal of Financial Economics 3(4), 1976, via SSRN",
+          "schema:url": "https://papers.ssrn.com/abstract=94043",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Performance of Mutual Funds in the Period 1945-1964 (SSRN abstract 244153)",
+          "dcterms:publisher": "Journal of Finance 23(2), via SSRN",
+          "schema:url": "https://papers.ssrn.com/abstract=244153",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Economist Michael Jensen's 'Theory of the firm' changed how we think about business",
+          "dcterms:publisher": "University of Rochester News Center",
+          "schema:url": "https://www.rochester.edu/newscenter/economist-michael-jensen-theory-of-the-firm-tribute-601412",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Mike Jensen on CEO Pay",
+          "dcterms:publisher": "ProMarket (Stigler Center, University of Chicago Booth School of Business)",
+          "schema:url": "https://www.promarket.org/2024/05/04/mike-jensen-on-ceo-pay/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "CEO Pay . . . and How to Fix It (HBS NOM Research Paper 04-28, rev. 2005)",
+          "dcterms:publisher": "NBER Summer Institute 2005, Corporate Governance",
+          "schema:url": "https://conference.nber.org/confer/2005/si2005/cg/jensen.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/michael-c-jensen.md",
+      "skos:altLabel": [
+        "Michael C. Jensen",
+        "Mike Jensen"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:leveraged-buyout"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:william-h-meckling"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:jensens-alpha"
+        },
+        {
+          "@id": "kt:executive-compensation"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ]
+    },
+    {
       "@id": "kt:modigliani-miller-theorem",
       "@type": "kto:Theory",
       "skos:prefLabel": "Modigliani-Miller Theorem",

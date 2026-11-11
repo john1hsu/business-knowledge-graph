@@ -1419,6 +1419,26 @@
     ]
   },
   {
+    "id": "kt:michael-c-jensen",
+    "title": "Michael Jensen",
+    "aliases": [
+      "Michael C. Jensen",
+      "Mike Jensen"
+    ],
+    "type": "Person",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/michael-c-jensen.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.ecgi.global/network/our-members/michael-jensen-deceased",
+      "https://papers.ssrn.com/abstract=94043",
+      "https://papers.ssrn.com/abstract=244153",
+      "https://www.rochester.edu/newscenter/economist-michael-jensen-theory-of-the-firm-tribute-601412",
+      "https://www.promarket.org/2024/05/04/mike-jensen-on-ceo-pay/",
+      "https://conference.nber.org/confer/2005/si2005/cg/jensen.pdf"
+    ]
+  },
+  {
     "id": "kt:modigliani-miller-theorem",
     "title": "Modigliani-Miller Theorem",
     "aliases": [

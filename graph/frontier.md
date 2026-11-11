@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
-| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory` |
+| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:michael-c-jensen`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
+| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:michael-c-jensen` |
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:groupthink` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
@@ -35,7 +35,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:management-theory` | `kt:contingency-theory-of-leadership`, `kt:peter-drucker`, `kt:situational-leadership` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno` |
-| `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:principal-agent-problem` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
@@ -103,6 +102,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
+| `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
@@ -177,6 +177,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
+| `kt:executive-compensation` | `kt:michael-c-jensen` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
@@ -223,6 +224,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
+| `kt:jensens-alpha` | `kt:michael-c-jensen` |
 | `kt:job-characteristics-model` | `kt:j-richard-hackman` |
 | `kt:job-enrichment` | `kt:j-richard-hackman` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
@@ -369,4 +371,3 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:w-edwards-deming` | `kt:peter-drucker` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
-| `kt:william-h-meckling` | `kt:agency-costs` |
