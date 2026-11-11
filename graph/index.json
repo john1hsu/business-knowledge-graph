@@ -1397,6 +1397,28 @@
     ]
   },
   {
+    "id": "kt:membership-warehouse-club",
+    "title": "Membership Warehouse Club",
+    "aliases": [
+      "warehouse club",
+      "wholesale club",
+      "club store",
+      "membership warehouse"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/membership-warehouse-club.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.ebsco.com/research-starters/history/price-club-introduces-warehouse-club-concept",
+      "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm",
+      "https://www.sec.gov/Archives/edgar/data/104169/000010416926000032/earningsreleasefy26q4.htm",
+      "https://www.nber.org/system/files/working_papers/w17220/w17220.pdf",
+      "https://researchportal.bath.ac.uk/en/publications/the-club-store-effect-impact-of-shopping-in-warehouse-club-stores/",
+      "https://economics.wfu.edu/?p=1194"
+    ]
+  },
+  {
     "id": "kt:modigliani-miller-theorem",
     "title": "Modigliani-Miller Theorem",
     "aliases": [

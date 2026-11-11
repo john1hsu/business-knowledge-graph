@@ -7,9 +7,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory` |
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:groupthink` |
+| `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
-| `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
@@ -22,6 +22,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:organizational-learning` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
+| `kt:pricing-strategy` | `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
+| `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:netflix-business-model-shift`, `kt:membership-warehouse-club`, `kt:saas-business-model` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
@@ -37,14 +39,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:principal-agent-problem` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
-| `kt:pricing-strategy` | `kt:freemium`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:pyramid-principle` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:gaap` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
-| `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:netflix-business-model-shift`, `kt:saas-business-model` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
@@ -150,6 +150,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
+| `kt:costco` | `kt:membership-warehouse-club` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
@@ -318,6 +319,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
+| `kt:sams-club` | `kt:membership-warehouse-club` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:say-on-pay` | `kt:proxy-advisory-firm` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
@@ -329,6 +331,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:seven-wastes` | `kt:taiichi-ohno` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:social-identity-theory` | `kt:groupthink` |
+| `kt:sol-price` | `kt:membership-warehouse-club` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
 | `kt:span-of-control` | `kt:situational-leadership` |
 | `kt:spotify` | `kt:freemium` |
@@ -355,6 +358,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
+| `kt:two-part-tariff` | `kt:membership-warehouse-club` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |

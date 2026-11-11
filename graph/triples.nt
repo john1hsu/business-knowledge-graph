@@ -1645,6 +1645,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/aristotle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2000/01/rdf-schema#label> "Membership Warehouse Club" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#altLabel> "club store" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#altLabel> "membership warehouse" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#altLabel> "warehouse club" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#altLabel> "wholesale club" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#definition> "A retail business model in which shoppers pay an annual fee for the right to buy a narrow assortment of goods, often in bulk, at very low markups from no-frills warehouse stores; the fee income and high volume let the operator run at gross margins far below those of conventional retailers." .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#prefLabel> "Membership Warehouse Club" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/subscription-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/sol-price> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/two-part-tariff> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/costco> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sams-club> .
+<https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Modigliani-Miller Theorem" .
@@ -3984,6 +4011,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/mece-principle/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/mece-principle/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/mece-principle/s5> <https://schema.org/url> "https://www.mckinsey.com/capabilities/operations/our-insights/how-to-master-the-seven-step-problem-solving-process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s1> <http://purl.org/dc/terms/publisher> "EBSCO Research Starters" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s1> <http://purl.org/dc/terms/title> "Price Club Introduces Warehouse Club Concept" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s1> <https://schema.org/url> "https://www.ebsco.com/research-starters/history/price-club-introduces-warehouse-club-concept" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s2> <http://purl.org/dc/terms/title> "Costco Wholesale Corporation Form 10-K for the fiscal year ended August 30, 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s2> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/909832/000090983226000093/cost-20260830.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s3> <http://purl.org/dc/terms/title> "Walmart reports Q4 results (fiscal 2026 earnings release)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s3> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/104169/000010416926000032/earningsreleasefy26q4.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 17220 (Courtemanche and Carden)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s4> <http://purl.org/dc/terms/title> "Competing with Costco and Sam's Club: Warehouse Club Entry and Grocery Prices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s4> <https://schema.org/url> "https://www.nber.org/system/files/working_papers/w17220/w17220.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing Research 55(2), 2018 (University of Bath research portal record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s5> <http://purl.org/dc/terms/title> "The Club Store Effect: Impact of Shopping in Warehouse Club Stores on Consumers' Packaged Food Purchases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s5> <https://schema.org/url> "https://researchportal.bath.ac.uk/en/publications/the-club-store-effect-impact-of-shopping-in-warehouse-club-stores/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <http://purl.org/dc/terms/publisher> "Wake Forest University Department of Economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <http://purl.org/dc/terms/title> "How can Costco sell gas so much cheaper than other stations?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <https://schema.org/url> "https://economics.wfu.edu/?p=1194" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
