@@ -4889,6 +4889,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://schema.org/url> "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s1> <http://purl.org/dc/terms/publisher> "Review of Economic Studies 62(4):515-539 (record at RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s1> <http://purl.org/dc/terms/title> "Competition when Consumers have Switching Costs: An Overview with Applications to Industrial Organization, Macroeconomics, and International Trade" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s1> <https://schema.org/url> "https://ideas.repec.org/a/oup/restud/v62y1995i4p515-539..html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s2> <http://purl.org/dc/terms/publisher> "Joseph Farrell, University of California, Berkeley (faculty page)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s2> <http://purl.org/dc/terms/title> "Coordination and Lock-In: Competition with Switching Costs and Network Effects (draft, Part II: Switching Costs)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s2> <https://schema.org/url> "https://eml.berkeley.edu/~farrell/ftp/lockin2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s3> <http://purl.org/dc/terms/publisher> "Harvard Business School (hosted by Sapienza University of Rome)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s3> <http://purl.org/dc/terms/title> "Understanding Industry Structure (HBS Note 9-707-493)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s3> <https://schema.org/url> "https://management.web.uniroma1.it/sites/default/files/Understanding%20Industry%20Structure%20HBR.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s4> <http://purl.org/dc/terms/publisher> "Journal of Targeting, Measurement and Analysis for Marketing 12(3):256-268 (via CORE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s4> <http://purl.org/dc/terms/title> "The impact of switching costs on customer loyalty: A study among corporate customers of mobile telephony" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s4> <https://schema.org/url> "https://core.ac.uk/download/83021911.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s5> <http://purl.org/dc/terms/publisher> "European Commission, Shaping Europe's digital future" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s5> <http://purl.org/dc/terms/title> "Data Act explained" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s5> <https://schema.org/url> "https://digital-strategy.ec.europa.eu/en/factpages/data-act-explained" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s6> <http://purl.org/dc/terms/publisher> "U.S. Federal Communications Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s6> <http://purl.org/dc/terms/title> "Wireless Local Number Portability (WLNP)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s6> <https://schema.org/url> "https://www.fcc.gov/cgb/NumberPortability" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <http://purl.org/dc/terms/publisher> "Productivity Press / Routledge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <http://purl.org/dc/terms/title> "Toyota Production System: Beyond Large-Scale Production (book page and author biography)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -5055,6 +5085,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-roundtable-statement-on-corporate-purpose> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management-a-stakeholder-approach> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2000/01/rdf-schema#label> "Consumer Switching Costs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#altLabel> "customer lock-in" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#altLabel> "customer switching costs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#altLabel> "supplier lock-in" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#altLabel> "switching cost" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#altLabel> "switching costs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#definition> "The one-time costs a buyer incurs when moving from its current supplier to a rival, such as learning, set-up, contractual penalties or lost relationships; they lock customers in, shape \"bargain-then-ripoff\" pricing and act as a barrier to entry and a source of supplier power." .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#prefLabel> "Consumer Switching Costs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/switching-costs/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/eu-data-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <http://www.w3.org/2000/01/rdf-schema#label> "Taiichi Ohno" .

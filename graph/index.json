@@ -1949,6 +1949,29 @@
     ]
   },
   {
+    "id": "kt:switching-costs",
+    "title": "Consumer Switching Costs",
+    "aliases": [
+      "switching costs",
+      "switching cost",
+      "customer switching costs",
+      "customer lock-in",
+      "supplier lock-in"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/switching-costs.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://ideas.repec.org/a/oup/restud/v62y1995i4p515-539..html",
+      "https://eml.berkeley.edu/~farrell/ftp/lockin2.pdf",
+      "https://management.web.uniroma1.it/sites/default/files/Understanding%20Industry%20Structure%20HBR.pdf",
+      "https://core.ac.uk/download/83021911.pdf",
+      "https://digital-strategy.ec.europa.eu/en/factpages/data-act-explained",
+      "https://www.fcc.gov/cgb/NumberPortability"
+    ]
+  },
+  {
     "id": "kt:taiichi-ohno",
     "title": "Taiichi Ohno",
     "aliases": [
