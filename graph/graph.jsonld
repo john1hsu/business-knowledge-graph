@@ -7132,6 +7132,102 @@
       ]
     },
     {
+      "@id": "kt:bullwhip-effect",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Bullwhip Effect in Supply Chains",
+      "skos:definition": "The tendency for the variance of orders to exceed the variance of underlying sales and to grow at each step upstream in a supply chain, so that suppliers far from the consumer see much larger demand swings than end customers actually generate.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Information Distortion in a Supply Chain: The Bullwhip Effect",
+          "dcterms:publisher": "Management Science (author copy hosted by Bilkent University)",
+          "schema:url": "https://courses.ie.bilkent.edu.tr/ie102/wp-content/uploads/sites/12/2019/02/Lee-Padmanabhan-Whang-1997-MS.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Information Distortion in a Supply Chain: The Bullwhip Effect (publication record)",
+          "dcterms:publisher": "Stanford Graduate School of Business",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/publications/information-distortion-supply-chain-bullwhip-effect",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Bullwhip Effect in Supply Chains",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/the-bullwhip-effect-in-supply-chains",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "In Search of the Bullwhip Effect",
+          "dcterms:publisher": "Manufacturing & Service Operations Management (record via University of Pennsylvania ScholarlyCommons)",
+          "schema:url": "https://repository.upenn.edu/oid_papers/137",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Information Transmission and the Bullwhip Effect: An Empirical Investigation",
+          "dcterms:publisher": "Management Science (author copy hosted by Kellogg School of Management)",
+          "schema:url": "https://www.kellogg.northwestern.edu/faculty/bray/doc/bw/bw_d.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/bullwhip-effect.md",
+      "skos:altLabel": [
+        "bullwhip effect",
+        "whiplash effect",
+        "whipsaw effect",
+        "Forrester effect",
+        "demand amplification"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:supply-chain-management"
+        },
+        {
+          "@id": "kt:inventory-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:material-requirements-planning"
+        },
+        {
+          "@id": "kt:kanban"
+        },
+        {
+          "@id": "kt:enterprise-resource-planning"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:vendor-managed-inventory"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:hau-l-lee"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:information-distortion-in-a-supply-chain-1997"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:industrial-dynamics"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:procter-and-gamble"
+        },
+        {
+          "@id": "kt:hewlett-packard"
+        }
+      ]
+    },
+    {
       "@id": "kt:enterprise-resource-planning",
       "@type": "kto:Practice",
       "skos:prefLabel": "Enterprise Resource Planning",

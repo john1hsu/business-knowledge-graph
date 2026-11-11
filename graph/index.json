@@ -336,6 +336,28 @@
     ]
   },
   {
+    "id": "kt:bullwhip-effect",
+    "title": "Bullwhip Effect in Supply Chains",
+    "aliases": [
+      "bullwhip effect",
+      "whiplash effect",
+      "whipsaw effect",
+      "Forrester effect",
+      "demand amplification"
+    ],
+    "type": "Concept",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/bullwhip-effect.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://courses.ie.bilkent.edu.tr/ie102/wp-content/uploads/sites/12/2019/02/Lee-Padmanabhan-Whang-1997-MS.pdf",
+      "https://www.gsb.stanford.edu/faculty-research/publications/information-distortion-supply-chain-bullwhip-effect",
+      "https://sloanreview.mit.edu/article/the-bullwhip-effect-in-supply-chains",
+      "https://repository.upenn.edu/oid_papers/137",
+      "https://www.kellogg.northwestern.edu/faculty/bray/doc/bw/bw_d.pdf"
+    ]
+  },
+  {
     "id": "kt:business-format-franchising",
     "title": "Business Format Franchising",
     "aliases": [

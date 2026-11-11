@@ -391,6 +391,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/mass-customization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/cisco-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Bullwhip Effect in Supply Chains" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "Forrester effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "bullwhip effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "demand amplification" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "whiplash effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#altLabel> "whipsaw effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/supply-chain-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#definition> "The tendency for the variance of orders to exceed the variance of underlying sales and to grow at each step upstream in a supply chain, so that suppliers far from the consumer see much larger demand swings than end customers actually generate." .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bullwhip Effect in Supply Chains" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kanban> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/vendor-managed-inventory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/hau-l-lee> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-dynamics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/information-distortion-in-a-supply-chain-1997> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://www.w3.org/2000/01/rdf-schema#label> "Business Format Franchising" .
@@ -2724,6 +2752,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/49784" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <http://purl.org/dc/terms/publisher> "Management Science (author copy hosted by Bilkent University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <http://purl.org/dc/terms/title> "Information Distortion in a Supply Chain: The Bullwhip Effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <https://schema.org/url> "https://courses.ie.bilkent.edu.tr/ie102/wp-content/uploads/sites/12/2019/02/Lee-Padmanabhan-Whang-1997-MS.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s2> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s2> <http://purl.org/dc/terms/title> "Information Distortion in a Supply Chain: The Bullwhip Effect (publication record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s2> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/publications/information-distortion-supply-chain-bullwhip-effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s3> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s3> <http://purl.org/dc/terms/title> "The Bullwhip Effect in Supply Chains" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s3> <https://schema.org/url> "https://sloanreview.mit.edu/article/the-bullwhip-effect-in-supply-chains" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s4> <http://purl.org/dc/terms/publisher> "Manufacturing & Service Operations Management (record via University of Pennsylvania ScholarlyCommons)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s4> <http://purl.org/dc/terms/title> "In Search of the Bullwhip Effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s4> <https://schema.org/url> "https://repository.upenn.edu/oid_papers/137" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <http://purl.org/dc/terms/publisher> "Management Science (author copy hosted by Kellogg School of Management)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <http://purl.org/dc/terms/title> "Information Transmission and the Bullwhip Effect: An Empirical Investigation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <https://schema.org/url> "https://www.kellogg.northwestern.edu/faculty/bray/doc/bw/bw_d.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://purl.org/dc/terms/title> "Franchise Rule Compliance Guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
