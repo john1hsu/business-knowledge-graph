@@ -1787,6 +1787,96 @@
       ]
     },
     {
+      "@id": "kt:netflix-business-model-shift",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Netflix's Shift from DVD Rental to Streaming",
+      "skos:definition": "Netflix's multi-year move from a flat-fee DVD-by-mail subscription to internet streaming and, later, self-produced content, a case taught both as an incumbent deliberately cannibalizing its own profitable business and, through the 2011 Qwikster backlash, as a lesson in how badly such a transition can be sequenced.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Netflix, Inc.",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/Netflix-Inc",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Netflix, Inc. Form 10-K for the fiscal year ended December 31, 2011",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/d260328d10k.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Netflix, Inc. Form 10-K for the fiscal year ended December 31, 2023",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Disruptive Innovation: An Intellectual History and Directions for Future Research (Journal of Management Studies 55(7), 2018)",
+          "dcterms:publisher": "Harvard DASH (author manuscript of Journal of Management Studies article by Christensen, McDonald, Altman and Palmer)",
+          "schema:url": "https://dash.harvard.edu/server/api/core/bitstreams/9519b52d-4e83-4a41-9862-82a97d8e162a/content",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Lessons from Netflix's success",
+          "dcterms:publisher": "University of Auckland Business School (news release on SAGE Business Cases research, 26 March 2018)",
+          "schema:url": "https://auckland.ac.nz/en/news/2018/03/26/lessons-from-netflix-s-success.html",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/netflix-business-model-shift.md",
+      "skos:altLabel": [
+        "Netflix business model shift",
+        "Netflix pivot to streaming",
+        "Netflix DVD-to-streaming transition",
+        "Qwikster episode"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model-innovation"
+        },
+        {
+          "@id": "kt:technological-disruption"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:cannibalization"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:subscription-business-model"
+        },
+        {
+          "@id": "kt:innovators-dilemma"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:strategic-renewal"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:kodak-decline"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:reed-hastings"
+        }
+      ]
+    },
+    {
       "@id": "kt:southwest-airlines",
       "@type": "kto:Company",
       "skos:prefLabel": "Southwest Airlines",

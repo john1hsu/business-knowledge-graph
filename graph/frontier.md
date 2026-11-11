@@ -42,6 +42,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:revenue-recognition-asc-606` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:gaap` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
+| `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
+| `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:netflix-business-model-shift`, `kt:saas-business-model` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
@@ -95,10 +97,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
-| `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
-| `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
+| `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue` |
@@ -124,6 +125,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty` |
+| `kt:business-model-innovation` | `kt:netflix-business-model-shift` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose` |
@@ -266,7 +268,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:net-present-value` | `kt:bcg-growth-share-matrix` |
-| `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-market-entry` | `kt:apple-iphone-launch` |
@@ -302,6 +303,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
+| `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
@@ -338,7 +340,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
 | `kt:teaming` | `kt:amy-edmondson` |
-| `kt:technological-disruption` | `kt:kodak-decline` |
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |

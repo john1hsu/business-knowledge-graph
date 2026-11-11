@@ -1398,6 +1398,27 @@
     ]
   },
   {
+    "id": "kt:netflix-business-model-shift",
+    "title": "Netflix's Shift from DVD Rental to Streaming",
+    "aliases": [
+      "Netflix business model shift",
+      "Netflix pivot to streaming",
+      "Netflix DVD-to-streaming transition",
+      "Qwikster episode"
+    ],
+    "type": "Case",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/netflix-business-model-shift.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.britannica.com/money/Netflix-Inc",
+      "https://www.sec.gov/Archives/edgar/data/1065280/000119312512053009/d260328d10k.htm",
+      "https://www.sec.gov/Archives/edgar/data/1065280/000106528024000030/nflx-20231231.htm",
+      "https://dash.harvard.edu/server/api/core/bitstreams/9519b52d-4e83-4a41-9862-82a97d8e162a/content",
+      "https://auckland.ac.nz/en/news/2018/03/26/lessons-from-netflix-s-success.html"
+    ]
+  },
+  {
     "id": "kt:network-effect",
     "title": "Network Effect",
     "aliases": [
