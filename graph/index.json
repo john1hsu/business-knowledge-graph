@@ -186,6 +186,26 @@
     ]
   },
   {
+    "id": "kt:audit-committee",
+    "title": "Board Audit Committee",
+    "aliases": [
+      "audit committee",
+      "audit committee of the board"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/audit-committee.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://govinfo.gov/content/pkg/FR-2003-04-16/pdf/03-9157.pdf",
+      "https://www.sec.gov/newsroom/press-releases/99-14-nyse-chair-richard-grasso-nasd-chair-frank-zarb-blue-ribbon-panel-co-chairs-ira-millstein-john",
+      "https://archive.nyu.edu/bitstream/2451/27450/2/SSRN-id246674.pdf",
+      "https://ideas.repec.org/a/bla/joares/v43y2005i2p153-193.html",
+      "https://pcaobus.org/oversight/standards/auditing-standards/details/AS1301",
+      "https://sec.gov/Archives/edgar/data/723527/000093176303001862/dex991.htm"
+    ]
+  },
+  {
     "id": "kt:balanced-scorecard",
     "title": "Balanced Scorecard",
     "aliases": [

@@ -839,6 +839,96 @@
       ]
     },
     {
+      "@id": "kt:audit-committee",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Board Audit Committee",
+      "skos:definition": "A standing committee of a company's board of directors, made up of independent directors, that oversees financial reporting, internal control and the external auditor; for US-listed companies its independence and duties are mandated by SEC Rule 10A-3 under Section 301 of the Sarbanes-Oxley Act.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Standards Relating to Listed Company Audit Committees (Release Nos. 33-8220; 34-47654)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Federal Register 68(73), April 16, 2003",
+          "schema:url": "https://govinfo.gov/content/pkg/FR-2003-04-16/pdf/03-9157.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "NYSE Chair Richard Grasso, NASD Chair Frank Zarb, Blue Ribbon Panel Co-Chairs Ira Millstein, John Whitehead Release Report (Press Release 99-14)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/newsroom/press-releases/99-14-nyse-chair-richard-grasso-nasd-chair-frank-zarb-blue-ribbon-panel-co-chairs-ira-millstein-john",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Audit Committee, Board of Director Characteristics, and Earnings Management",
+          "dcterms:publisher": "NYU Stern working paper (published in Journal of Accounting and Economics 33(3), 2002)",
+          "schema:url": "https://archive.nyu.edu/bitstream/2451/27450/2/SSRN-id246674.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Does the Market Value Financial Expertise on Audit Committees of Boards of Directors?",
+          "dcterms:publisher": "Journal of Accounting Research 43(2), 2005 (RePEc/IDEAS listing)",
+          "schema:url": "https://ideas.repec.org/a/bla/joares/v43y2005i2p153-193.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "AS 1301: Communications with Audit Committees",
+          "dcterms:publisher": "Public Company Accounting Oversight Board",
+          "schema:url": "https://pcaobus.org/oversight/standards/auditing-standards/details/AS1301",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Report of Investigation by the Special Investigative Committee of the Board of Directors of WorldCom, Inc.",
+          "dcterms:publisher": "WorldCom, Inc., Form 8-K Exhibit 99.1 (SEC EDGAR), March 31, 2003",
+          "schema:url": "https://sec.gov/Archives/edgar/data/723527/000093176303001862/dex991.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/audit-committee.md",
+      "skos:altLabel": [
+        "audit committee",
+        "audit committee of the board"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:internal-control-over-financial-reporting"
+        },
+        {
+          "@id": "kt:public-company-accounting-oversight-board"
+        },
+        {
+          "@id": "kt:gaap"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:board-of-directors"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:worldcom-accounting-scandal"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-roundtable-statement-on-corporate-purpose",
       "@type": "kto:Case",
       "skos:prefLabel": "Business Roundtable Statement on the Purpose of a Corporation",

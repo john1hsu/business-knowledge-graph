@@ -218,6 +218,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/royal-dutch-shell-twin-shares> .
 <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/merger-arbitrage> .
 <https://github.com/john1hsu/business-knowledge-graph/id/arbitrage> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/black-scholes-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2000/01/rdf-schema#label> "Board Audit Committee" .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#altLabel> "audit committee of the board" .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#altLabel> "audit committee" .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#definition> "A standing committee of a company's board of directors, made up of independent directors, that oversees financial reporting, internal control and the external auditor; for US-listed companies its independence and duties are mandated by SEC Rule 10A-3 under Section 301 of the Sarbanes-Oxley Act." .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#prefLabel> "Board Audit Committee" .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/internal-control-over-financial-reporting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/public-company-accounting-oversight-board> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/worldcom-accounting-scandal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> <http://www.w3.org/2000/01/rdf-schema#label> "Balanced Scorecard" .
@@ -2573,6 +2596,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/arbitrage/s6> <https://schema.org/url> "https://www.rba.gov.au/publications/rdp/2003/2003-06/introduction.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s1> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, Federal Register 68(73), April 16, 2003" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s1> <http://purl.org/dc/terms/title> "Standards Relating to Listed Company Audit Committees (Release Nos. 33-8220; 34-47654)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s1> <https://schema.org/url> "https://govinfo.gov/content/pkg/FR-2003-04-16/pdf/03-9157.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s2> <http://purl.org/dc/terms/title> "NYSE Chair Richard Grasso, NASD Chair Frank Zarb, Blue Ribbon Panel Co-Chairs Ira Millstein, John Whitehead Release Report (Press Release 99-14)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s2> <https://schema.org/url> "https://www.sec.gov/newsroom/press-releases/99-14-nyse-chair-richard-grasso-nasd-chair-frank-zarb-blue-ribbon-panel-co-chairs-ira-millstein-john" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s3> <http://purl.org/dc/terms/publisher> "NYU Stern working paper (published in Journal of Accounting and Economics 33(3), 2002)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s3> <http://purl.org/dc/terms/title> "Audit Committee, Board of Director Characteristics, and Earnings Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s3> <https://schema.org/url> "https://archive.nyu.edu/bitstream/2451/27450/2/SSRN-id246674.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s4> <http://purl.org/dc/terms/publisher> "Journal of Accounting Research 43(2), 2005 (RePEc/IDEAS listing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s4> <http://purl.org/dc/terms/title> "Does the Market Value Financial Expertise on Audit Committees of Boards of Directors?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s4> <https://schema.org/url> "https://ideas.repec.org/a/bla/joares/v43y2005i2p153-193.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s5> <http://purl.org/dc/terms/publisher> "Public Company Accounting Oversight Board" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s5> <http://purl.org/dc/terms/title> "AS 1301: Communications with Audit Committees" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s5> <https://schema.org/url> "https://pcaobus.org/oversight/standards/auditing-standards/details/AS1301" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s6> <http://purl.org/dc/terms/publisher> "WorldCom, Inc., Form 8-K Exhibit 99.1 (SEC EDGAR), March 31, 2003" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s6> <http://purl.org/dc/terms/title> "Report of Investigation by the Special Investigative Committee of the Board of Directors of WorldCom, Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/audit-committee/s6> <https://schema.org/url> "https://sec.gov/Archives/edgar/data/723527/000093176303001862/dex991.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://purl.org/dc/terms/title> "The Balanced Scorecard: Measures That Drive Performance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/balanced-scorecard/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
