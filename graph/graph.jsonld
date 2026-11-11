@@ -2153,6 +2153,96 @@
       ]
     },
     {
+      "@id": "kt:walmart",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Walmart",
+      "skos:definition": "The Bentonville, Arkansas, discount retailer that Sam Walton started in 1962 and grew into a retailer with more than $700 billion in fiscal 2026 revenue, a standard case of how logistics technology, dense store clustering and scale economies can turn a low-price position into a durable cost advantage.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Walmart",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/Walmart",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Causes and Consequences of Wal-Mart's Growth (author's version of Journal of Economic Perspectives 21(3): 177–198, 2007)",
+          "dcterms:publisher": "Emek Basker, University of Missouri; NYU Faculty Digital Archive",
+          "schema:url": "https://archive.nyu.edu/bitstream/2451/23347/2/Geography2.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Diffusion of Wal-Mart and Economies of Density (NBER Working Paper 13783)",
+          "dcterms:publisher": "National Bureau of Economic Research (Thomas J. Holmes, 2008)",
+          "schema:url": "https://www.nber.org/papers/w13783",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Walmart Inc. Form 10-K for the fiscal year ended January 31, 2026",
+          "dcterms:publisher": "Walmart Inc. (SEC filing, hosted by Walmart Investor Relations)",
+          "schema:url": "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-26-000091/0000104169-26-000091.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/walmart.md",
+      "skos:altLabel": [
+        "Walmart Inc.",
+        "Wal-Mart Stores Inc.",
+        "Wal-Mart",
+        "WMT"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:retail-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:cannibalization"
+        },
+        {
+          "@id": "kt:membership-warehouse-club"
+        },
+        {
+          "@id": "kt:supply-chain-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:sam-walton"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:sams-club"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:retail-industry"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:economies-of-density"
+        }
+      ],
+      "kto:competesWith": [
+        {
+          "@id": "kt:costco"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-format-franchising",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Business Format Franchising",

@@ -67,6 +67,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-theory` | `kt:bengt-holmstrom`, `kt:principal-agent-problem` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
 | `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
+| `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:delphi-method` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
@@ -100,14 +101,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
+| `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
+| `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:okrs` |
+| `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
@@ -158,7 +162,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
-| `kt:costco` | `kt:membership-warehouse-club` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
@@ -174,6 +177,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
+| `kt:economies-of-density` | `kt:walmart` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
@@ -336,7 +340,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
-| `kt:sams-club` | `kt:membership-warehouse-club` |
+| `kt:sam-walton` | `kt:walmart` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:say-on-pay` | `kt:proxy-advisory-firm` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
@@ -361,7 +365,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
-| `kt:supply-chain-management` | `kt:bullwhip-effect` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:tax-incidence` | `kt:price-elasticity` |

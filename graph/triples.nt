@@ -5230,6 +5230,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://schema.org/url> "https://www.law.cornell.edu/supremecourt/text/16-1454" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <http://purl.org/dc/terms/title> "Walmart" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <https://schema.org/url> "https://www.britannica.com/money/Walmart" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s2> <http://purl.org/dc/terms/publisher> "Emek Basker, University of Missouri; NYU Faculty Digital Archive" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s2> <http://purl.org/dc/terms/title> "The Causes and Consequences of Wal-Mart's Growth (author's version of Journal of Economic Perspectives 21(3): 177–198, 2007)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s2> <https://schema.org/url> "https://archive.nyu.edu/bitstream/2451/23347/2/Geography2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s3> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (Thomas J. Holmes, 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s3> <http://purl.org/dc/terms/title> "The Diffusion of Wal-Mart and Economies of Density (NBER Working Paper 13783)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s3> <https://schema.org/url> "https://www.nber.org/papers/w13783" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s4> <http://purl.org/dc/terms/publisher> "Walmart Inc. (SEC filing, hosted by Walmart Investor Relations)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s4> <http://purl.org/dc/terms/title> "Walmart Inc. Form 10-K for the fiscal year ended January 31, 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s4> <https://schema.org/url> "https://stock.walmart.com/sec-filings/all-sec-filings/content/0000104169-26-000091/0000104169-26-000091.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 17.3: Calculating the Weighted Average Cost of Capital" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -5413,6 +5433,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ohio-v-american-express> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/platform-competition-in-two-sided-markets-2003> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2000/01/rdf-schema#label> "Walmart" .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#altLabel> "WMT" .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#altLabel> "Wal-Mart Stores Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#altLabel> "Wal-Mart" .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#altLabel> "Walmart Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/retail-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#definition> "The Bentonville, Arkansas, discount retailer that Sam Walton started in 1962 and grew into a retailer with more than $700 billion in fiscal 2026 revenue, a standard case of how logistics technology, dense store clustering and scale economies can turn a low-price position into a durable cost advantage." .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#prefLabel> "Walmart" .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/supply-chain-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <https://github.com/john1hsu/business-knowledge-graph/ontology#competesWith> <https://github.com/john1hsu/business-knowledge-graph/id/costco> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/sam-walton> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-density> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/sams-club> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/retail-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/walmart> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <http://www.w3.org/2000/01/rdf-schema#label> "Weighted Average Cost of Capital" .
