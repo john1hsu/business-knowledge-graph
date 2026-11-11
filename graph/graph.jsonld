@@ -3170,6 +3170,100 @@
       ]
     },
     {
+      "@id": "kt:nominal-group-technique",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Nominal Group Technique",
+      "skos:definition": "A structured meeting method in which participants first generate ideas silently and alone, then share them round-robin, clarify them, and rank them by private vote, so a group can produce and prioritise options without the discussion being dominated by a few voices.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Group Process Model for Problem Identification and Program Planning (Journal of Applied Behavioral Science 7(4):466-492, 1971; DOI 10.1177/002188637100700404)",
+          "dcterms:publisher": "Scilit record of SAGE Publications article",
+          "schema:url": "https://scilit.com/publications/3ab426d3d85b9f293902ef88c63139f1",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Effectiveness of Nominal, Delphi, and Interacting Group Decision Making Processes (Academy of Management Journal 17(4):605-621, 1974; DOI 10.5465/255641)",
+          "dcterms:publisher": "Scilit record of Academy of Management article",
+          "schema:url": "https://scilit.com/publications/4bd938e9ada1063d87729b39177e81b9",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A Test of the Nominal and Delphi Techniques in Groups of Different Sizes (Faculty Working Paper A70)",
+          "dcterms:publisher": "University of Illinois at Urbana-Champaign, College of Commerce and Business Administration",
+          "schema:url": "https://core.ac.uk/download/4834689.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Protocol for an extended scoping review on the use of virtual nominal group technique in research",
+          "dcterms:publisher": "PLOS ONE (via PubMed Central)",
+          "schema:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9858029/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Methodological options of the nominal group technique for survey item elicitation in health research: A scoping review",
+          "dcterms:publisher": "Journal of Clinical Epidemiology (record at McMaster Experts)",
+          "schema:url": "https://experts.mcmaster.ca/display/publication3524738",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Nominal Group Technique (Multivoting) — PHQI Toolbox",
+          "dcterms:publisher": "Minnesota Department of Health",
+          "schema:url": "https://www.health.mn.gov/communities/practice/resources/phqitoolbox/nominalgroup.html",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/nominal-group-technique.md",
+      "skos:altLabel": [
+        "NGT",
+        "nominal group process",
+        "multivoting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:group-decision-making"
+        },
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        },
+        {
+          "@id": "kt:psychological-safety"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:andre-delbecq"
+        },
+        {
+          "@id": "kt:andrew-van-de-ven"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:a-group-process-model-for-problem-identification-and-program-planning-1971"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:delphi-method"
+        },
+        {
+          "@id": "kt:brainstorming"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:groupthink"
+        }
+      ]
+    },
+    {
       "@id": "kt:arbitrage",
       "@type": "kto:Concept",
       "skos:prefLabel": "Arbitrage",

@@ -1503,6 +1503,27 @@
     ]
   },
   {
+    "id": "kt:nominal-group-technique",
+    "title": "Nominal Group Technique",
+    "aliases": [
+      "NGT",
+      "nominal group process",
+      "multivoting"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/nominal-group-technique.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://scilit.com/publications/3ab426d3d85b9f293902ef88c63139f1",
+      "https://scilit.com/publications/4bd938e9ada1063d87729b39177e81b9",
+      "https://core.ac.uk/download/4834689.pdf",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9858029/",
+      "https://experts.mcmaster.ca/display/publication3524738",
+      "https://www.health.mn.gov/communities/practice/resources/phqitoolbox/nominalgroup.html"
+    ]
+  },
+  {
     "id": "kt:okrs",
     "title": "Objectives and Key Results (OKRs)",
     "aliases": [

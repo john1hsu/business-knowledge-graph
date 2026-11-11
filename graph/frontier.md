@@ -9,6 +9,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:groupthink` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:innovation-management` | `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
+| `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle`, `kt:nominal-group-technique` |
 | `kt:switching-costs` | `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:two-sided-market`, `kt:network-effect`, `kt:barriers-to-entry`, `kt:first-mover-advantage` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
@@ -16,7 +17,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:esg` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
-| `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle` |
 | `kt:total-quality-management` | `kt:benchmarking`, `kt:eighty-twenty-rule`, `kt:ishikawa-diagram`, `kt:hoshin-kanri`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
@@ -68,6 +68,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs`, `kt:high-performance-teams` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:groupthink` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
@@ -106,6 +107,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
+| `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adverse-selection` | `kt:principal-agent-problem` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
@@ -114,6 +116,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
+| `kt:andre-delbecq` | `kt:nominal-group-technique` |
+| `kt:andrew-van-de-ven` | `kt:nominal-group-technique` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:apple-inc` | `kt:apple-iphone-launch` |
@@ -123,6 +127,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
+| `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift` |
@@ -154,6 +159,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
+| `kt:delphi-method` | `kt:nominal-group-technique` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:devils-advocacy` | `kt:groupthink` |
 | `kt:direct-marketing` | `kt:direct-selling` |
@@ -200,7 +206,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:government-accountability-office` | `kt:lowest-price-technically-acceptable` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
-| `kt:group-decision-making` | `kt:groupthink` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
