@@ -1629,6 +1629,30 @@
     ]
   },
   {
+    "id": "kt:situational-leadership",
+    "title": "Hersey-Blanchard Situational Leadership Model",
+    "aliases": [
+      "situational leadership theory",
+      "Situational Leadership Model",
+      "life cycle theory of leadership",
+      "Hersey-Blanchard model",
+      "SLT"
+    ],
+    "type": "Theory",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/situational-leadership.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://assets.td.org/m/59759d86d1ed4390/original/LIFE-CYCLE-THEORY-OF-LEADERSHIP.pdf",
+      "https://cove.army.gov.au/sites/default/files/brick_situational_leadership.pdf",
+      "https://scilit.com/publications/6fffe0b5a297d50049328cfc68558ecc",
+      "https://aquila.usm.edu/fac_pubs/6864/",
+      "https://www.emerald.com/insight/content/doi/10.1108/01437739810208692/full/html",
+      "https://nla.no/en/research%20and%20development/find-publications/situational-leadership-theory-a-test-from-a-leader-follower-congruence-approach-5867588808656709313",
+      "https://openstax.org/books/principles-management/pages/13-6-situational-contingency-approaches-to-leadership"
+    ]
+  },
+  {
     "id": "kt:southwest-airlines",
     "title": "Southwest Airlines",
     "aliases": [

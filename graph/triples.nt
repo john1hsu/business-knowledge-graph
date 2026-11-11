@@ -1918,6 +1918,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/servqual-multiple-item-scale-1988> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Hersey-Blanchard Situational Leadership Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "Hersey-Blanchard model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "SLT" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "Situational Leadership Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "life cycle theory of leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "situational leadership theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#definition> "Paul Hersey and Kenneth Blanchard's leadership model, first published in 1969 as the life cycle theory of leadership, which prescribes shifting the mix of task (directive) and relationship (supportive) behavior through four styles as a follower's readiness for a specific task rises." .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hersey-Blanchard Situational Leadership Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ohio-state-leadership-studies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/path-goal-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/managerial-grid> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/ken-blanchard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/paul-hersey> .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/chris-argyris> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/publisher> "Miami Herbert Business School, University of Miami" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/title> "Curriculum Vitae: A. Parasuraman" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -4098,6 +4126,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852020" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://purl.org/dc/terms/publisher> "Training and Development Journal (Association for Talent Development archive)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://purl.org/dc/terms/title> "Life Cycle Theory of Leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <https://schema.org/url> "https://assets.td.org/m/59759d86d1ed4390/original/LIFE-CYCLE-THEORY-OF-LEADERSHIP.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s2> <http://purl.org/dc/terms/publisher> "Australian Army, Centre for Army Leadership (The Cove)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s2> <http://purl.org/dc/terms/title> "Situational Leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s2> <https://schema.org/url> "https://cove.army.gov.au/sites/default/files/brick_situational_leadership.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s3> <http://purl.org/dc/terms/publisher> "Academy of Management Review (record at Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s3> <http://purl.org/dc/terms/title> "The Situational Leadership Theory: A Critical View" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s3> <https://schema.org/url> "https://scilit.com/publications/6fffe0b5a297d50049328cfc68558ecc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s4> <http://purl.org/dc/terms/publisher> "Group and Organization Management (record at University of Southern Mississippi)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s4> <http://purl.org/dc/terms/title> "Situational Leadership Theory: A Replication" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s4> <https://schema.org/url> "https://aquila.usm.edu/fac_pubs/6864/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s5> <http://purl.org/dc/terms/publisher> "Leadership & Organization Development Journal (Emerald)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s5> <http://purl.org/dc/terms/title> "Technical note: a study of Hersey and Blanchard's situational leadership theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s5> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/01437739810208692/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s6> <http://purl.org/dc/terms/publisher> "Leadership & Organization Development Journal (record at NLA University College)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s6> <http://purl.org/dc/terms/title> "Situational leadership theory: a test from a leader-follower congruence approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s6> <https://schema.org/url> "https://nla.no/en/research%20and%20development/find-publications/situational-leadership-theory-a-test-from-a-leader-follower-congruence-approach-5867588808656709313" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Management)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <http://purl.org/dc/terms/title> "13.6 Situational (Contingency) Approaches to Leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/13-6-situational-contingency-approaches-to-leadership" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Michael E. Porter, November–December 1996)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/title> "What Is Strategy?" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

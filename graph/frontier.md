@@ -26,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:management-theory` | `kt:contingency-theory-of-leadership`, `kt:peter-drucker`, `kt:situational-leadership` |
 | `kt:michael-c-jensen` | `kt:free-cash-flow`, `kt:agency-costs`, `kt:leveraged-buyout` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
@@ -41,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
 | `kt:capital-asset-pricing-model` | `kt:efficient-market-hypothesis`, `kt:weighted-average-cost-of-capital` |
+| `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
@@ -62,8 +64,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-asymmetry` | `kt:direct-selling`, `kt:principal-agent-problem` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning` |
+| `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban` |
-| `kt:management-theory` | `kt:contingency-theory-of-leadership`, `kt:peter-drucker` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning` |
@@ -77,6 +79,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
+| `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
@@ -126,7 +129,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:change-management` | `kt:ibm-turnaround` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
-| `kt:chris-argyris` | `kt:amy-edmondson` |
 | `kt:churn-rate` | `kt:saas-business-model` |
 | `kt:cisco-systems` | `kt:bill-of-materials` |
 | `kt:clayton-act` | `kt:antitrust-law` |
@@ -215,10 +217,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-juran` | `kt:eighty-twenty-rule` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram` |
+| `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
-| `kt:leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:learning-curve` | `kt:experience-curve` |
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
@@ -231,6 +233,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
+| `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
@@ -257,10 +260,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:new-product-development` | `kt:cannibalization` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
+| `kt:ohio-state-leadership-studies` | `kt:situational-leadership` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
-| `kt:path-goal-theory` | `kt:contingency-theory-of-leadership` |
+| `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
@@ -303,9 +307,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
 | `kt:sherman-act` | `kt:antitrust-law` |
-| `kt:situational-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
+| `kt:span-of-control` | `kt:situational-leadership` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |

@@ -4875,6 +4875,106 @@
       ]
     },
     {
+      "@id": "kt:situational-leadership",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Hersey-Blanchard Situational Leadership Model",
+      "skos:definition": "Paul Hersey and Kenneth Blanchard's leadership model, first published in 1969 as the life cycle theory of leadership, which prescribes shifting the mix of task (directive) and relationship (supportive) behavior through four styles as a follower's readiness for a specific task rises.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Life Cycle Theory of Leadership",
+          "dcterms:publisher": "Training and Development Journal (Association for Talent Development archive)",
+          "schema:url": "https://assets.td.org/m/59759d86d1ed4390/original/LIFE-CYCLE-THEORY-OF-LEADERSHIP.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Situational Leadership",
+          "dcterms:publisher": "Australian Army, Centre for Army Leadership (The Cove)",
+          "schema:url": "https://cove.army.gov.au/sites/default/files/brick_situational_leadership.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Situational Leadership Theory: A Critical View",
+          "dcterms:publisher": "Academy of Management Review (record at Scilit)",
+          "schema:url": "https://scilit.com/publications/6fffe0b5a297d50049328cfc68558ecc",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Situational Leadership Theory: A Replication",
+          "dcterms:publisher": "Group and Organization Management (record at University of Southern Mississippi)",
+          "schema:url": "https://aquila.usm.edu/fac_pubs/6864/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Technical note: a study of Hersey and Blanchard's situational leadership theory",
+          "dcterms:publisher": "Leadership & Organization Development Journal (Emerald)",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/01437739810208692/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Situational leadership theory: a test from a leader-follower congruence approach",
+          "dcterms:publisher": "Leadership & Organization Development Journal (record at NLA University College)",
+          "schema:url": "https://nla.no/en/research%20and%20development/find-publications/situational-leadership-theory-a-test-from-a-leader-follower-congruence-approach-5867588808656709313",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "13.6 Situational (Contingency) Approaches to Leadership",
+          "dcterms:publisher": "OpenStax (Principles of Management)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/13-6-situational-contingency-approaches-to-leadership",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/situational-leadership.md",
+      "skos:altLabel": [
+        "situational leadership theory",
+        "Situational Leadership Model",
+        "life cycle theory of leadership",
+        "Hersey-Blanchard model",
+        "SLT"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:leadership"
+        },
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:contingency-theory-of-leadership"
+        },
+        {
+          "@id": "kt:path-goal-theory"
+        },
+        {
+          "@id": "kt:span-of-control"
+        },
+        {
+          "@id": "kt:ohio-state-leadership-studies"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:paul-hersey"
+        },
+        {
+          "@id": "kt:ken-blanchard"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:chris-argyris"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:managerial-grid"
+        }
+      ]
+    },
+    {
       "@id": "kt:airline-industry",
       "@type": "kto:Industry",
       "skos:prefLabel": "Airline Industry",
