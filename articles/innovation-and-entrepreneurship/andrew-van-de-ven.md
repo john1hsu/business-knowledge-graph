@@ -84,7 +84,7 @@ Managers meet Van de Ven's ideas most directly in two forms. The Nominal Group T
 
 ## Connections
 
-Van de Ven sits under `kt:innovation-management` and `kt:organization-theory`, the fields his research shaped. His early group-process work produced `kt:nominal-group-technique`, which this graph credits jointly to him and `kt:andre-delbecq` and which is often compared with alongside consensus methods such as the `kt:delphi-method`.[^s2] His process typology (`kt:process-theories-of-organizational-change`) underpins much academic work on `kt:change-management`, and MIRP's account of learning through repeated cycles, reported in `kt:the-innovation-journey`, connects to `kt:organizational-learning`.[^s4][^s6] His later advocacy defined `kt:engaged-scholarship` as a model for business-school research.[^s5]
+Van de Ven sits under `kt:innovation-management` and `kt:organization-theory`, the fields his research shaped. His early group-process work produced `kt:nominal-group-technique`, which this graph credits jointly to him and `kt:andre-delbecq` and which is often compared with consensus methods such as the `kt:delphi-method`.[^s2] His process typology (`kt:process-theories-of-organizational-change`) underpins much academic work on `kt:change-management`, and MIRP's account of learning through repeated cycles, reported in `kt:the-innovation-journey`, connects to `kt:organizational-learning`.[^s4][^s6] His later advocacy defined `kt:engaged-scholarship` as a model for business-school research.[^s5]
 
 ## Sources
 [^s1]: "Remembering Professor Emeritus Andy Van de Ven", Carlson School of Management, University of Minnesota, 2022. https://carlsonschool.umn.edu/news/remembering-professor-emeritus-andy-van-de-ven (accessed 2026-11-11)
