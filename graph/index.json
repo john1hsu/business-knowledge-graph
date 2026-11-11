@@ -208,6 +208,29 @@
     ]
   },
   {
+    "id": "kt:bcg-growth-share-matrix",
+    "title": "BCG Growth-Share Matrix",
+    "aliases": [
+      "growth-share matrix",
+      "BCG matrix",
+      "Boston matrix",
+      "Boston Consulting Group matrix",
+      "product portfolio matrix"
+    ],
+    "type": "Framework",
+    "domain": "strategy",
+    "file": "articles/strategy/bcg-growth-share-matrix.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.bcg.com/publications/1970/strategy-the-product-portfolio.aspx",
+      "https://openstax.org/books/principles-marketing/pages/2-2-the-role-of-marketing-in-the-strategic-planning-process",
+      "https://core.ac.uk/download/84837664.pdf",
+      "https://mpra.ub.uni-muenchen.de/81684/1/MPRA_paper_81684.pdf",
+      "https://cmr.berkeley.edu/1982/11/25-1-the-product-portfolio-and-mans-best-friend",
+      "https://bcghendersoninstitute.com/wp-content/uploads/2014/06/BCG-Classics-Revisited-The-Growth-Share-Matrix.pdf"
+    ]
+  },
+  {
     "id": "kt:benchmarking",
     "title": "Benchmarking",
     "aliases": [

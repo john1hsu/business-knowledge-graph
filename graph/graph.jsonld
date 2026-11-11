@@ -7226,6 +7226,115 @@
       ]
     },
     {
+      "@id": "kt:bcg-growth-share-matrix",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "BCG Growth-Share Matrix",
+      "skos:definition": "A two-by-two portfolio-planning tool, introduced by Bruce Henderson of the Boston Consulting Group in 1970, that classifies a diversified firm's businesses by relative market share and market growth rate into stars, cash cows, question marks and dogs to guide where cash is invested, harvested or withdrawn.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Product Portfolio",
+          "dcterms:publisher": "Boston Consulting Group",
+          "schema:url": "https://www.bcg.com/publications/1970/strategy-the-product-portfolio.aspx",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "2.2 The Role of Marketing in the Strategic Planning Process (Principles of Marketing)",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/2-2-the-role-of-marketing-in-the-strategic-planning-process",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Not dead yet: the rise, fall and persistence of the BCG Matrix",
+          "dcterms:publisher": "Problems and Perspectives in Management",
+          "schema:url": "https://core.ac.uk/download/84837664.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Effects of Portfolio Planning Methods on Decision Making: Experimental Results",
+          "dcterms:publisher": "International Journal of Research in Marketing (author manuscript, MPRA)",
+          "schema:url": "https://mpra.ub.uni-muenchen.de/81684/1/MPRA_paper_81684.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Product Portfolio and Man's Best Friend",
+          "dcterms:publisher": "California Management Review",
+          "schema:url": "https://cmr.berkeley.edu/1982/11/25-1-the-product-portfolio-and-mans-best-friend",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "BCG Classics Revisited: The Growth Share Matrix",
+          "dcterms:publisher": "BCG Henderson Institute",
+          "schema:url": "https://bcghendersoninstitute.com/wp-content/uploads/2014/06/BCG-Classics-Revisited-The-Growth-Share-Matrix.pdf",
+          "kto:sourceType": "consultancy"
+        }
+      ],
+      "kto:file": "articles/strategy/bcg-growth-share-matrix.md",
+      "skos:altLabel": [
+        "growth-share matrix",
+        "BCG matrix",
+        "Boston matrix",
+        "Boston Consulting Group matrix",
+        "product portfolio matrix"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:portfolio-planning"
+        },
+        {
+          "@id": "kt:corporate-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:experience-curve"
+        },
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:diversification-strategy"
+        },
+        {
+          "@id": "kt:strategic-business-unit"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:bruce-henderson"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-product-portfolio-1970"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:experience-curve"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:ge-mckinsey-matrix"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:net-present-value"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:google"
+        }
+      ]
+    },
+    {
       "@id": "kt:david-j-teece",
       "@type": "kto:Person",
       "skos:prefLabel": "David J. Teece",
@@ -7482,6 +7591,9 @@
         },
         {
           "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:bcg-growth-share-matrix"
         }
       ],
       "kto:createdBy": [

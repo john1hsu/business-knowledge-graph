@@ -9,7 +9,7 @@ summary: >-
   product's real unit cost falls by a roughly constant percentage each time cumulative production
   doubles, used to argue that market-share leaders can build a self-reinforcing cost advantage.
 broader: [kt:competitive-advantage, kt:cost-structure]
-related: [kt:economies-of-scale, kt:first-mover-advantage, kt:barriers-to-entry, kt:organizational-ambidexterity]
+related: [kt:economies-of-scale, kt:first-mover-advantage, kt:barriers-to-entry, kt:organizational-ambidexterity, kt:bcg-growth-share-matrix]
 relations:
   - {predicate: createdBy, object: kt:bruce-henderson}
   - {predicate: influencedBy, object: kt:learning-curve}

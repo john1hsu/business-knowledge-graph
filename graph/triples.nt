@@ -241,6 +241,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> .
 <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2000/01/rdf-schema#label> "BCG Growth-Share Matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#altLabel> "BCG matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#altLabel> "Boston Consulting Group matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#altLabel> "Boston matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#altLabel> "growth-share matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#altLabel> "product portfolio matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/portfolio-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#definition> "A two-by-two portfolio-planning tool, introduced by Bruce Henderson of the Boston Consulting Group in 1970, that classifies a diversified firm's businesses by relative market share and market growth rate into stars, cash cows, question marks and dogs to guide where cash is invested, harvested or withdrawn." .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#prefLabel> "BCG Growth-Share Matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/diversification-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-business-unit> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/ge-mckinsey-matrix> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/bruce-henderson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-product-portfolio-1970> .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <http://www.w3.org/2000/01/rdf-schema#label> "Benchmarking" .
@@ -751,6 +781,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#definition> "The empirical regularity, popularized by the Boston Consulting Group in the mid-1960s, that a product's real unit cost falls by a roughly constant percentage each time cumulative production doubles, used to argue that market-share leaders can build a self-reinforcing cost advantage." .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#prefLabel> "Experience Curve" .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
@@ -2241,6 +2272,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/barriers-to-entry/s6> <https://schema.org/url> "https://www.justice.gov/atr/media/1329301/dl?inline" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s1> <http://purl.org/dc/terms/publisher> "Boston Consulting Group" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s1> <http://purl.org/dc/terms/title> "The Product Portfolio" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s1> <https://schema.org/url> "https://www.bcg.com/publications/1970/strategy-the-product-portfolio.aspx" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s2> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s2> <http://purl.org/dc/terms/title> "2.2 The Role of Marketing in the Strategic Planning Process (Principles of Marketing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s2> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/2-2-the-role-of-marketing-in-the-strategic-planning-process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s3> <http://purl.org/dc/terms/publisher> "Problems and Perspectives in Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s3> <http://purl.org/dc/terms/title> "Not dead yet: the rise, fall and persistence of the BCG Matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s3> <https://schema.org/url> "https://core.ac.uk/download/84837664.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s4> <http://purl.org/dc/terms/publisher> "International Journal of Research in Marketing (author manuscript, MPRA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s4> <http://purl.org/dc/terms/title> "Effects of Portfolio Planning Methods on Decision Making: Experimental Results" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s4> <https://schema.org/url> "https://mpra.ub.uni-muenchen.de/81684/1/MPRA_paper_81684.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s5> <http://purl.org/dc/terms/publisher> "California Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s5> <http://purl.org/dc/terms/title> "The Product Portfolio and Man's Best Friend" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s5> <https://schema.org/url> "https://cmr.berkeley.edu/1982/11/25-1-the-product-portfolio-and-mans-best-friend" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s6> <http://purl.org/dc/terms/publisher> "BCG Henderson Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s6> <http://purl.org/dc/terms/title> "BCG Classics Revisited: The Growth Share Matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bcg-growth-share-matrix/s6> <https://schema.org/url> "https://bcghendersoninstitute.com/wp-content/uploads/2014/06/BCG-Classics-Revisited-The-Growth-Share-Matrix.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://purl.org/dc/terms/title> "Benchmarking (Decision Support Tools)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

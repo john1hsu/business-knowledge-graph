@@ -26,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
+| `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno` |
@@ -42,6 +43,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
+| `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
 | `kt:capital-asset-pricing-model` | `kt:efficient-market-hypothesis`, `kt:weighted-average-cost-of-capital` |
@@ -60,7 +62,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gaps-model-of-service-quality` | `kt:a-parasuraman`, `kt:servqual` |
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs`, `kt:high-performance-teams` |
-| `kt:google` | `kt:okrs`, `kt:google-project-aristotle` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
@@ -119,7 +120,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bengt-holmstrom` | `kt:principal-agent-problem` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
-| `kt:bruce-henderson` | `kt:experience-curve` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
@@ -140,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contract-theory` | `kt:principal-agent-problem` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
+| `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
@@ -150,6 +151,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:devils-advocacy` | `kt:groupthink` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:distribution-channel` | `kt:direct-selling` |
+| `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
@@ -183,6 +185,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm` | `kt:kodak-decline` |
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
+| `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
@@ -255,6 +258,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
+| `kt:net-present-value` | `kt:bcg-growth-share-matrix` |
 | `kt:netflix-business-model-shift` | `kt:disruptive-innovation` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
@@ -273,6 +277,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
+| `kt:portfolio-planning` | `kt:bcg-growth-share-matrix` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:power-law` | `kt:eighty-twenty-rule` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
@@ -316,6 +321,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:spotify` | `kt:freemium` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
+| `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
@@ -328,6 +334,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:kodak-decline` |
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
+| `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
