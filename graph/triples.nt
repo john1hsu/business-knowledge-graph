@@ -613,6 +613,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/salesforce> .
 <https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2000/01/rdf-schema#label> "Devil's Advocate Method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#altLabel> "DA approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#altLabel> "devil's advocacy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#altLabel> "devil's advocate approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#altLabel> "devil's advocate technique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#definition> "A structured group decision technique in which one member or subgroup is assigned to critique a proposed plan, its assumptions and its evidence, so that flaws surface before the group commits; studied since the 1970s-80s as a counter to groupthink and compared with dialectical inquiry and consensus." .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Devil's Advocate Method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/dialectical-inquiry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/authentic-dissent> .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <http://www.w3.org/2000/01/rdf-schema#label> "Direct Selling" .
@@ -2940,6 +2965,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <https://schema.org/url> "https://dart.deloitte.com/USDART/home/publications/deloitte/heads-up/2021/fasb-asu-contract-assets-liabilities-revenue" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://purl.org/dc/terms/title> "Devil's advocate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <https://schema.org/url> "https://www.britannica.com/topic/devils-advocate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s2> <http://purl.org/dc/terms/title> "Organizational Behavior, Section 6.6: Group Decision-Making (J. Stewart Black, David S. Bright et al., 2019)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s2> <https://schema.org/url> "https://openstax.org/books/organizational-behavior/pages/6-6-group-decision-making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s3> <http://purl.org/dc/terms/publisher> "Scilit record of Academy of Management article" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s3> <http://purl.org/dc/terms/title> "Group Approaches for Improving Strategic Decision Making: A Comparative Analysis of Dialectical Inquiry, Devil's Advocacy, and Consensus (Academy of Management Journal 29(1):51-71, 1986; DOI 10.2307/255859)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s3> <https://schema.org/url> "https://scilit.com/publications/af443b108c33a797daa7409d60ecaf9a" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s4> <http://purl.org/dc/terms/publisher> "RePEc / IDEAS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s4> <http://purl.org/dc/terms/title> "The Utilization of Individual Capabilities in Group Approaches to Strategic Decision-Making (Schweiger & Sandberg, Strategic Management Journal 10(1):31-43, 1989; DOI 10.1002/smj.4250100104)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s4> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v10y1989i1p31-43.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s5> <http://purl.org/dc/terms/publisher> "University of Arizona research portal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s5> <http://purl.org/dc/terms/title> "Effects of Devil's Advocacy and Dialectical Inquiry on Individuals versus Groups (Schwenk & Valacich, Organizational Behavior and Human Decision Processes 59(2):210-222, 1994; DOI 10.1006/obhd.1994.1057)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s5> <https://schema.org/url> "https://experts.arizona.edu/en/publications/effects-of-devils-advocacy-and-dialectical-inquiry-on-individuals/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s6> <http://purl.org/dc/terms/publisher> "Department of Psychology, University of California, Berkeley" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s6> <http://purl.org/dc/terms/title> "Charlan J. Nemeth, faculty profile" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s6> <https://schema.org/url> "https://psychology.berkeley.edu/user/111" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/publisher> "Academic journal article (ProQuest record)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://purl.org/dc/terms/title> "What is direct selling? Definition, perspectives, and research agenda" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -6,8 +6,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:michael-c-jensen`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:michael-c-jensen` |
+| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:innovation-management` | `kt:andrew-van-de-ven`, `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
-| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:groupthink` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul`, `kt:truth-in-negotiations-act` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle`, `kt:nominal-group-technique` |
@@ -31,6 +31,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
+| `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:information-asymmetry` | `kt:direct-selling`, `kt:truth-in-negotiations-act`, `kt:principal-agent-problem` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno` |
@@ -74,7 +75,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:goal-setting-theory` | `kt:okrs`, `kt:high-performance-teams` |
 | `kt:government-accountability-office` | `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
-| `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:groupthink` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
@@ -125,6 +125,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:apple-inc` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:audit-committee` | `kt:sarbanes-oxley-act` |
+| `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:barbara-minto` | `kt:mece-principle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
@@ -162,7 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
-| `kt:devils-advocacy` | `kt:groupthink` |
+| `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
@@ -349,6 +350,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
 | `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
+| `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |

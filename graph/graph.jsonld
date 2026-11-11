@@ -7615,6 +7615,98 @@
       ]
     },
     {
+      "@id": "kt:devils-advocacy",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Devil's Advocate Method",
+      "skos:definition": "A structured group decision technique in which one member or subgroup is assigned to critique a proposed plan, its assumptions and its evidence, so that flaws surface before the group commits; studied since the 1970s-80s as a counter to groupthink and compared with dialectical inquiry and consensus.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Devil's advocate",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/devils-advocate",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Organizational Behavior, Section 6.6: Group Decision-Making (J. Stewart Black, David S. Bright et al., 2019)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/organizational-behavior/pages/6-6-group-decision-making",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Group Approaches for Improving Strategic Decision Making: A Comparative Analysis of Dialectical Inquiry, Devil's Advocacy, and Consensus (Academy of Management Journal 29(1):51-71, 1986; DOI 10.2307/255859)",
+          "dcterms:publisher": "Scilit record of Academy of Management article",
+          "schema:url": "https://scilit.com/publications/af443b108c33a797daa7409d60ecaf9a",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Utilization of Individual Capabilities in Group Approaches to Strategic Decision-Making (Schweiger & Sandberg, Strategic Management Journal 10(1):31-43, 1989; DOI 10.1002/smj.4250100104)",
+          "dcterms:publisher": "RePEc / IDEAS",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v10y1989i1p31-43.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Effects of Devil's Advocacy and Dialectical Inquiry on Individuals versus Groups (Schwenk & Valacich, Organizational Behavior and Human Decision Processes 59(2):210-222, 1994; DOI 10.1006/obhd.1994.1057)",
+          "dcterms:publisher": "University of Arizona research portal",
+          "schema:url": "https://experts.arizona.edu/en/publications/effects-of-devils-advocacy-and-dialectical-inquiry-on-individuals/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Charlan J. Nemeth, faculty profile",
+          "dcterms:publisher": "Department of Psychology, University of California, Berkeley",
+          "schema:url": "https://psychology.berkeley.edu/user/111",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/devils-advocacy.md",
+      "skos:altLabel": [
+        "devil's advocacy",
+        "devil's advocate technique",
+        "devil's advocate approach",
+        "DA approach"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:group-decision-making"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:groupthink"
+        },
+        {
+          "@id": "kt:psychological-safety"
+        },
+        {
+          "@id": "kt:nominal-group-technique"
+        },
+        {
+          "@id": "kt:board-of-directors"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:groupthink"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:dialectical-inquiry"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:authentic-dissent"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:strategic-decision-making"
+        }
+      ]
+    },
+    {
       "@id": "kt:google-project-aristotle",
       "@type": "kto:Case",
       "skos:prefLabel": "Google Project Aristotle",

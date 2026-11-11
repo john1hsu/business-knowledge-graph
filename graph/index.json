@@ -525,6 +525,28 @@
     ]
   },
   {
+    "id": "kt:devils-advocacy",
+    "title": "Devil's Advocate Method",
+    "aliases": [
+      "devil's advocacy",
+      "devil's advocate technique",
+      "devil's advocate approach",
+      "DA approach"
+    ],
+    "type": "Practice",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/devils-advocacy.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.britannica.com/topic/devils-advocate",
+      "https://openstax.org/books/organizational-behavior/pages/6-6-group-decision-making",
+      "https://scilit.com/publications/af443b108c33a797daa7409d60ecaf9a",
+      "https://ideas.repec.org/a/bla/stratm/v10y1989i1p31-43.html",
+      "https://experts.arizona.edu/en/publications/effects-of-devils-advocacy-and-dialectical-inquiry-on-individuals/",
+      "https://psychology.berkeley.edu/user/111"
+    ]
+  },
+  {
     "id": "kt:direct-selling",
     "title": "Direct Selling",
     "aliases": [
