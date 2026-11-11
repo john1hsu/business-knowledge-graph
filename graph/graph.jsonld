@@ -3634,6 +3634,100 @@
       ]
     },
     {
+      "@id": "kt:lowest-price-technically-acceptable",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Lowest Price Technically Acceptable",
+      "skos:definition": "A US federal source-selection method in which proposals are rated only pass/fail against stated minimum non-price requirements and the contract goes to the acceptable offer with the lowest evaluated price, with no tradeoff between price and quality allowed.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "15.101-2 Lowest price technically acceptable source selection process",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/far/15.101-2",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Federal Acquisition Regulation Supplement: Restrictions on Use of Lowest Price Technically Acceptable Source Selection Process (DFARS Case 2018-D010), final rule, 84 FR 50785",
+          "dcterms:publisher": "Federal Register, via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2019-09-26/html/2019-20557.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Defense Contracting: DOD Should Clarify Criteria for Using Lowest Price Technically Acceptable Process (GAO-19-54)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://gao.gov/products/gao-19-54",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Contracting: DOD's Use of Lowest Price Technically Acceptable Source Selection Procedures to Acquire Selected Services (GAO-18-139)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://gao.gov/products/GAO-18-139",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "An Analysis of DoD's Use of the Lowest Price Technically Acceptable Acquisition Strategy and Recommendations for Improvement (SYM-AM-18-073)",
+          "dcterms:publisher": "Naval Postgraduate School Acquisition Research Program",
+          "schema:url": "https://dair.nps.edu/bitstream/123456789/1587/1/SYM-AM-18-073.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "FAR Overhaul - Part 15 (FAR Part Deviation Guidance, model text)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-15",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/lowest-price-technically-acceptable.md",
+      "skos:altLabel": [
+        "LPTA",
+        "LPTA source selection",
+        "lowest price technically acceptable source selection process",
+        "lowest price technically acceptable approach"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:source-selection"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        },
+        {
+          "@id": "kt:total-cost-of-ownership"
+        },
+        {
+          "@id": "kt:government-accountability-office"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        },
+        {
+          "@id": "kt:defense-federal-acquisition-regulation-supplement"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:best-value-tradeoff"
+        },
+        {
+          "@id": "kt:highest-technically-rated-fair-and-reasonable-price"
+        }
+      ]
+    },
+    {
       "@id": "kt:public-procurement",
       "@type": "kto:Practice",
       "skos:prefLabel": "Public Procurement",

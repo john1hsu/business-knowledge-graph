@@ -1225,6 +1225,28 @@
     ]
   },
   {
+    "id": "kt:lowest-price-technically-acceptable",
+    "title": "Lowest Price Technically Acceptable",
+    "aliases": [
+      "LPTA",
+      "LPTA source selection",
+      "lowest price technically acceptable source selection process",
+      "lowest price technically acceptable approach"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/lowest-price-technically-acceptable.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://www.acquisition.gov/far/15.101-2",
+      "https://www.govinfo.gov/content/pkg/FR-2019-09-26/html/2019-20557.htm",
+      "https://gao.gov/products/gao-19-54",
+      "https://gao.gov/products/GAO-18-139",
+      "https://dair.nps.edu/bitstream/123456789/1587/1/SYM-AM-18-073.pdf",
+      "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-15"
+    ]
+  },
+  {
     "id": "kt:malcolm-baldrige-national-quality-award",
     "title": "Malcolm Baldrige National Quality Award",
     "aliases": [
