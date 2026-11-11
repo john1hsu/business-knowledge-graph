@@ -295,6 +295,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-c-camp> .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/xerox> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2000/01/rdf-schema#label> "Bengt Holmström" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#altLabel> "Bengt Holmstrom" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#altLabel> "Bengt R. Holmström" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#definition> "Finnish economist at MIT who shared the 2016 Nobel memorial prize in economics with Oliver Hart for contract theory; his models of incentive pay, team moral hazard, career concerns and corporate liquidity shape how firms design compensation and how economists think about financial crises." .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bengt Holmström" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/oliver-hart> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/career-concerns> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/relative-performance-evaluation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-b-wilson> .
 <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> <http://www.w3.org/2000/01/rdf-schema#label> "Best-Value Tradeoff" .
@@ -2435,6 +2459,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/benchmarking/s6> <https://schema.org/url> "https://hbr.org/1996/11/what-is-strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s1> <http://purl.org/dc/terms/publisher> "The Nobel Prize (NobelPrize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s1> <http://purl.org/dc/terms/title> "Bengt Holmström: Biographical" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s1> <https://schema.org/url> "https://nobelprize.org/prizes/economic-sciences/2016/holmstrom/biographical" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s2> <http://purl.org/dc/terms/publisher> "MIT Department of Economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s2> <http://purl.org/dc/terms/title> "Bengt Holmström: Short Biography" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s2> <https://schema.org/url> "https://economics.mit.edu/people/faculty/bengt-holmstrom/short-biography" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s3> <http://purl.org/dc/terms/title> "Bengt Holmström" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s3> <https://schema.org/url> "https://www.Britannica.com/money/Bengt-Holmstrom" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s4> <http://purl.org/dc/terms/publisher> "Bell Journal of Economics, vol. 13, no. 2, 1982, via EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s4> <http://purl.org/dc/terms/title> "Moral Hazard in Teams (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s4> <https://schema.org/url> "https://econpapers.repec.org/RePEc:rje:bellje:v:13:y:1982:i:autumn:p:324-340" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s5> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research; Review of Economic Studies 66(1), 1999" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s5> <http://purl.org/dc/terms/title> "Managerial Incentive Problems: A Dynamic Perspective (NBER Working Paper 6875)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s5> <https://schema.org/url> "https://www.nber.org/papers/W6875" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s6> <http://purl.org/dc/terms/publisher> "MIT Sloan School of Management, Ideas Made to Matter" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s6> <http://purl.org/dc/terms/title> "In Nobel Prize lecture, lessons for managing employee incentives" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s6> <https://schema.org/url> "https://mitsloan.mit.edu/ideas-made-to-matter/nobel-prize-lecture-lessons-managing-employee-incentives" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s7> <http://purl.org/dc/terms/publisher> "The MIT Press, 2011, via EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s7> <http://purl.org/dc/terms/title> "Inside and Outside Liquidity (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/bengt-holmstrom/s7> <https://schema.org/url> "https://econpapers.repec.org/RePEc:mtp:titles:0262015783" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <http://purl.org/dc/terms/title> "Subpart 15.1 - Source Selection Processes and Techniques (15.101 Best value continuum; 15.101-1 Tradeoff process; 15.101-2 LPTA)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/best-value-tradeoff/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

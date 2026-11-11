@@ -252,6 +252,27 @@
     ]
   },
   {
+    "id": "kt:bengt-holmstrom",
+    "title": "Bengt Holmström",
+    "aliases": [
+      "Bengt Holmstrom",
+      "Bengt R. Holmström"
+    ],
+    "type": "Person",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/bengt-holmstrom.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://nobelprize.org/prizes/economic-sciences/2016/holmstrom/biographical",
+      "https://economics.mit.edu/people/faculty/bengt-holmstrom/short-biography",
+      "https://www.Britannica.com/money/Bengt-Holmstrom",
+      "https://econpapers.repec.org/RePEc:rje:bellje:v:13:y:1982:i:autumn:p:324-340",
+      "https://www.nber.org/papers/W6875",
+      "https://mitsloan.mit.edu/ideas-made-to-matter/nobel-prize-lecture-lessons-managing-employee-incentives",
+      "https://econpapers.repec.org/RePEc:mtp:titles:0262015783"
+    ]
+  },
+  {
     "id": "kt:best-value-tradeoff",
     "title": "Best-Value Tradeoff",
     "aliases": [
