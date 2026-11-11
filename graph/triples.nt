@@ -1216,6 +1216,25 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/bay-of-pigs-invasion> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/victims-of-groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2000/01/rdf-schema#label> "Henri Fayol" .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2004/02/skos/core#altLabel> "Jules Henri Fayol" .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2004/02/skos/core#definition> "French mining engineer and industrialist (1841-1925) who ran the Commentry-Fourchambault company and, in Administration industrielle et générale (1916), defined management as a distinct activity built on five elements and fourteen principles, founding the administrative school of management theory." .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2004/02/skos/core#prefLabel> "Henri Fayol" .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/henry-mintzberg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> .
+<https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/unity-of-command> .
 <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2000/01/rdf-schema#label> "High-Performance Teams" .
@@ -3650,6 +3669,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/00251741011068761" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <http://purl.org/dc/terms/publisher> "EBSCO Research Starters (Robert G. Lynch), 2021" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <http://purl.org/dc/terms/title> "Fayol Publishes General and Industrial Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <https://schema.org/url> "https://ebsco.com/research-starters/history/fayol-publishes-general-and-industrial-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management (David S. Bright, Anastasia H. Cortes et al.), 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s2> <http://purl.org/dc/terms/title> "3.5 Administrative and Bureaucratic Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/3-5-administrative-and-bureaucratic-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s3> <http://purl.org/dc/terms/publisher> "Journal of Management History 6(8), 2000, pp. 345-360 (Michael J. Fells)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s3> <http://purl.org/dc/terms/title> "Fayol stands the test of time" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s3> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/13552520010359379/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s4> <http://purl.org/dc/terms/publisher> "Journal of Management History 18(4), 2012, pp. 469-487 (Jean-Louis Peaucelle and Cameron Guthrie)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s4> <http://purl.org/dc/terms/title> "The private life of Henri Fayol and his motivation to build a management science" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s4> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/17511341211258774/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s5> <http://purl.org/dc/terms/publisher> "Management Decision 43(10), 2005, pp. 1317-1334 (Ian Smith and Trevor Boyns)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s5> <http://purl.org/dc/terms/title> "British management theory and practice: the impact of Fayol" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s5> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/00251740510634895/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Henry Mintzberg), 1975, republished 1990" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <http://purl.org/dc/terms/title> "The Manager's Job: Folklore and Fact (HBR Classic)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <https://schema.org/url> "https://store.hbr.org/product/manager-s-job-folklore-and-fact-hbr-classic/90210" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review 71(2), March-April 1993 (copy hosted by Stanford HCI course readings)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://purl.org/dc/terms/title> "The Discipline of Teams" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

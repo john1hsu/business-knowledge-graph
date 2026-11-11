@@ -1040,6 +1040,25 @@
     ]
   },
   {
+    "id": "kt:henri-fayol",
+    "title": "Henri Fayol",
+    "aliases": [
+      "Jules Henri Fayol"
+    ],
+    "type": "Person",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/henri-fayol.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://ebsco.com/research-starters/history/fayol-publishes-general-and-industrial-management",
+      "https://openstax.org/books/principles-management/pages/3-5-administrative-and-bureaucratic-management",
+      "https://www.emerald.com/insight/content/doi/10.1108/13552520010359379/full/html",
+      "https://www.emerald.com/insight/content/doi/10.1108/17511341211258774/full/html",
+      "https://www.emerald.com/insight/content/doi/10.1108/00251740510634895/full/html",
+      "https://store.hbr.org/product/manager-s-job-folklore-and-fact-hbr-classic/90210"
+    ]
+  },
+  {
     "id": "kt:high-performance-teams",
     "title": "High-Performance Teams",
     "aliases": [

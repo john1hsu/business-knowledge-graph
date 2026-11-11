@@ -5342,6 +5342,82 @@
       ]
     },
     {
+      "@id": "kt:henri-fayol",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Henri Fayol",
+      "skos:definition": "French mining engineer and industrialist (1841-1925) who ran the Commentry-Fourchambault company and, in Administration industrielle et générale (1916), defined management as a distinct activity built on five elements and fourteen principles, founding the administrative school of management theory.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fayol Publishes General and Industrial Management",
+          "dcterms:publisher": "EBSCO Research Starters (Robert G. Lynch), 2021",
+          "schema:url": "https://ebsco.com/research-starters/history/fayol-publishes-general-and-industrial-management",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "3.5 Administrative and Bureaucratic Management",
+          "dcterms:publisher": "OpenStax, Principles of Management (David S. Bright, Anastasia H. Cortes et al.), 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/3-5-administrative-and-bureaucratic-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Fayol stands the test of time",
+          "dcterms:publisher": "Journal of Management History 6(8), 2000, pp. 345-360 (Michael J. Fells)",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/13552520010359379/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The private life of Henri Fayol and his motivation to build a management science",
+          "dcterms:publisher": "Journal of Management History 18(4), 2012, pp. 469-487 (Jean-Louis Peaucelle and Cameron Guthrie)",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/17511341211258774/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "British management theory and practice: the impact of Fayol",
+          "dcterms:publisher": "Management Decision 43(10), 2005, pp. 1317-1334 (Ian Smith and Trevor Boyns)",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/00251740510634895/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Manager's Job: Folklore and Fact (HBR Classic)",
+          "dcterms:publisher": "Harvard Business Review (Henry Mintzberg), 1975, republished 1990",
+          "schema:url": "https://store.hbr.org/product/manager-s-job-folklore-and-fact-hbr-classic/90210",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/henri-fayol.md",
+      "skos:altLabel": [
+        "Jules Henri Fayol"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scientific-management"
+        },
+        {
+          "@id": "kt:henry-mintzberg"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:unity-of-command"
+        },
+        {
+          "@id": "kt:lyndall-urwick"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:frederick-winslow-taylor"
+        }
+      ]
+    },
+    {
       "@id": "kt:hoshin-kanri",
       "@type": "kto:Practice",
       "skos:prefLabel": "Hoshin Kanri",
