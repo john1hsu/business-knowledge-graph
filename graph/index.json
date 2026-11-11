@@ -484,6 +484,28 @@
     ]
   },
   {
+    "id": "kt:corporate-finance",
+    "title": "Corporate Finance: Investment, Financing and Payout Decisions",
+    "aliases": [
+      "corporate finance",
+      "business finance",
+      "corporate financial management"
+    ],
+    "type": "Field",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/corporate-finance.md",
+    "created": "2026-11-11",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/1-1-what-is-finance",
+      "https://openstax.org/books/introduction-business/pages/16-1-the-role-of-finance-and-the-financial-manager",
+      "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf",
+      "https://scholars.duke.edu/publication/774079",
+      "https://papers.ssrn.com/abstract=94043",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=52623",
+      "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    ]
+  },
+  {
     "id": "kt:corporate-governance",
     "title": "Corporate Governance",
     "aliases": [

@@ -4,16 +4,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:corporate-finance`, `kt:michael-c-jensen` |
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:devils-advocacy`, `kt:groupthink` |
-| `kt:corporate-finance` | `kt:free-cash-flow`, `kt:arbitrage`, `kt:dividend-policy`, `kt:efficient-market-hypothesis`, `kt:leveraged-buyout`, `kt:michael-c-jensen`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
-| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:michael-c-jensen` |
 | `kt:innovation-management` | `kt:andrew-van-de-ven`, `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
+| `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul`, `kt:truth-in-negotiations-act` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle`, `kt:nominal-group-technique` |
-| `kt:capital-structure` | `kt:agency-costs`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:information-asymmetry` | `kt:audit-committee`, `kt:direct-selling`, `kt:truth-in-negotiations-act`, `kt:principal-agent-problem`, `kt:bullwhip-effect` |
 | `kt:organizational-learning` | `kt:andrew-van-de-ven`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
@@ -48,16 +47,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
+| `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:corporate-finance` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:principal-agent-problem` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
+| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
 | `kt:capital-asset-pricing-model` | `kt:efficient-market-hypothesis`, `kt:weighted-average-cost-of-capital` |
+| `kt:capital-budgeting` | `kt:corporate-finance`, `kt:weighted-average-cost-of-capital` |
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
@@ -111,7 +113,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
-| `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
@@ -124,7 +125,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
-| `kt:apple-inc` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
@@ -139,7 +139,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
-| `kt:capital-budgeting` | `kt:weighted-average-cost-of-capital` |
 | `kt:career-concerns` | `kt:bengt-holmstrom` |
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
@@ -194,6 +193,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
+| `kt:finance` | `kt:corporate-finance` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:five-whys` | `kt:ishikawa-diagram` |
 | `kt:ford-model-a` | `kt:ford-model-t` |

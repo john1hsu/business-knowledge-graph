@@ -3540,6 +3540,113 @@
       ]
     },
     {
+      "@id": "kt:corporate-finance",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Corporate Finance: Investment, Financing and Payout Decisions",
+      "skos:definition": "The branch of finance that studies how firms decide which long-term assets to invest in, how to fund them with debt and equity, how to manage short-term working capital and how much cash to return to owners, with the aim of maximizing the value of the firm.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-11",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 1.1: What Is Finance?",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/1-1-what-is-finance",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Introduction to Business, Section 16.1: The Role of Finance and the Financial Manager",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/introduction-business/pages/16-1-the-role-of-finance-and-the-financial-manager",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Cost of Capital, Corporation Finance and the Theory of Investment",
+          "dcterms:publisher": "American Economic Review (AEA Top 20 reprint)",
+          "schema:url": "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Theory and Practice of Corporate Finance: Evidence from the Field",
+          "dcterms:publisher": "Journal of Financial Economics (Scholars@Duke record)",
+          "schema:url": "https://scholars.duke.edu/publication/774079",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure",
+          "dcterms:publisher": "Journal of Financial Economics (SSRN abstract)",
+          "schema:url": "https://papers.ssrn.com/abstract=94043",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Error at the Heart of Corporate Leadership",
+          "dcterms:publisher": "Harvard Business School faculty publication page (Harvard Business Review)",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=52623",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Apple Inc. Form 10-K for the fiscal year ended September 27, 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/corporate-finance.md",
+      "skos:altLabel": [
+        "corporate finance",
+        "business finance",
+        "corporate financial management"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        },
+        {
+          "@id": "kt:dividend-policy"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:capital-budgeting"
+        },
+        {
+          "@id": "kt:capital-structure"
+        },
+        {
+          "@id": "kt:working-capital"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        },
+        {
+          "@id": "kt:michael-c-jensen"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:apple-inc"
+        }
+      ]
+    },
+    {
       "@id": "kt:dividend-policy",
       "@type": "kto:Practice",
       "skos:prefLabel": "Dividend Policy",

@@ -566,6 +566,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/fred-fiedler> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/least-preferred-coworker-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://purl.org/dc/terms/created> "2026-11-11" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Finance: Investment, Financing and Payout Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#altLabel> "business finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#altLabel> "corporate finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#altLabel> "corporate financial management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#definition> "The branch of finance that studies how firms decide which long-term assets to invest in, how to fund them with debt and equity, how to manage short-term working capital and how much cash to return to owners, with the aim of maximizing the value of the firm." .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#prefLabel> "Corporate Finance: Investment, Financing and Payout Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Governance" .
@@ -3006,6 +3035,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0655102.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 1.1: What Is Finance?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/1-1-what-is-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s2> <http://purl.org/dc/terms/title> "Introduction to Business, Section 16.1: The Role of Finance and the Financial Manager" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s2> <https://schema.org/url> "https://openstax.org/books/introduction-business/pages/16-1-the-role-of-finance-and-the-financial-manager" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s3> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s3> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s3> <https://schema.org/url> "https://www.aeaweb.org/aer/top20/48.3.261-297.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s4> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics (Scholars@Duke record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s4> <http://purl.org/dc/terms/title> "The Theory and Practice of Corporate Finance: Evidence from the Field" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s4> <https://schema.org/url> "https://scholars.duke.edu/publication/774079" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s5> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics (SSRN abstract)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s5> <http://purl.org/dc/terms/title> "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s5> <https://schema.org/url> "https://papers.ssrn.com/abstract=94043" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s6> <http://purl.org/dc/terms/publisher> "Harvard Business School faculty publication page (Harvard Business Review)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s6> <http://purl.org/dc/terms/title> "The Error at the Heart of Corporate Leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s6> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=52623" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s7> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s7> <http://purl.org/dc/terms/title> "Apple Inc. Form 10-K for the fiscal year ended September 27, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s7> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/publisher> "OECD Legal Instruments" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://purl.org/dc/terms/title> "Recommendation of the Council on Principles of Corporate Governance (G20/OECD Principles of Corporate Governance)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
