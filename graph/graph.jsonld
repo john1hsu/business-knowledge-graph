@@ -10111,6 +10111,104 @@
       ]
     },
     {
+      "@id": "kt:porters-five-forces",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Porter's Five Forces: Competitive Forces That Shape Industry Profitability",
+      "skos:definition": "Michael Porter's framework for explaining an industry's long-run profitability through five structural forces: rivalry among existing competitors, the threat of new entrants, the threat of substitutes, and the bargaining power of buyers and of suppliers.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Five Competitive Forces That Shape Strategy (HBR reprint R0801E)",
+          "dcterms:publisher": "Harvard Business Review (HBR Store listing), January 2008",
+          "schema:url": "https://store.hbr.org/product/the-five-competitive-forces-that-shape-strategy/R0801E",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Industry Structure and Competitive Strategy: Keys to Profitability",
+          "dcterms:publisher": "Financial Analysts Journal 36(4):30-41, 1980 (CFA Institute Research and Policy Center)",
+          "schema:url": "https://rpc.cfainstitute.org/research/financial-analysts-journal/1980/industry-structure-and-competitive-strategy-keys-to-profitability",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Competitive Strategy: Techniques for Analyzing Industries and Competitors (abstract)",
+          "dcterms:publisher": "Michael E. Porter, 1980 (record at SSRN)",
+          "schema:url": "https://papers.ssrn.com/abstract=1496175",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Principles of Management, Section 8.4: A Firm's Micro Environment: Porter's Five Forces",
+          "dcterms:publisher": "OpenStax, Rice University (Bright and Cortes, 2019)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/8-4-a-firms-micro-environment-porters-five-forces",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "How much does industry matter?",
+          "dcterms:publisher": "Strategic Management Journal 12(3):167-185, 1991 (record at RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v12y1991i3p167-185.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How Much Does Industry Matter, Really?",
+          "dcterms:publisher": "Strategic Management Journal 18(S1):15-30, 1997 (record at RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v18y1997is1p15-30.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/strategy/porters-five-forces.md",
+      "skos:altLabel": [
+        "Porter's Five Forces",
+        "five forces framework",
+        "five forces model",
+        "five competitive forces",
+        "five forces analysis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:industry-analysis"
+        },
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:generic-competitive-strategies"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:michael-porter"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:how-competitive-forces-shape-strategy-1979"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:structure-conduct-performance-paradigm"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:resource-based-view"
+        }
+      ]
+    },
+    {
       "@id": "kt:switching-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Consumer Switching Costs",

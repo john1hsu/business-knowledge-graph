@@ -1843,6 +1843,29 @@
     ]
   },
   {
+    "id": "kt:porters-five-forces",
+    "title": "Porter's Five Forces: Competitive Forces That Shape Industry Profitability",
+    "aliases": [
+      "Porter's Five Forces",
+      "five forces framework",
+      "five forces model",
+      "five competitive forces",
+      "five forces analysis"
+    ],
+    "type": "Framework",
+    "domain": "strategy",
+    "file": "articles/strategy/porters-five-forces.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://store.hbr.org/product/the-five-competitive-forces-that-shape-strategy/R0801E",
+      "https://rpc.cfainstitute.org/research/financial-analysts-journal/1980/industry-structure-and-competitive-strategy-keys-to-profitability",
+      "https://papers.ssrn.com/abstract=1496175",
+      "https://openstax.org/books/principles-management/pages/8-4-a-firms-micro-environment-porters-five-forces",
+      "https://ideas.repec.org/a/bla/stratm/v12y1991i3p167-185.html",
+      "https://ideas.repec.org/a/bla/stratm/v18y1997is1p15-30.html"
+    ]
+  },
+  {
     "id": "kt:price-elasticity",
     "title": "Price Elasticity",
     "aliases": [

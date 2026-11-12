@@ -37,10 +37,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-production` | `kt:ford-model-t`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
-| `kt:porters-five-forces` | `kt:barriers-to-entry`, `kt:dynamic-capabilities`, `kt:switching-costs` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
+| `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
@@ -99,7 +100,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
-| `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
@@ -108,8 +108,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:total-quality-management` |
-| `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
+| `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
@@ -218,6 +218,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
+| `kt:generic-competitive-strategies` | `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:information-asymmetry` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:glass-lewis` | `kt:proxy-advisory-firm` |
@@ -231,6 +232,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
+| `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
@@ -238,6 +240,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:index-fund` | `kt:efficient-market-hypothesis` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect` |
+| `kt:industry-analysis` | `kt:porters-five-forces` |
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
 | `kt:information-economics` | `kt:information-asymmetry` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
@@ -293,6 +296,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
+| `kt:michael-porter` | `kt:porters-five-forces` |
 | `kt:microsoft` | `kt:revenue-recognition-asc-606` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
@@ -383,7 +387,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:stretch-goals` | `kt:okrs` |
-| `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:tax-incidence` | `kt:price-elasticity` |

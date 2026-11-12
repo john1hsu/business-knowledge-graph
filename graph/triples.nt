@@ -2175,6 +2175,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/knowledge-worker> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-business> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2000/01/rdf-schema#label> "Porter's Five Forces: Competitive Forces That Shape Industry Profitability" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#altLabel> "Porter's Five Forces" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#altLabel> "five competitive forces" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#altLabel> "five forces analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#altLabel> "five forces framework" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#altLabel> "five forces model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/industry-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#definition> "Michael Porter's framework for explaining an industry's long-run profitability through five structural forces: rivalry among existing competitors, the threat of new entrants, the threat of substitutes, and the bargaining power of buyers and of suppliers." .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#prefLabel> "Porter's Five Forces: Competitive Forces That Shape Industry Profitability" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/generic-competitive-strategies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/structure-conduct-performance-paradigm> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/how-competitive-forces-shape-strategy-1979> .
+<https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2000/01/rdf-schema#label> "Price Elasticity" .
@@ -5018,6 +5045,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/JMH-04-2022-0011/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (HBR Store listing), January 2008" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s1> <http://purl.org/dc/terms/title> "The Five Competitive Forces That Shape Strategy (HBR reprint R0801E)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s1> <https://schema.org/url> "https://store.hbr.org/product/the-five-competitive-forces-that-shape-strategy/R0801E" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s2> <http://purl.org/dc/terms/publisher> "Financial Analysts Journal 36(4):30-41, 1980 (CFA Institute Research and Policy Center)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s2> <http://purl.org/dc/terms/title> "Industry Structure and Competitive Strategy: Keys to Profitability" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s2> <https://schema.org/url> "https://rpc.cfainstitute.org/research/financial-analysts-journal/1980/industry-structure-and-competitive-strategy-keys-to-profitability" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s3> <http://purl.org/dc/terms/publisher> "Michael E. Porter, 1980 (record at SSRN)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s3> <http://purl.org/dc/terms/title> "Competitive Strategy: Techniques for Analyzing Industries and Competitors (abstract)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s3> <https://schema.org/url> "https://papers.ssrn.com/abstract=1496175" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s4> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University (Bright and Cortes, 2019)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s4> <http://purl.org/dc/terms/title> "Principles of Management, Section 8.4: A Firm's Micro Environment: Porter's Five Forces" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s4> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/8-4-a-firms-micro-environment-porters-five-forces" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s5> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 12(3):167-185, 1991 (record at RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s5> <http://purl.org/dc/terms/title> "How much does industry matter?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v12y1991i3p167-185.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 18(S1):15-30, 1997 (record at RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <http://purl.org/dc/terms/title> "How Much Does Industry Matter, Really?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v18y1997is1p15-30.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/publisher> "Library of Economics and Liberty (Liberty Fund)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/title> "Principles of Economics, Book III, Chapter IV: The Elasticity of Wants (8th ed., 1920)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
