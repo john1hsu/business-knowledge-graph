@@ -1801,6 +1801,28 @@
     ]
   },
   {
+    "id": "kt:organizational-learning",
+    "title": "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge",
+    "aliases": [
+      "organizational learning",
+      "organisational learning",
+      "learning in organizations",
+      "OL"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/organizational-learning.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://sjbae.pbworks.com/f/levitt_march_1988.pdf",
+      "https://ideas.repec.org/a/inm/ororsc/v2y1991i1p88-115.html",
+      "https://libs.uga.edu/reserves/docs/main-archive/2022/main-fall2022/han-eadu8410e/w6_argyris-teaching-smart-people-how-to-learn.pdf",
+      "https://econpapers.repec.org/RePEc:inm:ormnsc:v:67:y:2021:i:9:p:5399-5429",
+      "https://psnet.ahrq.gov/issue/building-learning-organization",
+      "https://library.alnap.org/node/86300"
+    ]
+  },
+  {
     "id": "kt:peter-drucker",
     "title": "Peter Drucker",
     "aliases": [

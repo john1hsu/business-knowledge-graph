@@ -13,7 +13,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-theory` | `kt:innovation-management`, `kt:contingency-theory-of-leadership`, `kt:henri-fayol`, `kt:peter-drucker`, `kt:situational-leadership` |
-| `kt:organizational-learning` | `kt:andrew-van-de-ven`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
@@ -94,6 +93,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
+| `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:organizational-learning` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
@@ -174,6 +174,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
+| `kt:double-loop-learning` | `kt:organizational-learning` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
 | `kt:ebitda` | `kt:free-cash-flow` |
@@ -257,11 +258,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |
 | `kt:kiichiro-toyoda` | `kt:taiichi-ohno` |
+| `kt:knowledge-transfer` | `kt:organizational-learning` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
 | `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:learning-curve` | `kt:experience-curve` |
+| `kt:learning-organization` | `kt:organizational-learning` |
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
 | `kt:leonard-berry` | `kt:gaps-model-of-service-quality` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
@@ -307,7 +310,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom` |
 | `kt:operations-management` | `kt:total-quality-management` |
-| `kt:organization-theory` | `kt:andrew-van-de-ven` |
+| `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |

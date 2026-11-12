@@ -9381,6 +9381,91 @@
       ]
     },
     {
+      "@id": "kt:organizational-learning",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge",
+      "skos:definition": "The processes by which an organization turns experience, its own and that of others, into knowledge that is stored in routines, memory and people and that changes its later behavior and performance; studied since the 1970s through work by Argyris, March, Huber, Garvin and Argote.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Organizational Learning",
+          "dcterms:publisher": "Annual Review of Sociology 14:319-340 (Levitt and March, 1988)",
+          "schema:url": "https://sjbae.pbworks.com/f/levitt_march_1988.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Organizational Learning: The Contributing Processes and the Literatures",
+          "dcterms:publisher": "Organization Science 2(1):88-115 (Huber, 1991), IDEAS/RePEc record",
+          "schema:url": "https://ideas.repec.org/a/inm/ororsc/v2y1991i1p88-115.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Teaching Smart People How to Learn",
+          "dcterms:publisher": "Harvard Business Review, May-June 1991 (Argyris; University of Georgia Libraries reserve copy)",
+          "schema:url": "https://libs.uga.edu/reserves/docs/main-archive/2022/main-fall2022/han-eadu8410e/w6_argyris-teaching-smart-people-how-to-learn.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Organizational Learning Processes and Outcomes: Major Findings and Future Research Directions",
+          "dcterms:publisher": "Management Science 67(9):5399-5429 (Argote, Lee and Park, 2021), EconPapers record",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ormnsc:v:67:y:2021:i:9:p:5399-5429",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Building a Learning Organization (record)",
+          "dcterms:publisher": "AHRQ Patient Safety Network (PSNet), on Garvin, Harvard Business Review 71(4):78-91, 1993",
+          "schema:url": "https://psnet.ahrq.gov/issue/building-learning-organization",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Is yours a learning organisation?",
+          "dcterms:publisher": "ALNAP Help Library, on Garvin, Edmondson and Gino, Harvard Business Review, March 2008",
+          "schema:url": "https://library.alnap.org/node/86300",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/organizational-learning.md",
+      "skos:altLabel": [
+        "organizational learning",
+        "organisational learning",
+        "learning in organizations",
+        "OL"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organization-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:learning-organization"
+        },
+        {
+          "@id": "kt:double-loop-learning"
+        },
+        {
+          "@id": "kt:experience-curve"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:organizational-memory"
+        },
+        {
+          "@id": "kt:knowledge-transfer"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:psychological-safety"
+        }
+      ]
+    },
+    {
       "@id": "kt:psychological-safety",
       "@type": "kto:Concept",
       "skos:prefLabel": "Psychological Safety",

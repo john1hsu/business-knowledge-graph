@@ -2129,6 +2129,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/exploration-and-exploitation-in-organizational-learning-1991> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2000/01/rdf-schema#label> "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "OL" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "learning in organizations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "organisational learning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#altLabel> "organizational learning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#definition> "The processes by which an organization turns experience, its own and that of others, into knowledge that is stored in routines, memory and people and that changes its later behavior and performance; studied since the 1970s through work by Argyris, March, Huber, Garvin and Argote." .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/double-loop-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/learning-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/knowledge-transfer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-memory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Drucker" .
@@ -4934,6 +4958,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s7> <https://schema.org/url> "https://www.gsb.stanford.edu/insights/secrets-corporate-longevity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s1> <http://purl.org/dc/terms/publisher> "Annual Review of Sociology 14:319-340 (Levitt and March, 1988)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s1> <http://purl.org/dc/terms/title> "Organizational Learning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s1> <https://schema.org/url> "https://sjbae.pbworks.com/f/levitt_march_1988.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s2> <http://purl.org/dc/terms/publisher> "Organization Science 2(1):88-115 (Huber, 1991), IDEAS/RePEc record" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s2> <http://purl.org/dc/terms/title> "Organizational Learning: The Contributing Processes and the Literatures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s2> <https://schema.org/url> "https://ideas.repec.org/a/inm/ororsc/v2y1991i1p88-115.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review, May-June 1991 (Argyris; University of Georgia Libraries reserve copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s3> <http://purl.org/dc/terms/title> "Teaching Smart People How to Learn" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s3> <https://schema.org/url> "https://libs.uga.edu/reserves/docs/main-archive/2022/main-fall2022/han-eadu8410e/w6_argyris-teaching-smart-people-how-to-learn.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s4> <http://purl.org/dc/terms/publisher> "Management Science 67(9):5399-5429 (Argote, Lee and Park, 2021), EconPapers record" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s4> <http://purl.org/dc/terms/title> "Organizational Learning Processes and Outcomes: Major Findings and Future Research Directions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s4> <https://schema.org/url> "https://econpapers.repec.org/RePEc:inm:ormnsc:v:67:y:2021:i:9:p:5399-5429" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s5> <http://purl.org/dc/terms/publisher> "AHRQ Patient Safety Network (PSNet), on Garvin, Harvard Business Review 71(4):78-91, 1993" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s5> <http://purl.org/dc/terms/title> "Building a Learning Organization (record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s5> <https://schema.org/url> "https://psnet.ahrq.gov/issue/building-learning-organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <http://purl.org/dc/terms/publisher> "ALNAP Help Library, on Garvin, Edmondson and Gino, Harvard Business Review, March 2008" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <http://purl.org/dc/terms/title> "Is yours a learning organisation?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <https://schema.org/url> "https://library.alnap.org/node/86300" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://purl.org/dc/terms/title> "Peter F. Drucker" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
