@@ -43,6 +43,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/matching-principle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2000/01/rdf-schema#label> "Activity-Based Costing: Assigning Overhead by Activities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#altLabel> "ABC costing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#altLabel> "activity-based cost accounting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#altLabel> "activity-based costing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/cost-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/managerial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#definition> "A managerial cost-accounting method, popularised by Robin Cooper and Robert S. Kaplan in the late 1980s, that assigns overhead to products, services and customers through multiple activity cost pools and cost drivers instead of a single volume-based rate, to reveal which offerings actually make money." .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Activity-Based Costing: Assigning Overhead by Activities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-s-kaplan> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robin-cooper> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/time-driven-activity-based-costing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/measure-costs-right-make-the-right-decisions-1988> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <http://www.w3.org/2000/01/rdf-schema#label> "Agency Costs" .
@@ -2620,6 +2645,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s6> <https://schema.org/url> "https://www.journalofaccountancy.com/issues/2019/jan/small-business-tax-accounting-methods.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Accounting, Volume 2: Managerial Accounting)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s1> <http://purl.org/dc/terms/title> "6.3 Calculate Activity-Based Product Costs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s1> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/6-3-calculate-activity-based-product-costs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s2> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Accounting, Volume 2: Managerial Accounting)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s2> <http://purl.org/dc/terms/title> "6.4 Compare and Contrast Traditional and Activity-Based Costing Systems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s2> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/6-4-compare-and-contrast-traditional-and-activity-based-costing-systems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s3> <http://purl.org/dc/terms/title> "Measure Costs Right: Make the Right Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s3> <https://schema.org/url> "https://store.hbr.org/product/measure-costs-right-make-the-right-decisions/88503" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s4> <http://purl.org/dc/terms/publisher> "SSRN (Harvard Business School working paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s4> <http://purl.org/dc/terms/title> "Time-Driven Activity-Based Costing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s4> <https://schema.org/url> "https://papers.ssrn.com/abstract=485443" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s5> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s5> <http://purl.org/dc/terms/title> "Rethinking Activity-Based Costing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s5> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/rethinking-activity-based-costing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <http://purl.org/dc/terms/publisher> "PSU Research Review (Emerald)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <http://purl.org/dc/terms/title> "Reasons for not changing to activity-based costing: a survey of Irish firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/prr-12-2016-0017/full/html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s1> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics (course copy, University of Illinois)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s1> <http://purl.org/dc/terms/title> "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

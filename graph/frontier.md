@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-theory` | `kt:innovation-management`, `kt:contingency-theory-of-leadership`, `kt:henri-fayol`, `kt:peter-drucker`, `kt:situational-leadership` |
+| `kt:pricing-strategy` | `kt:activity-based-costing`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
@@ -20,12 +21,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno`, `kt:total-quality-management` |
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
-| `kt:pricing-strategy` | `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:henri-fayol`, `kt:material-requirements-planning`, `kt:total-quality-management` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
+| `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:goal-setting-theory` | `kt:management-by-objectives`, `kt:okrs`, `kt:high-performance-teams` |
@@ -64,7 +65,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contract-theory` | `kt:bengt-holmstrom`, `kt:principal-agent-problem` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
-| `kt:cost-structure` | `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
@@ -101,6 +101,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
+| `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
@@ -162,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
+| `kt:cost-accounting` | `kt:activity-based-costing` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
@@ -280,6 +282,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lyndall-urwick` | `kt:henri-fayol` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
+| `kt:managerial-accounting` | `kt:activity-based-costing` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:market-failure` | `kt:information-asymmetry` |
@@ -292,6 +295,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:mcdonalds` | `kt:business-format-franchising` |
+| `kt:measure-costs-right-make-the-right-decisions-1988` | `kt:activity-based-costing` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:michael-l-katz` | `kt:network-effect` |
@@ -355,7 +359,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-b-wilson` | `kt:bengt-holmstrom` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-noyce` | `kt:intel` |
-| `kt:robert-s-kaplan` | `kt:balanced-scorecard` |
+| `kt:robin-cooper` | `kt:activity-based-costing` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:sam-walton` | `kt:walmart` |
@@ -403,6 +407,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:theory-x-and-theory-y` | `kt:management-by-objectives` |
+| `kt:time-driven-activity-based-costing` | `kt:activity-based-costing` |
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |

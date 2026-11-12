@@ -94,6 +94,100 @@
       ]
     },
     {
+      "@id": "kt:activity-based-costing",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Activity-Based Costing: Assigning Overhead by Activities",
+      "skos:definition": "A managerial cost-accounting method, popularised by Robin Cooper and Robert S. Kaplan in the late 1980s, that assigns overhead to products, services and customers through multiple activity cost pools and cost drivers instead of a single volume-based rate, to reveal which offerings actually make money.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "6.3 Calculate Activity-Based Product Costs",
+          "dcterms:publisher": "OpenStax (Principles of Accounting, Volume 2: Managerial Accounting)",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/6-3-calculate-activity-based-product-costs",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "6.4 Compare and Contrast Traditional and Activity-Based Costing Systems",
+          "dcterms:publisher": "OpenStax (Principles of Accounting, Volume 2: Managerial Accounting)",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/6-4-compare-and-contrast-traditional-and-activity-based-costing-systems",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Measure Costs Right: Make the Right Decisions",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/measure-costs-right-make-the-right-decisions/88503",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Time-Driven Activity-Based Costing",
+          "dcterms:publisher": "SSRN (Harvard Business School working paper)",
+          "schema:url": "https://papers.ssrn.com/abstract=485443",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Rethinking Activity-Based Costing",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/rethinking-activity-based-costing",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Reasons for not changing to activity-based costing: a survey of Irish firms",
+          "dcterms:publisher": "PSU Research Review (Emerald)",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/prr-12-2016-0017/full/html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/activity-based-costing.md",
+      "skos:altLabel": [
+        "activity-based costing",
+        "ABC costing",
+        "activity-based cost accounting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:managerial-accounting"
+        },
+        {
+          "@id": "kt:cost-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:enterprise-resource-planning"
+        },
+        {
+          "@id": "kt:pricing-strategy"
+        },
+        {
+          "@id": "kt:cost-structure"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:robin-cooper"
+        },
+        {
+          "@id": "kt:robert-s-kaplan"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:measure-costs-right-make-the-right-decisions-1988"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:time-driven-activity-based-costing"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:gaap"
+        }
+      ]
+    },
+    {
       "@id": "kt:deferred-revenue",
       "@type": "kto:Concept",
       "skos:prefLabel": "Deferred Revenue",

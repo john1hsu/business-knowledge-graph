@@ -41,6 +41,27 @@
     ]
   },
   {
+    "id": "kt:activity-based-costing",
+    "title": "Activity-Based Costing: Assigning Overhead by Activities",
+    "aliases": [
+      "activity-based costing",
+      "ABC costing",
+      "activity-based cost accounting"
+    ],
+    "type": "Practice",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/activity-based-costing.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://openstax.org/books/principles-managerial-accounting/pages/6-3-calculate-activity-based-product-costs",
+      "https://openstax.org/books/principles-managerial-accounting/pages/6-4-compare-and-contrast-traditional-and-activity-based-costing-systems",
+      "https://store.hbr.org/product/measure-costs-right-make-the-right-decisions/88503",
+      "https://papers.ssrn.com/abstract=485443",
+      "https://www.library.hbs.edu/working-knowledge/rethinking-activity-based-costing",
+      "https://www.emerald.com/insight/content/doi/10.1108/prr-12-2016-0017/full/html"
+    ]
+  },
+  {
     "id": "kt:agency-costs",
     "title": "Agency Costs",
     "aliases": [
