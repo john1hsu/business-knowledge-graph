@@ -4482,6 +4482,93 @@
       ]
     },
     {
+      "@id": "kt:contracting-officer",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Contracting Officer: Warranted Authority to Bind the Government",
+      "skos:definition": "The US federal official who alone may enter into, administer and terminate government contracts, binding the government only within the limits of a written delegation (a warrant, issued on SF 1402).",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Subpart 1.6 - Career Development, Contracting Authority, and Responsibilities",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/far/subpart-1.6",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FAR Overhaul - Part 1 (FAR Part Deviation Guidance, model text)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://acquisition.gov/node/63541",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Federal Crop Ins. Corp. v. Merrill, 332 U.S. 380 (1947)",
+          "dcterms:publisher": "U.S. Supreme Court (via Justia)",
+          "schema:url": "https://supreme.justia.com/us/332/380",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Commerce Acquisition Manual 1301.6: Contracting Certification and Warrant Program",
+          "dcterms:publisher": "U.S. Department of Commerce",
+          "schema:url": "https://www.commerce.gov/sites/default/files/2024-01/CAM%201301.6%20-vF.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Limited Scope Evaluation: GSA OAS Contracting Officer Warrants and FAC-C Certifications (JE15-007)",
+          "dcterms:publisher": "GSA Office of Inspector General",
+          "schema:url": "https://www.gsaig.gov/sites/default/files/ipa-reports/OIG%20EVALUATION_GSA%20OAS%20Contracting%20Officer%20Warrants%20and%20FAC-C%20Certs%20_September%2016%202015.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/contracting-officer.md",
+      "skos:altLabel": [
+        "contracting officer",
+        "CO",
+        "warranted contracting officer",
+        "contracting officer warrant"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:federal-acquisition-certification-in-contracting"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:best-value-tradeoff"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        },
+        {
+          "@id": "kt:indefinite-delivery-indefinite-quantity"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:contracting-officers-representative"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:federal-crop-insurance-corp-v-merrill"
+        }
+      ]
+    },
+    {
       "@id": "kt:federal-acquisition-regulation",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Federal Acquisition Regulation",

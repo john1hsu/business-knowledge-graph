@@ -484,6 +484,27 @@
     ]
   },
   {
+    "id": "kt:contracting-officer",
+    "title": "Contracting Officer: Warranted Authority to Bind the Government",
+    "aliases": [
+      "contracting officer",
+      "CO",
+      "warranted contracting officer",
+      "contracting officer warrant"
+    ],
+    "type": "Concept",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/contracting-officer.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://www.acquisition.gov/far/subpart-1.6",
+      "https://acquisition.gov/node/63541",
+      "https://supreme.justia.com/us/332/380",
+      "https://www.commerce.gov/sites/default/files/2024-01/CAM%201301.6%20-vF.pdf",
+      "https://www.gsaig.gov/sites/default/files/ipa-reports/OIG%20EVALUATION_GSA%20OAS%20Contracting%20Officer%20Warrants%20and%20FAC-C%20Certs%20_September%2016%202015.pdf"
+    ]
+  },
+  {
     "id": "kt:corporate-finance",
     "title": "Corporate Finance: Investment, Financing and Payout Decisions",
     "aliases": [

@@ -566,6 +566,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/fred-fiedler> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/least-preferred-coworker-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2000/01/rdf-schema#label> "Contracting Officer: Warranted Authority to Bind the Government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#altLabel> "CO" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#altLabel> "contracting officer warrant" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#altLabel> "contracting officer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#altLabel> "warranted contracting officer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#definition> "The US federal official who alone may enter into, administer and terminate government contracts, binding the government only within the limits of a written delegation (a warrant, issued on SF 1402)." .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contracting Officer: Warranted Authority to Bind the Government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-certification-in-contracting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/revolutionary-far-overhaul> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officers-representative> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-crop-insurance-corp-v-merrill> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Finance: Investment, Financing and Payout Decisions" .
@@ -3058,6 +3083,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0655102.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <http://purl.org/dc/terms/title> "Subpart 1.6 - Career Development, Contracting Authority, and Responsibilities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <https://schema.org/url> "https://www.acquisition.gov/far/subpart-1.6" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s2> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s2> <http://purl.org/dc/terms/title> "FAR Overhaul - Part 1 (FAR Part Deviation Guidance, model text)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s2> <https://schema.org/url> "https://acquisition.gov/node/63541" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s3> <http://purl.org/dc/terms/publisher> "U.S. Supreme Court (via Justia)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s3> <http://purl.org/dc/terms/title> "Federal Crop Ins. Corp. v. Merrill, 332 U.S. 380 (1947)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s3> <https://schema.org/url> "https://supreme.justia.com/us/332/380" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of Commerce" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s4> <http://purl.org/dc/terms/title> "Commerce Acquisition Manual 1301.6: Contracting Certification and Warrant Program" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s4> <https://schema.org/url> "https://www.commerce.gov/sites/default/files/2024-01/CAM%201301.6%20-vF.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <http://purl.org/dc/terms/publisher> "GSA Office of Inspector General" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <http://purl.org/dc/terms/title> "Limited Scope Evaluation: GSA OAS Contracting Officer Warrants and FAC-C Certifications (JE15-007)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <https://schema.org/url> "https://www.gsaig.gov/sites/default/files/ipa-reports/OIG%20EVALUATION_GSA%20OAS%20Contracting%20Officer%20Warrants%20and%20FAC-C%20Certs%20_September%2016%202015.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 1.1: What Is Finance?" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-finance/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

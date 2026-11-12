@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
-| `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul`, `kt:truth-in-negotiations-act` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle`, `kt:nominal-group-technique` |
@@ -156,6 +155,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contract-pricing` | `kt:truth-in-negotiations-act` |
+| `kt:contracting-officers-representative` | `kt:contracting-officer` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
@@ -194,7 +194,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
+| `kt:federal-acquisition-certification-in-contracting` | `kt:contracting-officer` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
 | `kt:financial-statement-analysis` | `kt:free-cash-flow` |
