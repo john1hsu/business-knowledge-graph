@@ -8183,6 +8183,105 @@
       ]
     },
     {
+      "@id": "kt:transaction-cost-economics",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Transaction Cost Economics: Markets, Hierarchies and the Make-or-Buy Decision",
+      "skos:definition": "The theory, rooted in Ronald Coase's 1937 question of why firms exist and developed by Oliver Williamson, that firms and markets are alternative governance structures and that each transaction is organized in whichever mode economizes on the costs of contracting, with relationship-specific assets pushing activity inside the firm.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 1991",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (nobelprize.org)",
+          "schema:url": "https://nobelprize.org/prizes/economic-sciences/1991/press-release",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Transaction Cost Economics: The Natural Progression (Prize Lecture)",
+          "dcterms:publisher": "Nobel Foundation (nobelprize.org)",
+          "schema:url": "https://nobelprize.org/uploads/2018/06/williamson_lecture.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 2009",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (nobelprize.org)",
+          "schema:url": "https://nobelprize.org/prizes/economic-sciences/2009/press-release",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Empirical Research in Transaction Cost Economics: A Review and Assessment",
+          "dcterms:publisher": "Journal of Law, Economics, & Organization (repository record, University of Missouri MOspace)",
+          "schema:url": "https://mospace.umsystem.edu/xmlui/handle/10355/184",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Supplier Switching Costs and Vertical Integration in the Automobile Industry",
+          "dcterms:publisher": "Stanford Graduate School of Business, Working Paper No. 575",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/working-papers/supplier-switching-costs-vertical-integration-automobile-industry",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Bad for Practice: A Critique of the Transaction Cost Theory",
+          "dcterms:publisher": "Academy of Management Review 21(1), via SUFE academic newsletter record",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/368155",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/transaction-cost-economics.md",
+      "skos:altLabel": [
+        "transaction cost economics",
+        "TCE",
+        "transaction cost theory",
+        "transaction cost theory of the firm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:theory-of-the-firm"
+        },
+        {
+          "@id": "kt:new-institutional-economics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:david-j-teece"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:oliver-williamson"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:ronald-coase"
+        },
+        {
+          "@id": "kt:the-nature-of-the-firm-1937"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:make-or-buy-decision"
+        },
+        {
+          "@id": "kt:vertical-integration"
+        }
+      ]
+    },
+    {
       "@id": "kt:a-parasuraman",
       "@type": "kto:Person",
       "skos:prefLabel": "A. Parasuraman",

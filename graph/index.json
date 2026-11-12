@@ -2533,6 +2533,28 @@
     ]
   },
   {
+    "id": "kt:transaction-cost-economics",
+    "title": "Transaction Cost Economics: Markets, Hierarchies and the Make-or-Buy Decision",
+    "aliases": [
+      "transaction cost economics",
+      "TCE",
+      "transaction cost theory",
+      "transaction cost theory of the firm"
+    ],
+    "type": "Theory",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/transaction-cost-economics.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://nobelprize.org/prizes/economic-sciences/1991/press-release",
+      "https://nobelprize.org/uploads/2018/06/williamson_lecture.pdf",
+      "https://nobelprize.org/prizes/economic-sciences/2009/press-release",
+      "https://mospace.umsystem.edu/xmlui/handle/10355/184",
+      "https://www.gsb.stanford.edu/faculty-research/working-papers/supplier-switching-costs-vertical-integration-automobile-industry",
+      "https://academicnewsletter.sufe.edu.cn/info/368155"
+    ]
+  },
+  {
     "id": "kt:truth-in-negotiations-act",
     "title": "Truth in Negotiations Act",
     "aliases": [

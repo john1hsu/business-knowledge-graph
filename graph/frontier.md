@@ -112,7 +112,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
-| `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
@@ -293,6 +292,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:lyndall-urwick` | `kt:henri-fayol` |
+| `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management` | `kt:management-theory` |
 | `kt:management-consulting` | `kt:structured-problem-solving` |
@@ -327,6 +327,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:net-present-value` | `kt:bcg-growth-share-matrix` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
+| `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
 | `kt:new-market-entry` | `kt:apple-iphone-launch` |
 | `kt:new-product-development` | `kt:cannibalization` |
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
@@ -335,6 +336,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-state-leadership-studies` | `kt:situational-leadership` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom` |
+| `kt:oliver-williamson` | `kt:transaction-cost-economics` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
@@ -381,6 +383,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
+| `kt:ronald-coase` | `kt:transaction-cost-economics` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:sam-walton` | `kt:walmart` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
@@ -422,6 +425,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-market-for-lemons-1970` | `kt:information-asymmetry` |
+| `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:the-pyramid-principle-logic-in-writing-and-thinking` | `kt:pyramid-principle` |
@@ -429,6 +433,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
+| `kt:theory-of-the-firm` | `kt:transaction-cost-economics` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:theory-x-and-theory-y` | `kt:management-by-objectives` |
 | `kt:time-driven-activity-based-costing` | `kt:activity-based-costing` |
@@ -445,6 +450,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:value-based-pricing` | `kt:pricing-strategy` |
 | `kt:value-proposition` | `kt:business-model` |
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
+| `kt:vertical-integration` | `kt:transaction-cost-economics` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
