@@ -2165,6 +2165,27 @@
     ]
   },
   {
+    "id": "kt:scientific-management",
+    "title": "Scientific Management: Taylor's System of Task Study and Standardized Work",
+    "aliases": [
+      "Taylorism",
+      "Taylor system",
+      "scientific management movement"
+    ],
+    "type": "Practice",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/scientific-management.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/3-4-taylor-made-management",
+      "https://www.gutenberg.org/cache/epub/6435/pg6435.html",
+      "https://www.britannica.com/print/article/584820",
+      "https://www.cambridge.org/core/journals/business-history-review/article/abs/scientific-management-systematic-management-and-labor-18801915/0927B752A0EBA186013A4CB44ADAD095",
+      "https://www.emerald.com/insight/content/doi/10.1108/jmh_arc.1998.15804caf.001/full/html",
+      "https://cmr.berkeley.edu/1999/02/41-2-knowledge-worker-productivity-the-biggest-challenge/"
+    ]
+  },
+  {
     "id": "kt:segmentation-targeting-positioning",
     "title": "Segmentation, Targeting and Positioning",
     "aliases": [

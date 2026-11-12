@@ -2242,6 +2242,108 @@
       ]
     },
     {
+      "@id": "kt:scientific-management",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Scientific Management: Taylor's System of Task Study and Standardized Work",
+      "skos:definition": "The approach to running factories that Frederick W. Taylor developed at Midvale and Bethlehem Steel and codified in The Principles of Scientific Management (1911): study each task with the stopwatch, standardize the one best method, select and train workers for it, pay incentives for meeting the standard, and move planning from the shop floor to management.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "3.4 Taylor-Made Management",
+          "dcterms:publisher": "OpenStax, Principles of Management (David S. Bright, Anastasia H. Cortes et al.), 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/3-4-taylor-made-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Principles of Scientific Management",
+          "dcterms:publisher": "Frederick Winslow Taylor, Harper & Brothers, 1911 (Project Gutenberg eBook",
+          "schema:url": "https://www.gutenberg.org/cache/epub/6435/pg6435.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Frederick W. Taylor",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/print/article/584820",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Scientific Management, Systematic Management, and Labor, 1880-1915",
+          "dcterms:publisher": "Business History Review 48(4), 1974, pp. 479-500 (Daniel Nelson)",
+          "schema:url": "https://www.cambridge.org/core/journals/business-history-review/article/abs/scientific-management-systematic-management-and-labor-18801915/0927B752A0EBA186013A4CB44ADAD095",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Letter to the Editor",
+          "dcterms:publisher": "Journal of Management History 4(3), 1998 (Charles D. Wrege)",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/jmh_arc.1998.15804caf.001/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Knowledge-Worker Productivity: The Biggest Challenge",
+          "dcterms:publisher": "California Management Review 41(2), 1999 (Peter F. Drucker)",
+          "schema:url": "https://cmr.berkeley.edu/1999/02/41-2-knowledge-worker-productivity-the-biggest-challenge/",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/scientific-management.md",
+      "skos:altLabel": [
+        "Taylorism",
+        "Taylor system",
+        "scientific management movement"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:henri-fayol"
+        },
+        {
+          "@id": "kt:ford-model-t"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:toyota-production-system"
+        },
+        {
+          "@id": "kt:material-requirements-planning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:frederick-winslow-taylor"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-principles-of-scientific-management"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:systematic-management"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:mass-production"
+        },
+        {
+          "@id": "kt:gantt-chart"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:soldiering"
+        }
+      ]
+    },
+    {
       "@id": "kt:southwest-airlines",
       "@type": "kto:Company",
       "skos:prefLabel": "Southwest Airlines",
