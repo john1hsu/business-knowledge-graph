@@ -23,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management` | `kt:business-model`, `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
+| `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
@@ -48,14 +49,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
-| `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model` |
-| `kt:capital-asset-pricing-model` | `kt:efficient-market-hypothesis`, `kt:weighted-average-cost-of-capital` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:weighted-average-cost-of-capital` |
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
@@ -78,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
+| `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -165,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-accounting` | `kt:activity-based-costing` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
+| `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
@@ -201,6 +202,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:executive-compensation` | `kt:michael-c-jensen` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
+| `kt:fama-french-three-factor-model` | `kt:capital-asset-pricing-model` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:federal-acquisition-certification-in-contracting` | `kt:contracting-officer` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
@@ -241,7 +243,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:independent-director` | `kt:board-of-directors` |
-| `kt:index-fund` | `kt:efficient-market-hypothesis` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect` |
 | `kt:industry-analysis` | `kt:porters-five-forces` |
@@ -260,6 +261,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:job-characteristics-model` | `kt:j-richard-hackman` |
 | `kt:job-enrichment` | `kt:j-richard-hackman` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
+| `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
@@ -307,6 +309,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-porter` | `kt:porters-five-forces` |
 | `kt:microsoft` | `kt:revenue-recognition-asc-606` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
+| `kt:modern-portfolio-theory` | `kt:capital-asset-pricing-model` |
 | `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
@@ -434,4 +437,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
+| `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |

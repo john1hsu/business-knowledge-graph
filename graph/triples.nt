@@ -623,6 +623,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hard-disk-drive-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
 <https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/cross-price-elasticity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2000/01/rdf-schema#label> "Capital Asset Pricing Model: Pricing Systematic Risk" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#altLabel> "CAPM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#altLabel> "Sharpe-Lintner CAPM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#altLabel> "capital asset pricing model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/asset-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#definition> "An equilibrium model of asset prices, published by William Sharpe in 1964 and also credited to John Lintner, holding that an asset's expected return equals the risk-free rate plus its beta times the market risk premium, so investors are paid only for risk that diversification cannot remove." .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capital Asset Pricing Model: Pricing Systematic Risk" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/index-fund> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/fama-french-three-factor-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/cost-of-equity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/john-lintner> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/william-sharpe> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modern-portfolio-theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton Christensen" .
@@ -3397,6 +3421,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cannibalization/s6> <https://schema.org/url> "https://store.hbr.org/product/the-best-companies-aren-t-afraid-to-replace-their-most-profitable-products/H0307I" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s1> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives (Dartmouth Digital Commons record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s1> <http://purl.org/dc/terms/title> "The Capital Asset Pricing Model: Theory and Evidence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s1> <https://schema.org/url> "https://digitalcommons.dartmouth.edu/facoa/2439" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s2> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (NobelPrize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s2> <http://purl.org/dc/terms/title> "Press release: The Prize in Economic Sciences 1990" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s2> <https://schema.org/url> "https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1990/press.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Finance 2e" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s3> <http://purl.org/dc/terms/title> "15.3 The Capital Asset Pricing Model (CAPM)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s3> <https://schema.org/url> "https://openstax.org/books/principles-finance-2e/pages/15-3-the-capital-asset-pricing-model-capm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s4> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s4> <http://purl.org/dc/terms/title> "How the capital asset pricing model (CAPM) changed investing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s4> <https://schema.org/url> "https://eb.com/money/what-is-the-capital-asset-pricing-model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <http://purl.org/dc/terms/title> "Professor William Sharpe Shares Nobel Prize in Economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <https://schema.org/url> "https://www.gsb.stanford.edu/experience/news-history/professor-william-sharpe-shares-nobel-prize-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/title> "Clayton M. Christensen, Acclaimed Author and Teacher, Dies at 67" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

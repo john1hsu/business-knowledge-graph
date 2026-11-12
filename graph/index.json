@@ -527,6 +527,26 @@
     ]
   },
   {
+    "id": "kt:capital-asset-pricing-model",
+    "title": "Capital Asset Pricing Model: Pricing Systematic Risk",
+    "aliases": [
+      "CAPM",
+      "capital asset pricing model",
+      "Sharpe-Lintner CAPM"
+    ],
+    "type": "Theory",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/capital-asset-pricing-model.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://digitalcommons.dartmouth.edu/facoa/2439",
+      "https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1990/press.html",
+      "https://openstax.org/books/principles-finance-2e/pages/15-3-the-capital-asset-pricing-model-capm",
+      "https://eb.com/money/what-is-the-capital-asset-pricing-model",
+      "https://www.gsb.stanford.edu/experience/news-history/professor-william-sharpe-shares-nobel-prize-economics"
+    ]
+  },
+  {
     "id": "kt:clayton-christensen",
     "title": "Clayton Christensen",
     "aliases": [
