@@ -463,6 +463,26 @@
     ]
   },
   {
+    "id": "kt:business-model",
+    "title": "Business Model: How a Firm Creates, Delivers and Captures Value",
+    "aliases": [
+      "business model",
+      "business model concept",
+      "business model design"
+    ],
+    "type": "Concept",
+    "domain": "business-models",
+    "file": "articles/business-models/business-model.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://www.kth.se/social/upload/528c4881f2765458b97a9368/Teece%20%282010%29.pdf",
+      "https://kth.se/social/files/546b8dc8f276546612331a6d/Casadesus-Mansanell+%26+Ricart+(2010).pdf",
+      "https://hbswk.hbs.edu/item/from-strategy-to-business-models-and-to-tactics",
+      "https://www.iese.edu/media/research/pdfs/DI-0862-E.pdf",
+      "https://kth.se/social/files/546b8d4cf27654577c218c4c/Johnson+et+al+%282008%29.pdf"
+    ]
+  },
+  {
     "id": "kt:business-roundtable-statement-on-corporate-purpose",
     "title": "Business Roundtable Statement on the Purpose of a Corporation",
     "aliases": [

@@ -2525,6 +2525,94 @@
       ]
     },
     {
+      "@id": "kt:business-model",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Business Model: How a Firm Creates, Delivers and Captures Value",
+      "skos:definition": "The conceptual architecture of how a firm creates value for customers, delivers it, and captures part of that value as profit; a system of choices and their consequences that sits between strategy and tactics.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Business Models, Business Strategy and Innovation",
+          "dcterms:publisher": "Long Range Planning 43 (2010), pp. 172–194 (author copy hosted by KTH)",
+          "schema:url": "https://www.kth.se/social/upload/528c4881f2765458b97a9368/Teece%20%282010%29.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "From Strategy to Business Models and onto Tactics",
+          "dcterms:publisher": "Long Range Planning 43 (2010), pp. 195–215 (author copy hosted by KTH)",
+          "schema:url": "https://kth.se/social/files/546b8dc8f276546612331a6d/Casadesus-Mansanell+%26+Ricart+(2010).pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "From Strategy to Business Models and to Tactics (HBS Working Paper 10-036)",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://hbswk.hbs.edu/item/from-strategy-to-business-models-and-to-tactics",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Business Model: Theoretical Roots, Recent Developments, and Future Research (WP-862)",
+          "dcterms:publisher": "IESE Business School, University of Navarra",
+          "schema:url": "https://www.iese.edu/media/research/pdfs/DI-0862-E.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Reinventing Your Business Model",
+          "dcterms:publisher": "Harvard Business Review, December 2008 (copy hosted by KTH)",
+          "schema:url": "https://kth.se/social/files/546b8d4cf27654577c218c4c/Johnson+et+al+%282008%29.pdf",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/business-models/business-model.md",
+      "skos:altLabel": [
+        "business model",
+        "business model concept",
+        "business model design"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:business-model-innovation"
+        },
+        {
+          "@id": "kt:value-proposition"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        },
+        {
+          "@id": "kt:razor-and-blades-model"
+        },
+        {
+          "@id": "kt:freemium"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:david-j-teece"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:competitive-strategy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:southwest-airlines"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:direct-selling",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Direct Selling",
