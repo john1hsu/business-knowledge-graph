@@ -1466,6 +1466,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/edward-s-mason> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/jean-tirole> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joe-s-bain> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2000/01/rdf-schema#label> "Innovation Management: Organizing the Innovation Process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#altLabel> "innovation management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#altLabel> "management of innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#altLabel> "management of technology and innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#altLabel> "managing innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#definition> "The managerial discipline of deciding which kinds of innovation an organization pursues and of building the strategy, processes, structures and culture through which new ideas are sourced, selected, developed and turned into value, as distinct from any single innovation outcome." .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#prefLabel> "Innovation Management: Organizing the Innovation Process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> .
+<https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/central-problems-in-the-management-of-innovation-1986> .
 <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Work> .
 <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> <http://www.w3.org/2000/01/rdf-schema#label> "The Innovator's Dilemma" .
@@ -4050,6 +4073,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s4> <https://schema.org/url> "https://www.kva.se/en/news/ekonomipriset-2014-2/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s1> <http://purl.org/dc/terms/publisher> "Management Science 32(5):590-607 (University of Minnesota Experts record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s1> <http://purl.org/dc/terms/title> "Central Problems in the Management of Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s1> <https://schema.org/url> "https://experts.umn.edu/en/publications/central-problems-in-the-management-of-innovation/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s2> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s2> <http://purl.org/dc/terms/title> "Principles of Management, 18.1 MTI: Its Importance Now and in the Future" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/18-1-mti-its-importance-now-and-in-the-future" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s3> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s3> <http://purl.org/dc/terms/title> "Principles of Management, 18.2 Developing Technology and Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s3> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/18-2-developing-technology-and-innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s4> <http://purl.org/dc/terms/publisher> "Gary P. Pisano (author's site)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s4> <http://purl.org/dc/terms/title> "Your Innovation Strategy Doesn't Need Disruption" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s4> <https://schema.org/url> "https://gpisano.com/innovation-strategy-need-disruption/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s5> <http://purl.org/dc/terms/publisher> "International Organization for Standardization (ISO/TC 279)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s5> <http://purl.org/dc/terms/title> "ISO 56001:2024 Innovation management system — Requirements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s5> <https://schema.org/url> "https://committee.iso.org/standard/79278.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s6> <http://purl.org/dc/terms/publisher> "Project Management Institute (Annual Seminars & Symposium paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s6> <http://purl.org/dc/terms/title> "Accelerating Product Developments via Phase-Gate Processes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/innovation-management/s6> <https://schema.org/url> "https://www.pmi.org/learning/library/phase-gate-processes-promising-complex-547" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Faculty & Research" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <http://purl.org/dc/terms/title> "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/innovators-dilemma/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

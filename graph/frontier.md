@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:corporate-finance`, `kt:michael-c-jensen` |
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:devils-advocacy`, `kt:groupthink` |
-| `kt:innovation-management` | `kt:andrew-van-de-ven`, `kt:clayton-christensen`, `kt:disruptive-innovation`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:innovators-dilemma`, `kt:jobs-to-be-done`, `kt:organizational-ambidexterity` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul`, `kt:truth-in-negotiations-act` |
@@ -14,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle`, `kt:nominal-group-technique` |
 | `kt:information-asymmetry` | `kt:audit-committee`, `kt:direct-selling`, `kt:truth-in-negotiations-act`, `kt:principal-agent-problem`, `kt:bullwhip-effect` |
+| `kt:management-theory` | `kt:innovation-management`, `kt:contingency-theory-of-leadership`, `kt:henri-fayol`, `kt:peter-drucker`, `kt:situational-leadership` |
 | `kt:organizational-learning` | `kt:andrew-van-de-ven`, `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:organizational-ambidexterity`, `kt:amy-edmondson`, `kt:psychological-safety` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
@@ -23,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
-| `kt:management-theory` | `kt:contingency-theory-of-leadership`, `kt:henri-fayol`, `kt:peter-drucker`, `kt:situational-leadership` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:netflix-business-model-shift`, `kt:membership-warehouse-club`, `kt:saas-business-model` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
@@ -147,6 +146,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:churn-rate` | `kt:saas-business-model` |
 | `kt:cisco-systems` | `kt:bill-of-materials` |
@@ -357,6 +357,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
 | `kt:span-of-control` | `kt:situational-leadership` |
 | `kt:spotify` | `kt:freemium` |
+| `kt:stage-gate-process` | `kt:innovation-management` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
 | `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
