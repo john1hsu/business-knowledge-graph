@@ -2211,6 +2211,26 @@
     ]
   },
   {
+    "id": "kt:total-quality-management",
+    "title": "Total Quality Management: Companywide Quality as a Management System",
+    "aliases": [
+      "Total Quality Management",
+      "TQM"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/total-quality-management.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://openstax.org/books/introduction-business-2e/pages/10-6-looking-for-a-better-way-improving-production-and-operations",
+      "https://asq.org/quality-resources/total-quality-management/tqm-history",
+      "https://deming.org/timeline/",
+      "https://academicnewsletter.sufe.edu.cn/info/367010",
+      "https://ideas.repec.org/a/bla/stratm/v16y1995i1p15-37.html",
+      "https://ideas.repec.org/a/inm/ormnsc/v47y2001i3p359-368.html"
+    ]
+  },
+  {
     "id": "kt:truth-in-negotiations-act",
     "title": "Truth in Negotiations Act",
     "aliases": [

@@ -5473,6 +5473,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://schema.org/url> "https://www.apo-tokyo.org/?p=1983" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Introduction to Business 2e" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <http://purl.org/dc/terms/title> "10.6 Looking for a Better Way: Improving Production and Operations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/10-6-looking-for-a-better-way-improving-production-and-operations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s2> <http://purl.org/dc/terms/publisher> "American Society for Quality (ASQ)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s2> <http://purl.org/dc/terms/title> "TQM History" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s2> <https://schema.org/url> "https://asq.org/quality-resources/total-quality-management/tqm-history" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s3> <http://purl.org/dc/terms/publisher> "The W. Edwards Deming Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s3> <http://purl.org/dc/terms/title> "Humble Beginnings & A Big Influence (Deming timeline)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s3> <https://schema.org/url> "https://deming.org/timeline/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s4> <http://purl.org/dc/terms/publisher> "Administrative Science Quarterly (record via SUFE Academic Newsletter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s4> <http://purl.org/dc/terms/title> "Total Quality Management: Empirical, Conceptual, and Practical Issues (Hackman & Wageman, Administrative Science Quarterly, 1995)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s4> <https://schema.org/url> "https://academicnewsletter.sufe.edu.cn/info/367010" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s5> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s5> <http://purl.org/dc/terms/title> "Total quality management as competitive advantage: A review and empirical study (Powell, 1995)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v16y1995i1p15-37.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <http://purl.org/dc/terms/publisher> "Management Science (record via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <http://purl.org/dc/terms/title> "The Long-Run Stock Price Performance of Firms with Effective TQM Programs (Hendricks & Singhal, 2001)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <https://schema.org/url> "https://ideas.repec.org/a/inm/ormnsc/v47y2001i3p359-368.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://purl.org/dc/terms/title> "15.403-4 Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -5712,6 +5742,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-ford> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kiichiro-toyoda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2000/01/rdf-schema#label> "Total Quality Management: Companywide Quality as a Management System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#altLabel> "TQM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#altLabel> "Total Quality Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#definition> "An organization-wide management philosophy, rooted in the statistical quality work of Deming, Juran and Ishikawa in postwar Japan, that makes every function responsible for quality and pursues continuous, data-driven improvement of processes in the service of customers." .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Quality Management: Companywide Quality as a Management System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/statistical-process-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-motor-company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kaoru-ishikawa> .
+<https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
 <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2000/01/rdf-schema#label> "Truth in Negotiations Act" .

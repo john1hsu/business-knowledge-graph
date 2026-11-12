@@ -8638,6 +8638,108 @@
       ]
     },
     {
+      "@id": "kt:total-quality-management",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Total Quality Management: Companywide Quality as a Management System",
+      "skos:definition": "An organization-wide management philosophy, rooted in the statistical quality work of Deming, Juran and Ishikawa in postwar Japan, that makes every function responsible for quality and pursues continuous, data-driven improvement of processes in the service of customers.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "10.6 Looking for a Better Way: Improving Production and Operations",
+          "dcterms:publisher": "OpenStax, Introduction to Business 2e",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/10-6-looking-for-a-better-way-improving-production-and-operations",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "TQM History",
+          "dcterms:publisher": "American Society for Quality (ASQ)",
+          "schema:url": "https://asq.org/quality-resources/total-quality-management/tqm-history",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Humble Beginnings & A Big Influence (Deming timeline)",
+          "dcterms:publisher": "The W. Edwards Deming Institute",
+          "schema:url": "https://deming.org/timeline/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Total Quality Management: Empirical, Conceptual, and Practical Issues (Hackman & Wageman, Administrative Science Quarterly, 1995)",
+          "dcterms:publisher": "Administrative Science Quarterly (record via SUFE Academic Newsletter)",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/367010",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Total quality management as competitive advantage: A review and empirical study (Powell, 1995)",
+          "dcterms:publisher": "Strategic Management Journal (record via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v16y1995i1p15-37.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Long-Run Stock Price Performance of Firms with Effective TQM Programs (Hendricks & Singhal, 2001)",
+          "dcterms:publisher": "Management Science (record via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/inm/ormnsc/v47y2001i3p359-368.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/total-quality-management.md",
+      "skos:altLabel": [
+        "Total Quality Management",
+        "TQM"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:hoshin-kanri"
+        },
+        {
+          "@id": "kt:malcolm-baldrige-national-quality-award"
+        },
+        {
+          "@id": "kt:benchmarking"
+        },
+        {
+          "@id": "kt:ishikawa-diagram"
+        },
+        {
+          "@id": "kt:six-sigma"
+        },
+        {
+          "@id": "kt:lean-manufacturing"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:w-edwards-deming"
+        },
+        {
+          "@id": "kt:joseph-juran"
+        },
+        {
+          "@id": "kt:kaoru-ishikawa"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:statistical-process-control"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:scientific-management"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ford-motor-company"
+        }
+      ]
+    },
+    {
       "@id": "kt:amy-edmondson",
       "@type": "kto:Person",
       "skos:prefLabel": "Amy Edmondson",
