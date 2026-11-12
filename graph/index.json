@@ -2273,6 +2273,27 @@
     ]
   },
   {
+    "id": "kt:scenario-planning",
+    "title": "Scenario Planning: Strategy for Multiple Plausible Futures",
+    "aliases": [
+      "scenario planning",
+      "scenario analysis",
+      "scenario-based planning",
+      "Shell scenarios",
+      "decision scenarios"
+    ],
+    "type": "Practice",
+    "domain": "strategy",
+    "file": "articles/strategy/scenario-planning.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://wiki.santafe.edu/images/d/d9/Wack.pdf",
+      "https://sloanreview.mit.edu/article/scenario-planning-a-tool-for-strategic-thinking",
+      "https://www.rolandkupers.com/wp-content/uploads/2018/10/HBR-futures-May-2013.pdf",
+      "https://dspace.mit.edu/handle/1721.1/96020"
+    ]
+  },
+  {
     "id": "kt:scientific-management",
     "title": "Scientific Management: Taylor's System of Task Study and Standardized Work",
     "aliases": [

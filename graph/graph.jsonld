@@ -11437,6 +11437,98 @@
       ]
     },
     {
+      "@id": "kt:scenario-planning",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Scenario Planning: Strategy for Multiple Plausible Futures",
+      "skos:definition": "A strategic-planning practice, pioneered at Royal Dutch/Shell in the late 1960s and early 1970s, in which managers build a small set of internally consistent, plausible stories about how the business environment could unfold and use them to test strategies and challenge their own assumptions, rather than relying on a single forecast.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Scenarios: Uncharted Waters Ahead",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://wiki.santafe.edu/images/d/d9/Wack.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Scenario Planning: A Tool for Strategic Thinking",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/scenario-planning-a-tool-for-strategic-thinking",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Living in the Futures: How Scenario Planning Changed Corporate Strategy",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://www.rolandkupers.com/wp-content/uploads/2018/10/HBR-futures-May-2013.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Effect of scenario planning on field experts' judgment of long-range investment decisions",
+          "dcterms:publisher": "Strategic Management Journal (MIT DSpace open-access copy)",
+          "schema:url": "https://dspace.mit.edu/handle/1721.1/96020",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/strategy/scenario-planning.md",
+      "skos:altLabel": [
+        "scenario planning",
+        "scenario analysis",
+        "scenario-based planning",
+        "Shell scenarios",
+        "decision scenarios"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        },
+        {
+          "@id": "kt:strategic-planning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:groupthink"
+        },
+        {
+          "@id": "kt:delphi-method"
+        },
+        {
+          "@id": "kt:real-options"
+        },
+        {
+          "@id": "kt:hoshin-kanri"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:pierre-wack"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:scenarios-uncharted-waters-ahead-1985"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:royal-dutch-shell"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:overconfidence-bias"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:forecasting"
+        }
+      ]
+    },
+    {
       "@id": "kt:switching-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Consumer Switching Costs",

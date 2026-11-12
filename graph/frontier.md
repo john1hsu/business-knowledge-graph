@@ -11,13 +11,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
+| `kt:strategic-management` | `kt:business-model`, `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces`, `kt:scenario-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
-| `kt:strategic-management` | `kt:business-model`, `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
@@ -25,6 +25,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
+| `kt:delphi-method` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven`, `kt:scenario-planning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
@@ -65,7 +66,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
-| `kt:delphi-method` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
@@ -219,6 +219,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-motor-company` | `kt:total-quality-management` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |
+| `kt:forecasting` | `kt:scenario-planning` |
 | `kt:fred-fiedler` | `kt:contingency-theory-of-leadership` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
@@ -345,6 +346,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
+| `kt:overconfidence-bias` | `kt:scenario-planning` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
@@ -353,6 +355,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
+| `kt:pierre-wack` | `kt:scenario-planning` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:portfolio-planning` | `kt:bcg-growth-share-matrix` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
@@ -374,6 +377,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
+| `kt:real-options` | `kt:scenario-planning` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
@@ -389,10 +393,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robin-cooper` | `kt:activity-based-costing` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:ronald-coase` | `kt:transaction-cost-economics` |
+| `kt:royal-dutch-shell` | `kt:scenario-planning` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:sam-walton` | `kt:walmart` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:say-on-pay` | `kt:proxy-advisory-firm` |
+| `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:scqa-framework` | `kt:pyramid-principle` |
 | `kt:screening-theory` | `kt:information-asymmetry` |
@@ -420,6 +426,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
 | `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
+| `kt:strategic-planning` | `kt:scenario-planning` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |

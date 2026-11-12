@@ -2686,6 +2686,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/public-company-accounting-oversight-board> .
 <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Scenario Planning: Strategy for Multiple Plausible Futures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "Shell scenarios" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "decision scenarios" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "scenario analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "scenario planning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#altLabel> "scenario-based planning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#definition> "A strategic-planning practice, pioneered at Royal Dutch/Shell in the late 1960s and early 1970s, in which managers build a small set of internally consistent, plausible stories about how the business environment could unfold and use them to test strategies and challenge their own assumptions, rather than relying on a single forecast." .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#prefLabel> "Scenario Planning: Strategy for Multiple Plausible Futures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/real-options> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/forecasting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/pierre-wack> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/royal-dutch-shell> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/scenarios-uncharted-waters-ahead-1985> .
+<https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> .
 <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> <http://www.w3.org/2000/01/rdf-schema#label> "Scientific Management: Taylor's System of Task Study and Standardized Work" .
@@ -5887,6 +5914,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/sarbanes-oxley-act/s7> <https://schema.org/url> "https://www.everycrsreport.com/reports/RL31483.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s1> <http://purl.org/dc/terms/title> "Scenarios: Uncharted Waters Ahead" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s1> <https://schema.org/url> "https://wiki.santafe.edu/images/d/d9/Wack.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s2> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s2> <http://purl.org/dc/terms/title> "Scenario Planning: A Tool for Strategic Thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s2> <https://schema.org/url> "https://sloanreview.mit.edu/article/scenario-planning-a-tool-for-strategic-thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s3> <http://purl.org/dc/terms/title> "Living in the Futures: How Scenario Planning Changed Corporate Strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s3> <https://schema.org/url> "https://www.rolandkupers.com/wp-content/uploads/2018/10/HBR-futures-May-2013.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s4> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (MIT DSpace open-access copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s4> <http://purl.org/dc/terms/title> "Effect of scenario planning on field experts' judgment of long-range investment decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/scenario-planning/s4> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/96020" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/scientific-management/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management (David S. Bright, Anastasia H. Cortes et al.), 2019" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/scientific-management/s1> <http://purl.org/dc/terms/title> "3.4 Taylor-Made Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/scientific-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
