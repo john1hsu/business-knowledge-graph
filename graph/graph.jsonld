@@ -6920,6 +6920,94 @@
       ]
     },
     {
+      "@id": "kt:management-theory",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Management Theory: From Classical Administration to Systems and Contingency Thinking",
+      "skos:definition": "The body of ideas that explains how organizations should be planned, organized, led and controlled, which developed from classical scientific, administrative and bureaucratic management through the human relations movement to systems and contingency theory and today's evidence-based management.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "3.5 Administrative and Bureaucratic Management",
+          "dcterms:publisher": "OpenStax, Principles of Management, 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/3-5-administrative-and-bureaucratic-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "3.6 Human Relations Movement",
+          "dcterms:publisher": "OpenStax, Principles of Management, 2019",
+          "schema:url": "https://www.openstax.org/books/principles-management/pages/3-6-human-relations-movement",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "3.7 Contingency and System Management",
+          "dcterms:publisher": "OpenStax, Principles of Management, 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/3-7-contingency-and-system-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Management Theory Jungle (Harold Koontz, Academy of Management Journal 4(3):174-188, 1961; doi:10.2307/254541)",
+          "dcterms:publisher": "Academy of Management (record via Scilit)",
+          "schema:url": "https://scilit.com/publications/a0f59a683d478e6e08c379885c62f304",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "General Systems Theory: Applications for Organization and Management (Academy of Management Journal 15(4):447-465, 1972; doi:10.5465/255141)",
+          "dcterms:publisher": "Academy of Management (record via Scilit)",
+          "schema:url": "https://scilit.com/publications/1f40545c8168802d0ef371d88248e91a",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Summary of Koontz, The Management Theory Jungle",
+          "dcterms:publisher": "James R. Martin, Professor Emeritus, University of South Florida (Management and Accounting Web)",
+          "schema:url": "https://l.maaw.info/ArticleSummaries/ArtSumKoontz61.htm",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Chapter 3 Introduction: The History of Management",
+          "dcterms:publisher": "OpenStax, Principles of Management, 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/3-introduction",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/management-theory.md",
+      "skos:altLabel": [
+        "management thought",
+        "schools of management thought",
+        "history of management thought",
+        "evolution of management theory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organization-theory"
+        },
+        {
+          "@id": "kt:hawthorne-studies"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:scientific-management"
+        },
+        {
+          "@id": "kt:human-relations-movement"
+        },
+        {
+          "@id": "kt:contingency-theory"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:henri-fayol"
+        }
+      ]
+    },
+    {
       "@id": "kt:okrs",
       "@type": "kto:Framework",
       "skos:prefLabel": "Objectives and Key Results (OKRs)",

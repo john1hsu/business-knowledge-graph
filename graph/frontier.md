@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
-| `kt:management-theory` | `kt:scientific-management`, `kt:innovation-management`, `kt:contingency-theory-of-leadership`, `kt:henri-fayol`, `kt:peter-drucker`, `kt:situational-leadership` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:pricing-strategy` | `kt:activity-based-costing`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
@@ -34,6 +33,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno` |
+| `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -94,7 +94,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
-| `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:organizational-learning` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
@@ -157,6 +156,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:complementary-assets` | `kt:david-j-teece` |
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
+| `kt:contingency-theory` | `kt:management-theory` |
 | `kt:contract-pricing` | `kt:truth-in-negotiations-act` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
@@ -231,6 +231,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
+| `kt:hawthorne-studies` | `kt:management-theory` |
 | `kt:henry-mintzberg` | `kt:henri-fayol` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
@@ -239,6 +240,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
+| `kt:human-relations-movement` | `kt:management-theory` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
@@ -285,6 +287,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:lyndall-urwick` | `kt:henri-fayol` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
+| `kt:management` | `kt:management-theory` |
 | `kt:management-consulting` | `kt:structured-problem-solving` |
 | `kt:management-control-systems` | `kt:balanced-scorecard` |
 | `kt:managerial-accounting` | `kt:activity-based-costing` |

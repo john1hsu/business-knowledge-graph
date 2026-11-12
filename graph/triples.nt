@@ -1967,6 +1967,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> .
 <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Management Theory: From Classical Administration to Systems and Contingency Thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "evolution of management theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "history of management thought" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "management thought" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "schools of management thought" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#definition> "The body of ideas that explains how organizations should be planned, organized, led and controlled, which developed from classical scientific, administrative and bureaucratic management through the human relations movement to systems and contingency theory and today's evidence-based management." .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Management Theory: From Classical Administration to Systems and Contingency Thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/human-relations-movement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Material Requirements Planning" .
@@ -4936,6 +4960,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <https://schema.org/url> "https://www.hewlettpackardhistory.com/item/management-by-objective/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management, 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s1> <http://purl.org/dc/terms/title> "3.5 Administrative and Bureaucratic Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s1> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/3-5-administrative-and-bureaucratic-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management, 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s2> <http://purl.org/dc/terms/title> "3.6 Human Relations Movement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s2> <https://schema.org/url> "https://www.openstax.org/books/principles-management/pages/3-6-human-relations-movement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management, 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s3> <http://purl.org/dc/terms/title> "3.7 Contingency and System Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s3> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/3-7-contingency-and-system-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s4> <http://purl.org/dc/terms/publisher> "Academy of Management (record via Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s4> <http://purl.org/dc/terms/title> "The Management Theory Jungle (Harold Koontz, Academy of Management Journal 4(3):174-188, 1961; doi:10.2307/254541)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s4> <https://schema.org/url> "https://scilit.com/publications/a0f59a683d478e6e08c379885c62f304" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s5> <http://purl.org/dc/terms/publisher> "Academy of Management (record via Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s5> <http://purl.org/dc/terms/title> "General Systems Theory: Applications for Organization and Management (Academy of Management Journal 15(4):447-465, 1972; doi:10.5465/255141)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s5> <https://schema.org/url> "https://scilit.com/publications/1f40545c8168802d0ef371d88248e91a" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s6> <http://purl.org/dc/terms/publisher> "James R. Martin, Professor Emeritus, University of South Florida (Management and Accounting Web)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s6> <http://purl.org/dc/terms/title> "Summary of Koontz, The Management Theory Jungle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s6> <https://schema.org/url> "https://l.maaw.info/ArticleSummaries/ArtSumKoontz61.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management, 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <http://purl.org/dc/terms/title> "Chapter 3 Introduction: The History of Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/3-introduction" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/title> "Materials Requirements Planning (MRP)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
