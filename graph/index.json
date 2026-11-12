@@ -1862,6 +1862,29 @@
     ]
   },
   {
+    "id": "kt:pyramid-principle",
+    "title": "Pyramid Principle: Top-Down Structured Communication",
+    "aliases": [
+      "Pyramid Principle",
+      "Minto Pyramid Principle",
+      "Minto Pyramid",
+      "Minto approach"
+    ],
+    "type": "Framework",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/pyramid-principle.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://www.mckinsey.com/alumni/news-and-insights/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it",
+      "https://barbaraminto.com/concept",
+      "https://barbaraminto.com/textbook",
+      "https://www.monash.edu/student-academic-success/excel-at-writing/how-to-write/business-paper-using-the-minto-approach",
+      "https://www.dshs.texas.gov/sites/default/files/hivstd/qm/files/202107SomeAssemblyRequired.pdf",
+      "https://www.maine.gov/dvem/policies/documents/AR%2025-50%20(10%20October%202020).pdf",
+      "https://kpu.pressbooks.pub/businesswriting/chapter/delivering-a-bad-news-message/"
+    ]
+  },
+  {
     "id": "kt:razor-and-blades-model",
     "title": "Razor and Blades",
     "aliases": [

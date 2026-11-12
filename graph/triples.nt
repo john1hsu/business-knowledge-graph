@@ -2198,6 +2198,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/oecd-recommendation-on-public-procurement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/agreement-on-government-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2000/01/rdf-schema#label> "Pyramid Principle: Top-Down Structured Communication" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#altLabel> "Minto Pyramid Principle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#altLabel> "Minto Pyramid" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#altLabel> "Minto approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#altLabel> "Pyramid Principle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-communication> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#definition> "Barbara Minto's method for organizing business writing and presentations as a pyramid of ideas: a single governing conclusion at the top, supported by logically grouped arguments and then evidence, presented top-down and usually introduced with a situation-complication-question story." .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pyramid Principle: Top-Down Structured Communication" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bottom-line-up-front> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/indirect-approach> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/barbara-minto> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/mece-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/scqa-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-pyramid-principle-logic-in-writing-and-thinking> .
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <http://www.w3.org/2000/01/rdf-schema#label> "Razor and Blades" .
@@ -4918,6 +4946,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://schema.org/url> "https://nber.org/papers/w23350" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <http://purl.org/dc/terms/publisher> "McKinsey & Company (Alumni News)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <http://purl.org/dc/terms/title> "Barbara Minto: 'MECE: I invented it, so I get to say how to pronounce it'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <https://schema.org/url> "https://www.mckinsey.com/alumni/news-and-insights/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s2> <http://purl.org/dc/terms/publisher> "Barbara Minto (barbaraminto.com)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s2> <http://purl.org/dc/terms/title> "The Minto Pyramid Principle: Concept" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s2> <https://schema.org/url> "https://barbaraminto.com/concept" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s3> <http://purl.org/dc/terms/publisher> "Barbara Minto (barbaraminto.com)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s3> <http://purl.org/dc/terms/title> "The Minto Pyramid Principle: Textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s3> <https://schema.org/url> "https://barbaraminto.com/textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s4> <http://purl.org/dc/terms/publisher> "Monash University (Student Academic Success)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s4> <http://purl.org/dc/terms/title> "Business paper using the Minto approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s4> <https://schema.org/url> "https://www.monash.edu/student-academic-success/excel-at-writing/how-to-write/business-paper-using-the-minto-approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s5> <http://purl.org/dc/terms/publisher> "Quality Progress (ASQ), reproduced by Texas Department of State Health Services" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s5> <http://purl.org/dc/terms/title> "Some Assembly Required: Structured problem solving demands structured communication" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s5> <https://schema.org/url> "https://www.dshs.texas.gov/sites/default/files/hivstd/qm/files/202107SomeAssemblyRequired.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s6> <http://purl.org/dc/terms/publisher> "Headquarters, Department of the Army (copy hosted by Maine.gov)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s6> <http://purl.org/dc/terms/title> "AR 25-50, Preparing and Managing Correspondence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s6> <https://schema.org/url> "https://www.maine.gov/dvem/policies/documents/AR%2025-50%20(10%20October%202020).pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s7> <http://purl.org/dc/terms/publisher> "Kwantlen Polytechnic University Pressbooks" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s7> <http://purl.org/dc/terms/title> "Delivering a Bad News Message (Business Writing For Everyone)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s7> <https://schema.org/url> "https://kpu.pressbooks.pub/businesswriting/chapter/delivering-a-bad-news-message/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <http://purl.org/dc/terms/publisher> "University of Chicago Law Review 78 (2011)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <http://purl.org/dc/terms/title> "The Razors-and-Blades Myth(s)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

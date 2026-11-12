@@ -3632,6 +3632,110 @@
       ]
     },
     {
+      "@id": "kt:pyramid-principle",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Pyramid Principle: Top-Down Structured Communication",
+      "skos:definition": "Barbara Minto's method for organizing business writing and presentations as a pyramid of ideas: a single governing conclusion at the top, supported by logically grouped arguments and then evidence, presented top-down and usually introduced with a situation-complication-question story.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Barbara Minto: 'MECE: I invented it, so I get to say how to pronounce it'",
+          "dcterms:publisher": "McKinsey & Company (Alumni News)",
+          "schema:url": "https://www.mckinsey.com/alumni/news-and-insights/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Minto Pyramid Principle: Concept",
+          "dcterms:publisher": "Barbara Minto (barbaraminto.com)",
+          "schema:url": "https://barbaraminto.com/concept",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Minto Pyramid Principle: Textbook",
+          "dcterms:publisher": "Barbara Minto (barbaraminto.com)",
+          "schema:url": "https://barbaraminto.com/textbook",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Business paper using the Minto approach",
+          "dcterms:publisher": "Monash University (Student Academic Success)",
+          "schema:url": "https://www.monash.edu/student-academic-success/excel-at-writing/how-to-write/business-paper-using-the-minto-approach",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Some Assembly Required: Structured problem solving demands structured communication",
+          "dcterms:publisher": "Quality Progress (ASQ), reproduced by Texas Department of State Health Services",
+          "schema:url": "https://www.dshs.texas.gov/sites/default/files/hivstd/qm/files/202107SomeAssemblyRequired.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "AR 25-50, Preparing and Managing Correspondence",
+          "dcterms:publisher": "Headquarters, Department of the Army (copy hosted by Maine.gov)",
+          "schema:url": "https://www.maine.gov/dvem/policies/documents/AR%2025-50%20(10%20October%202020).pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Delivering a Bad News Message (Business Writing For Everyone)",
+          "dcterms:publisher": "Kwantlen Polytechnic University Pressbooks",
+          "schema:url": "https://kpu.pressbooks.pub/businesswriting/chapter/delivering-a-bad-news-message/",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/pyramid-principle.md",
+      "skos:altLabel": [
+        "Pyramid Principle",
+        "Minto Pyramid Principle",
+        "Minto Pyramid",
+        "Minto approach"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:business-communication"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        },
+        {
+          "@id": "kt:bottom-line-up-front"
+        },
+        {
+          "@id": "kt:six-sigma"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:barbara-minto"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-pyramid-principle-logic-in-writing-and-thinking"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:mece-principle"
+        },
+        {
+          "@id": "kt:scqa-framework"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:indirect-approach"
+        }
+      ]
+    },
+    {
       "@id": "kt:arbitrage",
       "@type": "kto:Concept",
       "skos:prefLabel": "Arbitrage",
