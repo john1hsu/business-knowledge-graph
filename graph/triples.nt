@@ -6190,6 +6190,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <https://schema.org/url> "https://ideas.repec.org/a/inm/ormnsc/v47y2001i3p359-368.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <http://purl.org/dc/terms/publisher> "Toyota Motor Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <http://purl.org/dc/terms/title> "Toyota Production System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <https://schema.org/url> "https://global.toyota/en/company/vision-and-philosophy/production-system/index.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s2> <http://purl.org/dc/terms/title> "Decoding the DNA of the Toyota Production System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s2> <https://schema.org/url> "https://store.hbr.org/product/decoding-the-dna-of-the-toyota-production-system/99509" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s3> <http://purl.org/dc/terms/publisher> "Journal of Operations Management (MIT Open Access author manuscript)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s3> <http://purl.org/dc/terms/title> "Commentaries on \"The Lenses of Lean\"" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s3> <https://schema.org/url> "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s4> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s4> <http://purl.org/dc/terms/title> "The Limits of \"Lean\"" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s4> <https://schema.org/url> "https://shop.sloanreview.mit.edu/the-limits-of-lean" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s5> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s5> <http://purl.org/dc/terms/title> "Toyota Production System (Lean Lexicon entry)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s5> <https://schema.org/url> "https://www.lean.org/lexicon-terms/toyota-production-system/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://purl.org/dc/terms/title> "15.403-4 Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/truth-in-negotiations-act/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -6484,6 +6509,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> .
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kaoru-ishikawa> .
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2000/01/rdf-schema#label> "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#altLabel> "TPS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Toyota Production System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Toyota Way of production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#altLabel> "Toyotism" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#definition> "Toyota's management and production system, resting on the twin pillars of just-in-time and jidoka and sustained by standardized work and kaizen, that seeks the highest quality, lowest cost and shortest lead time by systematically removing waste; it is the model from which \"lean production\" was abstracted." .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/jidoka> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/kanban> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
 <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> <http://www.w3.org/2000/01/rdf-schema#label> "Truth in Negotiations Act" .

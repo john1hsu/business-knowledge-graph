@@ -9,13 +9,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
-| `kt:toyota-production-system` | `kt:ford-model-t`, `kt:scientific-management`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
+| `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno`, `kt:total-quality-management`, `kt:toyota-production-system` |
+| `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
-| `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno`, `kt:total-quality-management` |
-| `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno` |
+| `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:strategic-management` | `kt:business-model`, `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
@@ -30,7 +30,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
-| `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:pricing-strategy`, `kt:segmentation-targeting-positioning` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
@@ -45,6 +44,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
+| `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:corporate-finance` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
@@ -93,6 +93,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
+| `kt:operations-management` | `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
@@ -111,7 +112,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
-| `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
@@ -265,6 +265,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jensens-alpha` | `kt:michael-c-jensen` |
+| `kt:jidoka` | `kt:toyota-production-system` |
 | `kt:job-characteristics-model` | `kt:j-richard-hackman` |
 | `kt:job-enrichment` | `kt:j-richard-hackman` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
@@ -335,7 +336,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
-| `kt:operations-management` | `kt:total-quality-management` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |

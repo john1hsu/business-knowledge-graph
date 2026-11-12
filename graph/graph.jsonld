@@ -9775,6 +9775,97 @@
       ]
     },
     {
+      "@id": "kt:toyota-production-system",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality",
+      "skos:definition": "Toyota's management and production system, resting on the twin pillars of just-in-time and jidoka and sustained by standardized work and kaizen, that seeks the highest quality, lowest cost and shortest lead time by systematically removing waste; it is the model from which \"lean production\" was abstracted.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Toyota Production System",
+          "dcterms:publisher": "Toyota Motor Corporation",
+          "schema:url": "https://global.toyota/en/company/vision-and-philosophy/production-system/index.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Decoding the DNA of the Toyota Production System",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/decoding-the-dna-of-the-toyota-production-system/99509",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Commentaries on \"The Lenses of Lean\"",
+          "dcterms:publisher": "Journal of Operations Management (MIT Open Access author manuscript)",
+          "schema:url": "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Limits of \"Lean\"",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://shop.sloanreview.mit.edu/the-limits-of-lean",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Toyota Production System (Lean Lexicon entry)",
+          "dcterms:publisher": "Lean Enterprise Institute",
+          "schema:url": "https://www.lean.org/lexicon-terms/toyota-production-system/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/toyota-production-system.md",
+      "skos:altLabel": [
+        "Toyota Production System",
+        "TPS",
+        "Toyota Way of production",
+        "Toyotism"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:scientific-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:taiichi-ohno"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:just-in-time"
+        },
+        {
+          "@id": "kt:jidoka"
+        },
+        {
+          "@id": "kt:kanban"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:toyota-motor-corporation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:mass-production"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:lean-manufacturing"
+        }
+      ]
+    },
+    {
       "@id": "kt:amy-edmondson",
       "@type": "kto:Person",
       "skos:prefLabel": "Amy Edmondson",

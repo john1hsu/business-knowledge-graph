@@ -2512,6 +2512,27 @@
     ]
   },
   {
+    "id": "kt:toyota-production-system",
+    "title": "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality",
+    "aliases": [
+      "Toyota Production System",
+      "TPS",
+      "Toyota Way of production",
+      "Toyotism"
+    ],
+    "type": "Framework",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/toyota-production-system.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://global.toyota/en/company/vision-and-philosophy/production-system/index.html",
+      "https://store.hbr.org/product/decoding-the-dna-of-the-toyota-production-system/99509",
+      "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf",
+      "https://shop.sloanreview.mit.edu/the-limits-of-lean",
+      "https://www.lean.org/lexicon-terms/toyota-production-system/"
+    ]
+  },
+  {
     "id": "kt:truth-in-negotiations-act",
     "title": "Truth in Negotiations Act",
     "aliases": [
