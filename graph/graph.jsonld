@@ -4112,6 +4112,107 @@
       ]
     },
     {
+      "@id": "kt:structured-problem-solving",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Structured Problem Solving: The Consultant's Stepwise Method",
+      "skos:definition": "A disciplined, iterative process for tackling complex business problems by moving through explicit stages (define the problem, break it into parts, prioritize, plan the work, analyze, synthesize and communicate) rather than jumping straight from symptoms to solutions.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Bulletproof Problem Solving: The One Skill That Changes Everything (excerpt, chapter 1)",
+          "dcterms:publisher": "John Wiley & Sons",
+          "schema:url": "https://catalogimages.wiley.com/images/db/pdf/9781119553021.excerpt.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "How to master the seven-step problem-solving process",
+          "dcterms:publisher": "McKinsey & Company (The McKinsey Podcast)",
+          "schema:url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-master-the-seven-step-problem-solving-process",
+          "kto:sourceType": "consultancy"
+        },
+        {
+          "dcterms:title": "2.5 Improving the Quality of Decision-Making",
+          "dcterms:publisher": "OpenStax, Principles of Management",
+          "schema:url": "https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Microfoundations of strategic problem formulation",
+          "dcterms:publisher": "Strategic Management Journal 34(2), 197-214 (via RePEc)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:stratm:v:34:y:2013:i:2:p:197-214",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Toyota's Secret: The A3 Report",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/toyotas-secret-the-a3-report",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Toyota's Secret: The A3 Report (author and issue record)",
+          "dcterms:publisher": "Lean Enterprise Institute",
+          "schema:url": "https://www.lean.org/the-lean-post/articles/toyotas-secret-the-a3-report/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/structured-problem-solving.md",
+      "skos:altLabel": [
+        "structured problem solving",
+        "seven-step problem solving",
+        "bulletproof problem solving",
+        "McKinsey problem-solving process"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:decision-making"
+        },
+        {
+          "@id": "kt:management-consulting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mece-principle"
+        },
+        {
+          "@id": "kt:eighty-twenty-rule"
+        },
+        {
+          "@id": "kt:pyramid-principle"
+        },
+        {
+          "@id": "kt:root-cause-analysis"
+        },
+        {
+          "@id": "kt:nominal-group-technique"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:problem-formulation"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:a3-report"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:mckinsey-and-company"
+        }
+      ]
+    },
+    {
       "@id": "kt:arbitrage",
       "@type": "kto:Concept",
       "skos:prefLabel": "Arbitrage",

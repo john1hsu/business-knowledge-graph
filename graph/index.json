@@ -2295,6 +2295,28 @@
     ]
   },
   {
+    "id": "kt:structured-problem-solving",
+    "title": "Structured Problem Solving: The Consultant's Stepwise Method",
+    "aliases": [
+      "structured problem solving",
+      "seven-step problem solving",
+      "bulletproof problem solving",
+      "McKinsey problem-solving process"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/structured-problem-solving.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://catalogimages.wiley.com/images/db/pdf/9781119553021.excerpt.pdf",
+      "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-to-master-the-seven-step-problem-solving-process",
+      "https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making",
+      "https://econpapers.repec.org/RePEc:bla:stratm:v:34:y:2013:i:2:p:197-214",
+      "https://sloanreview.mit.edu/article/toyotas-secret-the-a3-report",
+      "https://www.lean.org/the-lean-post/articles/toyotas-secret-the-a3-report/"
+    ]
+  },
+  {
     "id": "kt:subscription-business-model",
     "title": "Subscription Business Model: Selling Ongoing Access",
     "aliases": [
