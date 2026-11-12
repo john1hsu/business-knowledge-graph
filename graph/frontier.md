@@ -10,7 +10,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:pricing-strategy` | `kt:activity-based-costing`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
-| `kt:small-business-set-asides` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:public-procurement`, `kt:revolutionary-far-overhaul` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:scientific-management`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
@@ -106,6 +105,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:total-quality-management` |
+| `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
@@ -132,6 +132,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
+| `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
@@ -269,6 +270,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |
 | `kt:kiichiro-toyoda` | `kt:taiichi-ohno` |
+| `kt:kingdomware-technologies-v-united-states` | `kt:small-business-set-asides` |
 | `kt:knowledge-transfer` | `kt:organizational-learning` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
@@ -388,10 +390,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:seven-wastes` | `kt:taiichi-ohno` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:signaling-theory` | `kt:information-asymmetry` |
+| `kt:small-business-act` | `kt:small-business-set-asides` |
+| `kt:small-business-administration` | `kt:small-business-set-asides` |
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:sol-price` | `kt:membership-warehouse-club` |
 | `kt:soldiering` | `kt:scientific-management` |
-| `kt:sole-source-contracting` | `kt:truth-in-negotiations-act` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
 | `kt:span-of-control` | `kt:situational-leadership` |
 | `kt:spotify` | `kt:freemium` |

@@ -2710,6 +2710,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/paul-hersey> .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/chris-argyris> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2000/01/rdf-schema#label> "Small Business Set-Asides: Reserving Federal Contracts for Small Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#altLabel> "partial small business set-aside" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#altLabel> "rule of two" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#altLabel> "set-aside contracting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#altLabel> "small business set-aside" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#altLabel> "total small business set-aside" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#definition> "A US federal procurement preference in which an agency limits competition for a contract, or part of one, to small businesses, triggered mainly by the \"rule of two\": a reasonable expectation of offers from at least two responsible small firms at fair market prices." .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#prefLabel> "Small Business Set-Asides: Reserving Federal Contracts for Small Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/small-business-administration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/bidder-subsidies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kingdomware-technologies-v-united-states> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/small-business-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/publisher> "Miami Herbert Business School, University of Miami" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/title> "Curriculum Vitae: A. Parasuraman" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -5815,6 +5842,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/13-6-situational-contingency-approaches-to-leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <http://purl.org/dc/terms/title> "19.502-2 Total small business set-asides" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <https://schema.org/url> "https://www.acquisition.gov/index%2Ephp/far/19.502-2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s2> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via Congress.gov" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s2> <http://purl.org/dc/terms/title> "The Rule of Two in Federal Procurement (IF13046)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s2> <https://schema.org/url> "https://www.congress.gov/crs_external_products/IF/PDF/IF13046/IF13046.3.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s3> <http://purl.org/dc/terms/publisher> "Congressional Research Service, via EveryCRSReport" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s3> <http://purl.org/dc/terms/title> "Federal Contract Set-Asides for Small Businesses (IF12852), updated September 8, 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s3> <https://schema.org/url> "https://www.everycrsreport.com/files/2026-09-08_IF12852_1e54d728cbcb873af5670a12ccbab40d4fd05a8c.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s4> <http://purl.org/dc/terms/publisher> "Supreme Court of the United States, via FindLaw" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s4> <http://purl.org/dc/terms/title> "Kingdomware Technologies, Inc. v. United States, No. 14-916 (U.S. June 16, 2016)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s4> <https://schema.org/url> "https://caselaw.findlaw.com/us-supreme-court/14-916.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s5> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s5> <http://purl.org/dc/terms/title> "Set-Asides and Subsidies in Auctions (NBER Working Paper 16851)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s5> <https://schema.org/url> "https://www.nber.org/papers/w16851.ack" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <http://purl.org/dc/terms/publisher> "Journal of Public Economics, via RePEc/EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <http://purl.org/dc/terms/title> "Small business set-asides in procurement auctions: An empirical analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <https://schema.org/url> "https://econpapers.repec.org/RePEc:eee:pubeco:v:100:y:2013:i:c:p:28-44" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Michael E. Porter, November–December 1996)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/title> "What Is Strategy?" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

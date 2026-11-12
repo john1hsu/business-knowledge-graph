@@ -2295,6 +2295,29 @@
     ]
   },
   {
+    "id": "kt:small-business-set-asides",
+    "title": "Small Business Set-Asides: Reserving Federal Contracts for Small Firms",
+    "aliases": [
+      "small business set-aside",
+      "set-aside contracting",
+      "total small business set-aside",
+      "partial small business set-aside",
+      "rule of two"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/small-business-set-asides.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://www.acquisition.gov/index%2Ephp/far/19.502-2",
+      "https://www.congress.gov/crs_external_products/IF/PDF/IF13046/IF13046.3.pdf",
+      "https://www.everycrsreport.com/files/2026-09-08_IF12852_1e54d728cbcb873af5670a12ccbab40d4fd05a8c.html",
+      "https://caselaw.findlaw.com/us-supreme-court/14-916.html",
+      "https://www.nber.org/papers/w16851.ack",
+      "https://econpapers.repec.org/RePEc:eee:pubeco:v:100:y:2013:i:c:p:28-44"
+    ]
+  },
+  {
     "id": "kt:southwest-airlines",
     "title": "Southwest Airlines",
     "aliases": [

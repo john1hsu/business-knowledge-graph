@@ -5696,6 +5696,100 @@
       ]
     },
     {
+      "@id": "kt:small-business-set-asides",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Small Business Set-Asides: Reserving Federal Contracts for Small Firms",
+      "skos:definition": "A US federal procurement preference in which an agency limits competition for a contract, or part of one, to small businesses, triggered mainly by the \"rule of two\": a reasonable expectation of offers from at least two responsible small firms at fair market prices.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "19.502-2 Total small business set-asides",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/index%2Ephp/far/19.502-2",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Rule of Two in Federal Procurement (IF13046)",
+          "dcterms:publisher": "Congressional Research Service, via Congress.gov",
+          "schema:url": "https://www.congress.gov/crs_external_products/IF/PDF/IF13046/IF13046.3.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Federal Contract Set-Asides for Small Businesses (IF12852), updated September 8, 2026",
+          "dcterms:publisher": "Congressional Research Service, via EveryCRSReport",
+          "schema:url": "https://www.everycrsreport.com/files/2026-09-08_IF12852_1e54d728cbcb873af5670a12ccbab40d4fd05a8c.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Kingdomware Technologies, Inc. v. United States, No. 14-916 (U.S. June 16, 2016)",
+          "dcterms:publisher": "Supreme Court of the United States, via FindLaw",
+          "schema:url": "https://caselaw.findlaw.com/us-supreme-court/14-916.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Set-Asides and Subsidies in Auctions (NBER Working Paper 16851)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://www.nber.org/papers/w16851.ack",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Small business set-asides in procurement auctions: An empirical analysis",
+          "dcterms:publisher": "Journal of Public Economics, via RePEc/EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:eee:pubeco:v:100:y:2013:i:c:p:28-44",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/small-business-set-asides.md",
+      "skos:altLabel": [
+        "small business set-aside",
+        "set-aside contracting",
+        "total small business set-aside",
+        "partial small business set-aside",
+        "rule of two"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:lowest-price-technically-acceptable"
+        },
+        {
+          "@id": "kt:indefinite-delivery-indefinite-quantity"
+        },
+        {
+          "@id": "kt:sole-source-contracting"
+        },
+        {
+          "@id": "kt:small-business-administration"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        },
+        {
+          "@id": "kt:small-business-act"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kingdomware-technologies-v-united-states"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:bidder-subsidies"
+        }
+      ]
+    },
+    {
       "@id": "kt:truth-in-negotiations-act",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Truth in Negotiations Act",
