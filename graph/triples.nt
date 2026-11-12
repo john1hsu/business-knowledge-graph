@@ -1816,6 +1816,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/motorola> .
 <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/baldrige-excellence-framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-improvement-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2000/01/rdf-schema#label> "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#altLabel> "MBO" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#altLabel> "management by objective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#altLabel> "management by objectives and self-control" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#altLabel> "management by objectives" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#definition> "A management practice, first outlined by Peter Drucker in The Practice of Management (1954), in which managers and subordinates jointly agree on results-focused objectives aligned with organizational goals, plan how to reach them, monitor their own progress and review performance against those objectives." .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#prefLabel> "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/theory-x-and-theory-y> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Material Requirements Planning" .
@@ -4542,6 +4568,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/malcolm-baldrige-national-quality-award/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/malcolm-baldrige-national-quality-award/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/malcolm-baldrige-national-quality-award/s6> <https://schema.org/url> "https://www.emeraldinsight.com/insight/content/doi/10.1108/02656711211199937/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s1> <http://purl.org/dc/terms/title> "17.7 Management by Objectives: A Planning and Control Technique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s1> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/17-7-management-by-objectives-a-planning-and-control-technique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s2> <http://purl.org/dc/terms/publisher> "Principles of Management v1.1 (Saylor Academy open textbook)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s2> <http://purl.org/dc/terms/title> "6.3 From Management by Objectives to the Balanced Scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s2> <https://schema.org/url> "https://saylordotorg.github.io/text_principles-of-management-v1.1/s10-03-from-management-by-objectives-.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s3> <http://purl.org/dc/terms/publisher> "Training and Development Journal (ATD)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s3> <http://purl.org/dc/terms/title> "Management by Objectives: A Critique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s3> <https://schema.org/url> "https://assets.td.org/m/76d1195821fb702b/original/MANAGEMENT-BY-OBJECTIVES-A-CRITIQUE.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s4> <http://purl.org/dc/terms/title> "Management by Whose Objectives? (HBR Classic)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s4> <https://schema.org/url> "https://store.hbr.org/product/management-by-whose-objectives-hbr-classic/R0301H" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s5> <http://purl.org/dc/terms/title> "Management by objective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s5> <https://schema.org/url> "https://www.britannica.com/topic/management-by-objective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <http://purl.org/dc/terms/publisher> "Hewlett-Packard Company Archives" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <http://purl.org/dc/terms/title> "Management by objective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management-by-objectives/s6> <https://schema.org/url> "https://www.hewlettpackardhistory.com/item/management-by-objective/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/title> "Materials Requirements Planning (MRP)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

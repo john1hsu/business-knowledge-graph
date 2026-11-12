@@ -6260,6 +6260,101 @@
       ]
     },
     {
+      "@id": "kt:management-by-objectives",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",
+      "skos:definition": "A management practice, first outlined by Peter Drucker in The Practice of Management (1954), in which managers and subordinates jointly agree on results-focused objectives aligned with organizational goals, plan how to reach them, monitor their own progress and review performance against those objectives.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "17.7 Management by Objectives: A Planning and Control Technique",
+          "dcterms:publisher": "OpenStax, Principles of Management",
+          "schema:url": "https://openstax.org/books/principles-management/pages/17-7-management-by-objectives-a-planning-and-control-technique",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "6.3 From Management by Objectives to the Balanced Scorecard",
+          "dcterms:publisher": "Principles of Management v1.1 (Saylor Academy open textbook)",
+          "schema:url": "https://saylordotorg.github.io/text_principles-of-management-v1.1/s10-03-from-management-by-objectives-.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Management by Objectives: A Critique",
+          "dcterms:publisher": "Training and Development Journal (ATD)",
+          "schema:url": "https://assets.td.org/m/76d1195821fb702b/original/MANAGEMENT-BY-OBJECTIVES-A-CRITIQUE.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Management by Whose Objectives? (HBR Classic)",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/management-by-whose-objectives-hbr-classic/R0301H",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Management by objective",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/management-by-objective",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Management by objective",
+          "dcterms:publisher": "Hewlett-Packard Company Archives",
+          "schema:url": "https://www.hewlettpackardhistory.com/item/management-by-objective/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/management-by-objectives.md",
+      "skos:altLabel": [
+        "management by objectives",
+        "MBO",
+        "management by objectives and self-control",
+        "management by objective"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:performance-management"
+        },
+        {
+          "@id": "kt:strategy-execution"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:goal-setting-theory"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:hoshin-kanri"
+        },
+        {
+          "@id": "kt:theory-x-and-theory-y"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:peter-drucker"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:okrs"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:hewlett-packard"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:okrs",
       "@type": "kto:Framework",
       "skos:prefLabel": "Objectives and Key Results (OKRs)",

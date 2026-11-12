@@ -1544,6 +1544,28 @@
     ]
   },
   {
+    "id": "kt:management-by-objectives",
+    "title": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",
+    "aliases": [
+      "management by objectives",
+      "MBO",
+      "management by objectives and self-control",
+      "management by objective"
+    ],
+    "type": "Practice",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/management-by-objectives.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/17-7-management-by-objectives-a-planning-and-control-technique",
+      "https://saylordotorg.github.io/text_principles-of-management-v1.1/s10-03-from-management-by-objectives-.html",
+      "https://assets.td.org/m/76d1195821fb702b/original/MANAGEMENT-BY-OBJECTIVES-A-CRITIQUE.pdf",
+      "https://store.hbr.org/product/management-by-whose-objectives-hbr-classic/R0301H",
+      "https://www.britannica.com/topic/management-by-objective",
+      "https://www.hewlettpackardhistory.com/item/management-by-objective/"
+    ]
+  },
+  {
     "id": "kt:material-requirements-planning",
     "title": "Material Requirements Planning",
     "aliases": [
