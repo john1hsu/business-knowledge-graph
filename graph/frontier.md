@@ -25,6 +25,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scientific-management` | `kt:ford-model-t`, `kt:henri-fayol`, `kt:material-requirements-planning`, `kt:total-quality-management` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
+| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
@@ -48,7 +49,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
-| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
@@ -78,6 +78,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
+| `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
@@ -135,7 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
-| `kt:brand-equity` | `kt:segmentation-targeting-positioning` |
+| `kt:brand-management` | `kt:brand-equity` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift` |
@@ -164,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
+| `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
@@ -241,7 +243,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
-| `kt:intangible-assets` | `kt:goodwill` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-janis` | `kt:groupthink` |
@@ -254,6 +255,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
+| `kt:kevin-lane-keller` | `kt:brand-equity` |
 | `kt:kiichiro-toyoda` | `kt:taiichi-ohno` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
@@ -340,6 +342,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
+| `kt:revenue-premium` | `kt:brand-equity` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
 | `kt:robert-b-wilson` | `kt:bengt-holmstrom` |

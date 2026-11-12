@@ -7421,6 +7421,101 @@
       ]
     },
     {
+      "@id": "kt:brand-equity",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Brand Equity: The Marketing Value of a Brand Name",
+      "skos:definition": "The added value a brand name gives a product beyond what an equivalent unbranded or substitute product would earn, seen either from the customer side (how brand knowledge changes responses to marketing) or the financial side (the incremental cash flow and price premium the brand produces).",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Inventing the Edge: Kevin Lane Keller",
+          "dcterms:publisher": "Tuck School of Business at Dartmouth",
+          "schema:url": "https://tuck.dartmouth.edu/news/articles/inventing-the-edge-kevin-lane-keller",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Measurement and Determinants of Brand Equity: A Financial Approach (Marketing Science 12(1):28-52, 1993)",
+          "dcterms:publisher": "EconPapers / INFORMS",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ormksc:v:12:y:1993:i:1:p:28-52",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Revenue Premium as an Outcome Measure of Brand Equity (Journal of Marketing 67, 2003)",
+          "dcterms:publisher": "Columbia Business School",
+          "schema:url": "https://business.columbia.edu/faculty/research/revenue-premium-outcome-measure-brand-equity",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Measuring Brand Equity Across Products and Markets",
+          "dcterms:publisher": "California Management Review 38(3)",
+          "schema:url": "https://cmr-mig.berkeley.edu/1996/05/38-3-measuring-brand-equity-across-products-and-markets",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Principles of Marketing, 9.5 Branding and Brand Development",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/9-5-branding-and-brand-development",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Apple Remains the World's Most Valuable Brand in 2025",
+          "dcterms:publisher": "MacRumors",
+          "schema:url": "https://www.macrumors.com/2025/10/16/apple-remains-worlds-most-valuable-brand-2025/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/marketing/brand-equity.md",
+      "skos:altLabel": [
+        "brand equity",
+        "customer-based brand equity",
+        "CBBE",
+        "consumer-based brand equity"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:brand-management"
+        },
+        {
+          "@id": "kt:intangible-assets"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:price-elasticity"
+        },
+        {
+          "@id": "kt:goodwill"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:kevin-lane-keller"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:david-aaker"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:revenue-premium"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:apple-inc"
+        }
+      ]
+    },
+    {
       "@id": "kt:cannibalization",
       "@type": "kto:Concept",
       "skos:prefLabel": "Cannibalization",

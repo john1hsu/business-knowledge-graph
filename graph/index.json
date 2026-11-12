@@ -356,6 +356,28 @@
     ]
   },
   {
+    "id": "kt:brand-equity",
+    "title": "Brand Equity: The Marketing Value of a Brand Name",
+    "aliases": [
+      "brand equity",
+      "customer-based brand equity",
+      "CBBE",
+      "consumer-based brand equity"
+    ],
+    "type": "Concept",
+    "domain": "marketing",
+    "file": "articles/marketing/brand-equity.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://tuck.dartmouth.edu/news/articles/inventing-the-edge-kevin-lane-keller",
+      "https://econpapers.repec.org/RePEc:inm:ormksc:v:12:y:1993:i:1:p:28-52",
+      "https://business.columbia.edu/faculty/research/revenue-premium-outcome-measure-brand-equity",
+      "https://cmr-mig.berkeley.edu/1996/05/38-3-measuring-brand-equity-across-products-and-markets",
+      "https://openstax.org/books/principles-marketing/pages/9-5-branding-and-brand-development",
+      "https://www.macrumors.com/2025/10/16/apple-remains-worlds-most-valuable-brand-2025/"
+    ]
+  },
+  {
     "id": "kt:bullwhip-effect",
     "title": "Bullwhip Effect in Supply Chains",
     "aliases": [

@@ -414,6 +414,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/mass-customization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/cisco-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2000/01/rdf-schema#label> "Brand Equity: The Marketing Value of a Brand Name" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#altLabel> "CBBE" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#altLabel> "brand equity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#altLabel> "consumer-based brand equity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#altLabel> "customer-based brand equity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/brand-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/intangible-assets> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#definition> "The added value a brand name gives a product beyond what an equivalent unbranded or substitute product would earn, seen either from the customer side (how brand knowledge changes responses to marketing) or the financial side (the incremental cash flow and price premium the brand produces)." .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#prefLabel> "Brand Equity: The Marketing Value of a Brand Name" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/kevin-lane-keller> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/david-aaker> .
+<https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-premium> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <http://www.w3.org/2000/01/rdf-schema#label> "Bullwhip Effect in Supply Chains" .
@@ -2988,6 +3014,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/49784" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <http://purl.org/dc/terms/publisher> "Tuck School of Business at Dartmouth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <http://purl.org/dc/terms/title> "Inventing the Edge: Kevin Lane Keller" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <https://schema.org/url> "https://tuck.dartmouth.edu/news/articles/inventing-the-edge-kevin-lane-keller" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s2> <http://purl.org/dc/terms/publisher> "EconPapers / INFORMS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s2> <http://purl.org/dc/terms/title> "The Measurement and Determinants of Brand Equity: A Financial Approach (Marketing Science 12(1):28-52, 1993)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:inm:ormksc:v:12:y:1993:i:1:p:28-52" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s3> <http://purl.org/dc/terms/publisher> "Columbia Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s3> <http://purl.org/dc/terms/title> "Revenue Premium as an Outcome Measure of Brand Equity (Journal of Marketing 67, 2003)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s3> <https://schema.org/url> "https://business.columbia.edu/faculty/research/revenue-premium-outcome-measure-brand-equity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s4> <http://purl.org/dc/terms/publisher> "California Management Review 38(3)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s4> <http://purl.org/dc/terms/title> "Measuring Brand Equity Across Products and Markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s4> <https://schema.org/url> "https://cmr-mig.berkeley.edu/1996/05/38-3-measuring-brand-equity-across-products-and-markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s5> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s5> <http://purl.org/dc/terms/title> "Principles of Marketing, 9.5 Branding and Brand Development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s5> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/9-5-branding-and-brand-development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s6> <http://purl.org/dc/terms/publisher> "MacRumors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s6> <http://purl.org/dc/terms/title> "Apple Remains the World's Most Valuable Brand in 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s6> <https://schema.org/url> "https://www.macrumors.com/2025/10/16/apple-remains-worlds-most-valuable-brand-2025/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <http://purl.org/dc/terms/publisher> "Management Science (author copy hosted by Bilkent University)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <http://purl.org/dc/terms/title> "Information Distortion in a Supply Chain: The Bullwhip Effect" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
