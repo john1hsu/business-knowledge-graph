@@ -6,7 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:corporate-finance`, `kt:michael-c-jensen` |
 | `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:devils-advocacy`, `kt:groupthink` |
-| `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model` |
+| `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:contracting-officer` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul`, `kt:truth-in-negotiations-act` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -24,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:management-by-objectives` | `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:okrs`, `kt:peter-drucker` |
 | `kt:pricing-strategy` | `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
-| `kt:subscription-business-model` | `kt:deferred-revenue`, `kt:netflix-business-model-shift`, `kt:membership-warehouse-club`, `kt:saas-business-model` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
@@ -61,6 +60,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:weighted-average-cost-of-capital` |
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
+| `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contract-theory` | `kt:bengt-holmstrom`, `kt:principal-agent-problem` |
@@ -148,7 +148,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
-| `kt:churn-rate` | `kt:saas-business-model` |
 | `kt:cisco-systems` | `kt:bill-of-materials` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
@@ -206,6 +205,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frederick-winslow-taylor` | `kt:henri-fayol` |
 | `kt:free-trial` | `kt:freemium` |
 | `kt:ftc-franchise-rule` | `kt:business-format-franchising` |
+| `kt:ftc-negative-option-rule` | `kt:subscription-business-model` |
 | `kt:fujifilm` | `kt:kodak-decline` |
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |

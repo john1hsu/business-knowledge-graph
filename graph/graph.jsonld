@@ -2800,6 +2800,105 @@
       ]
     },
     {
+      "@id": "kt:subscription-business-model",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Subscription Business Model: Selling Ongoing Access",
+      "skos:definition": "A business model in which customers pay a recurring fee, usually monthly or annually, for continuing access to a product, content or service rather than buying it in a one-time transaction, so that the firm's economics depend on retaining customers and growing their lifetime value.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Subscription-based business models in the context of tech firms: theory and applications",
+          "dcterms:publisher": "International Journal of Industrial Engineering and Operations Management (Emerald), 2023, doi:10.1108/IJIEOM-06-2023-0054 (Bocconi IRIS repository copy)",
+          "schema:url": "https://iris.unibocconi.it/retrieve/d62dad76-4e6d-4bf0-a31c-d8f5b8c00213/10-1108_IJIEOM-06-2023-0054.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How to Project Customer Retention",
+          "dcterms:publisher": "Journal of Interactive Marketing 21(1), 2007, pp. 76–89 (Wharton faculty copy)",
+          "schema:url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Paying Too Much and Being Happy About It: Existence, Causes, and Consequences of Tariff-Choice Biases",
+          "dcterms:publisher": "Journal of Marketing Research 43, 2006, pp. 212–223 (UCLA Anderson copy)",
+          "schema:url": "https://www.anderson.ucla.edu/documents/areas/fac/marketing/paying_too_much.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "With Subscription Fatigue Setting In, Companies Need to Think Hard About Fees",
+          "dcterms:publisher": "Harvard Business School Working Knowledge, 2023",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/with-subscription-fatigue-setting-in-companies-need-to-think-hard-about-fees",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "What's the Future of the Subscription Model?",
+          "dcterms:publisher": "Harvard Business School Working Knowledge, 2001",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/whats-the-future-of-the-subscription-model",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Negative Option Rule (Rule Concerning the Use of Prenotification Negative Option Plans)",
+          "dcterms:publisher": "U.S. Federal Trade Commission, rulemaking page (last modified March 2026)",
+          "schema:url": "https://www.ftc.gov/legal-library/browse/rules/negative-option-rule",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/business-models/subscription-business-model.md",
+      "skos:altLabel": [
+        "subscription business model",
+        "subscription model",
+        "subscription-based business model",
+        "recurring-revenue model",
+        "subscription economy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:saas-business-model"
+        },
+        {
+          "@id": "kt:membership-warehouse-club"
+        },
+        {
+          "@id": "kt:freemium"
+        },
+        {
+          "@id": "kt:deferred-revenue"
+        },
+        {
+          "@id": "kt:switching-costs"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:churn-rate"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:netflix-business-model-shift"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:razor-and-blades-model"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:ftc-negative-option-rule"
+        }
+      ]
+    },
+    {
       "@id": "kt:two-sided-market",
       "@type": "kto:Concept",
       "skos:prefLabel": "Two-Sided Market",

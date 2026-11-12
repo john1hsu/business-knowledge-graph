@@ -2059,6 +2059,29 @@
     ]
   },
   {
+    "id": "kt:subscription-business-model",
+    "title": "Subscription Business Model: Selling Ongoing Access",
+    "aliases": [
+      "subscription business model",
+      "subscription model",
+      "subscription-based business model",
+      "recurring-revenue model",
+      "subscription economy"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/subscription-business-model.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://iris.unibocconi.it/retrieve/d62dad76-4e6d-4bf0-a31c-d8f5b8c00213/10-1108_IJIEOM-06-2023-0054.pdf",
+      "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf",
+      "https://www.anderson.ucla.edu/documents/areas/fac/marketing/paying_too_much.pdf",
+      "https://www.library.hbs.edu/working-knowledge/with-subscription-fatigue-setting-in-companies-need-to-think-hard-about-fees",
+      "https://www.library.hbs.edu/working-knowledge/whats-the-future-of-the-subscription-model",
+      "https://www.ftc.gov/legal-library/browse/rules/negative-option-rule"
+    ]
+  },
+  {
     "id": "kt:switching-costs",
     "title": "Consumer Switching Costs",
     "aliases": [
