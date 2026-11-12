@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
-| `kt:pricing-strategy` | `kt:activity-based-costing`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:toyota-production-system` | `kt:ford-model-t`, `kt:scientific-management`, `kt:benchmarking`, `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
@@ -32,9 +31,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno` |
+| `kt:marketing-mix` | `kt:issue-tree`, `kt:pricing-strategy`, `kt:segmentation-targeting-positioning` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
+| `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:structured-problem-solving` |
@@ -85,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
-| `kt:marketing-mix` | `kt:issue-tree`, `kt:segmentation-targeting-positioning` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
@@ -96,7 +96,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
-| `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
@@ -167,6 +166,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
+| `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
@@ -337,6 +337,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
+| `kt:penetration-pricing` | `kt:pricing-strategy` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
@@ -344,6 +345,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:portfolio-planning` | `kt:bcg-growth-share-matrix` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:power-law` | `kt:eighty-twenty-rule` |
+| `kt:price-skimming` | `kt:pricing-strategy` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:problem-formulation` | `kt:structured-problem-solving` |
@@ -435,6 +437,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:unity-of-command` | `kt:henri-fayol` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
+| `kt:value-based-pricing` | `kt:pricing-strategy` |
 | `kt:value-proposition` | `kt:business-model` |
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
 | `kt:venture-capital` | `kt:leveraged-buyout` |

@@ -1993,6 +1993,28 @@
     ]
   },
   {
+    "id": "kt:pricing-strategy",
+    "title": "Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing",
+    "aliases": [
+      "pricing strategy",
+      "pricing strategies",
+      "pricing policy",
+      "strategic pricing"
+    ],
+    "type": "Strategy",
+    "domain": "marketing",
+    "file": "articles/marketing/pricing-strategy.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://openstax.org/books/principles-marketing/pages/12-3-the-five-step-procedure-for-establishing-pricing-policy",
+      "https://openstax.org/books/introduction-business-2e/pages/11-9-pricing-strategies-and-future-trends",
+      "https://pubsonline.informs.org/doi/fpi/10.1287/mksc.2014.0891",
+      "https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Most-Firms-Do-Not-Use-Controversial-Skimming-or-Penetration-Strategies-for-Pricing-New-Products",
+      "https://sloanreview.mit.edu/?p=16771",
+      "https://maaw.info/ArticleSummaries/ArtSumHinterhuber2008.htm"
+    ]
+  },
+  {
     "id": "kt:principal-agent-problem",
     "title": "Principal-Agent Problem",
     "aliases": [

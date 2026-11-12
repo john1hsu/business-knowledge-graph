@@ -8643,6 +8643,103 @@
       ]
     },
     {
+      "@id": "kt:pricing-strategy",
+      "@type": "kto:Strategy",
+      "skos:prefLabel": "Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing",
+      "skos:definition": "The set of choices a firm makes about how to set and adjust prices to meet its objectives, usually anchored on one of three reference points (costs, competitors' prices or customer value) and expressed through tactics such as skimming, penetration, bundling and psychological pricing.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "12.3 The Five-Step Procedure for Establishing Pricing Policy — Principles of Marketing",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/12-3-the-five-step-procedure-for-establishing-pricing-policy",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "11.9 Pricing Strategies and Future Trends — Introduction to Business 2e",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/11-9-pricing-strategies-and-future-trends",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Skimming or Penetration? Strategic Dynamic Pricing for New Products",
+          "dcterms:publisher": "Marketing Science (INFORMS)",
+          "schema:url": "https://pubsonline.informs.org/doi/fpi/10.1287/mksc.2014.0891",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Most Firms Do Not Use Controversial Skimming or Penetration Strategies for Pricing New Products",
+          "dcterms:publisher": "INFORMS (news release)",
+          "schema:url": "https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Most-Firms-Do-Not-Use-Controversial-Skimming-or-Penetration-Strategies-for-Pricing-New-Products",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Setting Prices Based on Customer Value",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/?p=16771",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Summary of Hinterhuber (2008), Customer value-based pricing strategies: why companies resist",
+          "dcterms:publisher": "Management And Accounting Web (James R. Martin, University of South Florida)",
+          "schema:url": "https://maaw.info/ArticleSummaries/ArtSumHinterhuber2008.htm",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/marketing/pricing-strategy.md",
+      "skos:altLabel": [
+        "pricing strategy",
+        "pricing strategies",
+        "pricing policy",
+        "strategic pricing"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing-mix"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:price-elasticity"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:price-discrimination"
+        },
+        {
+          "@id": "kt:activity-based-costing"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:value-based-pricing"
+        },
+        {
+          "@id": "kt:cost-plus-pricing"
+        },
+        {
+          "@id": "kt:price-skimming"
+        },
+        {
+          "@id": "kt:penetration-pricing"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:razor-and-blades-model"
+        },
+        {
+          "@id": "kt:freemium"
+        }
+      ]
+    },
+    {
       "@id": "kt:segmentation-targeting-positioning",
       "@type": "kto:Framework",
       "skos:prefLabel": "Segmentation, Targeting and Positioning",

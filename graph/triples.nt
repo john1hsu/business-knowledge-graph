@@ -2351,6 +2351,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/tax-incidence> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/principles-of-economics-marshall> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2000/01/rdf-schema#label> "Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "pricing policy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "pricing strategies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "pricing strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#altLabel> "strategic pricing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#definition> "The set of choices a firm makes about how to set and adjust prices to meet its objectives, usually anchored on one of three reference points (costs, competitors' prices or customer value) and expressed through tactics such as skimming, penetration, bundling and psychological pricing." .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pricing Strategy: Value-Based, Cost-Based and Competition-Based Pricing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/penetration-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/price-skimming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/value-based-pricing> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <http://www.w3.org/2000/01/rdf-schema#label> "Principal-Agent Problem" .
@@ -5422,6 +5450,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s6> <https://schema.org/url> "https://pages.charlotte.edu/wp-content/uploads/sites/868/2014/12/ManagingPrice.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s1> <http://purl.org/dc/terms/title> "12.3 The Five-Step Procedure for Establishing Pricing Policy — Principles of Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s1> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/12-3-the-five-step-procedure-for-establishing-pricing-policy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s2> <http://purl.org/dc/terms/title> "11.9 Pricing Strategies and Future Trends — Introduction to Business 2e" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s2> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/11-9-pricing-strategies-and-future-trends" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s3> <http://purl.org/dc/terms/publisher> "Marketing Science (INFORMS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s3> <http://purl.org/dc/terms/title> "Skimming or Penetration? Strategic Dynamic Pricing for New Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s3> <https://schema.org/url> "https://pubsonline.informs.org/doi/fpi/10.1287/mksc.2014.0891" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s4> <http://purl.org/dc/terms/publisher> "INFORMS (news release)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s4> <http://purl.org/dc/terms/title> "Most Firms Do Not Use Controversial Skimming or Penetration Strategies for Pricing New Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s4> <https://schema.org/url> "https://www.informs.org/News-Room/INFORMS-Releases/News-Releases/Most-Firms-Do-Not-Use-Controversial-Skimming-or-Penetration-Strategies-for-Pricing-New-Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s5> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s5> <http://purl.org/dc/terms/title> "Setting Prices Based on Customer Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s5> <https://schema.org/url> "https://sloanreview.mit.edu/?p=16771" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s6> <http://purl.org/dc/terms/publisher> "Management And Accounting Web (James R. Martin, University of South Florida)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s6> <http://purl.org/dc/terms/title> "Summary of Hinterhuber (2008), Customer value-based pricing strategies: why companies resist" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pricing-strategy/s6> <https://schema.org/url> "https://maaw.info/ArticleSummaries/ArtSumHinterhuber2008.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review, vol. 63, no. 2 (AEA Top 20 reprint)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <http://purl.org/dc/terms/title> "The Economic Theory of Agency: The Principal's Problem" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
