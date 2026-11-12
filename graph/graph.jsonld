@@ -6969,6 +6969,100 @@
       ]
     },
     {
+      "@id": "kt:information-asymmetry",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Information Asymmetry: Unequal Knowledge Between Transacting Parties",
+      "skos:definition": "The condition in which one party to a transaction knows more than the other about quality, risk or intentions, which can lead markets to price on averages, drive out high-quality sellers or low-risk buyers, and in extreme cases collapse, unless signaling, screening, guarantees or regulation close the gap.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism",
+          "dcterms:publisher": "Quarterly Journal of Economics, vol. 84, no. 3 (course copy, Simon Fraser University)",
+          "schema:url": "https://www.sfu.ca/~allen/Ackerlof.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Job Market Signaling (RePEc record)",
+          "dcterms:publisher": "Quarterly Journal of Economics, vol. 87, no. 3, via EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:oup:qjecon:v:87:y:1973:i:3:p:355-374.",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 2001",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (nobelprize.org)",
+          "schema:url": "https://nobelprize.org/prizes/economic-sciences/2001/press-release",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "16.1 The Problem of Imperfect Information and Asymmetric Information",
+          "dcterms:publisher": "OpenStax, Principles of Economics 3e (Rice University)",
+          "schema:url": "https://openstax.org/books/principles-economics-3e/pages/16-1-the-problem-of-imperfect-information-and-asymmetric-information",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Market for Used Cars: A New Test of the Lemons Model",
+          "dcterms:publisher": "University of Bern, Department of Economics discussion paper",
+          "schema:url": "https://boris.unibe.ch/142431/1/dp0202.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/information-asymmetry.md",
+      "skos:altLabel": [
+        "information asymmetry",
+        "asymmetric information",
+        "markets with asymmetric information"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-economics"
+        },
+        {
+          "@id": "kt:market-failure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:audit-committee"
+        },
+        {
+          "@id": "kt:truth-in-negotiations-act"
+        },
+        {
+          "@id": "kt:bullwhip-effect"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:george-akerlof"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-market-for-lemons-1970"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:adverse-selection"
+        },
+        {
+          "@id": "kt:moral-hazard"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:signaling-theory"
+        },
+        {
+          "@id": "kt:screening-theory"
+        }
+      ]
+    },
+    {
       "@id": "kt:network-effect",
       "@type": "kto:Concept",
       "skos:prefLabel": "Network Effect",

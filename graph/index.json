@@ -1270,6 +1270,26 @@
     ]
   },
   {
+    "id": "kt:information-asymmetry",
+    "title": "Information Asymmetry: Unequal Knowledge Between Transacting Parties",
+    "aliases": [
+      "information asymmetry",
+      "asymmetric information",
+      "markets with asymmetric information"
+    ],
+    "type": "Theory",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/information-asymmetry.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://www.sfu.ca/~allen/Ackerlof.pdf",
+      "https://econpapers.repec.org/RePEc:oup:qjecon:v:87:y:1973:i:3:p:355-374.",
+      "https://nobelprize.org/prizes/economic-sciences/2001/press-release",
+      "https://openstax.org/books/principles-economics-3e/pages/16-1-the-problem-of-imperfect-information-and-asymmetric-information",
+      "https://boris.unibe.ch/142431/1/dp0202.pdf"
+    ]
+  },
+  {
     "id": "kt:innovation-management",
     "title": "Innovation Management: Organizing the Innovation Process",
     "aliases": [
