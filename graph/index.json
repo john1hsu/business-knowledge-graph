@@ -1883,6 +1883,27 @@
     ]
   },
   {
+    "id": "kt:open-innovation",
+    "title": "Open Innovation: Purposive Inflows and Outflows of Knowledge",
+    "aliases": [
+      "open innovation",
+      "open innovation paradigm",
+      "outside-in and inside-out innovation"
+    ],
+    "type": "Concept",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/open-innovation.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://corporateinnovation.berkeley.edu/what-is-open-innovation/",
+      "https://sloanreview.mit.edu/?p=3119",
+      "https://ppnt.poznan.pl/wp-content/uploads/2016/09/Chesbrough_Bogers-2014-ExplicatingOpenInnovation.pdf",
+      "https://druid.dk/laursen/papers/laursen_salter2006smj.pdf",
+      "https://ideas.repec.org/a/wsi/ijimxx/v13y2009i04ns1363919609002509.html",
+      "https://saylordotorg.github.io/text_international-business/s17-04-increasing-speed-and-effective.html"
+    ]
+  },
+  {
     "id": "kt:organizational-ambidexterity",
     "title": "Organizational Ambidexterity",
     "aliases": [

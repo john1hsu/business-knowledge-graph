@@ -96,6 +96,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
+| `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
@@ -112,6 +113,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno` |
 | `kt:transaction-cost-economics` | `kt:david-j-teece`, `kt:david-j-teece` |
+| `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
@@ -150,6 +152,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:cisco-systems` | `kt:bill-of-materials` |
 | `kt:clayton-act` | `kt:antitrust-law` |
+| `kt:closed-innovation` | `kt:open-innovation` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-strategy` | `kt:business-model` |
@@ -233,6 +236,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
 | `kt:hawthorne-studies` | `kt:management-theory` |
+| `kt:henry-chesbrough` | `kt:open-innovation` |
 | `kt:henry-mintzberg` | `kt:henri-fayol` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
@@ -330,6 +334,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-state-leadership-studies` | `kt:situational-leadership` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom` |
+| `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:operations-management` | `kt:total-quality-management` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
@@ -351,7 +356,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:problem-formulation` | `kt:structured-problem-solving` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:process-theories-of-organizational-change` | `kt:andrew-van-de-ven` |
-| `kt:procter-and-gamble` | `kt:bullwhip-effect` |
 | `kt:procurement` | `kt:public-procurement` |
 | `kt:product-distribution-franchising` | `kt:business-format-franchising` |
 | `kt:product-launch` | `kt:apple-iphone-launch` |
@@ -436,11 +440,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:unity-of-command` | `kt:henri-fayol` |
+| `kt:user-innovation` | `kt:open-innovation` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
 | `kt:value-based-pricing` | `kt:pricing-strategy` |
 | `kt:value-proposition` | `kt:business-model` |
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
-| `kt:venture-capital` | `kt:leveraged-buyout` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |

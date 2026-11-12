@@ -2224,6 +2224,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2000/01/rdf-schema#label> "Open Innovation: Purposive Inflows and Outflows of Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "open innovation paradigm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "open innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "outside-in and inside-out innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#definition> "An approach to innovation, articulated by Henry Chesbrough in 2003, in which a firm deliberately brings outside ideas and technologies into its innovation process and sends unused internal ideas out to the market through others, instead of relying only on its own R&D and its own paths to market." .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Open Innovation: Purposive Inflows and Outflows of Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/closed-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-chesbrough> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/user-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation-the-new-imperative-2003> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2000/01/rdf-schema#label> "Organizational Ambidexterity" .
@@ -5295,6 +5320,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s6> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/when-goal-setting-goes-bad" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <http://purl.org/dc/terms/publisher> "Garwood Center for Corporate Innovation, Haas School of Business, UC Berkeley" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <http://purl.org/dc/terms/title> "What is Open Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <https://schema.org/url> "https://corporateinnovation.berkeley.edu/what-is-open-innovation/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s2> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review, Spring 2003" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s2> <http://purl.org/dc/terms/title> "The Era of Open Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s2> <https://schema.org/url> "https://sloanreview.mit.edu/?p=3119" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s3> <http://purl.org/dc/terms/publisher> "In New Frontiers in Open Innovation (eds. Chesbrough, Vanhaverbeke and West), Oxford University Press, 2014" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s3> <http://purl.org/dc/terms/title> "Explicating Open Innovation: Clarifying an Emerging Paradigm for Understanding Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s3> <https://schema.org/url> "https://ppnt.poznan.pl/wp-content/uploads/2016/09/Chesbrough_Bogers-2014-ExplicatingOpenInnovation.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s4> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 27:131-150, 2006 (doi:10.1002/smj.507)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s4> <http://purl.org/dc/terms/title> "Open for innovation: the role of openness in explaining innovation performance among U.K. manufacturing firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s4> <https://schema.org/url> "https://druid.dk/laursen/papers/laursen_salter2006smj.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s5> <http://purl.org/dc/terms/publisher> "International Journal of Innovation Management 13(4):715-736, 2009 (RePEc/IDEAS record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s5> <http://purl.org/dc/terms/title> "Why 'Open Innovation' is Old Wine in New Bottles" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s5> <https://schema.org/url> "https://ideas.repec.org/a/wsi/ijimxx/v13y2009i04ns1363919609002509.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <http://purl.org/dc/terms/publisher> "Saylor Academy open textbook, International Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <http://purl.org/dc/terms/title> "Increasing Speed and Effectiveness of International Innovation (section 13.4)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://schema.org/url> "https://saylordotorg.github.io/text_international-business/s17-04-increasing-speed-and-effective.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://purl.org/dc/terms/publisher> "Organization Science (RePEc/IDEAS record)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://purl.org/dc/terms/title> "Exploration and Exploitation in Organizational Learning" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

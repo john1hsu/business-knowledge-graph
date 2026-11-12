@@ -6475,6 +6475,102 @@
       ]
     },
     {
+      "@id": "kt:open-innovation",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Open Innovation: Purposive Inflows and Outflows of Knowledge",
+      "skos:definition": "An approach to innovation, articulated by Henry Chesbrough in 2003, in which a firm deliberately brings outside ideas and technologies into its innovation process and sends unused internal ideas out to the market through others, instead of relying only on its own R&D and its own paths to market.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is Open Innovation",
+          "dcterms:publisher": "Garwood Center for Corporate Innovation, Haas School of Business, UC Berkeley",
+          "schema:url": "https://corporateinnovation.berkeley.edu/what-is-open-innovation/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Era of Open Innovation",
+          "dcterms:publisher": "MIT Sloan Management Review, Spring 2003",
+          "schema:url": "https://sloanreview.mit.edu/?p=3119",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Explicating Open Innovation: Clarifying an Emerging Paradigm for Understanding Innovation",
+          "dcterms:publisher": "In New Frontiers in Open Innovation (eds. Chesbrough, Vanhaverbeke and West), Oxford University Press, 2014",
+          "schema:url": "https://ppnt.poznan.pl/wp-content/uploads/2016/09/Chesbrough_Bogers-2014-ExplicatingOpenInnovation.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Open for innovation: the role of openness in explaining innovation performance among U.K. manufacturing firms",
+          "dcterms:publisher": "Strategic Management Journal 27:131-150, 2006 (doi:10.1002/smj.507)",
+          "schema:url": "https://druid.dk/laursen/papers/laursen_salter2006smj.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Why 'Open Innovation' is Old Wine in New Bottles",
+          "dcterms:publisher": "International Journal of Innovation Management 13(4):715-736, 2009 (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/wsi/ijimxx/v13y2009i04ns1363919609002509.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Increasing Speed and Effectiveness of International Innovation (section 13.4)",
+          "dcterms:publisher": "Saylor Academy open textbook, International Business",
+          "schema:url": "https://saylordotorg.github.io/text_international-business/s17-04-increasing-speed-and-effective.html",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/open-innovation.md",
+      "skos:altLabel": [
+        "open innovation",
+        "open innovation paradigm",
+        "outside-in and inside-out innovation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        },
+        {
+          "@id": "kt:venture-capital"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:henry-chesbrough"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:open-innovation-the-new-imperative-2003"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:closed-innovation"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:user-innovation"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:procter-and-gamble"
+        }
+      ]
+    },
+    {
       "@id": "kt:organizational-ambidexterity",
       "@type": "kto:Concept",
       "skos:prefLabel": "Organizational Ambidexterity",
