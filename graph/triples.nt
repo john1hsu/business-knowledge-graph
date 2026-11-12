@@ -1369,6 +1369,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/conceptual-model-of-service-quality-1985> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Goal-Setting Theory: Specific, Difficult Goals and Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Locke and Latham goal-setting theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "goal setting theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "goal theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "theory of goal setting and task performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/motivation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#definition> "A theory of work motivation developed by Edwin Locke and Gary Latham holding that specific, difficult, accepted goals lead to higher task performance than easy or vague \"do your best\" goals, with effects moderated by commitment, feedback, ability and task complexity." .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Goal-Setting Theory: Specific, Difficult Goals and Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stretch-goals> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/edwin-locke> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/gary-latham> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/self-efficacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-pinto> .
+<https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
 <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> <http://www.w3.org/2000/01/rdf-schema#label> "Goodwill" .
@@ -4365,6 +4392,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <https://schema.org/url> "https://www.emeraldinsight.com/doi/abs/10.1108/02656710510625211" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <http://purl.org/dc/terms/publisher> "Applied Psychology - An International Review 50(2), 2001 (author copy, University of Toronto Rotman School)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <http://purl.org/dc/terms/title> "The Reciprocal Transfer of Learning from Journals to Practice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <https://schema.org/url> "https://www-2.rotman.utoronto.ca/facbios/file/05%20-%20Latham%202001.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s2> <http://purl.org/dc/terms/publisher> "Current Directions in Psychological Science 15(5), 2006 (Association for Psychological Science)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s2> <http://purl.org/dc/terms/title> "New Directions in Goal-Setting Theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s2> <https://schema.org/url> "https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2006.00449.x/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s3> <http://purl.org/dc/terms/publisher> "Academy of Management Journal 47(2), 2004 (copy hosted by University of Colorado Leeds School)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s3> <http://purl.org/dc/terms/title> "Goal Setting and Goal Orientation: An Integration of Two Different Yet Related Literatures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s3> <https://schema.org/url> "https://leeds-faculty.colorado.edu/dahe7472/Sejits%202004.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s4> <http://purl.org/dc/terms/publisher> "OpenStax (LibreTexts edition)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s4> <http://purl.org/dc/terms/title> "Organizational Behavior, 7.3 Process Theories of Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s4> <https://schema.org/url> "https://biz.libretexts.org/Bookshelves/Management/Organizational_Behavior_(OpenStax)/07%3A_Work_Motivation_for_Performance/7.03%3A_Process_Theories_of_Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s5> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s5> <http://purl.org/dc/terms/title> "When Goal Setting Goes Bad" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s5> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/when-goal-setting-goes-bad" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s6> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge (Academy of Management Perspectives reply)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s6> <http://purl.org/dc/terms/title> "On Good Scholarship, Goal Setting, and Scholars Gone Wild" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s6> <https://schema.org/url> "https://hbswk.hbs.edu/item/on-good-scholarship-goal-setting-and-scholars-gone-wild" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://purl.org/dc/terms/publisher> "IFRS Foundation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://purl.org/dc/terms/title> "IAS 36 Impairment of Assets" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goodwill/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

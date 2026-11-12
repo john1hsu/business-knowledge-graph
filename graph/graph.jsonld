@@ -10145,6 +10145,104 @@
       ]
     },
     {
+      "@id": "kt:goal-setting-theory",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Goal-Setting Theory: Specific, Difficult Goals and Performance",
+      "skos:definition": "A theory of work motivation developed by Edwin Locke and Gary Latham holding that specific, difficult, accepted goals lead to higher task performance than easy or vague \"do your best\" goals, with effects moderated by commitment, feedback, ability and task complexity.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Reciprocal Transfer of Learning from Journals to Practice",
+          "dcterms:publisher": "Applied Psychology - An International Review 50(2), 2001 (author copy, University of Toronto Rotman School)",
+          "schema:url": "https://www-2.rotman.utoronto.ca/facbios/file/05%20-%20Latham%202001.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "New Directions in Goal-Setting Theory",
+          "dcterms:publisher": "Current Directions in Psychological Science 15(5), 2006 (Association for Psychological Science)",
+          "schema:url": "https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2006.00449.x/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Goal Setting and Goal Orientation: An Integration of Two Different Yet Related Literatures",
+          "dcterms:publisher": "Academy of Management Journal 47(2), 2004 (copy hosted by University of Colorado Leeds School)",
+          "schema:url": "https://leeds-faculty.colorado.edu/dahe7472/Sejits%202004.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Organizational Behavior, 7.3 Process Theories of Motivation",
+          "dcterms:publisher": "OpenStax (LibreTexts edition)",
+          "schema:url": "https://biz.libretexts.org/Bookshelves/Management/Organizational_Behavior_(OpenStax)/07%3A_Work_Motivation_for_Performance/7.03%3A_Process_Theories_of_Motivation",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "When Goal Setting Goes Bad",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/when-goal-setting-goes-bad",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "On Good Scholarship, Goal Setting, and Scholars Gone Wild",
+          "dcterms:publisher": "Harvard Business School Working Knowledge (Academy of Management Perspectives reply)",
+          "schema:url": "https://hbswk.hbs.edu/item/on-good-scholarship-goal-setting-and-scholars-gone-wild",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/goal-setting-theory.md",
+      "skos:altLabel": [
+        "goal setting theory",
+        "Locke and Latham goal-setting theory",
+        "goal theory",
+        "theory of goal setting and task performance"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:motivation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:stretch-goals"
+        },
+        {
+          "@id": "kt:high-performance-teams"
+        },
+        {
+          "@id": "kt:expectancy-theory"
+        },
+        {
+          "@id": "kt:performance-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:edwin-locke"
+        },
+        {
+          "@id": "kt:gary-latham"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:management-by-objectives"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:self-efficacy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ford-pinto"
+        }
+      ]
+    },
+    {
       "@id": "kt:google-project-aristotle",
       "@type": "kto:Case",
       "skos:prefLabel": "Google Project Aristotle",

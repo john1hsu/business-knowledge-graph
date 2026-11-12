@@ -5,10 +5,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:shareholder-primacy` | `kt:board-of-directors`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:corporate-finance`, `kt:michael-c-jensen` |
+| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award`, `kt:goal-setting-theory` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:ifrs` | `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606`, `kt:esg` |
-| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
@@ -25,7 +25,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
-| `kt:goal-setting-theory` | `kt:management-by-objectives`, `kt:okrs`, `kt:high-performance-teams` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:group-decision-making` | `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
@@ -108,6 +107,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:total-quality-management` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
+| `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
@@ -192,6 +192,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
+| `kt:edwin-locke` | `kt:goal-setting-theory` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
 | `kt:employee-motivation` | `kt:j-richard-hackman` |
@@ -204,6 +205,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
 | `kt:executive-compensation` | `kt:michael-c-jensen` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
+| `kt:expectancy-theory` | `kt:goal-setting-theory` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:fama-french-three-factor-model` | `kt:capital-asset-pricing-model` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
@@ -216,6 +218,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:five-whys` | `kt:ishikawa-diagram` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-motor-company` | `kt:total-quality-management` |
+| `kt:ford-pinto` | `kt:goal-setting-theory` |
 | `kt:fred-fiedler` | `kt:contingency-theory-of-leadership` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
@@ -225,6 +228,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:gantt-chart` | `kt:scientific-management` |
+| `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:generic-competitive-strategies` | `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:information-asymmetry` |
@@ -320,6 +324,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microsoft` | `kt:revenue-recognition-asc-606` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:modern-portfolio-theory` | `kt:capital-asset-pricing-model` |
+| `kt:motivation` | `kt:goal-setting-theory` |
 | `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
@@ -393,6 +398,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:screening-theory` | `kt:information-asymmetry` |
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
+| `kt:self-efficacy` | `kt:goal-setting-theory` |
 | `kt:servperf` | `kt:servqual` |
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
@@ -415,7 +421,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
-| `kt:stretch-goals` | `kt:okrs` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:systematic-management` | `kt:scientific-management` |

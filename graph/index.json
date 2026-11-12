@@ -1164,6 +1164,28 @@
     ]
   },
   {
+    "id": "kt:goal-setting-theory",
+    "title": "Goal-Setting Theory: Specific, Difficult Goals and Performance",
+    "aliases": [
+      "goal setting theory",
+      "Locke and Latham goal-setting theory",
+      "goal theory",
+      "theory of goal setting and task performance"
+    ],
+    "type": "Theory",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/goal-setting-theory.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://www-2.rotman.utoronto.ca/facbios/file/05%20-%20Latham%202001.pdf",
+      "https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2006.00449.x/",
+      "https://leeds-faculty.colorado.edu/dahe7472/Sejits%202004.pdf",
+      "https://biz.libretexts.org/Bookshelves/Management/Organizational_Behavior_(OpenStax)/07%3A_Work_Motivation_for_Performance/7.03%3A_Process_Theories_of_Motivation",
+      "https://www.library.hbs.edu/working-knowledge/when-goal-setting-goes-bad",
+      "https://hbswk.hbs.edu/item/on-good-scholarship-goal-setting-and-scholars-gone-wild"
+    ]
+  },
+  {
     "id": "kt:goodwill",
     "title": "Goodwill",
     "aliases": [
