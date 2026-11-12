@@ -377,6 +377,27 @@
     ]
   },
   {
+    "id": "kt:board-of-directors",
+    "title": "Board of Directors: The Corporation's Elected Monitors",
+    "aliases": [
+      "board of directors",
+      "corporate board",
+      "board of a corporation",
+      "unitary board"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/board-of-directors.md",
+    "created": "2026-11-12",
+    "source_urls": [
+      "https://delcode.delaware.gov/title8/c001/sc004/index.html",
+      "https://www.newyorkfed.org/medialibrary/media/research/epr/03v09n1/0304herm.html",
+      "https://www.sec.gov/files/rules/sro/34-47672.htm",
+      "https://www.oecd.org/en/publications/g20-oecd-principles-of-corporate-governance-2023_ed750b30-en/full-report/component-8.html",
+      "https://www.spencerstuart.com/research-and-insight/-/media/2026/09/USBI2026/2026_US_Spencer_Stuart_Board_Index_Highlights.pdf"
+    ]
+  },
+  {
     "id": "kt:brand-equity",
     "title": "Brand Equity: The Marketing Value of a Brand Name",
     "aliases": [

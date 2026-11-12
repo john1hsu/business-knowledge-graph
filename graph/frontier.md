@@ -4,8 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:shareholder-primacy` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:corporate-finance`, `kt:michael-c-jensen` |
-| `kt:board-of-directors` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:devils-advocacy`, `kt:groupthink` |
+| `kt:shareholder-primacy` | `kt:board-of-directors`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:corporate-finance`, `kt:michael-c-jensen` |
 | `kt:business-model` | `kt:business-format-franchising`, `kt:direct-selling`, `kt:freemium`, `kt:membership-warehouse-club`, `kt:razor-and-blades-model`, `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:structured-problem-solving` | `kt:eighty-twenty-rule`, `kt:hypothesis-driven-problem-solving`, `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:mece-principle`, `kt:nominal-group-technique`, `kt:pyramid-principle` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
@@ -40,6 +39,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
+| `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:board-of-directors`, `kt:corporate-governance` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:strategic-management` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
@@ -106,7 +106,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
-| `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:corporate-governance` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:total-quality-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
@@ -170,6 +169,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
+| `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:direct-marketing` | `kt:direct-selling` |
@@ -239,6 +239,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:independent-director` | `kt:board-of-directors` |
 | `kt:index-fund` | `kt:efficient-market-hypothesis` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect` |
@@ -312,6 +313,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-market-entry` | `kt:apple-iphone-launch` |
 | `kt:new-product-development` | `kt:cannibalization` |
+| `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
 | `kt:ohio-state-leadership-studies` | `kt:situational-leadership` |

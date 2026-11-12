@@ -1023,6 +1023,98 @@
       ]
     },
     {
+      "@id": "kt:board-of-directors",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Board of Directors: The Corporation's Elected Monitors",
+      "skos:definition": "The body of individuals elected by a corporation's shareholders that holds the legal authority to manage or direct the company's business, hires and oversees senior executives, and owes fiduciary duties to the company and its shareholders.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-12",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Delaware Code, Title 8, Chapter 1, Subchapter IV: Directors and Officers (§ 141)",
+          "dcterms:publisher": "State of Delaware, Delaware Code Online",
+          "schema:url": "https://delcode.delaware.gov/title8/c001/sc004/index.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Boards of Directors as an Endogenously Determined Institution: A Survey of the Economic Literature",
+          "dcterms:publisher": "Benjamin E. Hermalin and Michael S. Weisbach, FRBNY Economic Policy Review 9(1), April 2003",
+          "schema:url": "https://www.newyorkfed.org/medialibrary/media/research/epr/03v09n1/0304herm.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Self-Regulatory Organizations; Notice of Filing of Proposed Rule Change by the New York Stock Exchange Relating to Corporate Governance (Release No. 34-47672)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, April 11, 2003",
+          "schema:url": "https://www.sec.gov/files/rules/sro/34-47672.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "G20/OECD Principles of Corporate Governance 2023: The responsibilities of the board",
+          "dcterms:publisher": "OECD Publishing",
+          "schema:url": "https://www.oecd.org/en/publications/g20-oecd-principles-of-corporate-governance-2023_ed750b30-en/full-report/component-8.html",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "2026 U.S. Spencer Stuart Board Index: Highlights",
+          "dcterms:publisher": "Spencer Stuart",
+          "schema:url": "https://www.spencerstuart.com/research-and-insight/-/media/2026/09/USBI2026/2026_US_Spencer_Stuart_Board_Index_Highlights.pdf",
+          "kto:sourceType": "consultancy"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/board-of-directors.md",
+      "skos:altLabel": [
+        "board of directors",
+        "corporate board",
+        "board of a corporation",
+        "unitary board"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:fiduciary-duty"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        },
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:independent-director"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:audit-committee"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:delaware-general-corporation-law"
+        },
+        {
+          "@id": "kt:nyse-corporate-governance-listing-standards"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:separation-of-ownership-and-control"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-roundtable-statement-on-corporate-purpose",
       "@type": "kto:Case",
       "skos:prefLabel": "Business Roundtable Statement on the Purpose of a Corporation",

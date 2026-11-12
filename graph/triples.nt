@@ -439,6 +439,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/mass-customization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
 <https://github.com/john1hsu/business-knowledge-graph/id/bill-of-materials> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/cisco-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://purl.org/dc/terms/created> "2026-11-12" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2000/01/rdf-schema#label> "Board of Directors: The Corporation's Elected Monitors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#altLabel> "board of a corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#altLabel> "board of directors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#altLabel> "corporate board" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#altLabel> "unitary board" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#definition> "The body of individuals elected by a corporation's shareholders that holds the legal authority to manage or direct the company's business, hires and oversees senior executives, and owes fiduciary duties to the company and its shareholders." .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#prefLabel> "Board of Directors: The Corporation's Elected Monitors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/independent-director> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/delaware-general-corporation-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/nyse-corporate-governance-listing-standards> .
 <https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> <http://www.w3.org/2000/01/rdf-schema#label> "Brand Equity: The Marketing Value of a Brand Name" .
@@ -3120,6 +3146,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bill-of-materials/s6> <https://schema.org/url> "https://dspace.mit.edu/handle/1721.1/49784" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s1> <http://purl.org/dc/terms/publisher> "State of Delaware, Delaware Code Online" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s1> <http://purl.org/dc/terms/title> "Delaware Code, Title 8, Chapter 1, Subchapter IV: Directors and Officers (§ 141)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s1> <https://schema.org/url> "https://delcode.delaware.gov/title8/c001/sc004/index.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s2> <http://purl.org/dc/terms/publisher> "Benjamin E. Hermalin and Michael S. Weisbach, FRBNY Economic Policy Review 9(1), April 2003" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s2> <http://purl.org/dc/terms/title> "Boards of Directors as an Endogenously Determined Institution: A Survey of the Economic Literature" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s2> <https://schema.org/url> "https://www.newyorkfed.org/medialibrary/media/research/epr/03v09n1/0304herm.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, April 11, 2003" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s3> <http://purl.org/dc/terms/title> "Self-Regulatory Organizations; Notice of Filing of Proposed Rule Change by the New York Stock Exchange Relating to Corporate Governance (Release No. 34-47672)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s3> <https://schema.org/url> "https://www.sec.gov/files/rules/sro/34-47672.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s4> <http://purl.org/dc/terms/publisher> "OECD Publishing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s4> <http://purl.org/dc/terms/title> "G20/OECD Principles of Corporate Governance 2023: The responsibilities of the board" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s4> <https://schema.org/url> "https://www.oecd.org/en/publications/g20-oecd-principles-of-corporate-governance-2023_ed750b30-en/full-report/component-8.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s5> <http://purl.org/dc/terms/publisher> "Spencer Stuart" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s5> <http://purl.org/dc/terms/title> "2026 U.S. Spencer Stuart Board Index: Highlights" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/board-of-directors/s5> <https://schema.org/url> "https://www.spencerstuart.com/research-and-insight/-/media/2026/09/USBI2026/2026_US_Spencer_Stuart_Board_Index_Highlights.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <http://purl.org/dc/terms/publisher> "Tuck School of Business at Dartmouth" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <http://purl.org/dc/terms/title> "Inventing the Edge: Kevin Lane Keller" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/brand-equity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
