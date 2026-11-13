@@ -8706,6 +8706,104 @@
       ]
     },
     {
+      "@id": "kt:adverse-selection",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Adverse Selection: Hidden Information Before a Contract",
+      "skos:definition": "The tendency, when one side of a market privately knows its own risk or quality before contracting, for a single average price to attract disproportionately the high-cost or low-quality types, shrinking or even unravelling the market; firms respond by screening, signaling, pooling and mandates.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism",
+          "dcterms:publisher": "Quarterly Journal of Economics, vol. 84, no. 3 (course copy, Simon Fraser University)",
+          "schema:url": "https://www.sfu.ca/~allen/Ackerlof.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information",
+          "dcterms:publisher": "Quarterly Journal of Economics, vol. 90, no. 4 (course copy, Universidad Carlos III de Madrid)",
+          "schema:url": "https://www.eco.uc3m.es/docencia/MicroII/Rothschild-Stiglitz%201976.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Selection in Insurance Markets: Theory and Empirics in Pictures",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 16723 (published in Journal of Economic Perspectives 25(1), 2011)",
+          "schema:url": "https://nber.org/system/files/working_papers/w16723/w16723.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Paying for Health Insurance: The Tradeoff between Competition and Adverse Selection",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 5796",
+          "schema:url": "https://www.nber.org/papers/w5796",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "16.2 Insurance and Imperfect Information",
+          "dcterms:publisher": "OpenStax, Principles of Economics 3e (Rice University)",
+          "schema:url": "https://openstax.org/books/principles-economics-3e/pages/16-2-insurance-and-imperfect-information",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 2001",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (nobelprize.org)",
+          "schema:url": "https://nobelprize.org/prizes/economic-sciences/2001/press-release",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/adverse-selection.md",
+      "skos:altLabel": [
+        "adverse selection",
+        "hidden information problem",
+        "anti-selection"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:market-failure"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:contract-theory"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:george-akerlof"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-market-for-lemons-1970"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:moral-hazard"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:insurance-death-spiral"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:screening-theory"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:insurance-industry"
+        }
+      ]
+    },
+    {
       "@id": "kt:airline-industry",
       "@type": "kto:Industry",
       "skos:prefLabel": "Airline Industry",

@@ -62,6 +62,27 @@
     ]
   },
   {
+    "id": "kt:adverse-selection",
+    "title": "Adverse Selection: Hidden Information Before a Contract",
+    "aliases": [
+      "adverse selection",
+      "hidden information problem",
+      "anti-selection"
+    ],
+    "type": "Concept",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/adverse-selection.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.sfu.ca/~allen/Ackerlof.pdf",
+      "https://www.eco.uc3m.es/docencia/MicroII/Rothschild-Stiglitz%201976.pdf",
+      "https://nber.org/system/files/working_papers/w16723/w16723.pdf",
+      "https://www.nber.org/papers/w5796",
+      "https://openstax.org/books/principles-economics-3e/pages/16-2-insurance-and-imperfect-information",
+      "https://nobelprize.org/prizes/economic-sciences/2001/press-release"
+    ]
+  },
+  {
     "id": "kt:agency-costs",
     "title": "Agency Costs",
     "aliases": [

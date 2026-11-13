@@ -68,6 +68,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/time-driven-activity-based-costing> .
 <https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/measure-costs-right-make-the-right-decisions-1988> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2000/01/rdf-schema#label> "Adverse Selection: Hidden Information Before a Contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#altLabel> "adverse selection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#altLabel> "anti-selection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#altLabel> "hidden information problem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/market-failure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#definition> "The tendency, when one side of a market privately knows its own risk or quality before contracting, for a single average price to attract disproportionately the high-cost or low-quality types, shrinking or even unravelling the market; firms respond by screening, signaling, pooling and mandates." .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#prefLabel> "Adverse Selection: Hidden Information Before a Contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/insurance-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/insurance-death-spiral> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/george-akerlof> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/screening-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-market-for-lemons-1970> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> <http://www.w3.org/2000/01/rdf-schema#label> "Agency Costs" .
@@ -3398,6 +3423,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/activity-based-costing/s6> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/prr-12-2016-0017/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s1> <http://purl.org/dc/terms/publisher> "Quarterly Journal of Economics, vol. 84, no. 3 (course copy, Simon Fraser University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s1> <http://purl.org/dc/terms/title> "The Market for 'Lemons': Quality Uncertainty and the Market Mechanism" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s1> <https://schema.org/url> "https://www.sfu.ca/~allen/Ackerlof.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s2> <http://purl.org/dc/terms/publisher> "Quarterly Journal of Economics, vol. 90, no. 4 (course copy, Universidad Carlos III de Madrid)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s2> <http://purl.org/dc/terms/title> "Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s2> <https://schema.org/url> "https://www.eco.uc3m.es/docencia/MicroII/Rothschild-Stiglitz%201976.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s3> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 16723 (published in Journal of Economic Perspectives 25(1), 2011)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s3> <http://purl.org/dc/terms/title> "Selection in Insurance Markets: Theory and Empirics in Pictures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s3> <https://schema.org/url> "https://nber.org/system/files/working_papers/w16723/w16723.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 5796" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s4> <http://purl.org/dc/terms/title> "Paying for Health Insurance: The Tradeoff between Competition and Adverse Selection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s4> <https://schema.org/url> "https://www.nber.org/papers/w5796" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s5> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Economics 3e (Rice University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s5> <http://purl.org/dc/terms/title> "16.2 Insurance and Imperfect Information" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s5> <https://schema.org/url> "https://openstax.org/books/principles-economics-3e/pages/16-2-insurance-and-imperfect-information" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s6> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (nobelprize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s6> <http://purl.org/dc/terms/title> "Press release: The Prize in Economic Sciences 2001" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/adverse-selection/s6> <https://schema.org/url> "https://nobelprize.org/prizes/economic-sciences/2001/press-release" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s1> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics (course copy, University of Illinois)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s1> <http://purl.org/dc/terms/title> "Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/agency-costs/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -7,7 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
-| `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:moral-hazard`, `kt:principal-agent-problem` |
+| `kt:contract-theory` | `kt:adverse-selection`, `kt:bengt-holmstrom`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:operations-management` | `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
@@ -17,7 +17,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:platform-business-model`, `kt:dynamic-capabilities` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
-| `kt:contract-theory` | `kt:bengt-holmstrom`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
@@ -72,6 +71,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol` |
+| `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:government-accountability-office` | `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
@@ -85,6 +85,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:marketing-strategy` | `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
@@ -105,6 +106,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
+| `kt:screening-theory` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
@@ -115,6 +117,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
+| `kt:the-market-for-lemons-1970` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
@@ -251,7 +254,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:generic-competitive-strategies` | `kt:porters-five-forces` |
-| `kt:george-akerlof` | `kt:information-asymmetry` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:glass-lewis` | `kt:proxy-advisory-firm` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
@@ -286,6 +288,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
+| `kt:insurance-death-spiral` | `kt:adverse-selection` |
+| `kt:insurance-industry` | `kt:adverse-selection` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:interchangeable-parts` | `kt:mass-production` |
 | `kt:internal-rate-of-return` | `kt:net-present-value` |
@@ -329,7 +333,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:managerial-accounting` | `kt:activity-based-costing` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
-| `kt:market-failure` | `kt:information-asymmetry` |
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
@@ -434,7 +437,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:scqa-framework` | `kt:pyramid-principle` |
-| `kt:screening-theory` | `kt:information-asymmetry` |
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:self-efficacy` | `kt:goal-setting-theory` |
@@ -473,7 +475,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
-| `kt:the-market-for-lemons-1970` | `kt:information-asymmetry` |
 | `kt:the-modern-corporation-and-private-property` | `kt:separation-of-ownership-and-control` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |
