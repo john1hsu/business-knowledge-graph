@@ -886,6 +886,29 @@
     ]
   },
   {
+    "id": "kt:enron-scandal",
+    "title": "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron",
+    "aliases": [
+      "Enron collapse",
+      "Enron fraud",
+      "Enron bankruptcy",
+      "fall of Enron",
+      "Enron accounting scandal"
+    ],
+    "type": "Case",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/enron-scandal.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/CPRT-107SPRT80393/html/CPRT-107SPRT80393.htm",
+      "https://www.sec.gov/news/press/2002-143.htm",
+      "https://www.sec.gov/litigation/litreleases/lr-18551",
+      "https://www.justice.gov/archive/opa/pr/2006/May/06_crm_328.html",
+      "https://www.britannica.com/event/Enron-scandal/Downfall-and-bankruptcy",
+      "https://ideas.repec.org/a/aea/jecper/v17y2003i2p3-26.html"
+    ]
+  },
+  {
     "id": "kt:enterprise-resource-planning",
     "title": "Enterprise Resource Planning",
     "aliases": [

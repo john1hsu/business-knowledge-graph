@@ -119,6 +119,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:a3-report` | `kt:structured-problem-solving` |
+| `kt:accounting-fraud` | `kt:enron-scandal` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:aggregation-theory` | `kt:two-sided-market` |
@@ -129,6 +130,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
+| `kt:arthur-andersen` | `kt:enron-scandal` |
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
@@ -160,6 +162,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-pricing` | `kt:truth-in-negotiations-act` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
 | `kt:corporate-decline` | `kt:kodak-decline` |
+| `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-accounting` | `kt:activity-based-costing` |
@@ -198,7 +201,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:employee-motivation` | `kt:j-richard-hackman` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
-| `kt:enron-scandal` | `kt:sarbanes-oxley-act` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:eu-data-act` | `kt:switching-costs` |
@@ -422,6 +424,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:soldiering` | `kt:scientific-management` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
 | `kt:span-of-control` | `kt:situational-leadership` |
+| `kt:special-purpose-entity` | `kt:enron-scandal` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:stage-gate-process` | `kt:innovation-management` |
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |

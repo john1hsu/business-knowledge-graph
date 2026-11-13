@@ -1979,6 +1979,103 @@
       ]
     },
     {
+      "@id": "kt:enron-scandal",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron",
+      "skos:definition": "The accounting and governance scandal in which the Houston energy trader Enron used undisclosed special purpose entities, side deals and manipulated reserves to inflate earnings and hide debt, ending in its December 2, 2001 Chapter 11 filing, the demise of auditor Arthur Andersen and the Sarbanes-Oxley Act of 2002.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Role of the Board of Directors in Enron's Collapse (S. Prt. 107-70)",
+          "dcterms:publisher": "Permanent Subcommittee on Investigations, U.S. Senate Committee on Governmental Affairs (via GovInfo)",
+          "schema:url": "https://www.govinfo.gov/content/pkg/CPRT-107SPRT80393/html/CPRT-107SPRT80393.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "SEC Charges Fastow, Former Enron CFO, With Fraud (Press Release 2002-143)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/news/press/2002-143.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "SEC v. Richard A. Causey, Civil Action No. H-04-0284 (Litigation Release 18551)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/litigation/litreleases/lr-18551",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Former Enron Chairman and CEO Kenneth L. Lay and Former CEO Jeffrey K. Skilling Convicted",
+          "dcterms:publisher": "U.S. Department of Justice, Office of Public Affairs (May 25, 2006)",
+          "schema:url": "https://www.justice.gov/archive/opa/pr/2006/May/06_crm_328.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Enron scandal: Downfall and bankruptcy",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/event/Enron-scandal/Downfall-and-bankruptcy",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Fall of Enron",
+          "dcterms:publisher": "Journal of Economic Perspectives 17(2), 3–26 (2003), American Economic Association (record via IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/aea/jecper/v17y2003i2p3-26.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/enron-scandal.md",
+      "skos:altLabel": [
+        "Enron collapse",
+        "Enron fraud",
+        "Enron bankruptcy",
+        "fall of Enron",
+        "Enron accounting scandal"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:accounting-fraud"
+        },
+        {
+          "@id": "kt:corporate-scandal"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:audit-committee"
+        },
+        {
+          "@id": "kt:fiduciary-duty"
+        },
+        {
+          "@id": "kt:arthur-andersen"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:special-purpose-entity"
+        }
+      ]
+    },
+    {
       "@id": "kt:ford-model-t",
       "@type": "kto:Case",
       "skos:prefLabel": "Ford Model T",

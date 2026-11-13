@@ -1044,6 +1044,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/vilfredo-pareto> .
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/quality-control-handbook> .
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/pareto-chart> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2000/01/rdf-schema#label> "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#altLabel> "Enron accounting scandal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#altLabel> "Enron bankruptcy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#altLabel> "Enron collapse" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#altLabel> "Enron fraud" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#altLabel> "fall of Enron" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/accounting-fraud> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-scandal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#definition> "The accounting and governance scandal in which the Houston energy trader Enron used undisclosed special purpose entities, side deals and manipulated reserves to inflate earnings and hide debt, ending in its December 2, 2001 Chapter 11 filing, the demise of auditor Arthur Andersen and the Sarbanes-Oxley Act of 2002." .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#prefLabel> "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/arthur-andersen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/special-purpose-entity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/enterprise-resource-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Enterprise Resource Planning" .
@@ -4129,6 +4157,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=32337" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <http://purl.org/dc/terms/publisher> "Permanent Subcommittee on Investigations, U.S. Senate Committee on Governmental Affairs (via GovInfo)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <http://purl.org/dc/terms/title> "The Role of the Board of Directors in Enron's Collapse (S. Prt. 107-70)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/CPRT-107SPRT80393/html/CPRT-107SPRT80393.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s2> <http://purl.org/dc/terms/title> "SEC Charges Fastow, Former Enron CFO, With Fraud (Press Release 2002-143)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s2> <https://schema.org/url> "https://www.sec.gov/news/press/2002-143.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s3> <http://purl.org/dc/terms/title> "SEC v. Richard A. Causey, Civil Action No. H-04-0284 (Litigation Release 18551)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s3> <https://schema.org/url> "https://www.sec.gov/litigation/litreleases/lr-18551" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Office of Public Affairs (May 25, 2006)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s4> <http://purl.org/dc/terms/title> "Former Enron Chairman and CEO Kenneth L. Lay and Former CEO Jeffrey K. Skilling Convicted" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s4> <https://schema.org/url> "https://www.justice.gov/archive/opa/pr/2006/May/06_crm_328.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s5> <http://purl.org/dc/terms/title> "Enron scandal: Downfall and bankruptcy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s5> <https://schema.org/url> "https://www.britannica.com/event/Enron-scandal/Downfall-and-bankruptcy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s6> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 17(2), 3–26 (2003), American Economic Association (record via IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s6> <http://purl.org/dc/terms/title> "The Fall of Enron" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s6> <https://schema.org/url> "https://ideas.repec.org/a/aea/jecper/v17y2003i2p3-26.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://purl.org/dc/terms/publisher> "University of Twente (via FutureLearn)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://purl.org/dc/terms/title> "Introduction to ERP systems (Supply Chain Innovation course)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enterprise-resource-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
