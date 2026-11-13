@@ -2080,6 +2080,28 @@
     ]
   },
   {
+    "id": "kt:platform-business-model",
+    "title": "Platform Business Model: Value Creation by Orchestrating External Producers and Consumers",
+    "aliases": [
+      "platform business",
+      "platform model",
+      "digital platform business model",
+      "platform strategy"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/platform-business-model.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy",
+      "https://dspace.mit.edu/handle/1721.1/98590",
+      "https://ideas.repec.org/a/eee/indorg/v43y2015icp162-174.html",
+      "https://ide.mit.edu/insights/platforms-and-the-new-rules-of-strategy/",
+      "https://mitsloan.mit.edu/ideas-made-to-matter/digital-platforms-high-valuations-high-risk-failure",
+      "https://www.library.hbs.edu/working-knowledge/how-to-be-a-business-platform-leader"
+    ]
+  },
+  {
     "id": "kt:porters-five-forces",
     "title": "Porter's Five Forces: Competitive Forces That Shape Industry Profitability",
     "aliases": [

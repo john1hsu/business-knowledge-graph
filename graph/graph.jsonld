@@ -3294,6 +3294,90 @@
       ]
     },
     {
+      "@id": "kt:platform-business-model",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Platform Business Model: Value Creation by Orchestrating External Producers and Consumers",
+      "skos:definition": "A business model in which a firm creates value mainly by enabling interactions between external producers and consumers (or by giving outside innovators a foundation to build complements on), rather than by producing and selling its own goods through a linear \"pipeline\" value chain.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Pipelines, Platforms, and the New Rules of Strategy",
+          "dcterms:publisher": "Harvard Business Review (Van Alstyne, Parker and Choudary)",
+          "schema:url": "https://hbr.org/2016/04/pipelines-platforms-and-the-new-rules-of-strategy",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Industry Platforms and Ecosystem Innovation",
+          "dcterms:publisher": "Journal of Product Innovation Management (Gawer and Cusumano; MIT DSpace record)",
+          "schema:url": "https://dspace.mit.edu/handle/1721.1/98590",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Multi-sided platforms",
+          "dcterms:publisher": "International Journal of Industrial Organization (Hagiu and Wright; IDEAS/RePEc record)",
+          "schema:url": "https://ideas.repec.org/a/eee/indorg/v43y2015icp162-174.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Platforms and the New Rules of Strategy",
+          "dcterms:publisher": "MIT Initiative on the Digital Economy",
+          "schema:url": "https://ide.mit.edu/insights/platforms-and-the-new-rules-of-strategy/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Digital platforms: High valuations, but high risk of failure",
+          "dcterms:publisher": "MIT Sloan School of Management (Ideas Made to Matter)",
+          "schema:url": "https://mitsloan.mit.edu/ideas-made-to-matter/digital-platforms-high-valuations-high-risk-failure",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How to Be a Business Platform Leader",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/how-to-be-a-business-platform-leader",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-models/platform-business-model.md",
+      "skos:altLabel": [
+        "platform business",
+        "platform model",
+        "digital platform business model",
+        "platform strategy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:aggregation-theory"
+        },
+        {
+          "@id": "kt:business-ecosystem"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:network-effect"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:vertical-integration"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:apple-iphone-launch"
+        }
+      ]
+    },
+    {
       "@id": "kt:razor-and-blades-model",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Razor and Blades",
