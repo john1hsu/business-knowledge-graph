@@ -2278,6 +2278,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/trade-off-theory-of-capital-structure> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/cost-of-capital-corporation-finance-and-theory-of-investment-1958> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2000/01/rdf-schema#label> "Net Present Value: Discounting Future Cash Flows to Evaluate Investments" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#altLabel> "NPV rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#altLabel> "NPV" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#altLabel> "net present value method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#altLabel> "net present worth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#definition> "The present value of an investment's expected cash inflows minus the present value of its cash outflows, discounted at a rate reflecting the cost of capital and risk; the standard capital budgeting rule is to accept projects with a positive NPV because they are expected to add value to the firm." .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#prefLabel> "Net Present Value: Discounting Future Cash Flows to Evaluate Investments" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/real-options> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/payback-period> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/irving-fisher> .
 <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> <http://www.w3.org/2000/01/rdf-schema#label> "Netflix's Shift from DVD Rental to Streaming" .
@@ -5649,6 +5677,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/abacus/v50y2014i3p279-295.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 16.2: Net Present Value (NPV) Method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s2> <http://purl.org/dc/terms/title> "Principles of Accounting, Volume 2, Section 11.5: Compare and Contrast Non-Time Value-Based Methods and Time Value-Based Methods in Capital Investment Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s2> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/11-5-compare-and-contrast-non-time-value-based-methods-and-time-value-based-methods-in-capital-investment-decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s3> <http://purl.org/dc/terms/publisher> "Library of Economics and Liberty (Liberty Fund)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s3> <http://purl.org/dc/terms/title> "The Theory of Interest (1930), Part II: Second Approximation to the Theory of Interest" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s3> <https://schema.org/url> "https://www.econlib.org/library/YPDBooks/Fisher/fshToI6.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s4> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics (Scholars@Duke record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s4> <http://purl.org/dc/terms/title> "The Theory and Practice of Corporate Finance: Evidence from the Field" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s4> <https://schema.org/url> "https://scholars.duke.edu/publication/774079" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s5> <http://purl.org/dc/terms/publisher> "Journal of Applied Corporate Finance (author copy, Duke University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s5> <http://purl.org/dc/terms/title> "How Do CFOs Make Capital Budgeting and Capital Structure Decisions?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s5> <https://schema.org/url> "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s6> <http://purl.org/dc/terms/publisher> "Harvard Business School faculty publication page (Harvard Business Review, January 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s6> <http://purl.org/dc/terms/title> "Innovation Killers: How Financial Tools Destroy Your Capacity to Do New Things" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s6> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=31559" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <http://purl.org/dc/terms/publisher> "Interfaces (RePEc/IDEAS record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <http://purl.org/dc/terms/title> "Finance Theory and Financial Strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <https://schema.org/url> "https://ideas.repec.org/a/inm/orinte/v14y1984i1p126-137.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/netflix-business-model-shift/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/netflix-business-model-shift/s1> <http://purl.org/dc/terms/title> "Netflix, Inc." .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/netflix-business-model-shift/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

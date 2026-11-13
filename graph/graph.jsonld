@@ -5444,6 +5444,110 @@
       ]
     },
     {
+      "@id": "kt:net-present-value",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Net Present Value: Discounting Future Cash Flows to Evaluate Investments",
+      "skos:definition": "The present value of an investment's expected cash inflows minus the present value of its cash outflows, discounted at a rate reflecting the cost of capital and risk; the standard capital budgeting rule is to accept projects with a positive NPV because they are expected to add value to the firm.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 16.2: Net Present Value (NPV) Method",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Accounting, Volume 2, Section 11.5: Compare and Contrast Non-Time Value-Based Methods and Time Value-Based Methods in Capital Investment Decisions",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/11-5-compare-and-contrast-non-time-value-based-methods-and-time-value-based-methods-in-capital-investment-decisions",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Theory of Interest (1930), Part II: Second Approximation to the Theory of Interest",
+          "dcterms:publisher": "Library of Economics and Liberty (Liberty Fund)",
+          "schema:url": "https://www.econlib.org/library/YPDBooks/Fisher/fshToI6.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Theory and Practice of Corporate Finance: Evidence from the Field",
+          "dcterms:publisher": "Journal of Financial Economics (Scholars@Duke record)",
+          "schema:url": "https://scholars.duke.edu/publication/774079",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How Do CFOs Make Capital Budgeting and Capital Structure Decisions?",
+          "dcterms:publisher": "Journal of Applied Corporate Finance (author copy, Duke University)",
+          "schema:url": "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Innovation Killers: How Financial Tools Destroy Your Capacity to Do New Things",
+          "dcterms:publisher": "Harvard Business School faculty publication page (Harvard Business Review, January 2008)",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=31559",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Finance Theory and Financial Strategy",
+          "dcterms:publisher": "Interfaces (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/inm/orinte/v14y1984i1p126-137.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/net-present-value.md",
+      "skos:altLabel": [
+        "NPV",
+        "NPV rule",
+        "net present value method",
+        "net present worth"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:capital-budgeting"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:discounted-cash-flow"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:real-options"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:innovators-dilemma"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:irving-fisher"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:internal-rate-of-return"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:payback-period"
+        }
+      ]
+    },
+    {
       "@id": "kt:weighted-average-cost-of-capital",
       "@type": "kto:Metric",
       "skos:prefLabel": "Weighted Average Cost of Capital",

@@ -7,8 +7,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
+| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
-| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:group-decision-making` | `kt:delphi-method`, `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -17,6 +17,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:platform-business-model`, `kt:dynamic-capabilities` |
+| `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
@@ -54,7 +55,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
-| `kt:capital-budgeting` | `kt:corporate-finance`, `kt:weighted-average-cost-of-capital` |
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
@@ -97,6 +97,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
+| `kt:real-options` | `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
@@ -274,7 +275,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
+| `kt:internal-rate-of-return` | `kt:net-present-value` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
+| `kt:irving-fisher` | `kt:net-present-value` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
@@ -340,7 +343,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
-| `kt:net-present-value` | `kt:bcg-growth-share-matrix` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
@@ -361,6 +363,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:overconfidence-bias` | `kt:scenario-planning` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
+| `kt:payback-period` | `kt:net-present-value` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:penetration-pricing` | `kt:pricing-strategy` |
@@ -390,7 +393,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
-| `kt:real-options` | `kt:scenario-planning` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |

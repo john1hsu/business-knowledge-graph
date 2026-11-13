@@ -1930,6 +1930,29 @@
     ]
   },
   {
+    "id": "kt:net-present-value",
+    "title": "Net Present Value: Discounting Future Cash Flows to Evaluate Investments",
+    "aliases": [
+      "NPV",
+      "NPV rule",
+      "net present value method",
+      "net present worth"
+    ],
+    "type": "Metric",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/net-present-value.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/16-2-net-present-value-npv-method",
+      "https://openstax.org/books/principles-managerial-accounting/pages/11-5-compare-and-contrast-non-time-value-based-methods-and-time-value-based-methods-in-capital-investment-decisions",
+      "https://www.econlib.org/library/YPDBooks/Fisher/fshToI6.html",
+      "https://scholars.duke.edu/publication/774079",
+      "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=31559",
+      "https://ideas.repec.org/a/inm/orinte/v14y1984i1p126-137.html"
+    ]
+  },
+  {
     "id": "kt:netflix-business-model-shift",
     "title": "Netflix's Shift from DVD Rental to Streaming",
     "aliases": [
