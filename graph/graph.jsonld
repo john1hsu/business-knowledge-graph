@@ -12071,6 +12071,103 @@
       ]
     },
     {
+      "@id": "kt:strategic-management",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Strategic Management: Setting Direction and Sustaining Competitive Advantage",
+      "skos:definition": "The set of activities through which top managers set a firm's direction, analyse its environment and resources, choose and implement strategies and evaluate results so that the firm competes successfully; also the academic field, born out of Harvard-style business policy and formalized in the late 1970s, that studies those activities.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Management, 9: Summary of Learning Outcomes",
+          "dcterms:publisher": "OpenStax (Rice University)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/9-summary-of-learning-outcomes",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Management, 9: Introduction (Chieh Huang and Boxed)",
+          "dcterms:publisher": "OpenStax (Rice University)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/9-introduction",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Introduction to The Concept of Strategy 40 Years Later: What Happened to Andrews's Vision for Business Policy?",
+          "dcterms:publisher": "The Wharton School, University of Pennsylvania (Academy of Management session, 2011)",
+          "schema:url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/05/Concept-of-Strategy-40-Years-Later-Introduction_1.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Alfred Dupont Chandler (1918-2007): business historian and strategist",
+          "dcterms:publisher": "Strategy & Leadership (Emerald), 2007",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/sl.2007.26135fac.002/full/html",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Of strategies, deliberate and emergent",
+          "dcterms:publisher": "Strategic Management Journal 6(3), 1985 (record at IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v6y1985i3p257-272.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Thirty-five years of strategic planning and firm performance research: A meta-analysis",
+          "dcterms:publisher": "Academy of Management Annual Meeting 2006 (Nova Southeastern University scholarly record)",
+          "schema:url": "https://scholars.nova.edu/en/publications/thirty-five-years-of-strategic-planning-and-firm-performance-rese/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/strategy/strategic-management.md",
+      "skos:altLabel": [
+        "strategic management",
+        "strategic management process",
+        "business policy and strategy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:porters-five-forces"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:scenario-planning"
+        },
+        {
+          "@id": "kt:bcg-growth-share-matrix"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:business-policy"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:alfred-d-chandler-jr"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:dan-schendel"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:strategic-planning"
+        },
+        {
+          "@id": "kt:emergent-strategy"
+        }
+      ]
+    },
+    {
       "@id": "kt:switching-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Consumer Switching Costs",

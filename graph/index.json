@@ -2581,6 +2581,27 @@
     ]
   },
   {
+    "id": "kt:strategic-management",
+    "title": "Strategic Management: Setting Direction and Sustaining Competitive Advantage",
+    "aliases": [
+      "strategic management",
+      "strategic management process",
+      "business policy and strategy"
+    ],
+    "type": "Field",
+    "domain": "strategy",
+    "file": "articles/strategy/strategic-management.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/9-summary-of-learning-outcomes",
+      "https://openstax.org/books/principles-management/pages/9-introduction",
+      "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/05/Concept-of-Strategy-40-Years-Later-Introduction_1.pdf",
+      "https://www.emerald.com/insight/content/doi/10.1108/sl.2007.26135fac.002/full/html",
+      "https://ideas.repec.org/a/bla/stratm/v6y1985i3p257-272.html",
+      "https://scholars.nova.edu/en/publications/thirty-five-years-of-strategic-planning-and-firm-performance-rese/"
+    ]
+  },
+  {
     "id": "kt:structured-problem-solving",
     "title": "Structured Problem Solving: The Consultant's Stepwise Method",
     "aliases": [

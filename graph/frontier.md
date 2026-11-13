@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
-| `kt:strategic-management` | `kt:business-model`, `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces`, `kt:scenario-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -105,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
+| `kt:strategic-planning` | `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
@@ -124,6 +124,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
+| `kt:alfred-d-chandler-jr` | `kt:strategic-management` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
@@ -139,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:business-communication` | `kt:pyramid-principle` |
+| `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
@@ -170,6 +172,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
+| `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:decision-making` | `kt:structured-problem-solving` |
@@ -197,6 +200,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edwin-locke` | `kt:goal-setting-theory` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
+| `kt:emergent-strategy` | `kt:strategic-management` |
 | `kt:employee-motivation` | `kt:j-richard-hackman` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
@@ -432,7 +436,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
 | `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
-| `kt:strategic-planning` | `kt:scenario-planning` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:sustainability-reporting` | `kt:ifrs` |
 | `kt:sustainable-finance` | `kt:esg` |
