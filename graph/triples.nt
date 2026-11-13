@@ -1501,6 +1501,37 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/conceptual-model-of-service-quality-1985> .
 <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2000/01/rdf-schema#label> "General Motors: From Sloan's Decentralization to the 2009 Bankruptcy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#altLabel> "GM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#altLabel> "General Motors Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#altLabel> "General Motors Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#altLabel> "General Motors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#altLabel> "New GM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#altLabel> "Old GM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/automotive-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#definition> "The Detroit automaker that William C. Durant assembled in 1908 and Alfred P. Sloan Jr. turned into the archetype of the decentralized multidivisional corporation, which dominated the US car market for half a century before a long loss of share ended in a government-financed Chapter 11 reorganization in 2009." .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#prefLabel> "General Motors: From Sloan's Decentralization to the 2009 Bankruptcy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/alfred-d-chandler-jr> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/alfred-p-sloan-jr> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#competesWith> <https://github.com/john1hsu/business-knowledge-graph/id/ford-motor-company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#competesWith> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/william-c-durant> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/multidivisional-form> .
+<https://github.com/john1hsu/business-knowledge-graph/id/general-motors> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/automotive-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Goal-Setting Theory: Specific, Difficult Goals and Performance" .
@@ -4992,6 +5023,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/gaps-model-of-service-quality/s7> <https://schema.org/url> "https://www.emeraldinsight.com/doi/abs/10.1108/02656710510625211" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s1> <http://purl.org/dc/terms/title> "General Motors Corporation (summary)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s1> <https://schema.org/url> "https://www.britannica.com/summary/General-Motors-Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s2> <http://purl.org/dc/terms/title> "Alfred P. Sloan, Jr." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s2> <https://schema.org/url> "https://www.britannica.com/print/article/548879" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s3> <http://purl.org/dc/terms/publisher> "London Business School, Think at London Business School (Jorge Nascimento Rodrigues, 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s3> <http://purl.org/dc/terms/title> "Strategy and structure redux" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s3> <https://schema.org/url> "https://www.london.edu/think/strategy-and-structure-redux" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 19867 (Susan Helper and Rebecca Henderson, 2014)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s4> <http://purl.org/dc/terms/title> "Management Practices, Relational Contracts, and the Decline of General Motors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s4> <https://schema.org/url> "https://nber.org/system/files/working_papers/w19867/w19867.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s5> <http://purl.org/dc/terms/publisher> "Congressional Research Service (text via EveryCRSReport)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s5> <http://purl.org/dc/terms/title> "The Role of TARP Assistance in the Restructuring of General Motors (R41978)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s5> <https://schema.org/url> "https://www.everycrsreport.com/reports/R41978.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s6> <http://purl.org/dc/terms/title> "General Motors Company, Form 10-K for fiscal year 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/general-motors/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <http://purl.org/dc/terms/publisher> "Applied Psychology - An International Review 50(2), 2001 (author copy, University of Toronto Rotman School)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <http://purl.org/dc/terms/title> "The Reciprocal Transfer of Learning from Journals to Practice" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/goal-setting-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

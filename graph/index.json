@@ -1272,6 +1272,30 @@
     ]
   },
   {
+    "id": "kt:general-motors",
+    "title": "General Motors: From Sloan's Decentralization to the 2009 Bankruptcy",
+    "aliases": [
+      "General Motors",
+      "GM",
+      "General Motors Company",
+      "General Motors Corporation",
+      "Old GM",
+      "New GM"
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/general-motors.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.britannica.com/summary/General-Motors-Corporation",
+      "https://www.britannica.com/print/article/548879",
+      "https://www.london.edu/think/strategy-and-structure-redux",
+      "https://nber.org/system/files/working_papers/w19867/w19867.pdf",
+      "https://www.everycrsreport.com/reports/R41978.html",
+      "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm"
+    ]
+  },
+  {
     "id": "kt:goal-setting-theory",
     "title": "Goal-Setting Theory: Specific, Difficult Goals and Performance",
     "aliases": [

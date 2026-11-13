@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:operations-management` | `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:marketing-mix`, `kt:servqual` |
+| `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:platform-business-model`, `kt:dynamic-capabilities` |
@@ -22,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
-| `kt:general-motors` | `kt:dupont-analysis`, `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
@@ -38,12 +38,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
-| `kt:toyota-motor-corporation` | `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:corporate-finance` |
 | `kt:aggregation-theory` | `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
+| `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
+| `kt:automotive-industry` | `kt:general-motors`, `kt:general-motors` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
@@ -56,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
+| `kt:corporate-decline` | `kt:general-motors`, `kt:kodak-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
@@ -65,6 +67,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow` |
+| `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
@@ -128,8 +131,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
-| `kt:alfred-d-chandler-jr` | `kt:strategic-management` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
+| `kt:alfred-p-sloan-jr` | `kt:general-motors` |
 | `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963` | `kt:delphi-method` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
@@ -169,7 +172,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contingency-theory` | `kt:management-theory` |
 | `kt:contract-pricing` | `kt:truth-in-negotiations-act` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
-| `kt:corporate-decline` | `kt:kodak-decline` |
 | `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
@@ -235,7 +237,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:five-whys` | `kt:ishikawa-diagram` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
-| `kt:ford-motor-company` | `kt:total-quality-management` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |
 | `kt:fred-fiedler` | `kt:contingency-theory-of-leadership` |
 | `kt:fred-wilson` | `kt:freemium` |
@@ -353,6 +354,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
+| `kt:multidivisional-form` | `kt:general-motors` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:neil-borden` | `kt:marketing-mix` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
@@ -502,5 +504,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |
+| `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |

@@ -2356,6 +2356,114 @@
       ]
     },
     {
+      "@id": "kt:general-motors",
+      "@type": "kto:Company",
+      "skos:prefLabel": "General Motors: From Sloan's Decentralization to the 2009 Bankruptcy",
+      "skos:definition": "The Detroit automaker that William C. Durant assembled in 1908 and Alfred P. Sloan Jr. turned into the archetype of the decentralized multidivisional corporation, which dominated the US car market for half a century before a long loss of share ended in a government-financed Chapter 11 reorganization in 2009.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "General Motors Corporation (summary)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/summary/General-Motors-Corporation",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Alfred P. Sloan, Jr.",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/print/article/548879",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Strategy and structure redux",
+          "dcterms:publisher": "London Business School, Think at London Business School (Jorge Nascimento Rodrigues, 2008)",
+          "schema:url": "https://www.london.edu/think/strategy-and-structure-redux",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Management Practices, Relational Contracts, and the Decline of General Motors",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 19867 (Susan Helper and Rebecca Henderson, 2014)",
+          "schema:url": "https://nber.org/system/files/working_papers/w19867/w19867.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Role of TARP Assistance in the Restructuring of General Motors (R41978)",
+          "dcterms:publisher": "Congressional Research Service (text via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/reports/R41978.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "General Motors Company, Form 10-K for fiscal year 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/general-motors.md",
+      "skos:altLabel": [
+        "General Motors",
+        "GM",
+        "General Motors Company",
+        "General Motors Corporation",
+        "Old GM",
+        "New GM"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:automotive-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mass-production"
+        },
+        {
+          "@id": "kt:toyota-production-system"
+        },
+        {
+          "@id": "kt:alfred-d-chandler-jr"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:alfred-p-sloan-jr"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:william-c-durant"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:automotive-industry"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:multidivisional-form"
+        },
+        {
+          "@id": "kt:corporate-decline"
+        }
+      ],
+      "kto:competesWith": [
+        {
+          "@id": "kt:ford-motor-company"
+        },
+        {
+          "@id": "kt:toyota-motor-corporation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:ford-model-t"
+        }
+      ]
+    },
+    {
       "@id": "kt:ibm-turnaround",
       "@type": "kto:Case",
       "skos:prefLabel": "IBM Turnaround",
