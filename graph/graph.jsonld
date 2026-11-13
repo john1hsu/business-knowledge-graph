@@ -10635,6 +10635,95 @@
       ]
     },
     {
+      "@id": "kt:services-marketing",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings",
+      "skos:definition": "The branch of marketing that studies how to market offerings whose core is a performance or process rather than a physical good, built around the characteristics of intangibility, inseparability, variability and perishability and the extended 7Ps marketing mix.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "11.1 Classification of Services (Principles of Marketing)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/11-1-classification-of-services",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Tracking the Evolution of the Services Marketing Literature (Fisk, Brown and Bitner), Journal of Retailing 69(1), 1993",
+          "dcterms:publisher": "University of Central Florida STARS (bibliographic record)",
+          "schema:url": "https://stars.library.ucf.edu/scopus1990/621",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Using the 7Ps as a Generic Marketing Mix: An Exploratory Survey of UK and European Marketing Academics (Rafiq and Ahmed)",
+          "dcterms:publisher": "Marketing Intelligence & Planning 13(9), 1995, Emerald",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/02634509510097793/full/html?fullSc=1",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Servicescapes: The Impact of Physical Surroundings on Customers and Employees (Bitner)",
+          "dcterms:publisher": "Journal of Marketing 56, 1992",
+          "schema:url": "https://eclass.aueb.gr/modules/document/file.php/MISC418/Lecture5_Reading_Servicescapes.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Four Service Marketing Myths: Remnants of a Goods-Based, Manufacturing Model (Vargo and Lusch)",
+          "dcterms:publisher": "Journal of Service Research 6(4), 2004",
+          "schema:url": "https://www.sdlogic.net/pdf/The_Four_Service_Marketing_Myths_Remnant.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Whither Services Marketing? In Search of a New Paradigm and Fresh Perspectives (Lovelock and Gummesson)",
+          "dcterms:publisher": "Journal of Service Research 7(1), 2004 (record on Scilit)",
+          "schema:url": "https://scilit.com/publications/ae16c029b352356c30bd004535616af3",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/marketing/services-marketing.md",
+      "skos:altLabel": [
+        "services marketing",
+        "service marketing",
+        "marketing of services"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:service-quality"
+        },
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:servqual"
+        },
+        {
+          "@id": "kt:gaps-model-of-service-quality"
+        },
+        {
+          "@id": "kt:relationship-marketing"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:marketing-mix"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:servicescape"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:service-dominant-logic"
+        }
+      ]
+    },
+    {
       "@id": "kt:servqual",
       "@type": "kto:Metric",
       "skos:prefLabel": "SERVQUAL",

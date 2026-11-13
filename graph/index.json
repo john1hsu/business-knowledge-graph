@@ -2751,6 +2751,27 @@
     ]
   },
   {
+    "id": "kt:services-marketing",
+    "title": "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings",
+    "aliases": [
+      "services marketing",
+      "service marketing",
+      "marketing of services"
+    ],
+    "type": "Field",
+    "domain": "marketing",
+    "file": "articles/marketing/services-marketing.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://openstax.org/books/principles-marketing/pages/11-1-classification-of-services",
+      "https://stars.library.ucf.edu/scopus1990/621",
+      "https://emerald.com/insight/content/doi/10.1108/02634509510097793/full/html?fullSc=1",
+      "https://eclass.aueb.gr/modules/document/file.php/MISC418/Lecture5_Reading_Servicescapes.pdf",
+      "https://www.sdlogic.net/pdf/The_Four_Service_Marketing_Myths_Remnant.pdf",
+      "https://scilit.com/publications/ae16c029b352356c30bd004535616af3"
+    ]
+  },
+  {
     "id": "kt:servqual",
     "title": "SERVQUAL",
     "aliases": [

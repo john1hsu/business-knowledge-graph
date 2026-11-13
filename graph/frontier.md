@@ -8,10 +8,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:contract-theory` | `kt:adverse-selection`, `kt:bengt-holmstrom`, `kt:moral-hazard`, `kt:principal-agent-problem` |
+| `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:operations-management` | `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
-| `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:marketing-mix`, `kt:servqual` |
+| `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:aggregation-theory` | `kt:long-tail`, `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
@@ -22,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
-| `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
@@ -33,7 +33,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:structured-problem-solving` |
-| `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
@@ -102,6 +101,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:real-options` | `kt:net-present-value`, `kt:scenario-planning` |
+| `kt:relationship-marketing` | `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
@@ -338,6 +338,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
+| `kt:marketing` | `kt:services-marketing` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
@@ -416,7 +417,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
-| `kt:relationship-marketing` | `kt:marketing-mix` |
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
@@ -442,6 +442,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:self-efficacy` | `kt:goal-setting-theory` |
+| `kt:service-dominant-logic` | `kt:services-marketing` |
+| `kt:servicescape` | `kt:services-marketing` |
 | `kt:servperf` | `kt:servqual` |
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
