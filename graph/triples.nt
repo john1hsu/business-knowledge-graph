@@ -2194,6 +2194,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/human-relations-movement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2000/01/rdf-schema#label> "Marketing Mix: The Four Ps of Product, Price, Place and Promotion" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#altLabel> "4Ps of marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#altLabel> "4Ps" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#altLabel> "McCarthy's 4Ps" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#altLabel> "four Ps" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#altLabel> "marketing mix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#definition> "The set of controllable marketing tools a firm blends to serve a target market, most often organised as the four Ps of product, price, place and promotion; the idea of a \"mix\" came from Neil Borden at Harvard, and E. Jerome McCarthy condensed Borden's longer list into four Ps." .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marketing Mix: The Four Ps of Product, Price, Place and Promotion" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/relationship-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/neil-borden> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-concept-of-the-marketing-mix-1964> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Material Requirements Planning" .
@@ -5665,6 +5688,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/3-introduction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s1> <http://purl.org/dc/terms/title> "1.2 The Marketing Mix and the 4Ps of Marketing (Principles of Marketing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s1> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/1-2-the-marketing-mix-and-the-4ps-of-marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s2> <http://purl.org/dc/terms/publisher> "Journal of Advertising Research (Classics, Vol. II reprint, 1984)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s2> <http://purl.org/dc/terms/title> "The Concept of the Marketing Mix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s2> <https://schema.org/url> "https://www.impactplus.com/hubfs/Borden-1984_The-concept-of-marketing-mix.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s3> <http://purl.org/dc/terms/publisher> "Journal of Marketing Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s3> <http://purl.org/dc/terms/title> "The Marketing Mix Revisited: Towards the 21st Century Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s3> <https://schema.org/url> "https://intranet.fucape.br/uploads/MATERIAIS_AULAS/25112-8.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s4> <http://purl.org/dc/terms/publisher> "Journal of Marketing (record on Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s4> <http://purl.org/dc/terms/title> "The 4P Classification of the Marketing Mix Revisited" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s4> <https://schema.org/url> "https://scilit.com/publications/84e9dd979a08c88f9632cf570f28ac4d" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <http://purl.org/dc/terms/title> "Rethinking the 4 P's" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <https://schema.org/url> "https://hbr.org/2013/01/rethinking-the-4-ps" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/title> "Materials Requirements Planning (MRP)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

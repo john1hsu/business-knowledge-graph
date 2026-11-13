@@ -1868,6 +1868,28 @@
     ]
   },
   {
+    "id": "kt:marketing-mix",
+    "title": "Marketing Mix: The Four Ps of Product, Price, Place and Promotion",
+    "aliases": [
+      "marketing mix",
+      "4Ps",
+      "four Ps",
+      "4Ps of marketing",
+      "McCarthy's 4Ps"
+    ],
+    "type": "Framework",
+    "domain": "marketing",
+    "file": "articles/marketing/marketing-mix.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://openstax.org/books/principles-marketing/pages/1-2-the-marketing-mix-and-the-4ps-of-marketing",
+      "https://www.impactplus.com/hubfs/Borden-1984_The-concept-of-marketing-mix.pdf",
+      "https://intranet.fucape.br/uploads/MATERIAIS_AULAS/25112-8.pdf",
+      "https://scilit.com/publications/84e9dd979a08c88f9632cf570f28ac4d",
+      "https://hbr.org/2013/01/rethinking-the-4-ps"
+    ]
+  },
+  {
     "id": "kt:material-requirements-planning",
     "title": "Material Requirements Planning",
     "aliases": [

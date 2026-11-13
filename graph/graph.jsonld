@@ -9691,6 +9691,87 @@
       ]
     },
     {
+      "@id": "kt:marketing-mix",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Marketing Mix: The Four Ps of Product, Price, Place and Promotion",
+      "skos:definition": "The set of controllable marketing tools a firm blends to serve a target market, most often organised as the four Ps of product, price, place and promotion; the idea of a \"mix\" came from Neil Borden at Harvard, and E. Jerome McCarthy condensed Borden's longer list into four Ps.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "1.2 The Marketing Mix and the 4Ps of Marketing (Principles of Marketing)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/1-2-the-marketing-mix-and-the-4ps-of-marketing",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Concept of the Marketing Mix",
+          "dcterms:publisher": "Journal of Advertising Research (Classics, Vol. II reprint, 1984)",
+          "schema:url": "https://www.impactplus.com/hubfs/Borden-1984_The-concept-of-marketing-mix.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Marketing Mix Revisited: Towards the 21st Century Marketing",
+          "dcterms:publisher": "Journal of Marketing Management",
+          "schema:url": "https://intranet.fucape.br/uploads/MATERIAIS_AULAS/25112-8.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The 4P Classification of the Marketing Mix Revisited",
+          "dcterms:publisher": "Journal of Marketing (record on Scilit)",
+          "schema:url": "https://scilit.com/publications/84e9dd979a08c88f9632cf570f28ac4d",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Rethinking the 4 P's",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://hbr.org/2013/01/rethinking-the-4-ps",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/marketing/marketing-mix.md",
+      "skos:altLabel": [
+        "marketing mix",
+        "4Ps",
+        "four Ps",
+        "4Ps of marketing",
+        "McCarthy's 4Ps"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:pricing-strategy"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:neil-borden"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-concept-of-the-marketing-mix-1964"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:services-marketing"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:relationship-marketing"
+        }
+      ]
+    },
+    {
       "@id": "kt:price-elasticity",
       "@type": "kto:Metric",
       "skos:prefLabel": "Price Elasticity",

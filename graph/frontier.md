@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:marketing-mix`, `kt:servqual` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:platform-business-model`, `kt:dynamic-capabilities` |
@@ -26,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:marketing-mix` | `kt:issue-tree`, `kt:pricing-strategy`, `kt:segmentation-targeting-positioning` |
 | `kt:operations-management` | `kt:lean-manufacturing`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
@@ -36,7 +36,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:structured-problem-solving` |
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:board-of-directors`, `kt:corporate-governance` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
-| `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
@@ -85,6 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:marketing-strategy` | `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
@@ -324,7 +324,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
-| `kt:marketing-strategy` | `kt:segmentation-targeting-positioning` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
 | `kt:mass-customization` | `kt:bill-of-materials` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
@@ -346,6 +345,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
+| `kt:neil-borden` | `kt:marketing-mix` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
@@ -401,6 +401,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
+| `kt:relationship-marketing` | `kt:marketing-mix` |
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
@@ -456,6 +457,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:tax-incidence` | `kt:price-elasticity` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
+| `kt:the-concept-of-the-marketing-mix-1964` | `kt:marketing-mix` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
