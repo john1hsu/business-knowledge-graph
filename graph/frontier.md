@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:capital-structure` | `kt:dupont-analysis`, `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
@@ -96,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
+| `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:real-options` | `kt:net-present-value`, `kt:scenario-planning` |
@@ -114,6 +114,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
+| `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:transaction-cost-economics` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
@@ -182,6 +183,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
+| `kt:debt-to-equity-ratio` | `kt:capital-structure` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
@@ -324,6 +326,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-failure` | `kt:information-asymmetry` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
+| `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
 | `kt:mass-customization` | `kt:bill-of-materials` |
@@ -369,7 +372,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:payback-period` | `kt:net-present-value` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
-| `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:penetration-pricing` | `kt:pricing-strategy` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:performance-appraisal` | `kt:performance-management` |
@@ -477,7 +479,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-x-and-theory-y` | `kt:management-by-objectives` |
 | `kt:time-driven-activity-based-costing` | `kt:activity-based-costing` |
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
-| `kt:trade-off-theory-of-capital-structure` | `kt:modigliani-miller-theorem` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |

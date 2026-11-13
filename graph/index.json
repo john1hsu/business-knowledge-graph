@@ -547,6 +547,26 @@
     ]
   },
   {
+    "id": "kt:capital-structure",
+    "title": "Capital Structure: The Mix of Debt and Equity Financing",
+    "aliases": [
+      "capital structure",
+      "financing mix",
+      "debt-equity mix",
+      "leverage policy"
+    ],
+    "type": "Concept",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/capital-structure.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance-2e/pages/17-5-optimal-capital-structure",
+      "https://ideas.repec.org/a/bla/jfinan/v39y1984i3p575-92.html",
+      "https://scholars.duke.edu/publication/774079",
+      "https://pages.stern.nyu.edu/%7Ejwurgler/papers/capstruct.pdf"
+    ]
+  },
+  {
     "id": "kt:clayton-christensen",
     "title": "Clayton Christensen",
     "aliases": [

@@ -4962,6 +4962,98 @@
       ]
     },
     {
+      "@id": "kt:capital-structure",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Capital Structure: The Mix of Debt and Equity Financing",
+      "skos:definition": "The proportions of debt and equity a firm uses to finance its assets, and the body of theory (trade-off, pecking order, market timing) that tries to explain how firms choose that mix and whether it affects firm value.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "17.5 Optimal Capital Structure",
+          "dcterms:publisher": "OpenStax, Principles of Finance 2e (Knight and Dahlquist)",
+          "schema:url": "https://openstax.org/books/principles-finance-2e/pages/17-5-optimal-capital-structure",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Capital Structure Puzzle (Journal of Finance 39(3), 1984)",
+          "dcterms:publisher": "IDEAS/RePEc record of the American Finance Association article",
+          "schema:url": "https://ideas.repec.org/a/bla/jfinan/v39y1984i3p575-92.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The theory and practice of corporate finance: evidence from the field",
+          "dcterms:publisher": "Journal of Financial Economics 60(2-3), 2001 (Duke Scholars record)",
+          "schema:url": "https://scholars.duke.edu/publication/774079",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Market Timing and Capital Structure",
+          "dcterms:publisher": "The Journal of Finance 57(1), 2002 (author copy, NYU Stern)",
+          "schema:url": "https://pages.stern.nyu.edu/%7Ejwurgler/papers/capstruct.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/capital-structure.md",
+      "skos:altLabel": [
+        "capital structure",
+        "financing mix",
+        "debt-equity mix",
+        "leverage policy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:modigliani-miller-theorem"
+        },
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:leveraged-buyout"
+        },
+        {
+          "@id": "kt:dividend-policy"
+        },
+        {
+          "@id": "kt:dupont-analysis"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:trade-off-theory-of-capital-structure"
+        },
+        {
+          "@id": "kt:pecking-order-theory"
+        },
+        {
+          "@id": "kt:market-timing-theory-of-capital-structure"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:debt-to-equity-ratio"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:netflix-business-model-shift"
+        }
+      ]
+    },
+    {
       "@id": "kt:corporate-finance",
       "@type": "kto:Field",
       "skos:prefLabel": "Corporate Finance: Investment, Financing and Payout Decisions",

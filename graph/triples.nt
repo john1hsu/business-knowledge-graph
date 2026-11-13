@@ -647,6 +647,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/william-sharpe> .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modern-portfolio-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2000/01/rdf-schema#label> "Capital Structure: The Mix of Debt and Equity Financing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "capital structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "debt-equity mix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "financing mix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "leverage policy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#definition> "The proportions of debt and equity a firm uses to finance its assets, and the body of theory (trade-off, pecking order, market timing) that tries to explain how firms choose that mix and whether it affects firm value." .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capital Structure: The Mix of Debt and Equity Financing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/market-timing-theory-of-capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/pecking-order-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/trade-off-theory-of-capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/debt-to-equity-ratio> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton Christensen" .
@@ -3958,6 +3985,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <https://schema.org/url> "https://www.gsb.stanford.edu/experience/news-history/professor-william-sharpe-shares-nobel-prize-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Finance 2e (Knight and Dahlquist)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <http://purl.org/dc/terms/title> "17.5 Optimal Capital Structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance-2e/pages/17-5-optimal-capital-structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s2> <http://purl.org/dc/terms/publisher> "IDEAS/RePEc record of the American Finance Association article" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s2> <http://purl.org/dc/terms/title> "The Capital Structure Puzzle (Journal of Finance 39(3), 1984)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s2> <https://schema.org/url> "https://ideas.repec.org/a/bla/jfinan/v39y1984i3p575-92.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s3> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics 60(2-3), 2001 (Duke Scholars record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s3> <http://purl.org/dc/terms/title> "The theory and practice of corporate finance: evidence from the field" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s3> <https://schema.org/url> "https://scholars.duke.edu/publication/774079" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <http://purl.org/dc/terms/publisher> "The Journal of Finance 57(1), 2002 (author copy, NYU Stern)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <http://purl.org/dc/terms/title> "Market Timing and Capital Structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <https://schema.org/url> "https://pages.stern.nyu.edu/%7Ejwurgler/papers/capstruct.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/title> "Clayton M. Christensen, Acclaimed Author and Teacher, Dies at 67" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
