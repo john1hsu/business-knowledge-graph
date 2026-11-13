@@ -10,7 +10,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:group-decision-making` | `kt:delphi-method`, `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
@@ -64,6 +63,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
+| `kt:decision-making` | `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
@@ -178,7 +178,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
-| `kt:decision-making` | `kt:structured-problem-solving` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
@@ -247,6 +246,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:group-polarization` | `kt:group-decision-making` |
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
 | `kt:hawthorne-studies` | `kt:management-theory` |
 | `kt:henry-chesbrough` | `kt:open-innovation` |
@@ -432,6 +432,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sol-price` | `kt:membership-warehouse-club` |
 | `kt:soldiering` | `kt:scientific-management` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
+| `kt:space-shuttle-challenger-disaster` | `kt:group-decision-making` |
 | `kt:span-of-control` | `kt:situational-leadership` |
 | `kt:special-purpose-entity` | `kt:enron-scandal` |
 | `kt:spotify` | `kt:freemium` |

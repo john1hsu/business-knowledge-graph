@@ -1529,6 +1529,27 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-oxygen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2000/01/rdf-schema#label> "Group Decision Making: How Groups Combine Individual Judgments into Choices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#altLabel> "collective decision making in organizations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#altLabel> "decision making in groups" .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#altLabel> "group decision-making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#definition> "The process by which two or more people jointly evaluate alternatives and reach a single choice; it can pool knowledge and build commitment, but research on hidden profiles, group polarization and groupthink shows that unstructured discussion often wastes that potential." .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#prefLabel> "Group Decision Making: How Groups Combine Individual Judgments into Choices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/group-polarization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/space-shuttle-challenger-disaster> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <http://www.w3.org/2000/01/rdf-schema#label> "Groupthink" .
@@ -4837,6 +4858,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://schema.org/url> "https://www.eurekalert.org/news-releases/639223" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <http://purl.org/dc/terms/publisher> "OpenStax (J. Stewart Black, David S. Bright et al.), 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <http://purl.org/dc/terms/title> "Organizational Behavior, 6.6 Group Decision Making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <https://schema.org/url> "https://openstax.org/books/organizational-behavior/pages/6-6-group-decision-making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s2> <http://purl.org/dc/terms/publisher> "Saylor Academy open textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s2> <http://purl.org/dc/terms/title> "Organizational Behavior v1.1, 11.4 Decision Making in Groups" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s2> <https://schema.org/url> "https://saylordotorg.github.io/text_organizational-behavior-v1.1/s15-04-decision-making-in-groups.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s3> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology 48(6), 1985" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s3> <http://purl.org/dc/terms/title> "Pooling of unshared information in group decision making: Biased information sampling during discussion" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s3> <https://schema.org/url> "https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s4> <http://purl.org/dc/terms/publisher> "Journal of Managerial Psychology 26(3), 2011" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s4> <http://purl.org/dc/terms/title> "Process gains in group decision making: A conceptual analysis, preliminary data, and tools for practitioners" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s4> <https://schema.org/url> "https://www.emeraldinsight.com/insight/content/doi/10.1108/02683941111112668/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s5> <http://purl.org/dc/terms/publisher> "Journal of Personality and Social Psychology 68(6), 1995" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s5> <http://purl.org/dc/terms/title> "The effects of repeated expressions on attitude polarization during group discussions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s5> <https://schema.org/url> "https://psych.wisc.edu/Brauer/BrauerLab/wp-content/uploads/2014/04/Brauer-et-al-1995-JPSP-Attitude-Polarization.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://purl.org/dc/terms/title> "Groupthink" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -1296,6 +1296,26 @@
     ]
   },
   {
+    "id": "kt:group-decision-making",
+    "title": "Group Decision Making: How Groups Combine Individual Judgments into Choices",
+    "aliases": [
+      "group decision-making",
+      "decision making in groups",
+      "collective decision making in organizations"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/group-decision-making.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://openstax.org/books/organizational-behavior/pages/6-6-group-decision-making",
+      "https://saylordotorg.github.io/text_organizational-behavior-v1.1/s15-04-decision-making-in-groups.html",
+      "https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf",
+      "https://www.emeraldinsight.com/insight/content/doi/10.1108/02683941111112668/full/html",
+      "https://psych.wisc.edu/Brauer/BrauerLab/wp-content/uploads/2014/04/Brauer-et-al-1995-JPSP-Attitude-Polarization.pdf"
+    ]
+  },
+  {
     "id": "kt:groupthink",
     "title": "Groupthink",
     "aliases": [

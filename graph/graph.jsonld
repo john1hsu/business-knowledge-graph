@@ -11175,6 +11175,81 @@
       ]
     },
     {
+      "@id": "kt:group-decision-making",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Group Decision Making: How Groups Combine Individual Judgments into Choices",
+      "skos:definition": "The process by which two or more people jointly evaluate alternatives and reach a single choice; it can pool knowledge and build commitment, but research on hidden profiles, group polarization and groupthink shows that unstructured discussion often wastes that potential.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Organizational Behavior, 6.6 Group Decision Making",
+          "dcterms:publisher": "OpenStax (J. Stewart Black, David S. Bright et al.), 2019",
+          "schema:url": "https://openstax.org/books/organizational-behavior/pages/6-6-group-decision-making",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Organizational Behavior v1.1, 11.4 Decision Making in Groups",
+          "dcterms:publisher": "Saylor Academy open textbook",
+          "schema:url": "https://saylordotorg.github.io/text_organizational-behavior-v1.1/s15-04-decision-making-in-groups.html",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Pooling of unshared information in group decision making: Biased information sampling during discussion",
+          "dcterms:publisher": "Journal of Personality and Social Psychology 48(6), 1985",
+          "schema:url": "https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/vorlesungkommunikation/stasser_titus_unsharedinfogroupdisc_jpsp1985.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Process gains in group decision making: A conceptual analysis, preliminary data, and tools for practitioners",
+          "dcterms:publisher": "Journal of Managerial Psychology 26(3), 2011",
+          "schema:url": "https://www.emeraldinsight.com/insight/content/doi/10.1108/02683941111112668/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The effects of repeated expressions on attitude polarization during group discussions",
+          "dcterms:publisher": "Journal of Personality and Social Psychology 68(6), 1995",
+          "schema:url": "https://psych.wisc.edu/Brauer/BrauerLab/wp-content/uploads/2014/04/Brauer-et-al-1995-JPSP-Attitude-Polarization.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/group-decision-making.md",
+      "skos:altLabel": [
+        "group decision-making",
+        "decision making in groups",
+        "collective decision making in organizations"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:decision-making"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:groupthink"
+        },
+        {
+          "@id": "kt:group-polarization"
+        },
+        {
+          "@id": "kt:nominal-group-technique"
+        },
+        {
+          "@id": "kt:devils-advocacy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:space-shuttle-challenger-disaster"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:board-of-directors"
+        }
+      ]
+    },
+    {
       "@id": "kt:groupthink",
       "@type": "kto:Theory",
       "skos:prefLabel": "Groupthink",
