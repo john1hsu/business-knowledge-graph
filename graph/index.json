@@ -1736,6 +1736,29 @@
     ]
   },
   {
+    "id": "kt:lean-startup",
+    "title": "Lean Startup: Validated Learning Through the Build-Measure-Learn Loop",
+    "aliases": [
+      "lean startup",
+      "lean start-up",
+      "lean startup methodology",
+      "lean startup method",
+      "build-measure-learn"
+    ],
+    "type": "Practice",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/lean-startup.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://gustavus.edu/academics/departments/business-and-economics/concertFiles/media/2020_Gustie_Cup/Blank_2013.pdf",
+      "https://papers.ssrn.com/abstract=2037237",
+      "https://www.library.hbs.edu/working-knowledge/teaching-a-lean-startup-strategy",
+      "https://www.insead.edu/faculty-research/publications/journal-articles/a-scientific-approach-entrepreneurial-decision",
+      "https://dspace.mit.edu/bitstream/handle/1721.1/134124/1-s2.0-S0024630119301505-main.pdf?sequence=2",
+      "https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2023.17590"
+    ]
+  },
+  {
     "id": "kt:leveraged-buyout",
     "title": "Leveraged Buyout",
     "aliases": [

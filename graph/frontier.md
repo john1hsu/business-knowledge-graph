@@ -112,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
+| `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:transaction-cost-economics` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
@@ -142,6 +143,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:business-communication` | `kt:pyramid-principle` |
+| `kt:business-model-canvas` | `kt:lean-startup` |
 | `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
@@ -173,6 +175,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
+| `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dan-schendel` | `kt:strategic-management` |
@@ -208,6 +211,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
+| `kt:eric-ries` | `kt:lean-startup` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:eu-data-act` | `kt:switching-costs` |
 | `kt:eu-ias-regulation` | `kt:ifrs` |
@@ -297,7 +301,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kraft-heinz` | `kt:goodwill` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
-| `kt:lean-startup` | `kt:hypothesis-driven-problem-solving` |
 | `kt:learning-curve` | `kt:experience-curve` |
 | `kt:learning-organization` | `kt:organizational-learning` |
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
@@ -387,6 +390,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-launch` | `kt:apple-iphone-launch` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
+| `kt:product-market-fit` | `kt:lean-startup` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:public-administration` | `kt:public-procurement` |
@@ -460,7 +464,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:the-pyramid-principle-logic-in-writing-and-thinking` | `kt:pyramid-principle` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
-| `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
 | `kt:theory-of-the-firm` | `kt:transaction-cost-economics` |

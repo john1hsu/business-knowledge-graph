@@ -2041,6 +2041,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> .
 <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
 <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-machine-that-changed-the-world> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2000/01/rdf-schema#label> "Lean Startup: Validated Learning Through the Build-Measure-Learn Loop" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#altLabel> "build-measure-learn" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#altLabel> "lean start-up" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#altLabel> "lean startup method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#altLabel> "lean startup methodology" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#altLabel> "lean startup" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#definition> "An entrepreneurial methodology, named by Eric Ries and built on Steve Blank's customer development, that treats a new venture's business model as a set of untested hypotheses and tests them quickly with minimum viable products and customer feedback, then perseveres, pivots or stops based on the evidence." .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lean Startup: Validated Learning Through the Build-Measure-Learn Loop" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/theory-based-view> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/eric-ries> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/customer-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2000/01/rdf-schema#label> "Leveraged Buyout" .
@@ -5433,6 +5459,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <https://schema.org/url> "https://epa.gov/sustainability/environmental-professionals-guide-lean-and-six-sigma-chapter-2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review 91(5), May 2013 (reprint hosted by Gustavus Adolphus College)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s1> <http://purl.org/dc/terms/title> "Why the Lean Start-Up Changes Everything" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s1> <https://schema.org/url> "https://gustavus.edu/academics/departments/business-and-economics/concertFiles/media/2020_Gustie_Cup/Blank_2013.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School (via SSRN)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s2> <http://purl.org/dc/terms/title> "Hypothesis-Driven Entrepreneurship: The Lean Startup (HBS Background Note 812-095)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s2> <https://schema.org/url> "https://papers.ssrn.com/abstract=2037237" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s3> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s3> <http://purl.org/dc/terms/title> "Teaching a 'Lean Startup' Strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s3> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/teaching-a-lean-startup-strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s4> <http://purl.org/dc/terms/publisher> "Management Science 66(2), 2020 (INSEAD faculty publication record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s4> <http://purl.org/dc/terms/title> "A Scientific Approach to Entrepreneurial Decision Making: Evidence from a Randomized Control Trial" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s4> <https://schema.org/url> "https://www.insead.edu/faculty-research/publications/journal-articles/a-scientific-approach-entrepreneurial-decision" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s5> <http://purl.org/dc/terms/publisher> "Long Range Planning 53, 2020 (MIT DSpace)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s5> <http://purl.org/dc/terms/title> "Lean startup and the business model: Experimentation revisited" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s5> <https://schema.org/url> "https://dspace.mit.edu/bitstream/handle/1721.1/134124/1-s2.0-S0024630119301505-main.pdf?sequence=2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s6> <http://purl.org/dc/terms/publisher> "Organization Science 36(2), 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s6> <http://purl.org/dc/terms/title> "Does a Theory-of-Value Add Value? Evidence from a Randomized Control Trial with Tanzanian Entrepreneurs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-startup/s6> <https://schema.org/url> "https://pubsonline.informs.org/doi/pdf/10.1287/orsc.2023.17590" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 23(1), 121-146 (author copy, Stockholm School of Economics)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/title> "Leveraged Buyouts and Private Equity" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
