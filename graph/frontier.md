@@ -5,12 +5,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:operations-management` | `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:marketing-mix`, `kt:servqual` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
@@ -27,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:operations-management` | `kt:lean-manufacturing`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
@@ -84,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marketing-strategy` | `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
+| `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
@@ -136,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:arthur-andersen` | `kt:enron-scandal` |
+| `kt:assembly-line` | `kt:mass-production` |
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
@@ -232,6 +233,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
 | `kt:five-whys` | `kt:ishikawa-diagram` |
+| `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-motor-company` | `kt:total-quality-management` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |
@@ -284,6 +286,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
+| `kt:interchangeable-parts` | `kt:mass-production` |
 | `kt:internal-rate-of-return` | `kt:net-present-value` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-fisher` | `kt:net-present-value` |
@@ -332,7 +335,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
-| `kt:mass-customization` | `kt:bill-of-materials` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:mcdonalds` | `kt:business-format-franchising` |

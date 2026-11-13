@@ -1932,6 +1932,27 @@
     ]
   },
   {
+    "id": "kt:mass-production",
+    "title": "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization",
+    "aliases": [
+      "mass production",
+      "Fordist production",
+      "Ford system of production",
+      "flow production"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/mass-production.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.britannica.com/technology/mass-production/Introduction",
+      "https://www.thehenryford.org/collections/explore/articles/ford-methods-and-the-ford-shops",
+      "https://biblat.unam.mx/hevila/Investigacioneconomica/1987/vol46/no181/3.pdf",
+      "https://ideas.repec.org/a/bla/stratm/v16y1995is1p21-42.html",
+      "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf"
+    ]
+  },
+  {
     "id": "kt:material-requirements-planning",
     "title": "Material Requirements Planning",
     "aliases": [

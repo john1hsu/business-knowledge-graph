@@ -10961,6 +10961,100 @@
       ]
     },
     {
+      "@id": "kt:mass-production",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization",
+      "skos:definition": "A system of manufacturing that combines division of labour, standardized interchangeable parts, special-purpose machinery and continuous flow to make large volumes of identical goods at falling unit cost; perfected at Ford's Highland Park plant in 1913 and later challenged by lean production, flexible specialization and mass customization.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Mass production",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/mass-production/Introduction",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Ford Methods and the Ford Shops",
+          "dcterms:publisher": "The Henry Ford (Matt Anderson, Curator of Transportation)",
+          "schema:url": "https://www.thehenryford.org/collections/explore/articles/ford-methods-and-the-ford-shops",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Capitalismo y producción en masa (Piore and Sabel, The Second Industrial Divide, translated chapter)",
+          "dcterms:publisher": "Investigación Económica 46(181), 1987",
+          "schema:url": "https://biblat.unam.mx/hevila/Investigacioneconomica/1987/vol46/no181/3.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mass customization: Implementing the emerging paradigm for competitive advantage",
+          "dcterms:publisher": "Strategic Management Journal 16(S1), 1995 (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v16y1995is1p21-42.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "JOM Forum: Commentaries on 'The Lenses of Lean'",
+          "dcterms:publisher": "Journal of Operations Management (MIT DSpace accepted manuscript), 2021",
+          "schema:url": "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/mass-production.md",
+      "skos:altLabel": [
+        "mass production",
+        "Fordist production",
+        "Ford system of production",
+        "flow production"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:experience-curve"
+        },
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:scientific-management"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ford-model-t"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:interchangeable-parts"
+        },
+        {
+          "@id": "kt:assembly-line"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:lean-manufacturing"
+        },
+        {
+          "@id": "kt:flexible-specialization"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:mass-customization"
+        }
+      ]
+    },
+    {
       "@id": "kt:material-requirements-planning",
       "@type": "kto:Practice",
       "skos:prefLabel": "Material Requirements Planning",

@@ -2269,6 +2269,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-concept-of-the-marketing-mix-1964> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2000/01/rdf-schema#label> "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#altLabel> "Ford system of production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#altLabel> "Fordist production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#altLabel> "flow production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#altLabel> "mass production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#definition> "A system of manufacturing that combines division of labour, standardized interchangeable parts, special-purpose machinery and continuous flow to make large volumes of identical goods at falling unit cost; perfected at Ford's Highland Park plant in 1913 and later challenged by lean production, flexible specialization and mass customization." .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/mass-customization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/flexible-specialization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/assembly-line> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/interchangeable-parts> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> <http://www.w3.org/2000/01/rdf-schema#label> "Material Requirements Planning" .
@@ -5841,6 +5867,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <https://schema.org/url> "https://hbr.org/2013/01/rethinking-the-4-ps" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <http://purl.org/dc/terms/title> "Mass production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <https://schema.org/url> "https://www.britannica.com/technology/mass-production/Introduction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s2> <http://purl.org/dc/terms/publisher> "The Henry Ford (Matt Anderson, Curator of Transportation)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s2> <http://purl.org/dc/terms/title> "Ford Methods and the Ford Shops" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s2> <https://schema.org/url> "https://www.thehenryford.org/collections/explore/articles/ford-methods-and-the-ford-shops" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s3> <http://purl.org/dc/terms/publisher> "Investigación Económica 46(181), 1987" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s3> <http://purl.org/dc/terms/title> "Capitalismo y producción en masa (Piore and Sabel, The Second Industrial Divide, translated chapter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s3> <https://schema.org/url> "https://biblat.unam.mx/hevila/Investigacioneconomica/1987/vol46/no181/3.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s4> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 16(S1), 1995 (RePEc/IDEAS record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s4> <http://purl.org/dc/terms/title> "Mass customization: Implementing the emerging paradigm for competitive advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s4> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v16y1995is1p21-42.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s5> <http://purl.org/dc/terms/publisher> "Journal of Operations Management (MIT DSpace accepted manuscript), 2021" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s5> <http://purl.org/dc/terms/title> "JOM Forum: Commentaries on 'The Lenses of Lean'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s5> <https://schema.org/url> "https://dspace.mit.edu/bitstream/1721.1/140618/1/10.1002-joom.1138.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://purl.org/dc/terms/title> "Materials Requirements Planning (MRP)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/material-requirements-planning/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
