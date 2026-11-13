@@ -843,6 +843,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/salesforce> .
 <https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2000/01/rdf-schema#label> "Delphi Method: Iterative Anonymous Expert Consensus" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#altLabel> "Delphi process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#altLabel> "Delphi survey" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#altLabel> "Delphi technique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#altLabel> "expert Delphi" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/forecasting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#definition> "A structured way of pooling expert judgment in which panellists answer questionnaires anonymously over several rounds, see a statistical summary of the group's answers between rounds, and may revise their views, so a forecast or consensus emerges without face-to-face debate." .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#prefLabel> "Delphi Method: Iterative Anonymous Expert Consensus" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/norman-dalkey> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/olaf-helmer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963> .
+<https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
 <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2000/01/rdf-schema#label> "Devil's Advocate Method" .
@@ -3982,6 +4008,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/deferred-revenue/s6> <https://schema.org/url> "https://dart.deloitte.com/USDART/home/publications/deloitte/heads-up/2021/fasb-asu-contract-assets-liabilities-revenue" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s1> <http://purl.org/dc/terms/publisher> "IDEAS/RePEc record of INFORMS article" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s1> <http://purl.org/dc/terms/title> "An Experimental Application of the DELPHI Method to the Use of Experts (Management Science 9(3):458-467, 1963; DOI 10.1287/mnsc.9.3.458)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s1> <https://schema.org/url> "https://ideas.repec.org/a/inm/ormnsc/v9y1963i3p458-467.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s2> <http://purl.org/dc/terms/publisher> "The RAND Corporation (via Defense Technical Information Center)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s2> <http://purl.org/dc/terms/title> "Report on a Long-Range Forecasting Study (RAND Paper P-2982)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s2> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0607777.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s3> <http://purl.org/dc/terms/publisher> "IAOR record of Elsevier article" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s3> <http://purl.org/dc/terms/title> "The Delphi technique as a forecasting tool: Issues and analysis (International Journal of Forecasting 15(4):353-375, 1999)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s3> <https://schema.org/url> "https://iaorifors.com/paper/29874" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s4> <http://purl.org/dc/terms/publisher> "The RAND Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s4> <http://purl.org/dc/terms/title> "Delphi Assessment: Expert Opinion, Forecasting, and Group Process (RAND Report R-1283-PR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s4> <https://schema.org/url> "https://www.rand.org/pubs/reports/R1283.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s5> <http://purl.org/dc/terms/publisher> "Frontiers in Public Health" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s5> <http://purl.org/dc/terms/title> "Delphi Technique in Health Sciences: A Map" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s5> <https://schema.org/url> "https://www.frontiersin.org/article/10.3389/fpubh.2020.00457" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <http://purl.org/dc/terms/publisher> "Internal and Emergency Medicine (via PubMed Central)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <http://purl.org/dc/terms/title> "Consensus development for healthcare professionals" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4405502" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://purl.org/dc/terms/title> "Devil's advocate" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

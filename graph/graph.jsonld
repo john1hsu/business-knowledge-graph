@@ -3836,6 +3836,101 @@
       ]
     },
     {
+      "@id": "kt:delphi-method",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Delphi Method: Iterative Anonymous Expert Consensus",
+      "skos:definition": "A structured way of pooling expert judgment in which panellists answer questionnaires anonymously over several rounds, see a statistical summary of the group's answers between rounds, and may revise their views, so a forecast or consensus emerges without face-to-face debate.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "An Experimental Application of the DELPHI Method to the Use of Experts (Management Science 9(3):458-467, 1963; DOI 10.1287/mnsc.9.3.458)",
+          "dcterms:publisher": "IDEAS/RePEc record of INFORMS article",
+          "schema:url": "https://ideas.repec.org/a/inm/ormnsc/v9y1963i3p458-467.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Report on a Long-Range Forecasting Study (RAND Paper P-2982)",
+          "dcterms:publisher": "The RAND Corporation (via Defense Technical Information Center)",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/AD0607777.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Delphi technique as a forecasting tool: Issues and analysis (International Journal of Forecasting 15(4):353-375, 1999)",
+          "dcterms:publisher": "IAOR record of Elsevier article",
+          "schema:url": "https://iaorifors.com/paper/29874",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Delphi Assessment: Expert Opinion, Forecasting, and Group Process (RAND Report R-1283-PR)",
+          "dcterms:publisher": "The RAND Corporation",
+          "schema:url": "https://www.rand.org/pubs/reports/R1283.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Delphi Technique in Health Sciences: A Map",
+          "dcterms:publisher": "Frontiers in Public Health",
+          "schema:url": "https://www.frontiersin.org/article/10.3389/fpubh.2020.00457",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Consensus development for healthcare professionals",
+          "dcterms:publisher": "Internal and Emergency Medicine (via PubMed Central)",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4405502",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/delphi-method.md",
+      "skos:altLabel": [
+        "Delphi technique",
+        "Delphi process",
+        "Delphi survey",
+        "expert Delphi"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:group-decision-making"
+        },
+        {
+          "@id": "kt:forecasting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scenario-planning"
+        },
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:devils-advocacy"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:norman-dalkey"
+        },
+        {
+          "@id": "kt:olaf-helmer"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:nominal-group-technique"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:groupthink"
+        }
+      ]
+    },
+    {
       "@id": "kt:eighty-twenty-rule",
       "@type": "kto:Concept",
       "skos:prefLabel": "80/20 Rule",

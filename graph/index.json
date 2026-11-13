@@ -714,6 +714,28 @@
     ]
   },
   {
+    "id": "kt:delphi-method",
+    "title": "Delphi Method: Iterative Anonymous Expert Consensus",
+    "aliases": [
+      "Delphi technique",
+      "Delphi process",
+      "Delphi survey",
+      "expert Delphi"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/delphi-method.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://ideas.repec.org/a/inm/ormnsc/v9y1963i3p458-467.html",
+      "https://apps.dtic.mil/sti/pdfs/AD0607777.pdf",
+      "https://iaorifors.com/paper/29874",
+      "https://www.rand.org/pubs/reports/R1283.html",
+      "https://www.frontiersin.org/article/10.3389/fpubh.2020.00457",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4405502"
+    ]
+  },
+  {
     "id": "kt:devils-advocacy",
     "title": "Devil's Advocate Method",
     "aliases": [
