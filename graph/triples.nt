@@ -3090,6 +3090,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/revolutionary-far-overhaul> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/marketplace-for-the-acquisition-of-professional-services> .
 <https://github.com/john1hsu/business-knowledge-graph/id/revolutionary-far-overhaul> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/executive-order-14275> .
 <https://github.com/john1hsu/business-knowledge-graph/id/revolutionary-far-overhaul> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Root Cause Analysis: Tracing Problems to Their Underlying Causes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "RCA" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "RCA2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "root cause analysis and action" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "root cause analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "root-cause analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#definition> "A family of structured methods for investigating a problem or adverse event so as to find the underlying system causes that produced it, rather than its symptoms or the person nearest to it, and to design corrective actions that stop it recurring." .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Root Cause Analysis: Tracing Problems to Their Underlying Causes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/five-whys> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/patient-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/failure-mode-and-effects-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/barrier-analysis> .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> <http://www.w3.org/2000/01/rdf-schema#label> "Software as a Service" .
@@ -6906,6 +6931,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/revolutionary-far-overhaul/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/revolutionary-far-overhaul/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/revolutionary-far-overhaul/s6> <https://schema.org/url> "https://www.washingtontechnology.com/contracts/2026/10/maps-ruling-exposes-far-overhauls-clause-confusion/416443/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s1> <http://purl.org/dc/terms/publisher> "American Society for Quality (ASQ)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s1> <http://purl.org/dc/terms/title> "What is Root Cause Analysis (RCA)?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s1> <https://schema.org/url> "https://www.asq.org/quality-resources/root-cause-analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s2> <http://purl.org/dc/terms/publisher> "Agency for Healthcare Research and Quality, PSNet" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s2> <http://purl.org/dc/terms/title> "Root Cause Analysis (Patient Safety Primer)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s2> <https://schema.org/url> "https://psnet.ahrq.gov/primer/root-cause-analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s3> <http://purl.org/dc/terms/publisher> "BMJ Quality & Safety (author manuscript, University of Birmingham repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s3> <http://purl.org/dc/terms/title> "The problem with root cause analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s3> <https://schema.org/url> "https://research.birmingham.ac.uk/files/70608217/Peerally_et_al_The_problem_with_BMJ_Qual_Saf_2016.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of Energy, Office of Environment, Health, Safety & Security" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s4> <http://purl.org/dc/terms/title> "DOE-NE-STD-1004-92: Root Cause Analysis Guidance Document" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s4> <https://schema.org/url> "https://www.energy.gov/ehss/articles/doe-ne-std-1004-92" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s5> <http://purl.org/dc/terms/publisher> "Institute for Healthcare Improvement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s5> <http://purl.org/dc/terms/title> "RCA2: Improving Root Cause Analyses and Actions to Prevent Harm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s5> <https://schema.org/url> "https://IHI.org/resources/tools/rca2-improving-root-cause-analyses-and-actions-prevent-harm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s6> <http://purl.org/dc/terms/publisher> "Institute for Healthcare Improvement (hosted by the Minnesota Department of Health)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s6> <http://purl.org/dc/terms/title> "Patient Safety Essentials Toolkit: Action Hierarchy Tool (part of RCA2)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s6> <https://schema.org/url> "https://health.state.mn.us/facilities/patientsafety/adverseevents/toolkit/docs/safetytoolkit_actionhierarchy.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (Peter Mell and Timothy Grance), 2011" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://purl.org/dc/terms/title> "The NIST Definition of Cloud Computing (SP 800-145)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/saas-business-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

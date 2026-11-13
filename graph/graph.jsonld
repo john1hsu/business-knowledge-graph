@@ -4970,6 +4970,94 @@
       ]
     },
     {
+      "@id": "kt:root-cause-analysis",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Root Cause Analysis: Tracing Problems to Their Underlying Causes",
+      "skos:definition": "A family of structured methods for investigating a problem or adverse event so as to find the underlying system causes that produced it, rather than its symptoms or the person nearest to it, and to design corrective actions that stop it recurring.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What is Root Cause Analysis (RCA)?",
+          "dcterms:publisher": "American Society for Quality (ASQ)",
+          "schema:url": "https://www.asq.org/quality-resources/root-cause-analysis",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Root Cause Analysis (Patient Safety Primer)",
+          "dcterms:publisher": "Agency for Healthcare Research and Quality, PSNet",
+          "schema:url": "https://psnet.ahrq.gov/primer/root-cause-analysis",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The problem with root cause analysis",
+          "dcterms:publisher": "BMJ Quality & Safety (author manuscript, University of Birmingham repository)",
+          "schema:url": "https://research.birmingham.ac.uk/files/70608217/Peerally_et_al_The_problem_with_BMJ_Qual_Saf_2016.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "DOE-NE-STD-1004-92: Root Cause Analysis Guidance Document",
+          "dcterms:publisher": "U.S. Department of Energy, Office of Environment, Health, Safety & Security",
+          "schema:url": "https://www.energy.gov/ehss/articles/doe-ne-std-1004-92",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "RCA2: Improving Root Cause Analyses and Actions to Prevent Harm",
+          "dcterms:publisher": "Institute for Healthcare Improvement",
+          "schema:url": "https://IHI.org/resources/tools/rca2-improving-root-cause-analyses-and-actions-prevent-harm",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Patient Safety Essentials Toolkit: Action Hierarchy Tool (part of RCA2)",
+          "dcterms:publisher": "Institute for Healthcare Improvement (hosted by the Minnesota Department of Health)",
+          "schema:url": "https://health.state.mn.us/facilities/patientsafety/adverseevents/toolkit/docs/safetytoolkit_actionhierarchy.pdf",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/root-cause-analysis.md",
+      "skos:altLabel": [
+        "root cause analysis",
+        "RCA",
+        "root-cause analysis",
+        "root cause analysis and action",
+        "RCA2"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ishikawa-diagram"
+        },
+        {
+          "@id": "kt:five-whys"
+        },
+        {
+          "@id": "kt:issue-tree"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:barrier-analysis"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:failure-mode-and-effects-analysis"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:patient-safety"
+        }
+      ]
+    },
+    {
       "@id": "kt:structured-problem-solving",
       "@type": "kto:Practice",
       "skos:prefLabel": "Structured Problem Solving: The Consultant's Stepwise Method",

@@ -2621,6 +2621,29 @@
     ]
   },
   {
+    "id": "kt:root-cause-analysis",
+    "title": "Root Cause Analysis: Tracing Problems to Their Underlying Causes",
+    "aliases": [
+      "root cause analysis",
+      "RCA",
+      "root-cause analysis",
+      "root cause analysis and action",
+      "RCA2"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/root-cause-analysis.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.asq.org/quality-resources/root-cause-analysis",
+      "https://psnet.ahrq.gov/primer/root-cause-analysis",
+      "https://research.birmingham.ac.uk/files/70608217/Peerally_et_al_The_problem_with_BMJ_Qual_Saf_2016.pdf",
+      "https://www.energy.gov/ehss/articles/doe-ne-std-1004-92",
+      "https://IHI.org/resources/tools/rca2-improving-root-cause-analyses-and-actions-prevent-harm",
+      "https://health.state.mn.us/facilities/patientsafety/adverseevents/toolkit/docs/safetytoolkit_actionhierarchy.pdf"
+    ]
+  },
+  {
     "id": "kt:saas-business-model",
     "title": "Software as a Service",
     "aliases": [

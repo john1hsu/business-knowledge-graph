@@ -32,7 +32,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
-| `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:structured-problem-solving` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
@@ -65,6 +64,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow` |
+| `kt:five-whys` | `kt:ishikawa-diagram`, `kt:root-cause-analysis` |
 | `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
@@ -146,6 +146,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:assembly-line` | `kt:mass-production` |
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
+| `kt:barrier-analysis` | `kt:root-cause-analysis` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
@@ -231,6 +232,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
+| `kt:failure-mode-and-effects-analysis` | `kt:root-cause-analysis` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:fama-french-three-factor-model` | `kt:capital-asset-pricing-model` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
@@ -239,7 +241,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
-| `kt:five-whys` | `kt:ishikawa-diagram` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |
@@ -381,6 +382,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:overconfidence-bias` | `kt:scenario-planning` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
+| `kt:patient-safety` | `kt:root-cause-analysis` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:payback-period` | `kt:net-present-value` |
 | `kt:pdca-cycle` | `kt:hoshin-kanri` |
