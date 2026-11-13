@@ -2325,6 +2325,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/trade-off-theory-of-capital-structure> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/cost-of-capital-corporation-finance-and-theory-of-investment-1958> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2000/01/rdf-schema#label> "Moral Hazard: Risk-Taking When Others Bear the Cost" .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#altLabel> "hidden action" .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#altLabel> "hidden-action problem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#altLabel> "moral hazard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#definition> "The tendency of a party who is insured, paid or otherwise protected against the consequences of its actions to take less care or more risk than it would if it bore the full cost, because the other party cannot observe or contract on those actions; it is managed with cost sharing, monitoring and incentive pay rather than eliminated." .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moral Hazard: Risk-Taking When Others Bear the Cost" .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/rand-health-insurance-experiment> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/informativeness-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/uncertainty-and-the-welfare-economics-of-medical-care-1963> .
 <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <http://www.w3.org/2000/01/rdf-schema#label> "Net Present Value: Discounting Future Cash Flows to Evaluate Investments" .
@@ -5779,6 +5805,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/abacus/v50y2014i3p279-295.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s1> <http://purl.org/dc/terms/publisher> "American Economic Review, vol. 53, no. 5 (reprint, Stanford CASBS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s1> <http://purl.org/dc/terms/title> "Uncertainty and the Welfare Economics of Medical Care" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s1> <https://schema.org/url> "https://casbs.stanford.edu/sites/default/files/media/file/kenneth-arrow-medical-care.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s2> <http://purl.org/dc/terms/publisher> "Bell Journal of Economics, vol. 10, no. 1, via EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s2> <http://purl.org/dc/terms/title> "Moral Hazard and Observability (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:rje:bellje:v:10:y:1979:i:spring:p:74-91" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Economics 3e (Rice University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s3> <http://purl.org/dc/terms/title> "16.2 Insurance and Imperfect Information" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s3> <https://schema.org/url> "https://openstax.org/books/principles-economics-3e/pages/16-2-insurance-and-imperfect-information" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s4> <http://purl.org/dc/terms/publisher> "RAND Corporation research brief RB-9174" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s4> <http://purl.org/dc/terms/title> "The Health Insurance Experiment: A Classic RAND Study Speaks to the Current Health Care Reform Debate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s4> <https://schema.org/url> "https://www.rand.org/pubs/research_briefs/RB9174.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s5> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 18642" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s5> <http://purl.org/dc/terms/title> "The RAND Health Insurance Experiment, Three Decades Later" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s5> <https://schema.org/url> "https://www.nber.org/papers/w18642.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s6> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (nobelprize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s6> <http://purl.org/dc/terms/title> "Popular information: The Prize in Economic Sciences 2016" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/moral-hazard/s6> <https://schema.org/url> "https://nobelprize.org/prizes/economic-sciences/2016/popular-information" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 16.2: Net Present Value (NPV) Method" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

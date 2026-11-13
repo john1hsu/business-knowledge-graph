@@ -9,14 +9,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
+| `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
-| `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
-| `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:platform-business-model`, `kt:dynamic-capabilities` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
+| `kt:contract-theory` | `kt:bengt-holmstrom`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
@@ -59,12 +59,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
-| `kt:contract-theory` | `kt:bengt-holmstrom`, `kt:principal-agent-problem` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:decision-making` | `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
+| `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:moral-hazard` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
@@ -216,7 +216,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eu-data-act` | `kt:switching-costs` |
 | `kt:eu-ias-regulation` | `kt:ifrs` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
-| `kt:executive-compensation` | `kt:michael-c-jensen` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
@@ -275,6 +274,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
 | `kt:information-economics` | `kt:information-asymmetry` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
+| `kt:informativeness-principle` | `kt:moral-hazard` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
@@ -397,6 +397,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
+| `kt:rand-health-insurance-experiment` | `kt:moral-hazard` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
@@ -476,6 +477,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
+| `kt:uncertainty-and-the-welfare-economics-of-medical-care-1963` | `kt:moral-hazard` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:unity-of-command` | `kt:henri-fayol` |
 | `kt:user-innovation` | `kt:open-innovation` |

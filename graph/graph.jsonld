@@ -8850,6 +8850,105 @@
       ]
     },
     {
+      "@id": "kt:moral-hazard",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Moral Hazard: Risk-Taking When Others Bear the Cost",
+      "skos:definition": "The tendency of a party who is insured, paid or otherwise protected against the consequences of its actions to take less care or more risk than it would if it bore the full cost, because the other party cannot observe or contract on those actions; it is managed with cost sharing, monitoring and incentive pay rather than eliminated.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Uncertainty and the Welfare Economics of Medical Care",
+          "dcterms:publisher": "American Economic Review, vol. 53, no. 5 (reprint, Stanford CASBS)",
+          "schema:url": "https://casbs.stanford.edu/sites/default/files/media/file/kenneth-arrow-medical-care.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Moral Hazard and Observability (RePEc record)",
+          "dcterms:publisher": "Bell Journal of Economics, vol. 10, no. 1, via EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:rje:bellje:v:10:y:1979:i:spring:p:74-91",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "16.2 Insurance and Imperfect Information",
+          "dcterms:publisher": "OpenStax, Principles of Economics 3e (Rice University)",
+          "schema:url": "https://openstax.org/books/principles-economics-3e/pages/16-2-insurance-and-imperfect-information",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Health Insurance Experiment: A Classic RAND Study Speaks to the Current Health Care Reform Debate",
+          "dcterms:publisher": "RAND Corporation research brief RB-9174",
+          "schema:url": "https://www.rand.org/pubs/research_briefs/RB9174.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The RAND Health Insurance Experiment, Three Decades Later",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 18642",
+          "schema:url": "https://www.nber.org/papers/w18642.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Popular information: The Prize in Economic Sciences 2016",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (nobelprize.org)",
+          "schema:url": "https://nobelprize.org/prizes/economic-sciences/2016/popular-information",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/moral-hazard.md",
+      "skos:altLabel": [
+        "moral hazard",
+        "hidden action",
+        "hidden-action problem"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:contract-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:business-format-franchising"
+        },
+        {
+          "@id": "kt:bengt-holmstrom"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:adverse-selection"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:uncertainty-and-the-welfare-economics-of-medical-care-1963"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:informativeness-principle"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:rand-health-insurance-experiment"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:executive-compensation"
+        }
+      ]
+    },
+    {
       "@id": "kt:network-effect",
       "@type": "kto:Concept",
       "skos:prefLabel": "Network Effect",

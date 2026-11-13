@@ -1973,6 +1973,27 @@
     ]
   },
   {
+    "id": "kt:moral-hazard",
+    "title": "Moral Hazard: Risk-Taking When Others Bear the Cost",
+    "aliases": [
+      "moral hazard",
+      "hidden action",
+      "hidden-action problem"
+    ],
+    "type": "Concept",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/moral-hazard.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://casbs.stanford.edu/sites/default/files/media/file/kenneth-arrow-medical-care.pdf",
+      "https://econpapers.repec.org/RePEc:rje:bellje:v:10:y:1979:i:spring:p:74-91",
+      "https://openstax.org/books/principles-economics-3e/pages/16-2-insurance-and-imperfect-information",
+      "https://www.rand.org/pubs/research_briefs/RB9174.html",
+      "https://www.nber.org/papers/w18642.pdf",
+      "https://nobelprize.org/prizes/economic-sciences/2016/popular-information"
+    ]
+  },
+  {
     "id": "kt:net-present-value",
     "title": "Net Present Value: Discounting Future Cash Flows to Evaluate Investments",
     "aliases": [
