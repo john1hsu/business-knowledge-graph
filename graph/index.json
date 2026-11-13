@@ -1354,6 +1354,29 @@
     ]
   },
   {
+    "id": "kt:ifrs",
+    "title": "International Financial Reporting Standards (IFRS): Global Rules Set by the IASB",
+    "aliases": [
+      "IFRS",
+      "IFRS Accounting Standards",
+      "IFRS Standards",
+      "International Accounting Standards",
+      "IAS"
+    ],
+    "type": "Framework",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/ifrs.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.ifrs.org/about-us/who-we-are/",
+      "https://www.legislation.gov.uk/eur/2002/1606/introduction",
+      "https://www.sec.gov/news/press/2007/2007-235.htm",
+      "https://SEC.GOV/spotlight/globalaccountingstandards/ifrs-work-plan-final-report.pdf",
+      "https://repository.upenn.edu/handle/20.500.14332/1111",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/"
+    ]
+  },
+  {
     "id": "kt:indefinite-delivery-indefinite-quantity",
     "title": "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract",
     "aliases": [

@@ -1593,6 +1593,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
 <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2000/01/rdf-schema#label> "International Financial Reporting Standards (IFRS): Global Rules Set by the IASB" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#altLabel> "IAS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#altLabel> "IFRS Accounting Standards" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#altLabel> "IFRS Standards" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#altLabel> "IFRS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#altLabel> "International Accounting Standards" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#definition> "The body of accounting standards issued by the International Accounting Standards Board (IASB) of the IFRS Foundation, required for general-purpose financial statements of companies in more than 140 jurisdictions and the principal alternative to US GAAP." .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#prefLabel> "International Financial Reporting Standards (IFRS): Global Rules Set by the IASB" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/esg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/eu-ias-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/international-accounting-standards-board> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs-18> .
+<https://github.com/john1hsu/business-knowledge-graph/id/ifrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/sustainability-reporting> .
 <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> <http://www.w3.org/2000/01/rdf-schema#label> "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract" .
@@ -4684,6 +4711,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ibm-turnaround/s5> <https://schema.org/url> "https://bostonglobe.com/2025/12/29/metro/louis-v-gerstner-who-revived-faltering-ibm-90s-dies-83/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s1> <http://purl.org/dc/terms/publisher> "IFRS Foundation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s1> <http://purl.org/dc/terms/title> "Who we are" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s1> <https://schema.org/url> "https://www.ifrs.org/about-us/who-we-are/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s2> <http://purl.org/dc/terms/publisher> "legislation.gov.uk (The National Archives)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s2> <http://purl.org/dc/terms/title> "Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s2> <https://schema.org/url> "https://www.legislation.gov.uk/eur/2002/1606/introduction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s3> <http://purl.org/dc/terms/title> "SEC Takes Action to Improve Consistency of Disclosure to U.S. Investors in Foreign Companies (Press Release 2007-235)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s3> <https://schema.org/url> "https://www.sec.gov/news/press/2007/2007-235.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, Office of the Chief Accountant" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s4> <http://purl.org/dc/terms/title> "Work Plan for the Consideration of Incorporating International Financial Reporting Standards into the Financial Reporting System for U.S. Issuers: Final Staff Report" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s4> <https://schema.org/url> "https://SEC.GOV/spotlight/globalaccountingstandards/ifrs-work-plan-final-report.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s5> <http://purl.org/dc/terms/publisher> "Journal of Accounting Research (via University of Pennsylvania ScholarlyCommons)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s5> <http://purl.org/dc/terms/title> "Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s5> <https://schema.org/url> "https://repository.upenn.edu/handle/20.500.14332/1111" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s6> <http://purl.org/dc/terms/publisher> "IFRS Foundation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s6> <http://purl.org/dc/terms/title> "IFRS 18 Presentation and Disclosure in Financial Statements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/ifrs/s6> <https://schema.org/url> "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/indefinite-delivery-indefinite-quantity/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/indefinite-delivery-indefinite-quantity/s1> <http://purl.org/dc/terms/title> "Subpart 16.5 - Indefinite-Delivery Contracts" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/indefinite-delivery-indefinite-quantity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

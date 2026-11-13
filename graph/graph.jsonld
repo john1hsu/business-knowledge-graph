@@ -643,6 +643,102 @@
       ]
     },
     {
+      "@id": "kt:ifrs",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "International Financial Reporting Standards (IFRS): Global Rules Set by the IASB",
+      "skos:definition": "The body of accounting standards issued by the International Accounting Standards Board (IASB) of the IFRS Foundation, required for general-purpose financial statements of companies in more than 140 jurisdictions and the principal alternative to US GAAP.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Who we are",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/about-us/who-we-are/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards",
+          "dcterms:publisher": "legislation.gov.uk (The National Archives)",
+          "schema:url": "https://www.legislation.gov.uk/eur/2002/1606/introduction",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "SEC Takes Action to Improve Consistency of Disclosure to U.S. Investors in Foreign Companies (Press Release 2007-235)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/news/press/2007/2007-235.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Work Plan for the Consideration of Incorporating International Financial Reporting Standards into the Financial Reporting System for U.S. Issuers: Final Staff Report",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Office of the Chief Accountant",
+          "schema:url": "https://SEC.GOV/spotlight/globalaccountingstandards/ifrs-work-plan-final-report.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Mandatory IFRS Reporting Around the World: Early Evidence on the Economic Consequences",
+          "dcterms:publisher": "Journal of Accounting Research (via University of Pennsylvania ScholarlyCommons)",
+          "schema:url": "https://repository.upenn.edu/handle/20.500.14332/1111",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "IFRS 18 Presentation and Disclosure in Financial Statements",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-18-presentation-and-disclosure-in-financial-statements/",
+          "kto:sourceType": "standards-body"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/ifrs.md",
+      "skos:altLabel": [
+        "IFRS",
+        "IFRS Accounting Standards",
+        "IFRS Standards",
+        "International Accounting Standards",
+        "IAS"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:revenue-recognition-asc-606"
+        },
+        {
+          "@id": "kt:goodwill"
+        },
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:esg"
+        },
+        {
+          "@id": "kt:eu-ias-regulation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:international-accounting-standards-board"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:gaap"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ifrs-18"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:sustainability-reporting"
+        }
+      ]
+    },
+    {
       "@id": "kt:revenue-recognition-asc-606",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Revenue from Contracts with Customers",
