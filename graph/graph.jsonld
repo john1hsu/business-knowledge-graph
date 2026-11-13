@@ -3487,6 +3487,99 @@
       ]
     },
     {
+      "@id": "kt:long-tail",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Long Tail: Aggregating Demand for Niche Products",
+      "skos:definition": "A business model and demand pattern in which a seller with near-zero stocking and distribution costs earns a large share of revenue from many low-volume niche products rather than a few hits, aggregating dispersed demand that physical retailers could not serve profitably.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Long Tail (Wired 12.10, October 2004; course reprint)",
+          "dcterms:publisher": "Wired, hosted by DePaul University",
+          "schema:url": "https://condor.depaul.edu/dmakagon/student/music_industries_and_culture/Anderson_TheLongTail.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Consumer Surplus in the Digital Economy: Estimating the Value of Increased Product Variety at Online Booksellers",
+          "dcterms:publisher": "Management Science 49(11), 2003 (EconPapers/RePEc record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ormnsc:v:49:y:2003:i:11:p:1580-1596",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Goodbye Pareto Principle, Hello Long Tail: The Effect of Search Costs on the Concentration of Product Sales",
+          "dcterms:publisher": "Management Science 57(8), 2011 (EconPapers/RePEc record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ormnsc:v:57:y:2011:i:8:p:1373-1386",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "From Niches to Riches: Anatomy of the Long Tail",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/from-niches-to-riches-anatomy-of-the-long-tail",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Why Practically Everyone Is in Dogged Pursuit of the Long Tail",
+          "dcterms:publisher": "Knowledge at Wharton",
+          "schema:url": "https://knowledge.wharton.upenn.edu/article/why-practically-everyone-is-in-dogged-pursuit-of-the-long-tail/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Long Tail Tale (summary of Anita Elberse, Harvard Business Review, July–August 2008)",
+          "dcterms:publisher": "The Wilson Quarterly",
+          "schema:url": "https://www.wilsonquarterly.com/quarterly/_/long-tail-tale/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/business-models/long-tail.md",
+      "skos:altLabel": [
+        "the long tail",
+        "long tail theory",
+        "long-tail business model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:platform-business-model"
+        },
+        {
+          "@id": "kt:netflix-business-model-shift"
+        },
+        {
+          "@id": "kt:aggregation-theory"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:chris-anderson"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-long-tail-wired-2004"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:eighty-twenty-rule"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:recommender-system"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:amazon"
+        }
+      ]
+    },
+    {
       "@id": "kt:membership-warehouse-club",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Membership Warehouse Club",

@@ -1867,6 +1867,27 @@
     ]
   },
   {
+    "id": "kt:long-tail",
+    "title": "Long Tail: Aggregating Demand for Niche Products",
+    "aliases": [
+      "the long tail",
+      "long tail theory",
+      "long-tail business model"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/long-tail.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://condor.depaul.edu/dmakagon/student/music_industries_and_culture/Anderson_TheLongTail.pdf",
+      "https://econpapers.repec.org/RePEc:inm:ormnsc:v:49:y:2003:i:11:p:1580-1596",
+      "https://econpapers.repec.org/RePEc:inm:ormnsc:v:57:y:2011:i:8:p:1373-1386",
+      "https://sloanreview.mit.edu/article/from-niches-to-riches-anatomy-of-the-long-tail",
+      "https://knowledge.wharton.upenn.edu/article/why-practically-everyone-is-in-dogged-pursuit-of-the-long-tail/",
+      "https://www.wilsonquarterly.com/quarterly/_/long-tail-tale/"
+    ]
+  },
+  {
     "id": "kt:lowest-price-technically-acceptable",
     "title": "Lowest Price Technically Acceptable",
     "aliases": [

@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operations-management` | `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:marketing-mix`, `kt:servqual` |
 | `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
+| `kt:aggregation-theory` | `kt:long-tail`, `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:platform-business-model`, `kt:dynamic-capabilities` |
@@ -38,7 +39,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:corporate-finance` |
-| `kt:aggregation-theory` | `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
@@ -136,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
+| `kt:amazon` | `kt:long-tail` |
 | `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963` | `kt:delphi-method` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
@@ -163,6 +164,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
+| `kt:chris-anderson` | `kt:long-tail` |
 | `kt:cisco-systems` | `kt:bill-of-materials` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:closed-innovation` | `kt:open-innovation` |
@@ -321,7 +323,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
-| `kt:long-tail` | `kt:eighty-twenty-rule` |
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
@@ -411,6 +412,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:rand-health-insurance-experiment` | `kt:moral-hazard` |
+| `kt:recommender-system` | `kt:long-tail` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
@@ -474,6 +476,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-concept-of-the-marketing-mix-1964` | `kt:marketing-mix` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
+| `kt:the-long-tail-wired-2004` | `kt:long-tail` |
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
 | `kt:the-modern-corporation-and-private-property` | `kt:separation-of-ownership-and-control` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |

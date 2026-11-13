@@ -2203,6 +2203,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/rjr-nabisco-buyout> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2000/01/rdf-schema#label> "Long Tail: Aggregating Demand for Niche Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#altLabel> "long tail theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#altLabel> "long-tail business model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#altLabel> "the long tail" .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#definition> "A business model and demand pattern in which a seller with near-zero stocking and distribution costs earns a large share of revenue from many low-volume niche products rather than a few hits, aggregating dispersed demand that physical retailers could not serve profitably." .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#prefLabel> "Long Tail: Aggregating Demand for Niche Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/aggregation-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/chris-anderson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/recommender-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/amazon> .
+<https://github.com/john1hsu/business-knowledge-graph/id/long-tail> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-long-tail-wired-2004> .
 <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> <http://www.w3.org/2000/01/rdf-schema#label> "Lowest Price Technically Acceptable" .
@@ -5833,6 +5857,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s5> <https://schema.org/url> "https://corpgov.law.harvard.edu/2018/02/21/eclipse-of-the-public-corporation-or-eclipse-of-the-public-markets/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s1> <http://purl.org/dc/terms/publisher> "Wired, hosted by DePaul University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s1> <http://purl.org/dc/terms/title> "The Long Tail (Wired 12.10, October 2004; course reprint)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s1> <https://schema.org/url> "https://condor.depaul.edu/dmakagon/student/music_industries_and_culture/Anderson_TheLongTail.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s2> <http://purl.org/dc/terms/publisher> "Management Science 49(11), 2003 (EconPapers/RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s2> <http://purl.org/dc/terms/title> "Consumer Surplus in the Digital Economy: Estimating the Value of Increased Product Variety at Online Booksellers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:inm:ormnsc:v:49:y:2003:i:11:p:1580-1596" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s3> <http://purl.org/dc/terms/publisher> "Management Science 57(8), 2011 (EconPapers/RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s3> <http://purl.org/dc/terms/title> "Goodbye Pareto Principle, Hello Long Tail: The Effect of Search Costs on the Concentration of Product Sales" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s3> <https://schema.org/url> "https://econpapers.repec.org/RePEc:inm:ormnsc:v:57:y:2011:i:8:p:1373-1386" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s4> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s4> <http://purl.org/dc/terms/title> "From Niches to Riches: Anatomy of the Long Tail" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s4> <https://schema.org/url> "https://sloanreview.mit.edu/article/from-niches-to-riches-anatomy-of-the-long-tail" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s5> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s5> <http://purl.org/dc/terms/title> "Why Practically Everyone Is in Dogged Pursuit of the Long Tail" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s5> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/article/why-practically-everyone-is-in-dogged-pursuit-of-the-long-tail/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s6> <http://purl.org/dc/terms/publisher> "The Wilson Quarterly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s6> <http://purl.org/dc/terms/title> "The Long Tail Tale (summary of Anita Elberse, Harvard Business Review, July–August 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/long-tail/s6> <https://schema.org/url> "https://www.wilsonquarterly.com/quarterly/_/long-tail-tale/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lowest-price-technically-acceptable/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lowest-price-technically-acceptable/s1> <http://purl.org/dc/terms/title> "15.101-2 Lowest price technically acceptable source selection process" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lowest-price-technically-acceptable/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
