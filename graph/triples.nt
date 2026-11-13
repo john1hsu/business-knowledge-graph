@@ -1946,6 +1946,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2000/01/rdf-schema#label> "Lean Manufacturing: Eliminating Waste Across the Value Stream" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#altLabel> "lean manufacturing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#altLabel> "lean production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#altLabel> "lean thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#altLabel> "lean" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#definition> "A management approach, generalized from the Toyota Production System by MIT researchers in the late 1980s, that organizes production around customer-defined value and continuously removes non-value-adding activity through flow, pull, quality at the source and employee-led improvement." .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lean Manufacturing: Eliminating Waste Across the Value Stream" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-machine-that-changed-the-world> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> <http://www.w3.org/2000/01/rdf-schema#label> "Leveraged Buyout" .
@@ -5177,6 +5199,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <https://schema.org/url> "https://caseworks.business.columbia.edu/caseworks/leap-void-how-digital-disruption-broke-kodak-and-transformed-fuji" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute (James P. Womack)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <http://purl.org/dc/terms/title> "Lean Thinking: A Look Back and a Look Forward" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <https://schema.org/url> "https://www.lean.org/the-lean-post/articles/lean-thinking-a-look-back-and-a-look-forward/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s2> <http://purl.org/dc/terms/publisher> "International Journal of Operations & Production Management (Swansea University repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s2> <http://purl.org/dc/terms/title> "How did the publication of the book The Machine That Changed The World change management thinking? Exploring 25 years of lean literature" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s2> <https://schema.org/url> "https://cronfa.swansea.ac.uk/Record/cronfa22761/Download/0022761-06062016153004.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s3> <http://purl.org/dc/terms/publisher> "Journal of Operations Management (Ohio State University, Fisher College of Business)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s3> <http://purl.org/dc/terms/title> "Defining and developing measures of lean production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s3> <https://schema.org/url> "https://files.fisher.osu.edu/executive-education/public/defining_and_developing_measures_of_lean_production.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s4> <http://purl.org/dc/terms/publisher> "International Journal of Operations & Production Management (University of Zurich)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s4> <http://purl.org/dc/terms/title> "The role of management in lean implementation: evidence from the pharmaceutical industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s4> <https://schema.org/url> "https://www.business.uzh.ch/dam/jcr:9a68b913-b5d0-4ab8-8d70-61ec35ce8a5b/LR_8.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <http://purl.org/dc/terms/publisher> "U.S. Environmental Protection Agency" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <http://purl.org/dc/terms/title> "Environmental Professional's Guide to Lean and Six Sigma: Chapter 2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s5> <https://schema.org/url> "https://epa.gov/sustainability/environmental-professionals-guide-lean-and-six-sigma-chapter-2" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 23(1), 121-146 (author copy, Stockholm School of Economics)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://purl.org/dc/terms/title> "Leveraged Buyouts and Private Equity" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/leveraged-buyout/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

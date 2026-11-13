@@ -6,14 +6,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
-| `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno`, `kt:total-quality-management`, `kt:toyota-production-system` |
-| `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
+| `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
+| `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:strategic-management` | `kt:business-model`, `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces`, `kt:scenario-planning` |
 | `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
-| `kt:just-in-time` | `kt:kanban`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:moral-hazard` | `kt:business-format-franchising`, `kt:bengt-holmstrom`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
@@ -30,6 +29,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:marketing-mix` | `kt:issue-tree`, `kt:pricing-strategy`, `kt:segmentation-targeting-positioning` |
+| `kt:operations-management` | `kt:lean-manufacturing`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
 | `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
 | `kt:platform-business-model` | `kt:apple-iphone-launch`, `kt:apple-iphone-launch`, `kt:two-sided-market` |
@@ -40,6 +40,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:board-of-directors`, `kt:corporate-governance` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:services-marketing` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
+| `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
@@ -92,7 +93,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
-| `kt:operations-management` | `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
@@ -104,7 +104,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
-| `kt:six-sigma` | `kt:pyramid-principle`, `kt:total-quality-management` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
@@ -444,6 +443,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
+| `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
 | `kt:the-market-for-lemons-1970` | `kt:information-asymmetry` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |

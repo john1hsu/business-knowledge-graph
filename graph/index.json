@@ -1652,6 +1652,27 @@
     ]
   },
   {
+    "id": "kt:lean-manufacturing",
+    "title": "Lean Manufacturing: Eliminating Waste Across the Value Stream",
+    "aliases": [
+      "lean manufacturing",
+      "lean production",
+      "lean thinking",
+      "lean"
+    ],
+    "type": "Framework",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/lean-manufacturing.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.lean.org/the-lean-post/articles/lean-thinking-a-look-back-and-a-look-forward/",
+      "https://cronfa.swansea.ac.uk/Record/cronfa22761/Download/0022761-06062016153004.pdf",
+      "https://files.fisher.osu.edu/executive-education/public/defining_and_developing_measures_of_lean_production.pdf",
+      "https://www.business.uzh.ch/dam/jcr:9a68b913-b5d0-4ab8-8d70-61ec35ce8a5b/LR_8.pdf",
+      "https://epa.gov/sustainability/environmental-professionals-guide-lean-and-six-sigma-chapter-2"
+    ]
+  },
+  {
     "id": "kt:leveraged-buyout",
     "title": "Leveraged Buyout",
     "aliases": [

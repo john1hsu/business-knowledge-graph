@@ -9870,6 +9870,86 @@
       ]
     },
     {
+      "@id": "kt:lean-manufacturing",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Lean Manufacturing: Eliminating Waste Across the Value Stream",
+      "skos:definition": "A management approach, generalized from the Toyota Production System by MIT researchers in the late 1980s, that organizes production around customer-defined value and continuously removes non-value-adding activity through flow, pull, quality at the source and employee-led improvement.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Lean Thinking: A Look Back and a Look Forward",
+          "dcterms:publisher": "Lean Enterprise Institute (James P. Womack)",
+          "schema:url": "https://www.lean.org/the-lean-post/articles/lean-thinking-a-look-back-and-a-look-forward/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "How did the publication of the book The Machine That Changed The World change management thinking? Exploring 25 years of lean literature",
+          "dcterms:publisher": "International Journal of Operations & Production Management (Swansea University repository)",
+          "schema:url": "https://cronfa.swansea.ac.uk/Record/cronfa22761/Download/0022761-06062016153004.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Defining and developing measures of lean production",
+          "dcterms:publisher": "Journal of Operations Management (Ohio State University, Fisher College of Business)",
+          "schema:url": "https://files.fisher.osu.edu/executive-education/public/defining_and_developing_measures_of_lean_production.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The role of management in lean implementation: evidence from the pharmaceutical industry",
+          "dcterms:publisher": "International Journal of Operations & Production Management (University of Zurich)",
+          "schema:url": "https://www.business.uzh.ch/dam/jcr:9a68b913-b5d0-4ab8-8d70-61ec35ce8a5b/LR_8.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Environmental Professional's Guide to Lean and Six Sigma: Chapter 2",
+          "dcterms:publisher": "U.S. Environmental Protection Agency",
+          "schema:url": "https://epa.gov/sustainability/environmental-professionals-guide-lean-and-six-sigma-chapter-2",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/lean-manufacturing.md",
+      "skos:altLabel": [
+        "lean manufacturing",
+        "lean production",
+        "lean thinking",
+        "lean"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:six-sigma"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-machine-that-changed-the-world"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:mass-production"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:just-in-time"
+        }
+      ]
+    },
+    {
       "@id": "kt:malcolm-baldrige-national-quality-award",
       "@type": "kto:Award",
       "skos:prefLabel": "Malcolm Baldrige National Quality Award",
