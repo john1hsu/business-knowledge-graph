@@ -2355,6 +2355,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/knowledge-transfer> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-memory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2000/01/rdf-schema#label> "Performance Management: Planning, Appraising and Developing Employee Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#altLabel> "employee performance management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#altLabel> "performance management cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#altLabel> "performance management system" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#altLabel> "performance management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/human-resource-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-control-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#definition> "The continuous management process by which an organization sets performance expectations aligned with its goals, monitors and gives feedback on work, develops capability, evaluates results and rewards employees, of which the periodic performance appraisal is only one component." .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#prefLabel> "Performance Management: Planning, Appraising and Developing Employee Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/deloitte> .
+<https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/performance-appraisal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> <http://www.w3.org/2000/01/rdf-schema#label> "Peter Drucker" .
@@ -5585,6 +5609,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <https://schema.org/url> "https://library.alnap.org/node/86300" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://purl.org/dc/terms/publisher> "U.S. Office of Personnel Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://purl.org/dc/terms/title> "Performance Management: Overview & History" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <https://schema.org/url> "https://www.opm.gov/policy-data-oversight/performance-management/overview-history" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s2> <http://purl.org/dc/terms/title> "11.3 Performance Management (Principles of Management)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/11-3-performance-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s3> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology 102(3), 421–433 (via University of Limerick)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s3> <http://purl.org/dc/terms/title> "Performance Appraisal and Performance Management: 100 Years of Progress?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s3> <https://schema.org/url> "https://pure.ul.ie/en/publications/performance-appraisal-and-performance-management-100-years-of-pro/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s4> <http://purl.org/dc/terms/publisher> "Psychological Bulletin 119(2), 254–284 (via Hebrew University of Jerusalem)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s4> <http://purl.org/dc/terms/title> "The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s4> <https://schema.org/url> "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s5> <http://purl.org/dc/terms/publisher> "Harvard Business Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s5> <http://purl.org/dc/terms/title> "Reinventing Performance Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s5> <https://schema.org/url> "https://store.hbr.org/product/reinventing-performance-management/R1504B" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s6> <http://purl.org/dc/terms/publisher> "IIM Ranchi Journal of Management Studies 2(2), 143–158 (Emerald)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s6> <http://purl.org/dc/terms/title> "New Approaches to Dealing with Performance Management: Getting Rid of Performance Appraisals Is Not the Answer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/IRJMS-09-2023-0074" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://purl.org/dc/terms/title> "Peter F. Drucker" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/peter-drucker/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

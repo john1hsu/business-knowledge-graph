@@ -7487,6 +7487,91 @@
       ]
     },
     {
+      "@id": "kt:performance-management",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Performance Management: Planning, Appraising and Developing Employee Performance",
+      "skos:definition": "The continuous management process by which an organization sets performance expectations aligned with its goals, monitors and gives feedback on work, develops capability, evaluates results and rewards employees, of which the periodic performance appraisal is only one component.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Performance Management: Overview & History",
+          "dcterms:publisher": "U.S. Office of Personnel Management",
+          "schema:url": "https://www.opm.gov/policy-data-oversight/performance-management/overview-history",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "11.3 Performance Management (Principles of Management)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-management/pages/11-3-performance-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Performance Appraisal and Performance Management: 100 Years of Progress?",
+          "dcterms:publisher": "Journal of Applied Psychology 102(3), 421–433 (via University of Limerick)",
+          "schema:url": "https://pure.ul.ie/en/publications/performance-appraisal-and-performance-management-100-years-of-pro/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory",
+          "dcterms:publisher": "Psychological Bulletin 119(2), 254–284 (via Hebrew University of Jerusalem)",
+          "schema:url": "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Reinventing Performance Management",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/reinventing-performance-management/R1504B",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "New Approaches to Dealing with Performance Management: Getting Rid of Performance Appraisals Is Not the Answer",
+          "dcterms:publisher": "IIM Ranchi Journal of Management Studies 2(2), 143–158 (Emerald)",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1108/IRJMS-09-2023-0074",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/performance-management.md",
+      "skos:altLabel": [
+        "performance management",
+        "employee performance management",
+        "performance management system",
+        "performance management cycle"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-control-systems"
+        },
+        {
+          "@id": "kt:human-resource-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:management-by-objectives"
+        },
+        {
+          "@id": "kt:goal-setting-theory"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:performance-appraisal"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:deloitte"
+        }
+      ]
+    },
+    {
       "@id": "kt:peter-drucker",
       "@type": "kto:Person",
       "skos:prefLabel": "Peter Drucker",

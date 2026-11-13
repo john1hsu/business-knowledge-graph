@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award`, `kt:goal-setting-theory` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:lean-manufacturing` | `kt:hoshin-kanri`, `kt:kanban`, `kt:taiichi-ohno`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
@@ -84,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
+| `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
@@ -173,6 +173,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:decision-making` | `kt:structured-problem-solving` |
 | `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
+| `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:direct-marketing` | `kt:direct-selling` |
@@ -250,6 +251,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
 | `kt:human-relations-movement` | `kt:management-theory` |
+| `kt:human-resource-management` | `kt:performance-management` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-18` | `kt:ifrs` |
@@ -302,7 +304,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management` | `kt:management-theory` |
 | `kt:management-consulting` | `kt:structured-problem-solving` |
-| `kt:management-control-systems` | `kt:balanced-scorecard` |
 | `kt:managerial-accounting` | `kt:activity-based-costing` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
@@ -355,6 +356,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pecking-order-theory` | `kt:modigliani-miller-theorem` |
 | `kt:penetration-pricing` | `kt:pricing-strategy` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
+| `kt:performance-appraisal` | `kt:performance-management` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
 | `kt:pierre-wack` | `kt:scenario-planning` |

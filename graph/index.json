@@ -1994,6 +1994,28 @@
     ]
   },
   {
+    "id": "kt:performance-management",
+    "title": "Performance Management: Planning, Appraising and Developing Employee Performance",
+    "aliases": [
+      "performance management",
+      "employee performance management",
+      "performance management system",
+      "performance management cycle"
+    ],
+    "type": "Practice",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/performance-management.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://www.opm.gov/policy-data-oversight/performance-management/overview-history",
+      "https://openstax.org/books/principles-management/pages/11-3-performance-management",
+      "https://pure.ul.ie/en/publications/performance-appraisal-and-performance-management-100-years-of-pro/",
+      "https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/",
+      "https://store.hbr.org/product/reinventing-performance-management/R1504B",
+      "https://emerald.com/insight/content/doi/10.1108/IRJMS-09-2023-0074"
+    ]
+  },
+  {
     "id": "kt:peter-drucker",
     "title": "Peter Drucker",
     "aliases": [
