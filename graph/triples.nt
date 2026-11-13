@@ -2816,6 +2816,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/servqual-multiple-item-scale-1988> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2000/01/rdf-schema#label> "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#altLabel> "Friedman doctrine" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#altLabel> "shareholder primacy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#altLabel> "shareholder value maximization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#altLabel> "shareholder value theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#altLabel> "shareholder wealth maximization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#definition> "The view that a business corporation exists chiefly to serve its shareholders, so that directors and managers should run it to maximize shareholder wealth, typically measured as long-run firm or share value, within the law." .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/esg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-roundtable-statement-on-corporate-governance-1997> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dodge-v-ford-motor-co> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/milton-friedman> .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Hersey-Blanchard Situational Leadership Model" .
@@ -6081,6 +6110,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852020" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <http://purl.org/dc/terms/publisher> "The New York Times Magazine, September 13, 1970 (copy hosted by University of Pittsburgh)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <http://purl.org/dc/terms/title> "A Friedman Doctrine: The Social Responsibility of Business Is to Increase Its Profits" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <https://schema.org/url> "https://business.pitt.edu/wp-content/uploads/2025/02/25Right-Readings-Friedman-1.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s2> <http://purl.org/dc/terms/publisher> "Journal of Applied Corporate Finance 14(3), 2001" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s2> <http://purl.org/dc/terms/title> "Value Maximization, Stakeholder Theory, and the Corporate Objective Function" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s2> <https://schema.org/url> "https://ideas.repec.org/a/bla/jacrfn/v14y2001i3p8-21.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s3> <http://purl.org/dc/terms/publisher> "Journal of Law, Finance, and Accounting 2(2), 2017 (Oliver Hart faculty page, Harvard University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s3> <http://purl.org/dc/terms/title> "Companies Should Maximize Shareholder Welfare Not Market Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s3> <https://schema.org/url> "https://hart.scholars.harvard.edu/publications/companies-should-maximize-shareholder-welfare-not-market-value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s4> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s4> <http://purl.org/dc/terms/title> "The Shareholder Value Myth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s4> <https://schema.org/url> "https://corpgov.law.harvard.edu/2012/06/26/the-shareholder-value-myth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s5> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s5> <http://purl.org/dc/terms/title> "Henry Ford: Control of the company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s5> <https://schema.org/url> "https://www.britannica.com/money/Henry-Ford/Control-of-the-company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <http://purl.org/dc/terms/publisher> "Fortune" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <http://purl.org/dc/terms/title> "Business Roundtable statement on corporate purpose, shareholder rights and the law" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <https://schema.org/url> "https://fortune.com/2019/08/26/business-roundtable-shareholders-rights-law/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://purl.org/dc/terms/publisher> "Training and Development Journal (Association for Talent Development archive)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://purl.org/dc/terms/title> "Life Cycle Theory of Leadership" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

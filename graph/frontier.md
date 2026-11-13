@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:shareholder-primacy` | `kt:board-of-directors`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-governance`, `kt:esg`, `kt:fiduciary-duty`, `kt:proxy-advisory-firm`, `kt:stakeholder-theory`, `kt:corporate-finance`, `kt:michael-c-jensen` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:performance-management` | `kt:benchmarking`, `kt:balanced-scorecard`, `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs`, `kt:malcolm-baldrige-national-quality-award`, `kt:goal-setting-theory` |
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
@@ -20,6 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adverse-selection` | `kt:truth-in-negotiations-act`, `kt:information-asymmetry`, `kt:principal-agent-problem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
+| `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
@@ -54,7 +54,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:dynamic-capabilities` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
+| `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model` |
+| `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:weighted-average-cost-of-capital` |
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
@@ -62,7 +64,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contract-theory` | `kt:bengt-holmstrom`, `kt:principal-agent-problem` |
-| `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
@@ -137,10 +138,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:business-communication` | `kt:pyramid-principle` |
-| `kt:business-judgment-rule` | `kt:fiduciary-duty` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
-| `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:career-concerns` | `kt:bengt-holmstrom` |
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
@@ -180,6 +179,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
+| `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
 | `kt:double-loop-learning` | `kt:organizational-learning` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
@@ -324,6 +324,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:michael-porter` | `kt:porters-five-forces` |
 | `kt:microsoft` | `kt:revenue-recognition-asc-606` |
+| `kt:milton-friedman` | `kt:shareholder-primacy` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:modern-portfolio-theory` | `kt:capital-asset-pricing-model` |
 | `kt:motivation` | `kt:goal-setting-theory` |

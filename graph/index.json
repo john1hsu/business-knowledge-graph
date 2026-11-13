@@ -2380,6 +2380,29 @@
     ]
   },
   {
+    "id": "kt:shareholder-primacy",
+    "title": "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value",
+    "aliases": [
+      "shareholder primacy",
+      "shareholder value maximization",
+      "shareholder wealth maximization",
+      "Friedman doctrine",
+      "shareholder value theory"
+    ],
+    "type": "Theory",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/shareholder-primacy.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://business.pitt.edu/wp-content/uploads/2025/02/25Right-Readings-Friedman-1.pdf",
+      "https://ideas.repec.org/a/bla/jacrfn/v14y2001i3p8-21.html",
+      "https://hart.scholars.harvard.edu/publications/companies-should-maximize-shareholder-welfare-not-market-value",
+      "https://corpgov.law.harvard.edu/2012/06/26/the-shareholder-value-myth",
+      "https://www.britannica.com/money/Henry-Ford/Control-of-the-company",
+      "https://fortune.com/2019/08/26/business-roundtable-shareholders-rights-law/"
+    ]
+  },
+  {
     "id": "kt:situational-leadership",
     "title": "Hersey-Blanchard Situational Leadership Model",
     "aliases": [
