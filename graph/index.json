@@ -2642,6 +2642,28 @@
     ]
   },
   {
+    "id": "kt:separation-of-ownership-and-control",
+    "title": "Separation of Ownership and Control: Dispersed Shareholders and Managerial Power",
+    "aliases": [
+      "separation of ownership from control",
+      "Berle-Means corporation",
+      "Berle and Means thesis",
+      "ownership-control separation"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/separation-of-ownership-and-control.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://cambridge.org/core/journals/business-history-review/article/is-berle-and-means-really-a-myth/292BF38C8A769F187196B7434F6F3724",
+      "https://users.nber.org/~confer/2003/hcos03/becht.pdf",
+      "https://ucema.edu.ar/~je49/organizacion/Fama_Jensen.pdf",
+      "https://state-owned-enterprises.worldbank.org/sites/default/files/reports/The%20Structure%20of%20Ownership%20and%20the%20Theory%20of%20the%20Firm.pdf",
+      "https://econpapers.repec.org/RePEc:bla:jfinan:v:54:y:1999:i:2:p:471-517",
+      "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm"
+    ]
+  },
+  {
     "id": "kt:servqual",
     "title": "SERVQUAL",
     "aliases": [

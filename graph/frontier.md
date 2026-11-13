@@ -34,7 +34,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:root-cause-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree`, `kt:structured-problem-solving` |
-| `kt:separation-of-ownership-and-control` | `kt:agency-costs`, `kt:board-of-directors`, `kt:corporate-governance` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
@@ -125,6 +124,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a3-report` | `kt:structured-problem-solving` |
 | `kt:accounting-fraud` | `kt:enron-scandal` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
+| `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
@@ -197,6 +197,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
 | `kt:donaldson-brown` | `kt:dupont-analysis` |
 | `kt:double-loop-learning` | `kt:organizational-learning` |
+| `kt:dual-class-shares` | `kt:separation-of-ownership-and-control` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
 | `kt:ebitda` | `kt:free-cash-flow` |
@@ -243,6 +244,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:gantt-chart` | `kt:scientific-management` |
+| `kt:gardiner-means` | `kt:separation-of-ownership-and-control` |
 | `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:generic-competitive-strategies` | `kt:porters-five-forces` |
@@ -324,6 +326,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:market-failure` | `kt:information-asymmetry` |
+| `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
@@ -467,6 +470,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
 | `kt:the-market-for-lemons-1970` | `kt:information-asymmetry` |
+| `kt:the-modern-corporation-and-private-property` | `kt:separation-of-ownership-and-control` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
