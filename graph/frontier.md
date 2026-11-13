@@ -4,8 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
+| `kt:capital-structure` | `kt:dupont-analysis`, `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
@@ -23,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:servqual` |
+| `kt:general-motors` | `kt:dupont-analysis`, `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
@@ -66,11 +67,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:moral-hazard` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
+| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol` |
-| `kt:general-motors` | `kt:peter-drucker`, `kt:segmentation-targeting-positioning` |
 | `kt:government-accountability-office` | `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
@@ -192,6 +193,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
 | `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
+| `kt:donaldson-brown` | `kt:dupont-analysis` |
 | `kt:double-loop-learning` | `kt:organizational-learning` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
@@ -226,7 +228,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
-| `kt:financial-statement-analysis` | `kt:free-cash-flow` |
 | `kt:five-whys` | `kt:ishikawa-diagram` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-motor-company` | `kt:total-quality-management` |
@@ -404,7 +405,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relationship-marketing` | `kt:marketing-mix` |
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:residual-income-valuation` | `kt:dupont-analysis` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |
+| `kt:return-on-equity` | `kt:dupont-analysis` |
 | `kt:revenue-premium` | `kt:brand-equity` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |

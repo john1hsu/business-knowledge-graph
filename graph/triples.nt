@@ -997,6 +997,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://purl.org/dc/terms/created> "2026-11-13" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "DuPont Analysis: Decomposing Return on Equity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "DuPont formula" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "DuPont identity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "DuPont method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#altLabel> "DuPont model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-statement-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#definition> "A ratio-analysis framework that breaks return on equity into profit margin, total asset turnover and the equity multiplier, showing whether a firm's returns come from operating efficiency, asset usage or financial leverage; it descends from the return-on-investment formula Donaldson Brown built at DuPont in 1914." .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#prefLabel> "DuPont Analysis: Decomposing Return on Equity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/donaldson-brown> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/general-motors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/residual-income-valuation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/return-on-equity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> <http://www.w3.org/2000/01/rdf-schema#label> "Dynamic Capabilities" .
@@ -4328,6 +4353,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <https://schema.org/url> "https://www.spglobal.com/spdji/en/corporate-news/article/sp-500-q4-2024-buybacks-increase-74-and-2024-expenditure-sets-new-record-by-increasing-18-5" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 6.6: Profitability Ratios and the DuPont Method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/6-6-profitability-ratios-and-the-dupont-method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s2> <http://purl.org/dc/terms/publisher> "Accounting Historians Journal (eGrove, University of Mississippi)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s2> <http://purl.org/dc/terms/title> "Donaldson Brown (1885-1965): The Power of an Individual and His Ideas over Time" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s2> <https://schema.org/url> "https://egrove.olemiss.edu/aah_journal/vol40/iss1/5" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s3> <http://purl.org/dc/terms/publisher> "Hagley Museum and Library" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s3> <http://purl.org/dc/terms/title> "The Father of ROI: Donaldson Brown" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s3> <https://schema.org/url> "https://www.hagley.org/librarynews/father-roi-donaldson-brown" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s4> <http://purl.org/dc/terms/publisher> "The Accounting Review (via ScienceGate)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s4> <http://purl.org/dc/terms/title> "The Use of DuPont Analysis by Market Participants" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s4> <https://schema.org/url> "https://www.sciencegate.app/document/10.2308/accr.2008.83.3.823" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s5> <http://purl.org/dc/terms/publisher> "Review of Accounting Studies (via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s5> <http://purl.org/dc/terms/title> "Ratio Analysis and Equity Valuation: From Research to Practice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s5> <https://schema.org/url> "https://ideas.repec.org/a/spr/reaccs/v6y2001i1d10.1023_a1011338221623.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s6> <http://purl.org/dc/terms/publisher> "Columbia Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s6> <http://purl.org/dc/terms/title> "Ratio Analysis and Equity Valuation (working paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s6> <https://schema.org/url> "https://business.columbia.edu/sites/default/files-efs/pubfiles/1063/nissimpenmanratio.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at IDEAS/RePEc)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://purl.org/dc/terms/title> "Dynamic capabilities and strategic management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dynamic-capabilities/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

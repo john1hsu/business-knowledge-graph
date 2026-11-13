@@ -277,6 +277,98 @@
       ]
     },
     {
+      "@id": "kt:dupont-analysis",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "DuPont Analysis: Decomposing Return on Equity",
+      "skos:definition": "A ratio-analysis framework that breaks return on equity into profit margin, total asset turnover and the equity multiplier, showing whether a firm's returns come from operating efficiency, asset usage or financial leverage; it descends from the return-on-investment formula Donaldson Brown built at DuPont in 1914.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 6.6: Profitability Ratios and the DuPont Method",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/6-6-profitability-ratios-and-the-dupont-method",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Donaldson Brown (1885-1965): The Power of an Individual and His Ideas over Time",
+          "dcterms:publisher": "Accounting Historians Journal (eGrove, University of Mississippi)",
+          "schema:url": "https://egrove.olemiss.edu/aah_journal/vol40/iss1/5",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Father of ROI: Donaldson Brown",
+          "dcterms:publisher": "Hagley Museum and Library",
+          "schema:url": "https://www.hagley.org/librarynews/father-roi-donaldson-brown",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Use of DuPont Analysis by Market Participants",
+          "dcterms:publisher": "The Accounting Review (via ScienceGate)",
+          "schema:url": "https://www.sciencegate.app/document/10.2308/accr.2008.83.3.823",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Ratio Analysis and Equity Valuation: From Research to Practice",
+          "dcterms:publisher": "Review of Accounting Studies (via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/spr/reaccs/v6y2001i1d10.1023_a1011338221623.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Ratio Analysis and Equity Valuation (working paper)",
+          "dcterms:publisher": "Columbia Business School",
+          "schema:url": "https://business.columbia.edu/sites/default/files-efs/pubfiles/1063/nissimpenmanratio.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/dupont-analysis.md",
+      "skos:altLabel": [
+        "DuPont identity",
+        "DuPont method",
+        "DuPont model",
+        "DuPont formula"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-statement-analysis"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:capital-structure"
+        },
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:performance-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:donaldson-brown"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:return-on-equity"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:general-motors"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:residual-income-valuation"
+        }
+      ]
+    },
+    {
       "@id": "kt:fasb-conceptual-framework",
       "@type": "kto:Framework",
       "skos:prefLabel": "FASB Conceptual Framework",

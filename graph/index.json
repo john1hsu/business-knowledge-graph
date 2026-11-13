@@ -844,6 +844,28 @@
     ]
   },
   {
+    "id": "kt:dupont-analysis",
+    "title": "DuPont Analysis: Decomposing Return on Equity",
+    "aliases": [
+      "DuPont identity",
+      "DuPont method",
+      "DuPont model",
+      "DuPont formula"
+    ],
+    "type": "Framework",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/dupont-analysis.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/6-6-profitability-ratios-and-the-dupont-method",
+      "https://egrove.olemiss.edu/aah_journal/vol40/iss1/5",
+      "https://www.hagley.org/librarynews/father-roi-donaldson-brown",
+      "https://www.sciencegate.app/document/10.2308/accr.2008.83.3.823",
+      "https://ideas.repec.org/a/spr/reaccs/v6y2001i1d10.1023_a1011338221623.html",
+      "https://business.columbia.edu/sites/default/files-efs/pubfiles/1063/nissimpenmanratio.pdf"
+    ]
+  },
+  {
     "id": "kt:dynamic-capabilities",
     "title": "Dynamic Capabilities",
     "aliases": [
