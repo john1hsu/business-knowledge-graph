@@ -693,6 +693,27 @@
     ]
   },
   {
+    "id": "kt:defense-federal-acquisition-regulation-supplement",
+    "title": "DFARS: Defense Department Rules Layered on Top of the FAR",
+    "aliases": [
+      "DFARS",
+      "Defense Federal Acquisition Regulation Supplement",
+      "48 CFR Chapter 2"
+    ],
+    "type": "Regulation",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/defense-federal-acquisition-regulation-supplement.md",
+    "created": "2026-11-13",
+    "source_urls": [
+      "https://acquisition.gov/node/34517/printable/print",
+      "https://www.acq.osd.mil/dpap/dars/dfarspgi/current/",
+      "https://www.everycrsreport.com/files/20150203_R42826_16391c690916ec97a288012806ef80cf23faf7a5.html",
+      "https://www.govinfo.gov/content/pkg/FR-2025-09-10/html/2025-17359.htm",
+      "https://www.acq.osd.mil/dpap/dars/classdev/DFARS_RFO/DoW_Rollout_of_RFO_Class_Deviations_19_Dec_2025.pdf",
+      "https://discover.dtic.mil/wp-content/uploads/809-Panel-2019/Volume1/Sec809Panel_Vol1-Report_Jan2018.pdf"
+    ]
+  },
+  {
     "id": "kt:deferred-revenue",
     "title": "Deferred Revenue",
     "aliases": [

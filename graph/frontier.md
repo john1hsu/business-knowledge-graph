@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:capital-structure` | `kt:agency-costs`, `kt:corporate-finance`, `kt:dividend-policy`, `kt:leveraged-buyout`, `kt:modigliani-miller-theorem`, `kt:weighted-average-cost-of-capital` |
 | `kt:mass-production` | `kt:ford-model-t`, `kt:scientific-management`, `kt:segmentation-targeting-positioning`, `kt:lean-manufacturing`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
-| `kt:defense-federal-acquisition-regulation-supplement` | `kt:best-value-tradeoff`, `kt:federal-acquisition-regulation`, `kt:lowest-price-technically-acceptable`, `kt:revolutionary-far-overhaul` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:group-decision-making` | `kt:delphi-method`, `kt:nominal-group-technique`, `kt:devils-advocacy`, `kt:groupthink` |
@@ -65,6 +64,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
+| `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
@@ -173,14 +173,16 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
+| `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:decision-making` | `kt:structured-problem-solving` |
-| `kt:defense-acquisition-regulation` | `kt:federal-acquisition-regulation` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
+| `kt:department-of-defense` | `kt:defense-federal-acquisition-regulation-supplement` |
+| `kt:dfars-procedures-guidance-and-information` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:distribution-channel` | `kt:direct-selling` |

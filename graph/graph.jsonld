@@ -5710,6 +5710,103 @@
       ]
     },
     {
+      "@id": "kt:defense-federal-acquisition-regulation-supplement",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "DFARS: Defense Department Rules Layered on Top of the FAR",
+      "skos:definition": "The Department of Defense's supplement to the Federal Acquisition Regulation, codified as Chapter 2 of Title 48 of the Code of Federal Regulations, which implements the FAR for DoD buyers and adds defense-specific statutory requirements, policies, deviations and contract clauses.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-13",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Subpart 201.3 - Agency Acquisition Regulations (DFARS)",
+          "dcterms:publisher": "Acquisition.gov (Department of Defense)",
+          "schema:url": "https://acquisition.gov/node/34517/printable/print",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Federal Acquisition Regulation Supplement (DFARS) and Procedures, Guidance, and Information (PGI)",
+          "dcterms:publisher": "Defense Pricing, Contracting, and Acquisition Policy, U.S. Department of Defense",
+          "schema:url": "https://www.acq.osd.mil/dpap/dars/dfarspgi/current/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Federal Acquisition Regulation (FAR): Answers to Frequently Asked Questions (R42826, 2015)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/files/20150203_R42826_16391c690916ec97a288012806ef80cf23faf7a5.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Federal Acquisition Regulation Supplement: Assessing Contractor Implementation of Cybersecurity Requirements (DFARS Case 2019-D041), final rule, 90 FR 43560",
+          "dcterms:publisher": "Federal Register, via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2025-09-10/html/2025-17359.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Department of War Rollout of Revolutionary FAR Overhaul Class Deviations (memorandum, 19 December 2025)",
+          "dcterms:publisher": "Defense Pricing, Contracting, and Acquisition Policy, U.S. Department of Defense",
+          "schema:url": "https://www.acq.osd.mil/dpap/dars/classdev/DFARS_RFO/DoW_Rollout_of_RFO_Class_Deviations_19_Dec_2025.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Report of the Advisory Panel on Streamlining and Codifying Acquisition Regulations, Volume 1 (January 2018)",
+          "dcterms:publisher": "Section 809 Panel (via Defense Technical Information Center)",
+          "schema:url": "https://discover.dtic.mil/wp-content/uploads/809-Panel-2019/Volume1/Sec809Panel_Vol1-Report_Jan2018.pdf",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/defense-federal-acquisition-regulation-supplement.md",
+      "skos:altLabel": [
+        "DFARS",
+        "Defense Federal Acquisition Regulation Supplement",
+        "48 CFR Chapter 2"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:best-value-tradeoff"
+        },
+        {
+          "@id": "kt:lowest-price-technically-acceptable"
+        },
+        {
+          "@id": "kt:truth-in-negotiations-act"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        },
+        {
+          "@id": "kt:cybersecurity-maturity-model-certification"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:defense-acquisition-regulation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:department-of-defense"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:dfars-procedures-guidance-and-information"
+        }
+      ]
+    },
+    {
       "@id": "kt:federal-acquisition-regulation",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Federal Acquisition Regulation",
