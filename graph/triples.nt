@@ -7474,6 +7474,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s6> <https://schema.org/url> "https://www.transportation.gov/briefing-room/dot-penalizes-southwest-airlines-140-million-2022-holiday-meltdown" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Introduction to Business 2e)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s1> <http://purl.org/dc/terms/title> "7.4 Authority—Establishing Organizational Relationships" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s1> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/7-4-authority-establishing-organizational-relationships" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s2> <http://purl.org/dc/terms/publisher> "System Development Corporation, via Defense Technical Information Center" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s2> <http://purl.org/dc/terms/title> "Management Theory System and the Economic Size of Organizations (Report SP-2605)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s2> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0642234.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s3> <http://purl.org/dc/terms/publisher> "Public Administration Review 63(1), 2003 (author copy hosted by the Santa Fe Institute)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s3> <http://purl.org/dc/terms/title> "Span of Control and Public Organizations: Implementing Luther Gulick's Research Design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s3> <https://schema.org/url> "https://wiki.santafe.edu/images/2/24/Meier2003span.control.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (Working Paper 9633)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s4> <http://purl.org/dc/terms/title> "The Flattening Firm: Evidence from Panel Data on the Changing Nature of Corporate Hierarchies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s4> <https://schema.org/url> "https://www.nber.org/papers/w9633.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s5> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s5> <http://purl.org/dc/terms/title> "The Flattened Firm—Not as Advertised" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s5> <https://schema.org/url> "https://hbswk.hbs.edu/item/the-flattened-firmnot-as-advertised" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <http://purl.org/dc/terms/publisher> "Gallup" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <http://purl.org/dc/terms/title> "Managers' Teams Are Getting Bigger" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <https://schema.org/url> "https://www.gallup.com/workplace/700718/managers-teams-getting-bigger.aspx" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/publisher> "Darden Graduate School of Business Administration, University of Virginia (Working Paper No. 01-02)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://purl.org/dc/terms/title> "A Stakeholder Approach to Strategic Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -7870,6 +7900,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-positioning> .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/airline-deregulation-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2000/01/rdf-schema#label> "Span of Control: Number of Direct Reports per Manager" .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#altLabel> "managerial span" .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#altLabel> "span of management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#altLabel> "span of supervision" .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#definition> "The number of subordinates who report directly to one manager. Together with the number of hierarchical levels it determines whether an organization is tall or flat, and it trades closer supervision against lower overhead and faster decisions." .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#prefLabel> "Span of Control: Number of Direct Reports per Manager" .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/centralization-and-decentralization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/delegation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/luther-gulick> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/v-a-graicunas> .
+<https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/public-administration> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Theory" .

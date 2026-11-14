@@ -82,6 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
+| `kt:lyndall-urwick` | `kt:henri-fayol`, `kt:span-of-control` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
@@ -99,6 +100,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
+| `kt:public-administration` | `kt:public-procurement`, `kt:span-of-control` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:real-options` | `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:relationship-marketing` | `kt:marketing-mix`, `kt:services-marketing` |
@@ -165,6 +167,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
+| `kt:centralization-and-decentralization` | `kt:span-of-control` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:chris-anderson` | `kt:long-tail` |
 | `kt:cisco-systems` | `kt:bill-of-materials` |
@@ -193,7 +196,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:debt-to-equity-ratio` | `kt:capital-structure` |
+| `kt:decision-rights` | `kt:span-of-control` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
+| `kt:delegation` | `kt:span-of-control` |
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:department-of-defense` | `kt:defense-federal-acquisition-regulation-supplement` |
@@ -332,7 +337,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
-| `kt:lyndall-urwick` | `kt:henri-fayol` |
+| `kt:luther-gulick` | `kt:span-of-control` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management` | `kt:management-theory` |
@@ -384,6 +389,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
+| `kt:organizational-structure` | `kt:span-of-control` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:overconfidence-bias` | `kt:scenario-planning` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
@@ -416,7 +422,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-market-fit` | `kt:lean-startup` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
-| `kt:public-administration` | `kt:public-procurement` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
@@ -465,7 +470,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:soldiering` | `kt:scientific-management` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
 | `kt:space-shuttle-challenger-disaster` | `kt:group-decision-making` |
-| `kt:span-of-control` | `kt:situational-leadership` |
 | `kt:special-purpose-entity` | `kt:enron-scandal` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:stage-gate-process` | `kt:innovation-management` |
@@ -509,6 +513,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:unity-of-command` | `kt:henri-fayol` |
 | `kt:user-innovation` | `kt:open-innovation` |
+| `kt:v-a-graicunas` | `kt:span-of-control` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
 | `kt:value-based-pricing` | `kt:pricing-strategy` |
 | `kt:value-proposition` | `kt:business-model` |

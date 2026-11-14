@@ -9074,6 +9074,96 @@
       ]
     },
     {
+      "@id": "kt:span-of-control",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Span of Control: Number of Direct Reports per Manager",
+      "skos:definition": "The number of subordinates who report directly to one manager. Together with the number of hierarchical levels it determines whether an organization is tall or flat, and it trades closer supervision against lower overhead and faster decisions.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "7.4 Authority—Establishing Organizational Relationships",
+          "dcterms:publisher": "OpenStax (Introduction to Business 2e)",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/7-4-authority-establishing-organizational-relationships",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Management Theory System and the Economic Size of Organizations (Report SP-2605)",
+          "dcterms:publisher": "System Development Corporation, via Defense Technical Information Center",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/AD0642234.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Span of Control and Public Organizations: Implementing Luther Gulick's Research Design",
+          "dcterms:publisher": "Public Administration Review 63(1), 2003 (author copy hosted by the Santa Fe Institute)",
+          "schema:url": "https://wiki.santafe.edu/images/2/24/Meier2003span.control.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Flattening Firm: Evidence from Panel Data on the Changing Nature of Corporate Hierarchies",
+          "dcterms:publisher": "National Bureau of Economic Research (Working Paper 9633)",
+          "schema:url": "https://www.nber.org/papers/w9633.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Flattened Firm—Not as Advertised",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://hbswk.hbs.edu/item/the-flattened-firmnot-as-advertised",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Managers' Teams Are Getting Bigger",
+          "dcterms:publisher": "Gallup",
+          "schema:url": "https://www.gallup.com/workplace/700718/managers-teams-getting-bigger.aspx",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/span-of-control.md",
+      "skos:altLabel": [
+        "span of management",
+        "span of supervision",
+        "managerial span"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-structure"
+        },
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:situational-leadership"
+        },
+        {
+          "@id": "kt:decision-rights"
+        },
+        {
+          "@id": "kt:delegation"
+        },
+        {
+          "@id": "kt:centralization-and-decentralization"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:v-a-graicunas"
+        },
+        {
+          "@id": "kt:lyndall-urwick"
+        },
+        {
+          "@id": "kt:luther-gulick"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:public-administration"
+        }
+      ]
+    },
+    {
       "@id": "kt:adverse-selection",
       "@type": "kto:Concept",
       "skos:prefLabel": "Adverse Selection: Hidden Information Before a Contract",

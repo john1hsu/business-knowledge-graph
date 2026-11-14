@@ -2970,6 +2970,27 @@
     ]
   },
   {
+    "id": "kt:span-of-control",
+    "title": "Span of Control: Number of Direct Reports per Manager",
+    "aliases": [
+      "span of management",
+      "span of supervision",
+      "managerial span"
+    ],
+    "type": "Concept",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/span-of-control.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://openstax.org/books/introduction-business-2e/pages/7-4-authority-establishing-organizational-relationships",
+      "https://apps.dtic.mil/sti/pdfs/AD0642234.pdf",
+      "https://wiki.santafe.edu/images/2/24/Meier2003span.control.pdf",
+      "https://www.nber.org/papers/w9633.pdf",
+      "https://hbswk.hbs.edu/item/the-flattened-firmnot-as-advertised",
+      "https://www.gallup.com/workplace/700718/managers-teams-getting-bigger.aspx"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [
