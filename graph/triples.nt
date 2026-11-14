@@ -2153,6 +2153,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> .
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/theodore-levitt> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2000/01/rdf-schema#label> "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#altLabel> "JIT inventory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#altLabel> "JIT production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#altLabel> "just-in-time manufacturing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#altLabel> "just-in-time production" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#altLabel> "just-in-time" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#definition> "A production and inventory practice, originated at Toyota, of making and delivering only what the next process or customer needs, when it is needed and in the quantity needed, using pull signals, continuous flow and takt time so that inventory, lead time and waste are kept to a minimum." .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#prefLabel> "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/material-requirements-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/kiichiro-toyoda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/kanban> .
+<https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <http://www.w3.org/2000/01/rdf-schema#label> "Kanban" .
@@ -5950,6 +5977,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <https://schema.org/url> "https://archive.researchworld.com/the-potential-and-perils-of-job-to-be-done" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <http://purl.org/dc/terms/publisher> "Toyota Motor Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <http://purl.org/dc/terms/title> "Toyota Production System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <https://schema.org/url> "https://global.toyota/en/company/vision-and-philosophy/production-system/index.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s2> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s2> <http://purl.org/dc/terms/title> "Just-in-Time Production (Lean Lexicon entry)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s2> <https://schema.org/url> "https://www.lean.org/lexicon-terms/just-in-time-production/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s3> <http://purl.org/dc/terms/publisher> "Journal of Operations Management (Georgia Southern University research portal)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s3> <http://purl.org/dc/terms/title> "Relationship Between Just-in-Time Manufacturing Practices and Performance: A Meta-Analysis Investigation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s3> <https://schema.org/url> "https://scholars.georgiasouthern.edu/en/publications/relationship-between-just-in-time-manufacturing-practices-and-per-3/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s4> <http://purl.org/dc/terms/publisher> "Board of Governors of the Federal Reserve System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s4> <http://purl.org/dc/terms/title> "Spread Too Thin: The Impact of Lean Inventories (IFDP 1342)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s4> <https://schema.org/url> "https://www.federalreserve.gov/econres/ifdp/spread-too-thin-the-impact-of-lean-inventories.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s5> <http://purl.org/dc/terms/publisher> "The Japan Times (Reuters)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s5> <http://purl.org/dc/terms/title> "How Toyota thrives when the chips are down" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s5> <https://schema.org/url> "https://www.japantimes.co.jp/news/2021/03/09/business/corporate-business/toyota-semiconductors-3-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/publisher> "Toyota UK Magazine (Toyota GB)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://purl.org/dc/terms/title> "Kanban: Toyota Production System guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

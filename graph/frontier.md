@@ -5,16 +5,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:just-in-time` | `kt:working-capital`, `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
+| `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:just-in-time`, `kt:material-requirements-planning` |
+| `kt:operations-management` | `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
+| `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:just-in-time`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:contract-theory` | `kt:adverse-selection`, `kt:bengt-holmstrom`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
-| `kt:operations-management` | `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-culture`, `kt:organizational-learning` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
-| `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:aggregation-theory` | `kt:long-tail`, `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
@@ -81,6 +80,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
+| `kt:kiichiro-toyoda` | `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:lyndall-urwick` | `kt:henri-fayol`, `kt:span-of-control` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
@@ -323,7 +323,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |
-| `kt:kiichiro-toyoda` | `kt:taiichi-ohno` |
 | `kt:kingdomware-technologies-v-united-states` | `kt:small-business-set-asides` |
 | `kt:knowledge-transfer` | `kt:organizational-learning` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |

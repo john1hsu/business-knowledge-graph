@@ -11537,6 +11537,101 @@
       ]
     },
     {
+      "@id": "kt:just-in-time",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",
+      "skos:definition": "A production and inventory practice, originated at Toyota, of making and delivering only what the next process or customer needs, when it is needed and in the quantity needed, using pull signals, continuous flow and takt time so that inventory, lead time and waste are kept to a minimum.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Toyota Production System",
+          "dcterms:publisher": "Toyota Motor Corporation",
+          "schema:url": "https://global.toyota/en/company/vision-and-philosophy/production-system/index.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Just-in-Time Production (Lean Lexicon entry)",
+          "dcterms:publisher": "Lean Enterprise Institute",
+          "schema:url": "https://www.lean.org/lexicon-terms/just-in-time-production/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Relationship Between Just-in-Time Manufacturing Practices and Performance: A Meta-Analysis Investigation",
+          "dcterms:publisher": "Journal of Operations Management (Georgia Southern University research portal)",
+          "schema:url": "https://scholars.georgiasouthern.edu/en/publications/relationship-between-just-in-time-manufacturing-practices-and-per-3/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Spread Too Thin: The Impact of Lean Inventories (IFDP 1342)",
+          "dcterms:publisher": "Board of Governors of the Federal Reserve System",
+          "schema:url": "https://www.federalreserve.gov/econres/ifdp/spread-too-thin-the-impact-of-lean-inventories.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "How Toyota thrives when the chips are down",
+          "dcterms:publisher": "The Japan Times (Reuters)",
+          "schema:url": "https://www.japantimes.co.jp/news/2021/03/09/business/corporate-business/toyota-semiconductors-3-11",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/just-in-time.md",
+      "skos:altLabel": [
+        "just-in-time",
+        "just-in-time production",
+        "just-in-time manufacturing",
+        "JIT production",
+        "JIT inventory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:inventory-management"
+        },
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lean-manufacturing"
+        },
+        {
+          "@id": "kt:working-capital"
+        },
+        {
+          "@id": "kt:bullwhip-effect"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:kiichiro-toyoda"
+        },
+        {
+          "@id": "kt:taiichi-ohno"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:kanban"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:material-requirements-planning"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:toyota-motor-corporation"
+        }
+      ]
+    },
+    {
       "@id": "kt:kanban",
       "@type": "kto:Practice",
       "skos:prefLabel": "Kanban",

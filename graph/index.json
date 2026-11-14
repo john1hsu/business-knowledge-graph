@@ -1823,6 +1823,28 @@
     ]
   },
   {
+    "id": "kt:just-in-time",
+    "title": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",
+    "aliases": [
+      "just-in-time",
+      "just-in-time production",
+      "just-in-time manufacturing",
+      "JIT production",
+      "JIT inventory"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/just-in-time.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://global.toyota/en/company/vision-and-philosophy/production-system/index.html",
+      "https://www.lean.org/lexicon-terms/just-in-time-production/",
+      "https://scholars.georgiasouthern.edu/en/publications/relationship-between-just-in-time-manufacturing-practices-and-per-3/",
+      "https://www.federalreserve.gov/econres/ifdp/spread-too-thin-the-impact-of-lean-inventories.htm",
+      "https://www.japantimes.co.jp/news/2021/03/09/business/corporate-business/toyota-semiconductors-3-11"
+    ]
+  },
+  {
     "id": "kt:kanban",
     "title": "Kanban",
     "aliases": [
