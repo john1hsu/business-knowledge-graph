@@ -8175,6 +8175,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-management/s6> <https://schema.org/url> "https://scholars.nova.edu/en/publications/thirty-five-years-of-strategic-planning-and-firm-performance-rese/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <http://purl.org/dc/terms/title> "9.5 Planning Firm Actions to Implement Strategies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/9-5-planning-firm-actions-to-implement-strategies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s2> <http://purl.org/dc/terms/publisher> "Pearson Education / Prentice Hall" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s2> <http://purl.org/dc/terms/title> "Making Strategy Work: Leading Effective Execution and Change (sample chapter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s2> <https://schema.org/url> "https://ptgmedia.pearsoncmg.com/images/9780131467453/samplepages/013146745X.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s3> <http://purl.org/dc/terms/publisher> "Journal of Management & Organization (Cambridge University Press)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s3> <http://purl.org/dc/terms/title> "Strategy implementation: What is the failure rate?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s3> <https://schema.org/url> "https://www.cambridge.org/core/journals/journal-of-management-and-organization/article/strategy-implementation-what-is-the-failure-rate/6A048C7CC0D46D8CA22C6D4375CFC4BA" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s4> <http://purl.org/dc/terms/title> "Strategy Execution and the Balanced Scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s4> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/strategy-execution-and-the-balanced-scorecard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s5> <http://purl.org/dc/terms/publisher> "Harvard Business Review (via O'Reilly, HBR's 10 Must Reads 2016)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s5> <http://purl.org/dc/terms/title> "Why Strategy Execution Unravels—and What to Do About It" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s5> <https://schema.org/url> "https://oreilly.com/library/view/hbrs-10-must/9781633690813/chapter006.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s6> <http://purl.org/dc/terms/publisher> "Bizcommunity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s6> <http://purl.org/dc/terms/title> "Five myths of strategy execution" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s6> <https://schema.org/url> "https://www.bizcommunity.com/Article/196/98/124912.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/structured-problem-solving/s1> <http://purl.org/dc/terms/publisher> "John Wiley & Sons" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/structured-problem-solving/s1> <http://purl.org/dc/terms/title> "Bulletproof Problem Solving: The One Skill That Changes Everything (excerpt, chapter 1)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/structured-problem-solving/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -8667,6 +8697,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/alfred-d-chandler-jr> .
 <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-policy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2000/01/rdf-schema#label> "Strategy Execution" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#altLabel> "executing strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#altLabel> "making strategy work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#altLabel> "strategy implementation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#definition> "The management discipline of turning a chosen strategy into results by cascading goals into plans and tasks, allocating resources, coordinating across units, and reviewing and adapting the strategy as performance data arrive." .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strategy Execution" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/change-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> .
 <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> <http://www.w3.org/2000/01/rdf-schema#label> "Structured Problem Solving: The Consultant's Stepwise Method" .

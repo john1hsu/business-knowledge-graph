@@ -9898,6 +9898,87 @@
       ]
     },
     {
+      "@id": "kt:strategy-execution",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Strategy Execution",
+      "skos:definition": "The management discipline of turning a chosen strategy into results by cascading goals into plans and tasks, allocating resources, coordinating across units, and reviewing and adapting the strategy as performance data arrive.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "9.5 Planning Firm Actions to Implement Strategies",
+          "dcterms:publisher": "OpenStax, Principles of Management",
+          "schema:url": "https://openstax.org/books/principles-management/pages/9-5-planning-firm-actions-to-implement-strategies",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Making Strategy Work: Leading Effective Execution and Change (sample chapter)",
+          "dcterms:publisher": "Pearson Education / Prentice Hall",
+          "schema:url": "https://ptgmedia.pearsoncmg.com/images/9780131467453/samplepages/013146745X.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Strategy implementation: What is the failure rate?",
+          "dcterms:publisher": "Journal of Management & Organization (Cambridge University Press)",
+          "schema:url": "https://www.cambridge.org/core/journals/journal-of-management-and-organization/article/strategy-implementation-what-is-the-failure-rate/6A048C7CC0D46D8CA22C6D4375CFC4BA",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategy Execution and the Balanced Scorecard",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/strategy-execution-and-the-balanced-scorecard",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Why Strategy Execution Unravels—and What to Do About It",
+          "dcterms:publisher": "Harvard Business Review (via O'Reilly, HBR's 10 Must Reads 2016)",
+          "schema:url": "https://oreilly.com/library/view/hbrs-10-must/9781633690813/chapter006.html",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Five myths of strategy execution",
+          "dcterms:publisher": "Bizcommunity",
+          "schema:url": "https://www.bizcommunity.com/Article/196/98/124912.html",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/strategy-execution.md",
+      "skos:altLabel": [
+        "strategy implementation",
+        "executing strategy",
+        "making strategy work"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:hoshin-kanri"
+        },
+        {
+          "@id": "kt:management-by-objectives"
+        },
+        {
+          "@id": "kt:organizational-culture"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:balanced-scorecard"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:change-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:adverse-selection",
       "@type": "kto:Concept",
       "skos:prefLabel": "Adverse Selection: Hidden Information Before a Contract",
