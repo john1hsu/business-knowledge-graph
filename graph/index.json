@@ -1226,6 +1226,28 @@
     ]
   },
   {
+    "id": "kt:executive-compensation",
+    "title": "Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay",
+    "aliases": [
+      "executive pay",
+      "CEO compensation",
+      "CEO pay",
+      "executive remuneration"
+    ],
+    "type": "Practice",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/executive-compensation.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://ideas.repec.org/a/ucp/jpolec/v98y1990i2p225-64.html",
+      "https://www.nber.org/papers/w9813",
+      "https://www.nber.org/papers/w23596",
+      "https://www.sec.gov/news/press/2011/2011-25.htm",
+      "https://www.sec.gov/news/press-release/2022-149",
+      "https://www.mprnews.org/story/2012/04/18/daily-circuit-citigroup-ceo-pay"
+    ]
+  },
+  {
     "id": "kt:experience-curve",
     "title": "Experience Curve",
     "aliases": [

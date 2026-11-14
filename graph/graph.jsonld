@@ -1857,6 +1857,106 @@
       ]
     },
     {
+      "@id": "kt:executive-compensation",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay",
+      "skos:definition": "The design, governance and disclosure of the pay packages of a firm's top executives (salary, bonus, stock options, restricted and performance shares, pensions and severance), which boards use to align managers with shareholders and which critics see as itself a symptom of the agency problem.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Performance Pay and Top-Management Incentives",
+          "dcterms:publisher": "Journal of Political Economy, 98(2), 1990, pp. 225-264 (RePEc/IDEAS listing)",
+          "schema:url": "https://ideas.repec.org/a/ucp/jpolec/v98y1990i2p225-64.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Executive Compensation as an Agency Problem",
+          "dcterms:publisher": "NBER Working Paper 9813 (Journal of Economic Perspectives, 17(3), 2003)",
+          "schema:url": "https://www.nber.org/papers/w9813",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Executive Compensation: A Survey of Theory and Evidence",
+          "dcterms:publisher": "NBER Working Paper 23596 (Handbook of the Economics of Corporate Governance)",
+          "schema:url": "https://www.nber.org/papers/w23596",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "SEC Adopts Rules for Say-on-Pay and Golden Parachute Compensation as Required Under Dodd-Frank Act (Press Release 2011-25)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/news/press/2011/2011-25.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "SEC Adopts Pay Versus Performance Disclosure Rules (Press Release 2022-149)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/news/press-release/2022-149",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Citigroup investors give thumbs down to exec pay",
+          "dcterms:publisher": "MPR News (Associated Press)",
+          "schema:url": "https://www.mprnews.org/story/2012/04/18/daily-circuit-citigroup-ceo-pay",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/executive-compensation.md",
+      "skos:altLabel": [
+        "executive pay",
+        "CEO compensation",
+        "CEO pay",
+        "executive remuneration"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:proxy-advisory-firm"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        },
+        {
+          "@id": "kt:moral-hazard"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:michael-c-jensen"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:contract-theory"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:say-on-pay"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:dodd-frank-act"
+        }
+      ]
+    },
+    {
       "@id": "kt:fiduciary-duty",
       "@type": "kto:Concept",
       "skos:prefLabel": "Fiduciary Duty",

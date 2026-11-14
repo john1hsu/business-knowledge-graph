@@ -21,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:customer-satisfaction`, `kt:enterprise-resource-planning` |
-| `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
@@ -56,6 +55,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:decision-making` | `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
+| `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
@@ -109,6 +109,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
+| `kt:say-on-pay` | `kt:executive-compensation`, `kt:proxy-advisory-firm` |
 | `kt:screening-theory` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
@@ -226,7 +227,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
-| `kt:dodd-frank-act` | `kt:sarbanes-oxley-act` |
 | `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
 | `kt:donaldson-brown` | `kt:dupont-analysis` |
 | `kt:double-loop-learning` | `kt:organizational-learning` |
@@ -473,7 +473,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:sam-walton` | `kt:walmart` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
-| `kt:say-on-pay` | `kt:proxy-advisory-firm` |
 | `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:scqa-framework` | `kt:pyramid-principle` |

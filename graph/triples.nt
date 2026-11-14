@@ -1464,6 +1464,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/who-cares-wins-report> .
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/esg-ratings> .
 <https://github.com/john1hsu/business-knowledge-graph/id/esg> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ifrs-sustainability-disclosure-standards> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2000/01/rdf-schema#label> "Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#altLabel> "CEO compensation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#altLabel> "CEO pay" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#altLabel> "executive pay" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#altLabel> "executive remuneration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#definition> "The design, governance and disclosure of the pay packages of a firm's top executives (salary, bonus, stock options, restricted and performance shares, pensions and severance), which boards use to align managers with shareholders and which critics see as itself a symptom of the agency problem." .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Executive Compensation: Pay-for-Performance, Equity Incentives and Say on Pay" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/say-on-pay> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dodd-frank-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2000/01/rdf-schema#label> "Experience Curve" .
@@ -5473,6 +5500,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/esg/s5> <https://schema.org/url> "https://sec.gov/newsroom/press-releases/2025-58" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s1> <http://purl.org/dc/terms/publisher> "Journal of Political Economy, 98(2), 1990, pp. 225-264 (RePEc/IDEAS listing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s1> <http://purl.org/dc/terms/title> "Performance Pay and Top-Management Incentives" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s1> <https://schema.org/url> "https://ideas.repec.org/a/ucp/jpolec/v98y1990i2p225-64.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s2> <http://purl.org/dc/terms/publisher> "NBER Working Paper 9813 (Journal of Economic Perspectives, 17(3), 2003)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s2> <http://purl.org/dc/terms/title> "Executive Compensation as an Agency Problem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s2> <https://schema.org/url> "https://www.nber.org/papers/w9813" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s3> <http://purl.org/dc/terms/publisher> "NBER Working Paper 23596 (Handbook of the Economics of Corporate Governance)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s3> <http://purl.org/dc/terms/title> "Executive Compensation: A Survey of Theory and Evidence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s3> <https://schema.org/url> "https://www.nber.org/papers/w23596" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s4> <http://purl.org/dc/terms/title> "SEC Adopts Rules for Say-on-Pay and Golden Parachute Compensation as Required Under Dodd-Frank Act (Press Release 2011-25)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s4> <https://schema.org/url> "https://www.sec.gov/news/press/2011/2011-25.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s5> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s5> <http://purl.org/dc/terms/title> "SEC Adopts Pay Versus Performance Disclosure Rules (Press Release 2022-149)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s5> <https://schema.org/url> "https://www.sec.gov/news/press-release/2022-149" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <http://purl.org/dc/terms/publisher> "MPR News (Associated Press)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <http://purl.org/dc/terms/title> "Citigroup investors give thumbs down to exec pay" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <https://schema.org/url> "https://www.mprnews.org/story/2012/04/18/daily-circuit-citigroup-ceo-pay" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://purl.org/dc/terms/publisher> "Boston Consulting Group" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://purl.org/dc/terms/title> "BCG Classics Revisited: The Experience Curve" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
