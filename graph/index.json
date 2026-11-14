@@ -713,6 +713,28 @@
     ]
   },
   {
+    "id": "kt:corporate-social-responsibility",
+    "title": "Corporate Social Responsibility (CSR): A Firm's Obligations Beyond Profit and Law",
+    "aliases": [
+      "CSR",
+      "corporate responsibility",
+      "corporate citizenship",
+      "social responsibility of business",
+      "responsible business conduct"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/corporate-social-responsibility.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://link.springer.com/10.1186/s40991-016-0004-6",
+      "https://openstax.org/books/business-ethics/pages/3-4-corporate-social-responsibility-csr",
+      "https://study.sagepub.com/sites/default/files/orlitzkyschmidtrynes.pdf",
+      "https://single-market-economy.ec.europa.eu/industry/sustainability/corporate-social-responsibility-responsible-business-conduct_en",
+      "https://store.hbr.org/product/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility/R0612D"
+    ]
+  },
+  {
     "id": "kt:creative-destruction",
     "title": "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change",
     "aliases": [

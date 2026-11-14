@@ -17,10 +17,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:aggregation-theory` | `kt:long-tail`, `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
+| `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven`, `kt:organizational-culture` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
-| `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
@@ -43,7 +43,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
-| `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:stakeholder-theory` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
@@ -190,6 +189,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:cost-plus-contract` | `kt:government-contract-types` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
+| `kt:creating-shared-value` | `kt:corporate-social-responsibility` |
 | `kt:current-ratio` | `kt:working-capital` |
 | `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
@@ -283,6 +283,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
+| `kt:howard-bowen` | `kt:corporate-social-responsibility` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
 | `kt:human-relations-movement` | `kt:management-theory` |
 | `kt:human-resource-management` | `kt:performance-management` |
@@ -424,6 +425,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-market-fit` | `kt:lean-startup` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
+| `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
@@ -468,6 +470,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:small-business-act` | `kt:small-business-set-asides` |
 | `kt:small-business-administration` | `kt:small-business-set-asides` |
 | `kt:social-identity-theory` | `kt:groupthink` |
+| `kt:social-responsibilities-of-the-businessman` | `kt:corporate-social-responsibility` |
 | `kt:sol-price` | `kt:membership-warehouse-club` |
 | `kt:soldiering` | `kt:scientific-management` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
@@ -510,6 +513,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trade-credit` | `kt:working-capital` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
+| `kt:triple-bottom-line` | `kt:corporate-social-responsibility` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:uncertainty-and-the-welfare-economics-of-medical-care-1963` | `kt:moral-hazard` |

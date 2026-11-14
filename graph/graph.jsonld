@@ -1581,6 +1581,99 @@
       ]
     },
     {
+      "@id": "kt:corporate-social-responsibility",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Corporate Social Responsibility (CSR): A Firm's Obligations Beyond Profit and Law",
+      "skos:definition": "The idea that a company is responsible for its impacts on society, so that beyond earning a profit and obeying the law it should meet society's ethical expectations and contribute to community well-being, often framed through Archie Carroll's four-part pyramid.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Carroll's pyramid of CSR: taking another look",
+          "dcterms:publisher": "International Journal of Corporate Social Responsibility (Springer)",
+          "schema:url": "https://link.springer.com/10.1186/s40991-016-0004-6",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Business Ethics, Section 3.4: Corporate Social Responsibility (CSR)",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/business-ethics/pages/3-4-corporate-social-responsibility-csr",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Corporate Social and Financial Performance: A Meta-Analysis",
+          "dcterms:publisher": "Organization Studies (SAGE)",
+          "schema:url": "https://study.sagepub.com/sites/default/files/orlitzkyschmidtrynes.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Corporate social responsibility & Responsible business conduct",
+          "dcterms:publisher": "European Commission",
+          "schema:url": "https://single-market-economy.ec.europa.eu/industry/sustainability/corporate-social-responsibility-responsible-business-conduct_en",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Strategy and Society: The Link Between Competitive Advantage and Corporate Social Responsibility",
+          "dcterms:publisher": "Harvard Business Review",
+          "schema:url": "https://store.hbr.org/product/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility/R0612D",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/corporate-social-responsibility.md",
+      "skos:altLabel": [
+        "CSR",
+        "corporate responsibility",
+        "corporate citizenship",
+        "social responsibility of business",
+        "responsible business conduct"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-ethics"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:esg"
+        },
+        {
+          "@id": "kt:business-roundtable-statement-on-corporate-purpose"
+        },
+        {
+          "@id": "kt:triple-bottom-line"
+        },
+        {
+          "@id": "kt:creating-shared-value"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:howard-bowen"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:social-responsibilities-of-the-businessman"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:pyramid-of-corporate-social-responsibility"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ]
+    },
+    {
       "@id": "kt:esg",
       "@type": "kto:Framework",
       "skos:prefLabel": "ESG",
