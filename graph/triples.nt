@@ -769,6 +769,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/fred-fiedler> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/least-preferred-coworker-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Contract Theory: How Incentives and Ownership Shape Agreements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "contract theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "economics of contracts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "incentive theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "theory of contracts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/information-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/theory-of-the-firm> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#definition> "The branch of economics that studies how agreements between parties with conflicting interests and unequal information should be designed, covering both complete contracts that tie pay to observable performance and incomplete contracts that allocate decision rights and ownership for situations no contract can foresee." .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Contract Theory: How Incentives and Ownership Shape Agreements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/adverse-selection> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bengt-holmstrom> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/oliver-hart> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/prison-privatization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/informativeness-principle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <http://www.w3.org/2000/01/rdf-schema#label> "Contracting Officer: Warranted Authority to Bind the Government" .
@@ -4483,6 +4512,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s5> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0655102.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s1> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s1> <http://purl.org/dc/terms/title> "The Prize in Economic Sciences 2016 (press release)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s1> <https://schema.org/url> "https://www.kva.se/en/news/ekonomipriset-2016-2/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s2> <http://purl.org/dc/terms/publisher> "Journal of Political Economy, vol. 94, no. 4 (author copy hosted by University of Washington)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s2> <http://purl.org/dc/terms/title> "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s2> <https://schema.org/url> "https://faculty.washington.edu/mfan/is582/articles/GH1986.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s3> <http://purl.org/dc/terms/publisher> "Journal of Law, Economics, & Organization, vol. 7 (author copy hosted by Duke University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s3> <http://purl.org/dc/terms/title> "Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s3> <https://schema.org/url> "https://people.duke.edu/~qc2/BA532/1991%20JLEO%20Holmstrom%20Milgrom.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s4> <http://purl.org/dc/terms/publisher> "Quarterly Journal of Economics, vol. 112, no. 4 (Harvard Scholar author copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s4> <http://purl.org/dc/terms/title> "The Proper Scope of Government: Theory and an Application to Prisons" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s4> <https://schema.org/url> "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/shleifer/files/proper_scope.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s5> <http://purl.org/dc/terms/publisher> "The MIT Press, via EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s5> <http://purl.org/dc/terms/title> "Contract Theory (EconPapers book record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/contract-theory/s5> <https://schema.org/url> "https://econpapers.repec.org/RePEc:mtp:titles:0262025760" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <http://purl.org/dc/terms/title> "Subpart 1.6 - Career Development, Contracting Authority, and Responsibilities" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

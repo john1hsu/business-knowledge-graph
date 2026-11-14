@@ -650,6 +650,27 @@
     ]
   },
   {
+    "id": "kt:contract-theory",
+    "title": "Contract Theory: How Incentives and Ownership Shape Agreements",
+    "aliases": [
+      "contract theory",
+      "economics of contracts",
+      "theory of contracts",
+      "incentive theory"
+    ],
+    "type": "Field",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/contract-theory.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.kva.se/en/news/ekonomipriset-2016-2/",
+      "https://faculty.washington.edu/mfan/is582/articles/GH1986.pdf",
+      "https://people.duke.edu/~qc2/BA532/1991%20JLEO%20Holmstrom%20Milgrom.pdf",
+      "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/shleifer/files/proper_scope.pdf",
+      "https://econpapers.repec.org/RePEc:mtp:titles:0262025760"
+    ]
+  },
+  {
     "id": "kt:contracting-officer",
     "title": "Contracting Officer: Warranted Authority to Bind the Government",
     "aliases": [

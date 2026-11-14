@@ -9895,6 +9895,107 @@
       ]
     },
     {
+      "@id": "kt:contract-theory",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Contract Theory: How Incentives and Ownership Shape Agreements",
+      "skos:definition": "The branch of economics that studies how agreements between parties with conflicting interests and unequal information should be designed, covering both complete contracts that tie pay to observable performance and incomplete contracts that allocate decision rights and ownership for situations no contract can foresee.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Prize in Economic Sciences 2016 (press release)",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences",
+          "schema:url": "https://www.kva.se/en/news/ekonomipriset-2016-2/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration",
+          "dcterms:publisher": "Journal of Political Economy, vol. 94, no. 4 (author copy hosted by University of Washington)",
+          "schema:url": "https://faculty.washington.edu/mfan/is582/articles/GH1986.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Multitask Principal-Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design",
+          "dcterms:publisher": "Journal of Law, Economics, & Organization, vol. 7 (author copy hosted by Duke University)",
+          "schema:url": "https://people.duke.edu/~qc2/BA532/1991%20JLEO%20Holmstrom%20Milgrom.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Proper Scope of Government: Theory and an Application to Prisons",
+          "dcterms:publisher": "Quarterly Journal of Economics, vol. 112, no. 4 (Harvard Scholar author copy)",
+          "schema:url": "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/shleifer/files/proper_scope.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Contract Theory (EconPapers book record)",
+          "dcterms:publisher": "The MIT Press, via EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:mtp:titles:0262025760",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/contract-theory.md",
+      "skos:altLabel": [
+        "contract theory",
+        "economics of contracts",
+        "theory of contracts",
+        "incentive theory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:information-economics"
+        },
+        {
+          "@id": "kt:theory-of-the-firm"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:moral-hazard"
+        },
+        {
+          "@id": "kt:adverse-selection"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:government-contract-types"
+        },
+        {
+          "@id": "kt:oliver-hart"
+        },
+        {
+          "@id": "kt:bengt-holmstrom"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:informativeness-principle"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:transaction-cost-economics"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:executive-compensation"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:prison-privatization"
+        }
+      ]
+    },
+    {
       "@id": "kt:economies-of-scale",
       "@type": "kto:Concept",
       "skos:prefLabel": "Economies of Scale",
