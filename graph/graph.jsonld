@@ -1024,6 +1024,86 @@
       ]
     },
     {
+      "@id": "kt:working-capital",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Working Capital: Current Assets Minus Current Liabilities",
+      "skos:definition": "The short-term resources a business uses to run day-to-day operations, most often measured as net working capital (current assets minus current liabilities), and the discipline of managing cash, receivables, inventory and payables so that obligations are met without tying up excess capital.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 19.1: What Is Working Capital?",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/19-1-what-is-working-capital",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Does Working Capital Management Affect Profitability of Belgian Firms?",
+          "dcterms:publisher": "Journal of Business Finance & Accounting (via RePEc/EconPapers)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:jbfnac:v:30:y:2003:i:3-4:p:573-588",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Analyzing liquidity using the cash conversion cycle",
+          "dcterms:publisher": "Journal of Accountancy (AICPA)",
+          "schema:url": "https://www.journalofaccountancy.com/issues/2013/may/20126764.html",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Dell Technologies Inc. Form 10-K for the fiscal year ended January 30, 2026",
+          "dcterms:publisher": "Dell Technologies Investor Relations",
+          "schema:url": "https://investors.delltechnologies.com/static-files/c8eb801f-7885-415c-8596-71723b5f446b",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/working-capital.md",
+      "skos:altLabel": [
+        "net working capital",
+        "NWC",
+        "working capital management"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-statement-analysis"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:deferred-revenue"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:just-in-time"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:cash-conversion-cycle"
+        },
+        {
+          "@id": "kt:current-ratio"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:trade-credit"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:dell-technologies"
+        }
+      ]
+    },
+    {
       "@id": "kt:agency-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Agency Costs",

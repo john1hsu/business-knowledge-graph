@@ -3289,5 +3289,24 @@
       "https://www.nber.org/papers/w16770.pdf",
       "https://econpapers.repec.org/RePEc:bla:jfinan:v:70:y:2015:i:3:p:1253-1285"
     ]
+  },
+  {
+    "id": "kt:working-capital",
+    "title": "Working Capital: Current Assets Minus Current Liabilities",
+    "aliases": [
+      "net working capital",
+      "NWC",
+      "working capital management"
+    ],
+    "type": "Metric",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/working-capital.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/19-1-what-is-working-capital",
+      "https://econpapers.repec.org/RePEc:bla:jbfnac:v:30:y:2003:i:3-4:p:573-588",
+      "https://www.journalofaccountancy.com/issues/2013/may/20126764.html",
+      "https://investors.delltechnologies.com/static-files/c8eb801f-7885-415c-8596-71723b5f446b"
+    ]
   }
 ]

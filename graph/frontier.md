@@ -5,8 +5,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:just-in-time` | `kt:working-capital`, `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
-| `kt:just-in-time` | `kt:kanban`, `kt:lean-manufacturing`, `kt:material-requirements-planning`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:contract-theory` | `kt:adverse-selection`, `kt:bengt-holmstrom`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -23,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
+| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
@@ -35,7 +36,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:business-ecosystem` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
-| `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:corporate-finance` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
@@ -64,7 +64,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:moral-hazard` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
-| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow` |
 | `kt:five-whys` | `kt:ishikawa-diagram`, `kt:root-cause-analysis` |
 | `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
@@ -166,6 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
+| `kt:cash-conversion-cycle` | `kt:working-capital` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:centralization-and-decentralization` | `kt:span-of-control` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
@@ -190,6 +190,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:cost-plus-contract` | `kt:government-contract-types` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
+| `kt:current-ratio` | `kt:working-capital` |
 | `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
@@ -200,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:decision-rights` | `kt:span-of-control` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
 | `kt:delegation` | `kt:span-of-control` |
+| `kt:dell-technologies` | `kt:working-capital` |
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:department-of-defense` | `kt:defense-federal-acquisition-regulation-supplement` |
@@ -506,6 +508,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-x-and-theory-y` | `kt:management-by-objectives` |
 | `kt:time-driven-activity-based-costing` | `kt:activity-based-costing` |
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
+| `kt:trade-credit` | `kt:working-capital` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |

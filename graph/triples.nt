@@ -7930,6 +7930,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:jfinan:v:70:y:2015:i:3:p:1253-1285" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 19.1: What Is Working Capital?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/19-1-what-is-working-capital" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s2> <http://purl.org/dc/terms/publisher> "Journal of Business Finance & Accounting (via RePEc/EconPapers)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s2> <http://purl.org/dc/terms/title> "Does Working Capital Management Affect Profitability of Belgian Firms?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:jbfnac:v:30:y:2003:i:3-4:p:573-588" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s3> <http://purl.org/dc/terms/publisher> "Journal of Accountancy (AICPA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s3> <http://purl.org/dc/terms/title> "Analyzing liquidity using the cash conversion cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s3> <https://schema.org/url> "https://www.journalofaccountancy.com/issues/2013/may/20126764.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <http://purl.org/dc/terms/publisher> "Dell Technologies Investor Relations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <http://purl.org/dc/terms/title> "Dell Technologies Inc. Form 10-K for the fiscal year ended January 30, 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <https://schema.org/url> "https://investors.delltechnologies.com/static-files/c8eb801f-7885-415c-8596-71723b5f446b" .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2000/01/rdf-schema#label> "Southwest Airlines" .
@@ -8321,3 +8341,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> .
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2000/01/rdf-schema#label> "Working Capital: Current Assets Minus Current Liabilities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#altLabel> "NWC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#altLabel> "net working capital" .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#altLabel> "working capital management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-statement-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#definition> "The short-term resources a business uses to run day-to-day operations, most often measured as net working capital (current assets minus current liabilities), and the discipline of managing cash, receivables, inventory and payables so that obligations are met without tying up excess capital." .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#prefLabel> "Working Capital: Current Assets Minus Current Liabilities" .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/deferred-revenue> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/trade-credit> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dell-technologies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/cash-conversion-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/current-ratio> .
