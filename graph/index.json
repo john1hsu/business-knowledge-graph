@@ -3231,6 +3231,28 @@
     ]
   },
   {
+    "id": "kt:toyota-motor-corporation",
+    "title": "Toyota: From Automatic Looms to the World's Largest Automaker",
+    "aliases": [
+      "Toyota Motor Corporation",
+      "Toyota",
+      "Toyota Motor Company",
+      "TMC"
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/toyota-motor-corporation.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.britannica.com/print/article/601332",
+      "https://www.sec.gov/Archives/edgar/data/0001094517/000119312526264811/d101983d20f.htm",
+      "https://sloanreview.mit.edu/article/cultural-transformation-at-nummi",
+      "https://asu.elsevierpure.com/en/publications/knowledge-transfer-and-international-joint-ventures-the-case-of-n",
+      "https://knowledge.wharton.upenn.edu/article/under-the-hood-of-toyotas-recall-a-tremendous-expansion-of-complexity/",
+      "https://www.rte.ie/news/business/2026/0129/1555730-toyota-keeps-top-auto-crown"
+    ]
+  },
+  {
     "id": "kt:toyota-production-system",
     "title": "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality",
     "aliases": [

@@ -7,7 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:just-in-time`, `kt:material-requirements-planning` |
 | `kt:operations-management` | `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
-| `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:just-in-time`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
+| `kt:automotive-industry` | `kt:general-motors`, `kt:general-motors`, `kt:toyota-motor-corporation`, `kt:toyota-motor-corporation` |
 | `kt:contract-theory` | `kt:adverse-selection`, `kt:bengt-holmstrom`, `kt:moral-hazard`, `kt:principal-agent-problem` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -25,6 +25,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -39,7 +40,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
-| `kt:automotive-industry` | `kt:general-motors`, `kt:general-motors` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
@@ -80,7 +80,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
-| `kt:kiichiro-toyoda` | `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:lyndall-urwick` | `kt:henri-fayol`, `kt:span-of-control` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
@@ -529,6 +528,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
+| `kt:volkswagen-group` | `kt:toyota-motor-corporation` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:who-cares-wins-report` | `kt:esg` |

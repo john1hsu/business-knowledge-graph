@@ -3200,6 +3200,98 @@
       ]
     },
     {
+      "@id": "kt:toyota-motor-corporation",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Toyota: From Automatic Looms to the World's Largest Automaker",
+      "skos:definition": "The Japanese automaker that began in 1933 as a car division of Toyoda Automatic Loom Works, incorporated in 1937, and grew into the world's largest vehicle maker by volume, a firm studied in management research for exporting its production system, for the GM joint venture NUMMI and for the quality crisis that accompanied its rapid growth in the late 2000s.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Toyota Motor Corporation",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/print/article/601332",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Toyota Motor Corporation, Annual Report on Form 20-F for the fiscal year ended March 31, 2026",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/0001094517/000119312526264811/d101983d20f.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Cultural Transformation at NUMMI",
+          "dcterms:publisher": "MIT Sloan Management Review (Wellford W. Wilms, Alan J. Hardcastle and Deone M. Zell)",
+          "schema:url": "https://sloanreview.mit.edu/article/cultural-transformation-at-nummi",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Knowledge Transfer and International Joint Ventures: The Case of NUMMI and General Motors",
+          "dcterms:publisher": "Strategic Management Journal 29(4), 447–453 (Andrew C. Inkpen, 2008); record at Arizona State University",
+          "schema:url": "https://asu.elsevierpure.com/en/publications/knowledge-transfer-and-international-joint-ventures-the-case-of-n",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Under the Hood of Toyota's Recall: 'A Tremendous Expansion of Complexity'",
+          "dcterms:publisher": "Knowledge at Wharton (John Paul MacDuffie interviewing Takahiro Fujimoto, 2010)",
+          "schema:url": "https://knowledge.wharton.upenn.edu/article/under-the-hood-of-toyotas-recall-a-tremendous-expansion-of-complexity/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Toyota keeps top auto crown in 2025 with record sales",
+          "dcterms:publisher": "RTÉ News",
+          "schema:url": "https://www.rte.ie/news/business/2026/0129/1555730-toyota-keeps-top-auto-crown",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/toyota-motor-corporation.md",
+      "skos:altLabel": [
+        "Toyota Motor Corporation",
+        "Toyota",
+        "Toyota Motor Company",
+        "TMC"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:automotive-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:taiichi-ohno"
+        },
+        {
+          "@id": "kt:lean-manufacturing"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:kiichiro-toyoda"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:automotive-industry"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "kto:competesWith": [
+        {
+          "@id": "kt:general-motors"
+        },
+        {
+          "@id": "kt:volkswagen-group"
+        }
+      ]
+    },
+    {
       "@id": "kt:walmart",
       "@type": "kto:Company",
       "skos:prefLabel": "Walmart",

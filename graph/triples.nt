@@ -7928,6 +7928,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s6> <https://schema.org/url> "https://ideas.repec.org/a/inm/ormnsc/v47y2001i3p359-368.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s1> <http://purl.org/dc/terms/title> "Toyota Motor Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s1> <https://schema.org/url> "https://www.britannica.com/print/article/601332" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s2> <http://purl.org/dc/terms/title> "Toyota Motor Corporation, Annual Report on Form 20-F for the fiscal year ended March 31, 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s2> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0001094517/000119312526264811/d101983d20f.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s3> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review (Wellford W. Wilms, Alan J. Hardcastle and Deone M. Zell)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s3> <http://purl.org/dc/terms/title> "Cultural Transformation at NUMMI" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s3> <https://schema.org/url> "https://sloanreview.mit.edu/article/cultural-transformation-at-nummi" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s4> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 29(4), 447–453 (Andrew C. Inkpen, 2008); record at Arizona State University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s4> <http://purl.org/dc/terms/title> "Knowledge Transfer and International Joint Ventures: The Case of NUMMI and General Motors" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s4> <https://schema.org/url> "https://asu.elsevierpure.com/en/publications/knowledge-transfer-and-international-joint-ventures-the-case-of-n" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s5> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton (John Paul MacDuffie interviewing Takahiro Fujimoto, 2010)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s5> <http://purl.org/dc/terms/title> "Under the Hood of Toyota's Recall: 'A Tremendous Expansion of Complexity'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s5> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/article/under-the-hood-of-toyotas-recall-a-tremendous-expansion-of-complexity/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s6> <http://purl.org/dc/terms/publisher> "RTÉ News" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s6> <http://purl.org/dc/terms/title> "Toyota keeps top auto crown in 2025 with record sales" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s6> <https://schema.org/url> "https://www.rte.ie/news/business/2026/0129/1555730-toyota-keeps-top-auto-crown" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <http://purl.org/dc/terms/publisher> "Toyota Motor Corporation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <http://purl.org/dc/terms/title> "Toyota Production System" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-production-system/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -8348,6 +8378,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> .
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kaoru-ishikawa> .
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2000/01/rdf-schema#label> "Toyota: From Automatic Looms to the World's Largest Automaker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#altLabel> "TMC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#altLabel> "Toyota Motor Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#altLabel> "Toyota Motor Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#altLabel> "Toyota" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/automotive-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#definition> "The Japanese automaker that began in 1933 as a car division of Toyoda Automatic Loom Works, incorporated in 1937, and grew into the world's largest vehicle maker by volume, a firm studied in management research for exporting its production system, for the GM joint venture NUMMI and for the quality crisis that accompanied its rapid growth in the late 2000s." .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Toyota: From Automatic Looms to the World's Largest Automaker" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/toyota-motor-corporation/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <https://github.com/john1hsu/business-knowledge-graph/ontology#competesWith> <https://github.com/john1hsu/business-knowledge-graph/id/general-motors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <https://github.com/john1hsu/business-knowledge-graph/ontology#competesWith> <https://github.com/john1hsu/business-knowledge-graph/id/volkswagen-group> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/kiichiro-toyoda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/automotive-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> <http://www.w3.org/2000/01/rdf-schema#label> "Toyota Production System (TPS): Waste Elimination Through Just-in-Time Flow and Built-in Quality" .
