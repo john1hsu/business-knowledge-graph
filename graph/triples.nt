@@ -3387,6 +3387,37 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gillette> .
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2000/01/rdf-schema#label> "Resource-Based View: Firm Resources as the Source of Competitive Advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#altLabel> "RBV" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#altLabel> "resource-based theory of the firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#altLabel> "resource-based theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#altLabel> "resource-based view of the firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#altLabel> "resource-based view" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#definition> "A strategy theory holding that firms differ in the resources and capabilities they control, and that resources which are valuable, rare, hard to imitate and hard to substitute are the main source of sustained competitive advantage, rather than the firm's position in an attractive industry." .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#prefLabel> "Resource-Based View: Firm Resources as the Source of Competitive Advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/vrio-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/birger-wernerfelt> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/jay-barney> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/a-resource-based-view-of-the-firm-1984> .
 <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> <http://www.w3.org/2000/01/rdf-schema#label> "Revenue from Contracts with Customers" .
@@ -7574,6 +7605,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/47217/000004721723000100/hpq-20231031.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <http://purl.org/dc/terms/title> "A resource-based view of the firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v5y1984i2p171-180.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s2> <http://purl.org/dc/terms/publisher> "Journal of Management, SAGE (record at Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s2> <http://purl.org/dc/terms/title> "Firm Resources and Sustained Competitive Advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s2> <https://schema.org/url> "https://scilit.com/publications/cc3c10b4cad942242440ab5cfab30553" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s3> <http://purl.org/dc/terms/publisher> "Academy of Management Review (record at SUFE Academic Newsletter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s3> <http://purl.org/dc/terms/title> "Is the resource-based view a useful perspective for strategic management research?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s3> <https://schema.org/url> "https://academicnewsletter.sufe.edu.cn/info/367770" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s4> <http://purl.org/dc/terms/publisher> "Academy of Management Review (record at SUFE Academic Newsletter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s4> <http://purl.org/dc/terms/title> "Is the resource-based view a useful perspective for strategic management research? Yes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s4> <https://schema.org/url> "https://academicnewsletter.sufe.edu.cn/info/367761" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s5> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s5> <http://purl.org/dc/terms/title> "Strategic resources and performance: a meta-analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v29y2008i11p1141-1154.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s6> <http://purl.org/dc/terms/publisher> "Strategic Management (Reed Kennedy), Virginia Tech Pressbooks" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s6> <http://purl.org/dc/terms/title> "4.3 Resource-Based View" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s6> <https://schema.org/url> "https://pressbooks.lib.vt.edu/strategicmanagement/chapter/4-3-resource-based-view/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s7> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s7> <http://purl.org/dc/terms/title> "8.5 The Internal Environment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s7> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/8-5-the-internal-environment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/revenue-recognition-asc-606/s1> <http://purl.org/dc/terms/publisher> "IFRS Foundation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/revenue-recognition-asc-606/s1> <http://purl.org/dc/terms/title> "IFRS 15 Revenue from Contracts with Customers" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/revenue-recognition-asc-606/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

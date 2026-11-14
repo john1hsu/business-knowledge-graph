@@ -2860,6 +2860,30 @@
     ]
   },
   {
+    "id": "kt:resource-based-view",
+    "title": "Resource-Based View: Firm Resources as the Source of Competitive Advantage",
+    "aliases": [
+      "resource-based view",
+      "resource-based view of the firm",
+      "RBV",
+      "resource-based theory",
+      "resource-based theory of the firm"
+    ],
+    "type": "Theory",
+    "domain": "strategy",
+    "file": "articles/strategy/resource-based-view.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://ideas.repec.org/a/bla/stratm/v5y1984i2p171-180.html",
+      "https://scilit.com/publications/cc3c10b4cad942242440ab5cfab30553",
+      "https://academicnewsletter.sufe.edu.cn/info/367770",
+      "https://academicnewsletter.sufe.edu.cn/info/367761",
+      "https://ideas.repec.org/a/bla/stratm/v29y2008i11p1141-1154.html",
+      "https://pressbooks.lib.vt.edu/strategicmanagement/chapter/4-3-resource-based-view/",
+      "https://openstax.org/books/principles-management/pages/8-5-the-internal-environment"
+    ]
+  },
+  {
     "id": "kt:revenue-recognition-asc-606",
     "title": "Revenue from Contracts with Customers",
     "aliases": [

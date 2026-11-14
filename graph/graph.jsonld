@@ -14960,6 +14960,119 @@
       ]
     },
     {
+      "@id": "kt:resource-based-view",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Resource-Based View: Firm Resources as the Source of Competitive Advantage",
+      "skos:definition": "A strategy theory holding that firms differ in the resources and capabilities they control, and that resources which are valuable, rare, hard to imitate and hard to substitute are the main source of sustained competitive advantage, rather than the firm's position in an attractive industry.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A resource-based view of the firm",
+          "dcterms:publisher": "Strategic Management Journal (record at IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v5y1984i2p171-180.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Firm Resources and Sustained Competitive Advantage",
+          "dcterms:publisher": "Journal of Management, SAGE (record at Scilit)",
+          "schema:url": "https://scilit.com/publications/cc3c10b4cad942242440ab5cfab30553",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Is the resource-based view a useful perspective for strategic management research?",
+          "dcterms:publisher": "Academy of Management Review (record at SUFE Academic Newsletter)",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/367770",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Is the resource-based view a useful perspective for strategic management research? Yes",
+          "dcterms:publisher": "Academy of Management Review (record at SUFE Academic Newsletter)",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/367761",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategic resources and performance: a meta-analysis",
+          "dcterms:publisher": "Strategic Management Journal (record at IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v29y2008i11p1141-1154.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "4.3 Resource-Based View",
+          "dcterms:publisher": "Strategic Management (Reed Kennedy), Virginia Tech Pressbooks",
+          "schema:url": "https://pressbooks.lib.vt.edu/strategicmanagement/chapter/4-3-resource-based-view/",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "8.5 The Internal Environment",
+          "dcterms:publisher": "OpenStax, Principles of Management",
+          "schema:url": "https://openstax.org/books/principles-management/pages/8-5-the-internal-environment",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/strategy/resource-based-view.md",
+      "skos:altLabel": [
+        "resource-based view",
+        "resource-based view of the firm",
+        "RBV",
+        "resource-based theory",
+        "resource-based theory of the firm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        },
+        {
+          "@id": "kt:competitive-advantage"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:vrio-framework"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:experience-curve"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:birger-wernerfelt"
+        },
+        {
+          "@id": "kt:jay-barney"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:a-resource-based-view-of-the-firm-1984"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:porters-five-forces"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:southwest-airlines"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:dynamic-capabilities"
+        }
+      ]
+    },
+    {
       "@id": "kt:scenario-planning",
       "@type": "kto:Practice",
       "skos:prefLabel": "Scenario Planning: Strategy for Multiple Plausible Futures",
