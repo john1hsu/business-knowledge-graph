@@ -1663,6 +1663,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-oxygen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2000/01/rdf-schema#label> "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#altLabel> "FAR Part 16 contract types" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#altLabel> "contract type selection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#altLabel> "contract types" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#altLabel> "federal contract types" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#altLabel> "government contract types" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/contract-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#definition> "The menu of pricing arrangements a government buyer can use, set out for US federal agencies in FAR Part 16, ranging from firm-fixed-price (contractor bears the cost risk) through incentive contracts to cost-plus-fixed-fee (government bears most of it), chosen to match how predictable the work's cost is." .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#prefLabel> "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/revolutionary-far-overhaul> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/fixed-price-contract> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/executive-order-14402> .
+<https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> <http://www.w3.org/2000/01/rdf-schema#label> "Group Decision Making: How Groups Combine Individual Judgments into Choices" .
@@ -5327,6 +5356,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://schema.org/url> "https://www.eurekalert.org/news-releases/639223" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s1> <http://purl.org/dc/terms/title> "FAR 16.101 - General (Part 16, Types of Contracts)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s1> <https://schema.org/url> "https://www.acquisition.gov/far/16.101" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s2> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s2> <http://purl.org/dc/terms/title> "Types of Federal Procurement Contracts (R48784)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s2> <https://schema.org/url> "https://www.everycrsreport.com/reports/R48784.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s3> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s3> <http://purl.org/dc/terms/title> "Contract Management: Extent of Federal Spending under Cost-Reimbursement Contracts Unclear and Key Controls Not Always Used (GAO-09-921)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s3> <https://schema.org/url> "https://www.gao.gov/products/GAO-09-921" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s4> <http://purl.org/dc/terms/publisher> "Federal Register (91 FR 24325), via GovInfo" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s4> <http://purl.org/dc/terms/title> "Executive Order 14402: Promoting Efficiency, Accountability, and Performance in Federal Contracting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s4> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2026-05-05/html/2026-08900.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s5> <http://purl.org/dc/terms/publisher> "Acquisition.gov (OFPP / FAR Council / GSA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s5> <http://purl.org/dc/terms/title> "FAR Overhaul - Part 16 (model deviation text)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s5> <https://schema.org/url> "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s6> <http://purl.org/dc/terms/publisher> "RAND Journal of Economics 17(3), 326-338 (via IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s6> <http://purl.org/dc/terms/title> "Bidding for Contracts: A Principal-Agent Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/government-contract-types/s6> <https://schema.org/url> "https://ideas.repec.org:443/a/rje/randje/v17y1986iautumnp326-338.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <http://purl.org/dc/terms/publisher> "OpenStax (J. Stewart Black, David S. Bright et al.), 2019" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <http://purl.org/dc/terms/title> "Organizational Behavior, 6.6 Group Decision Making" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/group-decision-making/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

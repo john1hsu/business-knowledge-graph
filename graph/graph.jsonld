@@ -6573,6 +6573,108 @@
       ]
     },
     {
+      "@id": "kt:government-contract-types",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements",
+      "skos:definition": "The menu of pricing arrangements a government buyer can use, set out for US federal agencies in FAR Part 16, ranging from firm-fixed-price (contractor bears the cost risk) through incentive contracts to cost-plus-fixed-fee (government bears most of it), chosen to match how predictable the work's cost is.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FAR 16.101 - General (Part 16, Types of Contracts)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://www.acquisition.gov/far/16.101",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Types of Federal Procurement Contracts (R48784)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/reports/R48784.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Contract Management: Extent of Federal Spending under Cost-Reimbursement Contracts Unclear and Key Controls Not Always Used (GAO-09-921)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/GAO-09-921",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Executive Order 14402: Promoting Efficiency, Accountability, and Performance in Federal Contracting",
+          "dcterms:publisher": "Federal Register (91 FR 24325), via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2026-05-05/html/2026-08900.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "FAR Overhaul - Part 16 (model deviation text)",
+          "dcterms:publisher": "Acquisition.gov (OFPP / FAR Council / GSA)",
+          "schema:url": "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-16",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Bidding for Contracts: A Principal-Agent Analysis",
+          "dcterms:publisher": "RAND Journal of Economics 17(3), 326-338 (via IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org:443/a/rje/randje/v17y1986iautumnp326-338.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/government-contract-types.md",
+      "skos:altLabel": [
+        "government contract types",
+        "federal contract types",
+        "contract types",
+        "FAR Part 16 contract types",
+        "contract type selection"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:contract-pricing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:indefinite-delivery-indefinite-quantity"
+        },
+        {
+          "@id": "kt:truth-in-negotiations-act"
+        },
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        },
+        {
+          "@id": "kt:executive-order-14402"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:cost-plus-contract"
+        },
+        {
+          "@id": "kt:fixed-price-contract"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:moral-hazard"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ]
+    },
+    {
       "@id": "kt:indefinite-delivery-indefinite-quantity",
       "@type": "kto:Concept",
       "skos:prefLabel": "Indefinite Delivery, Indefinite Quantity (IDIQ) Contract",

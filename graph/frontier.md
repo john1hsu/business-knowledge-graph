@@ -23,7 +23,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
-| `kt:government-contract-types` | `kt:federal-acquisition-regulation`, `kt:indefinite-delivery-indefinite-quantity`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
@@ -55,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
+| `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:corporate-decline` | `kt:general-motors`, `kt:kodak-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
@@ -175,7 +175,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contingency-theory` | `kt:management-theory` |
-| `kt:contract-pricing` | `kt:truth-in-negotiations-act` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
 | `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
@@ -184,6 +183,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
+| `kt:cost-plus-contract` | `kt:government-contract-types` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
@@ -230,6 +230,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eu-ias-regulation` | `kt:ifrs` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
+| `kt:executive-order-14402` | `kt:government-contract-types` |
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
 | `kt:failure-mode-and-effects-analysis` | `kt:root-cause-analysis` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
@@ -240,6 +241,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
+| `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |

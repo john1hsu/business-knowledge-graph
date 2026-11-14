@@ -1404,6 +1404,29 @@
     ]
   },
   {
+    "id": "kt:government-contract-types",
+    "title": "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements",
+    "aliases": [
+      "government contract types",
+      "federal contract types",
+      "contract types",
+      "FAR Part 16 contract types",
+      "contract type selection"
+    ],
+    "type": "Framework",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/government-contract-types.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.acquisition.gov/far/16.101",
+      "https://www.everycrsreport.com/reports/R48784.html",
+      "https://www.gao.gov/products/GAO-09-921",
+      "https://www.govinfo.gov/content/pkg/FR-2026-05-05/html/2026-08900.htm",
+      "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-16",
+      "https://ideas.repec.org:443/a/rje/randje/v17y1986iautumnp326-338.html"
+    ]
+  },
+  {
     "id": "kt:group-decision-making",
     "title": "Group Decision Making: How Groups Combine Individual Judgments into Choices",
     "aliases": [
