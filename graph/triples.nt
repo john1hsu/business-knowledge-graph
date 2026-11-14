@@ -544,6 +544,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-dynamics> .
 <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/information-distortion-in-a-supply-chain-1997> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2000/01/rdf-schema#label> "Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#altLabel> "business ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#altLabel> "business ecosystems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#altLabel> "ecosystem strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#altLabel> "innovation ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#definition> "A set of distinct but interdependent organizations, often spanning several industries, that co-evolve around a shared innovation or value proposition, cooperating and competing at once; strategy in an ecosystem means aligning partners whose contributions the focal offer needs." .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/complementary-assets> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/supply-chain-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/james-f-moore> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/walmart> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/predators-and-prey-a-new-ecology-of-competition-1993> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://www.w3.org/2000/01/rdf-schema#label> "Business Format Franchising" .
@@ -4051,6 +4077,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/bullwhip-effect/s5> <https://schema.org/url> "https://www.kellogg.northwestern.edu/faculty/bray/doc/bw/bw_d.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (record at PubMed)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s1> <http://purl.org/dc/terms/title> "Predators and prey: a new ecology of competition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s1> <https://schema.org/url> "https://pubmed.ncbi.nlm.nih.gov/10126156/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s2> <http://purl.org/dc/terms/publisher> "Journal of Management (copy hosted by Universidade de São Paulo)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s2> <http://purl.org/dc/terms/title> "Ecosystem as Structure: An Actionable Construct for Strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s2> <https://schema.org/url> "https://edisciplinas.usp.br/pluginfile.php/5063389/mod_resource/content/2/JM43i1EcosystemStrategy.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s3> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at EconPapers/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s3> <http://purl.org/dc/terms/title> "Towards a theory of ecosystems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s3> <https://schema.org/url> "https://econpapers.repec.org/article/blastratm/v_3a39_3ay_3a2018_3ai_3a8_3ap_3a2255-2276.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s4> <http://purl.org/dc/terms/title> "Creating Value in Your Business Ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s4> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/creating-value-in-your-business-ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <http://purl.org/dc/terms/publisher> "Tuck School of Business at Dartmouth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <http://purl.org/dc/terms/title> "Upstream, Downstream in an Innovation Ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <https://schema.org/url> "https://tuck.dartmouth.edu/news/articles/upstream-downstream-in-an-innovation-ecosystem" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://purl.org/dc/terms/title> "Franchise Rule Compliance Guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

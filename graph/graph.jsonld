@@ -13011,6 +13011,98 @@
       ]
     },
     {
+      "@id": "kt:business-ecosystem",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition",
+      "skos:definition": "A set of distinct but interdependent organizations, often spanning several industries, that co-evolve around a shared innovation or value proposition, cooperating and competing at once; strategy in an ecosystem means aligning partners whose contributions the focal offer needs.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Predators and prey: a new ecology of competition",
+          "dcterms:publisher": "Harvard Business Review (record at PubMed)",
+          "schema:url": "https://pubmed.ncbi.nlm.nih.gov/10126156/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Ecosystem as Structure: An Actionable Construct for Strategy",
+          "dcterms:publisher": "Journal of Management (copy hosted by Universidade de São Paulo)",
+          "schema:url": "https://edisciplinas.usp.br/pluginfile.php/5063389/mod_resource/content/2/JM43i1EcosystemStrategy.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Towards a theory of ecosystems",
+          "dcterms:publisher": "Strategic Management Journal (record at EconPapers/RePEc)",
+          "schema:url": "https://econpapers.repec.org/article/blastratm/v_3a39_3ay_3a2018_3ai_3a8_3ap_3a2255-2276.htm",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Creating Value in Your Business Ecosystem",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/creating-value-in-your-business-ecosystem",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Upstream, Downstream in an Innovation Ecosystem",
+          "dcterms:publisher": "Tuck School of Business at Dartmouth",
+          "schema:url": "https://tuck.dartmouth.edu/news/articles/upstream-downstream-in-an-innovation-ecosystem",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/strategy/business-ecosystem.md",
+      "skos:altLabel": [
+        "business ecosystem",
+        "business ecosystems",
+        "innovation ecosystem",
+        "ecosystem strategy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:platform-business-model"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:first-mover-advantage"
+        },
+        {
+          "@id": "kt:complementary-assets"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:james-f-moore"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:predators-and-prey-a-new-ecology-of-competition-1993"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:walmart"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:supply-chain-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:david-j-teece",
       "@type": "kto:Person",
       "skos:prefLabel": "David J. Teece",

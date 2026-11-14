@@ -463,6 +463,27 @@
     ]
   },
   {
+    "id": "kt:business-ecosystem",
+    "title": "Business Ecosystem: Co-Evolving Communities of Firms Around a Shared Value Proposition",
+    "aliases": [
+      "business ecosystem",
+      "business ecosystems",
+      "innovation ecosystem",
+      "ecosystem strategy"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/business-ecosystem.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/10126156/",
+      "https://edisciplinas.usp.br/pluginfile.php/5063389/mod_resource/content/2/JM43i1EcosystemStrategy.pdf",
+      "https://econpapers.repec.org/article/blastratm/v_3a39_3ay_3a2018_3ai_3a8_3ap_3a2255-2276.htm",
+      "https://www.library.hbs.edu/working-knowledge/creating-value-in-your-business-ecosystem",
+      "https://tuck.dartmouth.edu/news/articles/upstream-downstream-in-an-innovation-ecosystem"
+    ]
+  },
+  {
     "id": "kt:business-format-franchising",
     "title": "Business Format Franchising",
     "aliases": [

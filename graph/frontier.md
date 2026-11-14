@@ -17,7 +17,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:aggregation-theory` | `kt:long-tail`, `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
-| `kt:business-ecosystem` | `kt:apple-iphone-launch`, `kt:platform-business-model`, `kt:dynamic-capabilities` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
@@ -35,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:strategy-execution` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:okrs` |
+| `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:business-ecosystem` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:working-capital` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:corporate-finance` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
@@ -53,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
+| `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:corporate-decline` | `kt:general-motors`, `kt:kodak-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
@@ -114,7 +115,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
-| `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:the-market-for-lemons-1970` | `kt:adverse-selection`, `kt:information-asymmetry` |
@@ -172,7 +172,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-strategy` | `kt:business-model` |
-| `kt:complementary-assets` | `kt:david-j-teece` |
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contingency-theory` | `kt:management-theory` |
@@ -299,6 +298,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-fisher` | `kt:net-present-value` |
 | `kt:irving-janis` | `kt:groupthink` |
+| `kt:james-f-moore` | `kt:business-ecosystem` |
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jensens-alpha` | `kt:michael-c-jensen` |
@@ -396,6 +396,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:portfolio-planning` | `kt:bcg-growth-share-matrix` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:power-law` | `kt:eighty-twenty-rule` |
+| `kt:predators-and-prey-a-new-ecology-of-competition-1993` | `kt:business-ecosystem` |
 | `kt:price-skimming` | `kt:pricing-strategy` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:private-equity` | `kt:leveraged-buyout` |
