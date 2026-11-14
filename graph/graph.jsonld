@@ -4773,6 +4773,93 @@
       ]
     },
     {
+      "@id": "kt:five-whys",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause",
+      "skos:definition": "A question-asking technique from the Toyota Production System in which a team asks \"why?\" repeatedly, roughly five times, to move from a problem's visible symptom to an underlying cause that can be removed; widely taught in lean, quality improvement and startups, and criticized for following a single causal chain to a single root cause.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "5 Whys (Lean Lexicon)",
+          "dcterms:publisher": "Lean Enterprise Institute",
+          "schema:url": "https://www.lean.org/lexicon-terms/5-whys/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Five Whys Technique",
+          "dcterms:publisher": "Asian Development Bank, Knowledge Solutions series",
+          "schema:url": "https://core.ac.uk/download/5132831.pdf",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "The problem with '5 whys'",
+          "dcterms:publisher": "BMJ Quality & Safety",
+          "schema:url": "https://qualitysafety.bmj.com/content/qhc/early/2016/09/02/bmjqs-2016-005849.full.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "5 Whys: Finding the Root Cause",
+          "dcterms:publisher": "Institute for Healthcare Improvement",
+          "schema:url": "https://ihi.org/fr/node/22961",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Five Whys (talk transcript)",
+          "dcterms:publisher": "Stanford eCorner, Stanford Technology Ventures Program",
+          "schema:url": "https://stvp.stanford.edu/wp-content/uploads/sites/3/2024/09/the-five-whys-transcript.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/five-whys.md",
+      "skos:altLabel": [
+        "5 whys",
+        "five whys",
+        "5 whys analysis",
+        "why-why analysis",
+        "five whys technique"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:root-cause-analysis"
+        },
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ishikawa-diagram"
+        },
+        {
+          "@id": "kt:pdca-cycle"
+        },
+        {
+          "@id": "kt:kaizen"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:taiichi-ohno"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:lean-startup"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:patient-safety"
+        }
+      ]
+    },
+    {
       "@id": "kt:hypothesis-driven-problem-solving",
       "@type": "kto:Practice",
       "skos:prefLabel": "Hypothesis-Driven Problem Solving",

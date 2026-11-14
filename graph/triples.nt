@@ -1585,6 +1585,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
 <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/first-mover-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2000/01/rdf-schema#label> "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#altLabel> "5 whys analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#altLabel> "5 whys" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#altLabel> "five whys technique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#altLabel> "five whys" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#altLabel> "why-why analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#definition> "A question-asking technique from the Toyota Production System in which a team asks \"why?\" repeatedly, roughly five times, to move from a problem's visible symptom to an underlying cause that can be removed; widely taught in lean, quality improvement and startups, and criticized for following a single causal chain to a single root cause." .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#prefLabel> "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kaizen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/patient-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/five-whys> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <http://www.w3.org/2000/01/rdf-schema#label> "Ford Model T" .
@@ -5454,6 +5479,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/first-mover-advantage/s5> <https://schema.org/url> "https://anderson-review.ucla.edu/how-first-mover-advantage-once-unquestioned-lost-its-grip-on-entrepreneurs-and-business-researchers/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s1> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s1> <http://purl.org/dc/terms/title> "5 Whys (Lean Lexicon)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s1> <https://schema.org/url> "https://www.lean.org/lexicon-terms/5-whys/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s2> <http://purl.org/dc/terms/publisher> "Asian Development Bank, Knowledge Solutions series" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s2> <http://purl.org/dc/terms/title> "The Five Whys Technique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s2> <https://schema.org/url> "https://core.ac.uk/download/5132831.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s3> <http://purl.org/dc/terms/publisher> "BMJ Quality & Safety" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s3> <http://purl.org/dc/terms/title> "The problem with '5 whys'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s3> <https://schema.org/url> "https://qualitysafety.bmj.com/content/qhc/early/2016/09/02/bmjqs-2016-005849.full.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s4> <http://purl.org/dc/terms/publisher> "Institute for Healthcare Improvement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s4> <http://purl.org/dc/terms/title> "5 Whys: Finding the Root Cause" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s4> <https://schema.org/url> "https://ihi.org/fr/node/22961" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s5> <http://purl.org/dc/terms/publisher> "Stanford eCorner, Stanford Technology Ventures Program" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s5> <http://purl.org/dc/terms/title> "The Five Whys (talk transcript)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/five-whys/s5> <https://schema.org/url> "https://stvp.stanford.edu/wp-content/uploads/sites/3/2024/09/the-five-whys-transcript.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://purl.org/dc/terms/title> "Model T" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

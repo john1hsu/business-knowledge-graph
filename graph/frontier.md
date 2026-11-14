@@ -59,7 +59,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
-| `kt:five-whys` | `kt:ishikawa-diagram`, `kt:root-cause-analysis` |
 | `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
@@ -97,6 +96,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
+| `kt:patient-safety` | `kt:five-whys`, `kt:root-cause-analysis` |
+| `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:public-administration` | `kt:public-procurement`, `kt:span-of-control` |
@@ -325,6 +326,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
+| `kt:kaizen` | `kt:five-whys` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |
@@ -400,10 +402,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:overconfidence-bias` | `kt:scenario-planning` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
-| `kt:patient-safety` | `kt:root-cause-analysis` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:payback-period` | `kt:net-present-value` |
-| `kt:pdca-cycle` | `kt:hoshin-kanri` |
 | `kt:penetration-pricing` | `kt:pricing-strategy` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:performance-appraisal` | `kt:performance-management` |

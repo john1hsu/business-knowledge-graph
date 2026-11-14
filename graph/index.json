@@ -1332,6 +1332,28 @@
     ]
   },
   {
+    "id": "kt:five-whys",
+    "title": "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause",
+    "aliases": [
+      "5 whys",
+      "five whys",
+      "5 whys analysis",
+      "why-why analysis",
+      "five whys technique"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/five-whys.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.lean.org/lexicon-terms/5-whys/",
+      "https://core.ac.uk/download/5132831.pdf",
+      "https://qualitysafety.bmj.com/content/qhc/early/2016/09/02/bmjqs-2016-005849.full.pdf",
+      "https://ihi.org/fr/node/22961",
+      "https://stvp.stanford.edu/wp-content/uploads/sites/3/2024/09/the-five-whys-transcript.pdf"
+    ]
+  },
+  {
     "id": "kt:ford-model-t",
     "title": "Ford Model T",
     "aliases": [
