@@ -2361,6 +2361,28 @@
     ]
   },
   {
+    "id": "kt:organizational-culture",
+    "title": "Organizational Culture: Shared Assumptions, Values and Artifacts in Firms",
+    "aliases": [
+      "corporate culture",
+      "company culture",
+      "workplace culture",
+      "culture of an organization"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/organizational-culture.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://unispital-basel.ch/dam/jcr:22849927-9e79-44d9-8bd7-8e5c7d6800e6/Schein_Organisational_culture_1990.pdf",
+      "https://webuser.bus.umich.edu/cameronk/PDFs/Organizational%20Culture/CULTURE%20BOOK-CHAPTER%201.pdf",
+      "https://asu.elsevierpure.com/en/publications/organizational-culture-and-organizational-effectiveness-a-meta-an/",
+      "https://news.wpcarey.asu.edu/20110330-culture-clash-when-corporate-culture-fights-strategy-it-can-cost-you",
+      "https://pressbooks.cuny.edu/principlesofmanagement/chapter/8-4-measuring-organizational-culture/",
+      "https://pressbooks.cuny.edu/principlesofmanagement/chapter/8-5-creating-and-maintaining-organizational-culture-2/"
+    ]
+  },
+  {
     "id": "kt:organizational-learning",
     "title": "Organizational Learning: How Organizations Acquire, Retain and Transfer Knowledge",
     "aliases": [

@@ -12,20 +12,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:operations-management` | `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
+| `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-culture`, `kt:organizational-learning` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
 | `kt:aggregation-theory` | `kt:long-tail`, `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
+| `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven`, `kt:organizational-culture` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-learning` |
-| `kt:organizational-culture` | `kt:ibm-turnaround`, `kt:southwest-airlines`, `kt:psychological-safety` |
+| `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
@@ -47,7 +48,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
-| `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage` |
@@ -60,6 +60,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:decision-making` | `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
+| `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:moral-hazard` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
@@ -95,7 +96,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
-| `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
@@ -174,6 +174,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:closed-innovation` | `kt:open-innovation` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
+| `kt:competing-values-framework` | `kt:organizational-culture` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-strategy` | `kt:business-model` |
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
@@ -221,7 +222,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
 | `kt:economies-of-density` | `kt:walmart` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
-| `kt:edgar-schein` | `kt:psychological-safety` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
 | `kt:edwin-locke` | `kt:goal-setting-theory` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
@@ -388,6 +388,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:oliver-hart` | `kt:bengt-holmstrom` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
+| `kt:organizational-culture-profile` | `kt:organizational-culture` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:organizational-structure` | `kt:span-of-control` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
