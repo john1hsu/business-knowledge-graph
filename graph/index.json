@@ -713,6 +713,26 @@
     ]
   },
   {
+    "id": "kt:creative-destruction",
+    "title": "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change",
+    "aliases": [
+      "creative destruction",
+      "Schumpeterian creative destruction",
+      "gale of creative destruction"
+    ],
+    "type": "Theory",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/creative-destruction.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.econlib.org/library/Enc/CreativeDestruction.html",
+      "https://www.econometricsociety.org/publications/econometrica/browse/1992/03/01/model-growth-through-creative-destruction",
+      "https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/?",
+      "https://www.nber.org/philippe-aghion-peter-howitt-and-joel-mokyr-awarded-2025-nobel-prize",
+      "https://www.nber.org/chapters/c13889.pdf"
+    ]
+  },
+  {
     "id": "kt:customer-lifetime-value",
     "title": "Customer Lifetime Value",
     "aliases": [

@@ -21,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-social-responsibility` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:esg`, `kt:stakeholder-theory` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
-| `kt:creative-destruction` | `kt:clayton-christensen`, `kt:innovators-dilemma`, `kt:cannibalization` |
 | `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
@@ -127,6 +126,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
+| `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
 | `kt:a3-report` | `kt:structured-problem-solving` |
 | `kt:accounting-fraud` | `kt:enron-scandal` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
@@ -159,6 +159,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
+| `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
 | `kt:career-concerns` | `kt:bengt-holmstrom` |
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
@@ -209,6 +210,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
 | `kt:ebitda` | `kt:free-cash-flow` |
+| `kt:economic-growth` | `kt:creative-destruction` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
@@ -310,6 +312,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
+| `kt:joseph-schumpeter` | `kt:creative-destruction` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |

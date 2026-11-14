@@ -849,6 +849,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/entrenchment-index> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/uk-corporate-governance-code> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change" .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#altLabel> "Schumpeterian creative destruction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#altLabel> "creative destruction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#altLabel> "gale of creative destruction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/economic-growth> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#definition> "Joseph Schumpeter's term, popularized in his 1942 book Capitalism, Socialism and Democracy, for the process by which innovations continually create new products, firms and industries while making older ones obsolete; formalized by Aghion and Howitt as a model of growth, for which they shared the 2025 Nobel Memorial Prize in Economic Sciences." .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change" .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/innovators-dilemma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-schumpeter> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/a-model-of-growth-through-creative-destruction-1992> .
+<https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/capitalism-socialism-and-democracy> .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2000/01/rdf-schema#label> "Customer Lifetime Value" .
@@ -4441,6 +4464,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-governance/s6> <https://schema.org/url> "https://www.frc.org.uk/library/standards-codes-policy/corporate-governance/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <http://purl.org/dc/terms/publisher> "The Concise Encyclopedia of Economics, Library of Economics and Liberty (Econlib)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <http://purl.org/dc/terms/title> "Creative Destruction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <https://schema.org/url> "https://www.econlib.org/library/Enc/CreativeDestruction.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s2> <http://purl.org/dc/terms/publisher> "Econometrica 60(2):323-351" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s2> <http://purl.org/dc/terms/title> "A Model of Growth Through Creative Destruction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s2> <https://schema.org/url> "https://www.econometricsociety.org/publications/econometrica/browse/1992/03/01/model-growth-through-creative-destruction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s3> <http://purl.org/dc/terms/publisher> "The Royal Swedish Academy of Sciences / Nobel Prize Outreach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s3> <http://purl.org/dc/terms/title> "Press release: The Prize in Economic Sciences 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s3> <https://schema.org/url> "https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s4> <http://purl.org/dc/terms/title> "Philippe Aghion, Peter Howitt, and Joel Mokyr Awarded 2025 Nobel Prize" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s4> <https://schema.org/url> "https://www.nber.org/philippe-aghion-peter-howitt-and-joel-mokyr-awarded-2025-nobel-prize" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <http://purl.org/dc/terms/publisher> "NBER / University of Chicago Press, in Measuring and Accounting for Innovation in the Twenty-First Century" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <http://purl.org/dc/terms/title> "Innovation, Productivity Dispersion, and Productivity Growth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <https://schema.org/url> "https://www.nber.org/chapters/c13889.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://purl.org/dc/terms/publisher> "Columbia Business School (Gupta, Lehmann and Stuart)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://purl.org/dc/terms/title> "Valuing Customers (author manuscript, Journal of Marketing Research)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

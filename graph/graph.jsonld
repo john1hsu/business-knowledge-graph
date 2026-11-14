@@ -7385,6 +7385,91 @@
       ]
     },
     {
+      "@id": "kt:creative-destruction",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change",
+      "skos:definition": "Joseph Schumpeter's term, popularized in his 1942 book Capitalism, Socialism and Democracy, for the process by which innovations continually create new products, firms and industries while making older ones obsolete; formalized by Aghion and Howitt as a model of growth, for which they shared the 2025 Nobel Memorial Prize in Economic Sciences.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Creative Destruction",
+          "dcterms:publisher": "The Concise Encyclopedia of Economics, Library of Economics and Liberty (Econlib)",
+          "schema:url": "https://www.econlib.org/library/Enc/CreativeDestruction.html",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "A Model of Growth Through Creative Destruction",
+          "dcterms:publisher": "Econometrica 60(2):323-351",
+          "schema:url": "https://www.econometricsociety.org/publications/econometrica/browse/1992/03/01/model-growth-through-creative-destruction",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 2025",
+          "dcterms:publisher": "The Royal Swedish Academy of Sciences / Nobel Prize Outreach",
+          "schema:url": "https://www.nobelprize.org/prizes/economic-sciences/2025/press-release/?",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Philippe Aghion, Peter Howitt, and Joel Mokyr Awarded 2025 Nobel Prize",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://www.nber.org/philippe-aghion-peter-howitt-and-joel-mokyr-awarded-2025-nobel-prize",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Innovation, Productivity Dispersion, and Productivity Growth",
+          "dcterms:publisher": "NBER / University of Chicago Press, in Measuring and Accounting for Innovation in the Twenty-First Century",
+          "schema:url": "https://www.nber.org/chapters/c13889.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/creative-destruction.md",
+      "skos:altLabel": [
+        "creative destruction",
+        "Schumpeterian creative destruction",
+        "gale of creative destruction"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:economic-growth"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:cannibalization"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:joseph-schumpeter"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:capitalism-socialism-and-democracy"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:a-model-of-growth-through-creative-destruction-1992"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:innovators-dilemma"
+        }
+      ]
+    },
+    {
       "@id": "kt:disruptive-innovation",
       "@type": "kto:Theory",
       "skos:prefLabel": "Disruptive Innovation",
