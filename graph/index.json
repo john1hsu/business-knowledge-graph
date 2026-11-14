@@ -817,6 +817,27 @@
     ]
   },
   {
+    "id": "kt:customer-satisfaction",
+    "title": "Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit",
+    "aliases": [
+      "consumer satisfaction",
+      "expectancy-disconfirmation model",
+      "expectation-disconfirmation paradigm"
+    ],
+    "type": "Concept",
+    "domain": "marketing",
+    "file": "articles/marketing/customer-satisfaction.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.citedrive.com/en/discovery/a-cognitive-model-of-the-antecedents-and-consequences-of-satisfaction-decisions",
+      "https://foster.uw.edu/wp-content/uploads/2016/07/12_Oliver_1999.pdf",
+      "https://www.citedrive.com/en/discovery/the-american-customer-satisfaction-index-nature-purpose-and-findings/",
+      "https://www.citedrive.com/en/discovery/customer-satisfaction-market-share-and-profitability-findings-from-sweden/",
+      "https://www.grace.umd.edu/~smithas/mithascsstkprice2006.pdf",
+      "https://econpapers.repec.org/RePEc:inm:ormksc:v:28:y:2009:i:5:p:810-819"
+    ]
+  },
+  {
     "id": "kt:david-j-teece",
     "title": "David J. Teece",
     "aliases": [

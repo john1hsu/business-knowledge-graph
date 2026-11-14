@@ -5,14 +5,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:just-in-time`, `kt:material-requirements-planning` |
 | `kt:operations-management` | `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:automotive-industry` | `kt:general-motors`, `kt:general-motors`, `kt:toyota-motor-corporation`, `kt:toyota-motor-corporation` |
-| `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-culture`, `kt:organizational-learning` |
-| `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
@@ -20,6 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven`, `kt:organizational-culture` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
+| `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:customer-satisfaction`, `kt:enterprise-resource-planning` |
 | `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
@@ -54,7 +54,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-decline` | `kt:general-motors`, `kt:kodak-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
-| `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:enterprise-resource-planning` |
 | `kt:decision-making` | `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
@@ -85,6 +84,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
+| `kt:marketing-metrics` | `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
 | `kt:marketing-strategy` | `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
@@ -138,6 +138,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
 | `kt:amazon` | `kt:long-tail` |
+| `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction` |
 | `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963` | `kt:delphi-method` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
@@ -197,6 +198,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:current-ratio` | `kt:working-capital` |
 | `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
+| `kt:customer-loyalty` | `kt:customer-satisfaction` |
 | `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
@@ -354,7 +356,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
 | `kt:marketing` | `kt:services-marketing` |
-| `kt:marketing-metrics` | `kt:customer-lifetime-value` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
@@ -377,6 +378,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multidivisional-form` | `kt:general-motors` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:neil-borden` | `kt:marketing-mix` |
+| `kt:net-promoter-score` | `kt:customer-satisfaction` |
 | `kt:netflix` | `kt:aggregation-theory` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |

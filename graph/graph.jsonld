@@ -11085,6 +11085,106 @@
       ]
     },
     {
+      "@id": "kt:customer-satisfaction",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit",
+      "skos:definition": "A customer's post-purchase judgment of how well a product or service fulfilled their needs, classically modelled (Oliver, 1980) as a function of prior expectations and of how far actual performance confirms or disconfirms them; it is treated as a driver of complaints, loyalty and financial performance, though its link to repurchase is weaker than often assumed.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Cognitive Model of the Antecedents and Consequences of Satisfaction Decisions",
+          "dcterms:publisher": "Journal of Marketing Research 17(4), 1980 (doi:10.1177/002224378001700405), via CiteDrive",
+          "schema:url": "https://www.citedrive.com/en/discovery/a-cognitive-model-of-the-antecedents-and-consequences-of-satisfaction-decisions",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Whence Consumer Loyalty?",
+          "dcterms:publisher": "Journal of Marketing 63 (Special Issue), 33–44 (1999); copy hosted by University of Washington Foster School of Business",
+          "schema:url": "https://foster.uw.edu/wp-content/uploads/2016/07/12_Oliver_1999.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The American Customer Satisfaction Index: Nature, Purpose, and Findings",
+          "dcterms:publisher": "Journal of Marketing 60(4), 1996 (doi:10.1177/002224299606000403), via CiteDrive",
+          "schema:url": "https://www.citedrive.com/en/discovery/the-american-customer-satisfaction-index-nature-purpose-and-findings/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Customer Satisfaction, Market Share, and Profitability: Findings from Sweden",
+          "dcterms:publisher": "Journal of Marketing 58(3), 1994 (doi:10.1177/002224299405800304), via CiteDrive",
+          "schema:url": "https://www.citedrive.com/en/discovery/customer-satisfaction-market-share-and-profitability-findings-from-sweden/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Customer Satisfaction and Stock Prices: High Returns, Low Risk",
+          "dcterms:publisher": "Journal of Marketing 70(1), 3–14 (2006); author copy, University of Maryland",
+          "schema:url": "https://www.grace.umd.edu/~smithas/mithascsstkprice2006.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Financial Markets and Customer Satisfaction: Reexamining Possible Financial Market Mispricing of Customer Satisfaction",
+          "dcterms:publisher": "Marketing Science 28(5), 810–819 (2009), via RePEc/EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ormksc:v:28:y:2009:i:5:p:810-819",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/marketing/customer-satisfaction.md",
+      "skos:altLabel": [
+        "consumer satisfaction",
+        "expectancy-disconfirmation model",
+        "expectation-disconfirmation paradigm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing-metrics"
+        },
+        {
+          "@id": "kt:customer-relationship-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:service-quality"
+        },
+        {
+          "@id": "kt:servqual"
+        },
+        {
+          "@id": "kt:gaps-model-of-service-quality"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:net-promoter-score"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:american-customer-satisfaction-index"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:customer-loyalty"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:service-quality"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:efficient-market-hypothesis"
+        }
+      ]
+    },
+    {
       "@id": "kt:gaps-model-of-service-quality",
       "@type": "kto:Framework",
       "skos:prefLabel": "Gaps Model of Service Quality",
