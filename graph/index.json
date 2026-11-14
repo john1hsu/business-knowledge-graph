@@ -2793,6 +2793,29 @@
     ]
   },
   {
+    "id": "kt:public-value",
+    "title": "Public Value: Mark Moore's Strategic Triangle for Public Managers",
+    "aliases": [
+      "public value theory",
+      "creating public value",
+      "public value management",
+      "strategic triangle (public sector)",
+      "Moore's strategic triangle"
+    ],
+    "type": "Framework",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/public-value.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://markmoore.scholars.harvard.edu/publications/creating-public-value-strategic-management-government-0",
+      "https://d7.dpmc.govt.nz/sites/default/files/2022-12/understanding-public-value-mark-moore.pdf",
+      "https://press-files.anu.edu.au/downloads/press/p75231/mobile/ch08.html",
+      "https://eprints.soton.ac.uk/47255",
+      "https://research-repository.griffith.edu.au/items/65ab91c6-6b08-55a7-b564-8cbe42808462",
+      "https://law-journals-books.vlex.com/vid/public-value-governance-moving-900917127"
+    ]
+  },
+  {
     "id": "kt:pyramid-principle",
     "title": "Pyramid Principle: Top-Down Structured Communication",
     "aliases": [

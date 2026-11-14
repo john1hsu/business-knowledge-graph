@@ -3309,6 +3309,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/oecd-recommendation-on-public-procurement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/agreement-on-government-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2000/01/rdf-schema#label> "Public Value: Mark Moore's Strategic Triangle for Public Managers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#altLabel> "Moore's strategic triangle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#altLabel> "creating public value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#altLabel> "public value management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#altLabel> "public value theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#altLabel> "strategic triangle (public sector)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-administration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#definition> "Mark H. Moore's framework, introduced in Creating Public Value (1995), holding that public managers should act strategically to create value for citizens collectively, by aligning three elements of a \"strategic triangle\": the public value sought, the legitimacy and support of the authorizing environment, and the operational capacity to deliver." .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#prefLabel> "Public Value: Mark Moore's Strategic Triangle for Public Managers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/balanced-scorecard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/new-public-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/mark-h-moore> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/compstat> .
+<https://github.com/john1hsu/business-knowledge-graph/id/public-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/creating-public-value-1995> .
 <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-principle> <http://www.w3.org/2000/01/rdf-schema#label> "Pyramid Principle: Top-Down Structured Communication" .
@@ -7457,6 +7484,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/public-procurement/s6> <https://schema.org/url> "https://nber.org/papers/w23350" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s1> <http://purl.org/dc/terms/publisher> "Mark H. Moore, Harvard University faculty publications page" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s1> <http://purl.org/dc/terms/title> "Creating Public Value: Strategic Management in Government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s1> <https://schema.org/url> "https://markmoore.scholars.harvard.edu/publications/creating-public-value-strategic-management-government-0" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s2> <http://purl.org/dc/terms/publisher> "Department of the Prime Minister and Cabinet (New Zealand), Policy Project" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s2> <http://purl.org/dc/terms/title> "Understanding Public Value: Leaders' Roundtable with Professor Mark Moore" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s2> <https://schema.org/url> "https://d7.dpmc.govt.nz/sites/default/files/2022-12/understanding-public-value-mark-moore.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s3> <http://purl.org/dc/terms/publisher> "ANU Press" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s3> <http://purl.org/dc/terms/title> "Recognising Public Value: The Challenge of Measuring Performance in Government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s3> <https://schema.org/url> "https://press-files.anu.edu.au/downloads/press/p75231/mobile/ch08.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s4> <http://purl.org/dc/terms/publisher> "American Review of Public Administration (via University of Southampton ePrints)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s4> <http://purl.org/dc/terms/title> "Public value management: a new narrative for networked governance?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s4> <https://schema.org/url> "https://eprints.soton.ac.uk/47255" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s5> <http://purl.org/dc/terms/publisher> "Public Administration (via Griffith University Research Repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s5> <http://purl.org/dc/terms/title> "Bringing the Politics Back In: Public value in Westminster parliamentary government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s5> <https://schema.org/url> "https://research-repository.griffith.edu.au/items/65ab91c6-6b08-55a7-b564-8cbe42808462" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s6> <http://purl.org/dc/terms/publisher> "Public Administration Review (via vLex)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s6> <http://purl.org/dc/terms/title> "Public Value Governance: Moving Beyond Traditional Public Administration and the New Public Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/public-value/s6> <https://schema.org/url> "https://law-journals-books.vlex.com/vid/public-value-governance-moving-900917127" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <http://purl.org/dc/terms/publisher> "McKinsey & Company (Alumni News)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <http://purl.org/dc/terms/title> "Barbara Minto: 'MECE: I invented it, so I get to say how to pronounce it'" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/pyramid-principle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

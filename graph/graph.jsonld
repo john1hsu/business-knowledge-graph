@@ -7484,6 +7484,102 @@
       ]
     },
     {
+      "@id": "kt:public-value",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Public Value: Mark Moore's Strategic Triangle for Public Managers",
+      "skos:definition": "Mark H. Moore's framework, introduced in Creating Public Value (1995), holding that public managers should act strategically to create value for citizens collectively, by aligning three elements of a \"strategic triangle\": the public value sought, the legitimacy and support of the authorizing environment, and the operational capacity to deliver.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Creating Public Value: Strategic Management in Government",
+          "dcterms:publisher": "Mark H. Moore, Harvard University faculty publications page",
+          "schema:url": "https://markmoore.scholars.harvard.edu/publications/creating-public-value-strategic-management-government-0",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Understanding Public Value: Leaders' Roundtable with Professor Mark Moore",
+          "dcterms:publisher": "Department of the Prime Minister and Cabinet (New Zealand), Policy Project",
+          "schema:url": "https://d7.dpmc.govt.nz/sites/default/files/2022-12/understanding-public-value-mark-moore.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Recognising Public Value: The Challenge of Measuring Performance in Government",
+          "dcterms:publisher": "ANU Press",
+          "schema:url": "https://press-files.anu.edu.au/downloads/press/p75231/mobile/ch08.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Public value management: a new narrative for networked governance?",
+          "dcterms:publisher": "American Review of Public Administration (via University of Southampton ePrints)",
+          "schema:url": "https://eprints.soton.ac.uk/47255",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Bringing the Politics Back In: Public value in Westminster parliamentary government",
+          "dcterms:publisher": "Public Administration (via Griffith University Research Repository)",
+          "schema:url": "https://research-repository.griffith.edu.au/items/65ab91c6-6b08-55a7-b564-8cbe42808462",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Public Value Governance: Moving Beyond Traditional Public Administration and the New Public Management",
+          "dcterms:publisher": "Public Administration Review (via vLex)",
+          "schema:url": "https://law-journals-books.vlex.com/vid/public-value-governance-moving-900917127",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/public-value.md",
+      "skos:altLabel": [
+        "public value theory",
+        "creating public value",
+        "public value management",
+        "strategic triangle (public sector)",
+        "Moore's strategic triangle"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-administration"
+        },
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:best-value-tradeoff"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:mark-h-moore"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:creating-public-value-1995"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:new-public-management"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:compstat"
+        }
+      ]
+    },
+    {
       "@id": "kt:revolutionary-far-overhaul",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Revolutionary FAR Overhaul",
