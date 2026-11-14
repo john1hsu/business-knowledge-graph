@@ -268,6 +268,29 @@
     ]
   },
   {
+    "id": "kt:automotive-industry",
+    "title": "Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure",
+    "aliases": [
+      "automobile industry",
+      "auto industry",
+      "motor vehicle industry",
+      "car industry"
+    ],
+    "type": "Industry",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/automotive-industry.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.britannica.com/technology/automotive-industry",
+      "https://www.britannica.com/technology/automotive-industry/Ford-and-the-assembly-line",
+      "https://www.britannica.com/technology/automotive-industry/The-modern-industry",
+      "https://nber.org/papers/w29013",
+      "https://www.iea.org/reports/global-ev-outlook-2026/executive-summary",
+      "https://oica.net/auto-industry-growth-shifted-east-in-2025-amid-global-repositioning/",
+      "https://www.bls.gov/iag/tgs/iagauto.htm"
+    ]
+  },
+  {
     "id": "kt:balanced-scorecard",
     "title": "Balanced Scorecard",
     "aliases": [

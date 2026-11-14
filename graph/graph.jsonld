@@ -10441,6 +10441,106 @@
       ]
     },
     {
+      "@id": "kt:automotive-industry",
+      "@type": "kto:Industry",
+      "skos:prefLabel": "Automotive Industry: Vehicle Manufacturers, Suppliers and Industry Structure",
+      "skos:definition": "The industry of firms that design, manufacture and sell motor vehicles and most of their components; a standard case in industrial organization for mass production, scale-driven concentration, lean production, import competition and the shift to electric vehicles.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Automotive industry",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/automotive-industry",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Automotive industry: Ford and the assembly line",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/automotive-industry/Ford-and-the-assembly-line",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Automotive industry: The modern industry",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/technology/automotive-industry/The-modern-industry",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Evolution of Market Power in the US Auto Industry (Working Paper 29013)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://nber.org/papers/w29013",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Global EV Outlook 2026: Executive summary",
+          "dcterms:publisher": "International Energy Agency",
+          "schema:url": "https://www.iea.org/reports/global-ev-outlook-2026/executive-summary",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "Auto industry growth shifted east in 2025 amid global repositioning",
+          "dcterms:publisher": "International Organization of Motor Vehicle Manufacturers (OICA)",
+          "schema:url": "https://oica.net/auto-industry-growth-shifted-east-in-2025-amid-global-repositioning/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Automotive Industry: Employment, Earnings, and Hours",
+          "dcterms:publisher": "U.S. Bureau of Labor Statistics",
+          "schema:url": "https://www.bls.gov/iag/tgs/iagauto.htm",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/automotive-industry.md",
+      "skos:altLabel": [
+        "automobile industry",
+        "auto industry",
+        "motor vehicle industry",
+        "car industry"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:mass-production"
+        },
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:lean-manufacturing"
+        },
+        {
+          "@id": "kt:electric-vehicle"
+        },
+        {
+          "@id": "kt:airline-industry"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:general-motors"
+        },
+        {
+          "@id": "kt:toyota-motor-corporation"
+        },
+        {
+          "@id": "kt:ford-model-t"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ]
+    },
+    {
       "@id": "kt:bengt-holmstrom",
       "@type": "kto:Person",
       "skos:prefLabel": "Bengt Holmström",
