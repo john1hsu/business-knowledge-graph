@@ -1077,6 +1077,26 @@
     ]
   },
   {
+    "id": "kt:ebitda",
+    "title": "EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization",
+    "aliases": [
+      "EBITDA",
+      "earnings before interest taxes depreciation and amortization",
+      "adjusted EBITDA"
+    ],
+    "type": "Metric",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/ebitda.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://www.sec.gov/corpfin/non-gaap-financial-measures",
+      "https://ucema.edu.ar/u/jd/Inversiones/Articulos/Moodys_Putting_Ebitda_into_perspective.pdf",
+      "https://law-economic-studies.law.columbia.edu/sites/default/files/content/DeFontenay%20et%20al_Contractual%20Complexity%20in%20Debt%20Agreements%20The%20Case%20of%20EBITDA_Draft_May%202021.pdf",
+      "https://ideas.repec.org/p/fip/fedlwp/94811.html",
+      "https://www.businesswire.com/news/home/20260204947622/en/Uber-Announces-Results-for-Fourth-Quarter-and-Full-Year-2025"
+    ]
+  },
+  {
     "id": "kt:economies-of-scale",
     "title": "Economies of Scale",
     "aliases": [

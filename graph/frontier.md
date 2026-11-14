@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automotive-industry` | `kt:general-motors`, `kt:general-motors`, `kt:toyota-motor-corporation`, `kt:toyota-motor-corporation` |
 | `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven`, `kt:strategy-execution`, `kt:organizational-culture` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
+| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
@@ -21,10 +22,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:customer-satisfaction`, `kt:enterprise-resource-planning` |
 | `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:contract-theory`, `kt:moral-hazard` |
-| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
+| `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -91,7 +92,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
-| `kt:non-gaap-financial-measures` | `kt:free-cash-flow`, `kt:gaap` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
@@ -210,6 +210,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
+| `kt:debt-covenant` | `kt:ebitda` |
 | `kt:debt-to-equity-ratio` | `kt:capital-structure` |
 | `kt:decision-rights` | `kt:span-of-control` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
@@ -231,7 +232,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dual-class-shares` | `kt:separation-of-ownership-and-control` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
-| `kt:ebitda` | `kt:free-cash-flow` |
 | `kt:economic-growth` | `kt:creative-destruction` |
 | `kt:economic-order-quantity` | `kt:material-requirements-planning` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
@@ -246,6 +246,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:employee-motivation` | `kt:j-richard-hackman` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
+| `kt:enterprise-value-multiples` | `kt:ebitda` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:eric-ries` | `kt:lean-startup` |
 | `kt:esg-ratings` | `kt:esg` |
@@ -306,6 +307,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-18` | `kt:ifrs` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:income-statement` | `kt:ebitda` |
 | `kt:independent-director` | `kt:board-of-directors` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect` |
@@ -450,6 +452,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rand-health-insurance-experiment` | `kt:moral-hazard` |
 | `kt:recommender-system` | `kt:long-tail` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
+| `kt:regulation-g` | `kt:ebitda` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |

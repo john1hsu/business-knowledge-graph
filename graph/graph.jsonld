@@ -369,6 +369,94 @@
       ]
     },
     {
+      "@id": "kt:ebitda",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "EBITDA: Earnings Before Interest, Taxes, Depreciation and Amortization",
+      "skos:definition": "A non-GAAP earnings measure that adds interest, income taxes, depreciation and amortization back to net income, used as a rough proxy for operating cash generation, a basis for valuation multiples and the core input to leverage ratios and loan covenants.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Non-GAAP Financial Measures: Compliance and Disclosure Interpretations",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Division of Corporation Finance",
+          "schema:url": "https://www.sec.gov/corpfin/non-gaap-financial-measures",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Putting EBITDA In Perspective: Ten Critical Failings Of EBITDA As The Principal Determinant Of Cash Flow",
+          "dcterms:publisher": "Moody's Investors Service (Special Comment, via Universidad del CEMA)",
+          "schema:url": "https://ucema.edu.ar/u/jd/Inversiones/Articulos/Moodys_Putting_Ebitda_into_perspective.pdf",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Contractual Complexity in Debt Agreements: The Case of EBITDA",
+          "dcterms:publisher": "Columbia Law School, Law and Economic Studies (working paper)",
+          "schema:url": "https://law-economic-studies.law.columbia.edu/sites/default/files/content/DeFontenay%20et%20al_Contractual%20Complexity%20in%20Debt%20Agreements%20The%20Case%20of%20EBITDA_Draft_May%202021.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "EBITDA Add-backs in Debt Contracting: A Step Too Far?",
+          "dcterms:publisher": "Federal Reserve Bank of St. Louis Working Paper 2022-029 (via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/p/fip/fedlwp/94811.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Uber Announces Results for Fourth Quarter and Full Year 2025",
+          "dcterms:publisher": "Uber Technologies, Inc. (press release via Business Wire)",
+          "schema:url": "https://www.businesswire.com/news/home/20260204947622/en/Uber-Announces-Results-for-Fourth-Quarter-and-Full-Year-2025",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/ebitda.md",
+      "skos:altLabel": [
+        "EBITDA",
+        "earnings before interest taxes depreciation and amortization",
+        "adjusted EBITDA"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-statement-analysis"
+        },
+        {
+          "@id": "kt:non-gaap-financial-measures"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:leveraged-buyout"
+        },
+        {
+          "@id": "kt:enterprise-value-multiples"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:free-cash-flow"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:regulation-g"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:income-statement"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:debt-covenant"
+        }
+      ]
+    },
+    {
       "@id": "kt:fasb-conceptual-framework",
       "@type": "kto:Framework",
       "skos:prefLabel": "FASB Conceptual Framework",
