@@ -3365,6 +3365,29 @@
     ]
   },
   {
+    "id": "kt:technology-adoption-life-cycle",
+    "title": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",
+    "aliases": [
+      "technology adoption lifecycle",
+      "adoption life cycle",
+      "crossing the chasm",
+      "the chasm",
+      "adopter categories"
+    ],
+    "type": "Framework",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/technology-adoption-life-cycle.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://publications.iowa.gov/48152/1/diffusion_process_1957_OCR_.pdf",
+      "https://www.strategy-business.com/article/16930?gko=5cb33",
+      "https://www.imd.org/blog/innovation/diffusion-of-innovation-theory/",
+      "https://ideas.repec.org/a/inm/ormnsc/v15y1969i5p215-227.html",
+      "https://repub.eur.nl/pub/77778",
+      "https://archives.joe.org/joe/2003august/a1.php"
+    ]
+  },
+  {
     "id": "kt:total-quality-management",
     "title": "Total Quality Management: Companywide Quality as a Management System",
     "aliases": [

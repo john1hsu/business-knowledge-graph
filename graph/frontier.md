@@ -101,6 +101,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
+| `kt:product-market-fit` | `kt:lean-startup`, `kt:technology-adoption-life-cycle` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:relationship-marketing` | `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
@@ -152,6 +153,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:barrier-analysis` | `kt:root-cause-analysis` |
+| `kt:bass-diffusion-model` | `kt:technology-adoption-life-cycle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:ben-thompson` | `kt:aggregation-theory` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
@@ -200,6 +202,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:creating-public-value-1995` | `kt:public-value` |
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility` |
+| `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:current-ratio` | `kt:working-capital` |
 | `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
@@ -218,6 +221,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:department-of-defense` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dfars-procedures-guidance-and-information` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
+| `kt:diffusion-of-innovations` | `kt:technology-adoption-life-cycle` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
@@ -278,6 +282,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:generic-competitive-strategies` | `kt:porters-five-forces` |
+| `kt:george-m-beal` | `kt:technology-adoption-life-cycle` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:glass-lewis` | `kt:proxy-advisory-firm` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
@@ -327,6 +332,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jidoka` | `kt:toyota-production-system` |
 | `kt:job-characteristics-model` | `kt:j-richard-hackman` |
 | `kt:job-enrichment` | `kt:j-richard-hackman` |
+| `kt:joe-m-bohlen` | `kt:technology-adoption-life-cycle` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:john-burr-williams` | `kt:discounted-cash-flow` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
@@ -436,7 +442,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-launch` | `kt:apple-iphone-launch` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
-| `kt:product-market-fit` | `kt:lean-startup` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |

@@ -8831,6 +8831,101 @@
       ]
     },
     {
+      "@id": "kt:technology-adoption-life-cycle",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",
+      "skos:definition": "A model that sorts a market's buyers of a new technology into successive segments by when they adopt (innovators, early adopters, early majority, late majority, laggards), rooted in 1950s rural-sociology diffusion research and extended by Geoffrey Moore's 1991 argument that a \"chasm\" separates the visionary early market from the pragmatic mainstream.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Diffusion Process (Special Report No. 18)",
+          "dcterms:publisher": "Agricultural Extension Service, Iowa State College, 1957",
+          "schema:url": "https://publications.iowa.gov/48152/1/diffusion_process_1957_OCR_.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Quaking Up with Geoffrey Moore",
+          "dcterms:publisher": "strategy+business, April 2000",
+          "schema:url": "https://www.strategy-business.com/article/16930?gko=5cb33",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Diffusion of Innovation Theory",
+          "dcterms:publisher": "IMD Business School",
+          "schema:url": "https://www.imd.org/blog/innovation/diffusion-of-innovation-theory/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "A New Product Growth for Model Consumer Durables",
+          "dcterms:publisher": "Management Science 15(5):215-227, 1969 (doi:10.1287/mnsc.15.5.215)",
+          "schema:url": "https://ideas.repec.org/a/inm/ormnsc/v15y1969i5p215-227.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Getting a Grip on the Saddle: Chasms or Cycles?",
+          "dcterms:publisher": "Journal of Marketing 75(4):21-34, 2011 (doi:10.1509/jmkg.75.4.21)",
+          "schema:url": "https://repub.eur.nl/pub/77778",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Somewhat Flawed Theoretical Foundation of the Extension Service",
+          "dcterms:publisher": "Journal of Extension 41(4), August 2003",
+          "schema:url": "https://archives.joe.org/joe/2003august/a1.php",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/technology-adoption-life-cycle.md",
+      "skos:altLabel": [
+        "technology adoption lifecycle",
+        "adoption life cycle",
+        "crossing the chasm",
+        "the chasm",
+        "adopter categories"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:diffusion-of-innovations"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:product-market-fit"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:bass-diffusion-model"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:george-m-beal"
+        },
+        {
+          "@id": "kt:joe-m-bohlen"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:crossing-the-chasm"
+        }
+      ]
+    },
+    {
       "@id": "kt:balanced-scorecard",
       "@type": "kto:Framework",
       "skos:prefLabel": "Balanced Scorecard",

@@ -8290,6 +8290,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://schema.org/url> "https://www.apo-tokyo.org/?p=1983" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <http://purl.org/dc/terms/publisher> "Agricultural Extension Service, Iowa State College, 1957" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <http://purl.org/dc/terms/title> "The Diffusion Process (Special Report No. 18)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <https://schema.org/url> "https://publications.iowa.gov/48152/1/diffusion_process_1957_OCR_.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s2> <http://purl.org/dc/terms/publisher> "strategy+business, April 2000" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s2> <http://purl.org/dc/terms/title> "Quaking Up with Geoffrey Moore" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s2> <https://schema.org/url> "https://www.strategy-business.com/article/16930?gko=5cb33" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s3> <http://purl.org/dc/terms/publisher> "IMD Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s3> <http://purl.org/dc/terms/title> "Diffusion of Innovation Theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s3> <https://schema.org/url> "https://www.imd.org/blog/innovation/diffusion-of-innovation-theory/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s4> <http://purl.org/dc/terms/publisher> "Management Science 15(5):215-227, 1969 (doi:10.1287/mnsc.15.5.215)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s4> <http://purl.org/dc/terms/title> "A New Product Growth for Model Consumer Durables" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s4> <https://schema.org/url> "https://ideas.repec.org/a/inm/ormnsc/v15y1969i5p215-227.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing 75(4):21-34, 2011 (doi:10.1509/jmkg.75.4.21)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s5> <http://purl.org/dc/terms/title> "Getting a Grip on the Saddle: Chasms or Cycles?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s5> <https://schema.org/url> "https://repub.eur.nl/pub/77778" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s6> <http://purl.org/dc/terms/publisher> "Journal of Extension 41(4), August 2003" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s6> <http://purl.org/dc/terms/title> "The Somewhat Flawed Theoretical Foundation of the Extension Service" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s6> <https://schema.org/url> "https://archives.joe.org/joe/2003august/a1.php" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Introduction to Business 2e" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <http://purl.org/dc/terms/title> "10.6 Looking for a Better Way: Improving Production and Operations" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/total-quality-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -8743,6 +8773,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-ford> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kiichiro-toyoda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2000/01/rdf-schema#label> "Technology Adoption Life Cycle: Adopter Segments and the Chasm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "adopter categories" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "adoption life cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "crossing the chasm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "technology adoption lifecycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "the chasm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/diffusion-of-innovations> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#definition> "A model that sorts a market's buyers of a new technology into successive segments by when they adopt (innovators, early adopters, early majority, late majority, laggards), rooted in 1950s rural-sociology diffusion research and extended by Geoffrey Moore's 1991 argument that a \"chasm\" separates the visionary early market from the pragmatic mainstream." .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#prefLabel> "Technology Adoption Life Cycle: Adopter Segments and the Chasm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bass-diffusion-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/george-m-beal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/joe-m-bohlen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/crossing-the-chasm> .
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> <http://www.w3.org/2000/01/rdf-schema#label> "Total Quality Management: Companywide Quality as a Management System" .
