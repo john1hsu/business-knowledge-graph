@@ -2240,6 +2240,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/ingredient-branding> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/semiconductor-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2000/01/rdf-schema#label> "Inventory Management: Order Quantities, Reorder Points and Safety Stock" .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#altLabel> "inventory control" .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#altLabel> "inventory management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#altLabel> "stock control" .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/supply-chain-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#definition> "The operations discipline of deciding how much stock of each item to hold, how much to order and when to reorder, so that a firm meets demand and service targets at the lowest total cost of ordering, holding and running short." .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inventory Management: Order Quantities, Reorder Points and Safety Stock" .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/demand-forecasting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/cisco-systems> .
+<https://github.com/john1hsu/business-knowledge-graph/id/inventory-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/economic-order-quantity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> <http://www.w3.org/2000/01/rdf-schema#label> "Ishikawa Diagram" .
@@ -6324,6 +6348,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s1> <http://purl.org/dc/terms/publisher> "Operations Research (INFORMS), record via IDEAS/RePEc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s1> <http://purl.org/dc/terms/title> "How Many Parts to Make at Once (reprint)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s1> <https://schema.org/url> "https://ideas.repec.org/a/inm/oropre/v38y1990i6p947-950.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s2> <http://purl.org/dc/terms/publisher> "UCLA Anderson School of Management (eScholarship, University of California)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s2> <http://purl.org/dc/terms/title> "Ford Whitman Harris's Economical Lot Size Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s2> <https://schema.org/url> "https://escholarship.org/content/qt4s8482p2/qt4s8482p2_noSplash_5dfa07046f9562ca39dee86651320d0b.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s3> <http://purl.org/dc/terms/publisher> "Fundamentals of Operations Management (eCampusOntario open textbook)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s3> <http://purl.org/dc/terms/title> "8.5 Inventory Models for Certain Demand: Economic Order Quantity (EOQ) Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s3> <https://schema.org/url> "https://ecampusontario.pressbooks.pub/fundamentalsopsmgmt/chapter/8-5-inventory-models-for-certain-demand-economic-order-quantity-eoq-model/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s4> <http://purl.org/dc/terms/publisher> "Introduction to Supply Chain Management (University of Arkansas Pressbooks)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s4> <http://purl.org/dc/terms/title> "6.5 Special Topics in Inventory Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s4> <https://schema.org/url> "https://uark.pressbooks.pub/introscm/?p=350" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s5> <http://purl.org/dc/terms/publisher> "J. E. Beasley, Brunel University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s5> <http://purl.org/dc/terms/title> "OR-Notes: Inventory control" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s5> <https://schema.org/url> "https://people.brunel.ac.uk/~mastjjb/jeb/or/invent.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s6> <http://purl.org/dc/terms/publisher> "Management Science (record via EconPapers)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s6> <http://purl.org/dc/terms/title> "What Actually Happened to the Inventories of American Companies Between 1981 and 2000?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s6> <https://schema.org/url> "https://econpapers.repec.org/RePEc:inm:ormnsc:v:51:y:2005:i:7:p:1015-1031" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s7> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s7> <http://purl.org/dc/terms/title> "Cisco Systems, Inc. Form 10-K fiscal 2001, Exhibit 13 (Annual Report)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-management/s7> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0000858877/000109581101505065/f75710ex13.txt" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <http://purl.org/dc/terms/publisher> "American Society for Quality (ASQ)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <http://purl.org/dc/terms/title> "What is a Fishbone Diagram? Ishikawa Cause & Effect Diagram" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ishikawa-diagram/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

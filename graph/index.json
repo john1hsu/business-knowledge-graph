@@ -1886,6 +1886,28 @@
     ]
   },
   {
+    "id": "kt:inventory-management",
+    "title": "Inventory Management: Order Quantities, Reorder Points and Safety Stock",
+    "aliases": [
+      "inventory management",
+      "inventory control",
+      "stock control"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/inventory-management.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://ideas.repec.org/a/inm/oropre/v38y1990i6p947-950.html",
+      "https://escholarship.org/content/qt4s8482p2/qt4s8482p2_noSplash_5dfa07046f9562ca39dee86651320d0b.pdf",
+      "https://ecampusontario.pressbooks.pub/fundamentalsopsmgmt/chapter/8-5-inventory-models-for-certain-demand-economic-order-quantity-eoq-model/",
+      "https://uark.pressbooks.pub/introscm/?p=350",
+      "https://people.brunel.ac.uk/~mastjjb/jeb/or/invent.html",
+      "https://econpapers.repec.org/RePEc:inm:ormnsc:v:51:y:2005:i:7:p:1015-1031",
+      "https://www.sec.gov/Archives/edgar/data/0000858877/000109581101505065/f75710ex13.txt"
+    ]
+  },
+  {
     "id": "kt:ishikawa-diagram",
     "title": "Ishikawa Diagram",
     "aliases": [

@@ -12561,6 +12561,98 @@
       ]
     },
     {
+      "@id": "kt:inventory-management",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Inventory Management: Order Quantities, Reorder Points and Safety Stock",
+      "skos:definition": "The operations discipline of deciding how much stock of each item to hold, how much to order and when to reorder, so that a firm meets demand and service targets at the lowest total cost of ordering, holding and running short.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "How Many Parts to Make at Once (reprint)",
+          "dcterms:publisher": "Operations Research (INFORMS), record via IDEAS/RePEc",
+          "schema:url": "https://ideas.repec.org/a/inm/oropre/v38y1990i6p947-950.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Ford Whitman Harris's Economical Lot Size Model",
+          "dcterms:publisher": "UCLA Anderson School of Management (eScholarship, University of California)",
+          "schema:url": "https://escholarship.org/content/qt4s8482p2/qt4s8482p2_noSplash_5dfa07046f9562ca39dee86651320d0b.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "8.5 Inventory Models for Certain Demand: Economic Order Quantity (EOQ) Model",
+          "dcterms:publisher": "Fundamentals of Operations Management (eCampusOntario open textbook)",
+          "schema:url": "https://ecampusontario.pressbooks.pub/fundamentalsopsmgmt/chapter/8-5-inventory-models-for-certain-demand-economic-order-quantity-eoq-model/",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "6.5 Special Topics in Inventory Management",
+          "dcterms:publisher": "Introduction to Supply Chain Management (University of Arkansas Pressbooks)",
+          "schema:url": "https://uark.pressbooks.pub/introscm/?p=350",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "OR-Notes: Inventory control",
+          "dcterms:publisher": "J. E. Beasley, Brunel University",
+          "schema:url": "https://people.brunel.ac.uk/~mastjjb/jeb/or/invent.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "What Actually Happened to the Inventories of American Companies Between 1981 and 2000?",
+          "dcterms:publisher": "Management Science (record via EconPapers)",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ormnsc:v:51:y:2005:i:7:p:1015-1031",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Cisco Systems, Inc. Form 10-K fiscal 2001, Exhibit 13 (Annual Report)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/0000858877/000109581101505065/f75710ex13.txt",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/inventory-management.md",
+      "skos:altLabel": [
+        "inventory management",
+        "inventory control",
+        "stock control"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        },
+        {
+          "@id": "kt:supply-chain-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:just-in-time"
+        },
+        {
+          "@id": "kt:bullwhip-effect"
+        },
+        {
+          "@id": "kt:working-capital"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:economic-order-quantity"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:demand-forecasting"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:cisco-systems"
+        }
+      ]
+    },
+    {
       "@id": "kt:just-in-time",
       "@type": "kto:Practice",
       "skos:prefLabel": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",
