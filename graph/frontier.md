@@ -17,6 +17,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage`, `kt:resource-based-view` |
+| `kt:corporate-decline` | `kt:blockbuster-decline`, `kt:general-motors`, `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:customer-satisfaction`, `kt:enterprise-resource-planning` |
@@ -32,6 +33,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
+| `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
@@ -49,7 +51,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
-| `kt:corporate-decline` | `kt:general-motors`, `kt:kodak-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:decision-making` | `kt:structured-problem-solving`, `kt:group-decision-making` |
@@ -92,6 +93,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
+| `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
@@ -118,7 +120,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
-| `kt:technological-disruption` | `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:the-market-for-lemons-1970` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
@@ -224,6 +225,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:diffusion-of-innovations` | `kt:technology-adoption-life-cycle` |
 | `kt:direct-marketing` | `kt:direct-selling` |
+| `kt:dish-network` | `kt:blockbuster-decline` |
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
@@ -298,6 +300,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
+| `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
@@ -395,7 +398,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:neil-borden` | `kt:marketing-mix` |
 | `kt:net-promoter-score` | `kt:customer-satisfaction` |
-| `kt:netflix` | `kt:aggregation-theory` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
@@ -451,6 +453,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:rand-health-insurance-experiment` | `kt:moral-hazard` |
 | `kt:recommender-system` | `kt:long-tail` |
+| `kt:redbox` | `kt:blockbuster-decline` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:regulation-g` | `kt:ebitda` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
@@ -485,6 +488,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
 | `kt:seven-wastes` | `kt:taiichi-ohno` |
+| `kt:shareholder-activism` | `kt:blockbuster-decline` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:signaling-theory` | `kt:information-asymmetry` |
 | `kt:small-business-act` | `kt:small-business-set-asides` |

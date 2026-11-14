@@ -10,7 +10,7 @@ summary: >-
   own profitable business and, through the 2011 Qwikster backlash, as a lesson in how badly such a
   transition can be sequenced.
 broader: [kt:business-model-innovation, kt:technological-disruption]
-related: [kt:cannibalization, kt:organizational-ambidexterity, kt:subscription-business-model, kt:innovators-dilemma]
+related: [kt:cannibalization, kt:organizational-ambidexterity, kt:subscription-business-model, kt:innovators-dilemma, kt:blockbuster-decline]
 relations:
   - {predicate: exemplifies, object: kt:disruptive-innovation}
   - {predicate: exemplifies, object: kt:dynamic-capabilities}
