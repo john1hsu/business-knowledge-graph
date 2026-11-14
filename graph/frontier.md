@@ -10,9 +10,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:automotive-industry` | `kt:general-motors`, `kt:general-motors`, `kt:toyota-motor-corporation`, `kt:toyota-motor-corporation` |
 | `kt:customer-satisfaction` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
+| `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:organization-theory` | `kt:andrew-van-de-ven`, `kt:management-theory`, `kt:organizational-culture`, `kt:organizational-learning` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
-| `kt:aggregation-theory` | `kt:long-tail`, `kt:platform-business-model`, `kt:two-sided-market` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:executive-compensation` | `kt:michael-c-jensen`, `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:free-cash-flow`, `kt:working-capital` |
-| `kt:google` | `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
@@ -150,6 +149,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:barrier-analysis` | `kt:root-cause-analysis` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
+| `kt:ben-thompson` | `kt:aggregation-theory` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
@@ -180,6 +180,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-strategy` | `kt:business-model` |
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
+| `kt:conservation-of-attractive-profits` | `kt:aggregation-theory` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contingency-theory` | `kt:management-theory` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
@@ -376,6 +377,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multidivisional-form` | `kt:general-motors` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:neil-borden` | `kt:marketing-mix` |
+| `kt:netflix` | `kt:aggregation-theory` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |

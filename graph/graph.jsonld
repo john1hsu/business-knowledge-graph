@@ -3382,6 +3382,97 @@
       ]
     },
     {
+      "@id": "kt:aggregation-theory",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand",
+      "skos:definition": "A theory of internet-era competition, introduced by analyst Ben Thompson in 2015, holding that when distribution and transaction costs fall toward zero, value shifts from firms that control scarce supply to \"aggregators\" that own the relationship with users and commoditize suppliers.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Aggregation Theory",
+          "dcterms:publisher": "Stratechery (Ben Thompson), 21 July 2015",
+          "schema:url": "https://stratechery.com/2015/aggregation-theory/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Defining Aggregators",
+          "dcterms:publisher": "Stratechery (Ben Thompson), 26 September 2017",
+          "schema:url": "https://stratechery.com/2017/defining-aggregators/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Platforms or Aggregators: Implications for Digital Antitrust Law",
+          "dcterms:publisher": "Journal of European Competition Law & Practice 12(1), 2021 (Vrije Universiteit Amsterdam research portal)",
+          "schema:url": "https://research.vu.nl/en/publications/platforms-or-aggregators-implications-for-digital-antitrust-law/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Google, Facebook, and Amazon are no platforms",
+          "dcterms:publisher": "Network Law Review (Thibault Schrepel), 27 July 2020",
+          "schema:url": "https://www.networklawreview.org/not-platforms/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Spotify, Netflix, and Aggregation",
+          "dcterms:publisher": "Stratechery (Ben Thompson), 27 June 2022",
+          "schema:url": "https://stratechery.com/2022/spotify-netflix-and-aggregation/",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-models/aggregation-theory.md",
+      "skos:altLabel": [
+        "aggregation theory",
+        "aggregator business model",
+        "internet aggregators"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:platform-business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:long-tail"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:disruptive-innovation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:ben-thompson"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:conservation-of-attractive-profits"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:google"
+        },
+        {
+          "@id": "kt:netflix"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-format-franchising",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Business Format Franchising",

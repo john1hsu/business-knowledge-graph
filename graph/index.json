@@ -104,6 +104,26 @@
     ]
   },
   {
+    "id": "kt:aggregation-theory",
+    "title": "Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand",
+    "aliases": [
+      "aggregation theory",
+      "aggregator business model",
+      "internet aggregators"
+    ],
+    "type": "Theory",
+    "domain": "business-models",
+    "file": "articles/business-models/aggregation-theory.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://stratechery.com/2015/aggregation-theory/",
+      "https://stratechery.com/2017/defining-aggregators/",
+      "https://research.vu.nl/en/publications/platforms-or-aggregators-implications-for-digital-antitrust-law/",
+      "https://www.networklawreview.org/not-platforms/",
+      "https://stratechery.com/2022/spotify-netflix-and-aggregation/"
+    ]
+  },
+  {
     "id": "kt:airline-industry",
     "title": "Airline Industry",
     "aliases": [
