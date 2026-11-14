@@ -1075,6 +1075,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/herbalife> .
 <https://github.com/john1hsu/business-knowledge-graph/id/direct-selling> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-trade-commission-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2000/01/rdf-schema#label> "Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "DCF analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "DCF model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "DCF" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "discounted cash flow model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#altLabel> "intrinsic valuation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-valuation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#definition> "An intrinsic (absolute) valuation method that estimates what a business, project or security is worth today as the present value of its expected future cash flows, discounted at a rate that reflects their risk, with a terminal value capturing cash flows beyond the explicit forecast period." .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#prefLabel> "Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/real-options> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/relative-valuation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/irving-fisher> .
+<https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/john-burr-williams> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> <http://www.w3.org/2000/01/rdf-schema#label> "Disruptive Innovation" .
@@ -4799,6 +4828,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/direct-selling/s7> <https://schema.org/url> "https://WWW.Britannica.com/money/what-is-multi-level-marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 11.3: Discounted Cash Flow (DCF) Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/11-3-discounted-cash-flow-dcf-model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s2> <http://purl.org/dc/terms/publisher> "NYU Stern School of Business (Foundations and Trends in Finance)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s2> <http://purl.org/dc/terms/title> "Valuation Approaches and Metrics: A Survey of the Theory and Evidence (author copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s2> <https://schema.org/url> "https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/valuesurvey.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s3> <http://purl.org/dc/terms/publisher> "Foundations and Trends in Finance (RePEc/IDEAS record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s3> <http://purl.org/dc/terms/title> "Valuation Approaches and Metrics: A Survey of the Theory and Evidence (bibliographic record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s3> <https://schema.org/url> "https://ideas.repec.org/a/now/fntfin/0500000013.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (Working Paper 4724; Journal of Finance, 1995)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s4> <http://purl.org/dc/terms/title> "The Valuation of Cash Flow Forecasts: An Empirical Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s4> <https://schema.org/url> "https://nber.org/papers/w4724" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s5> <http://purl.org/dc/terms/publisher> "NYU Stern School of Business, faculty pages" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s5> <http://purl.org/dc/terms/title> "Intrinsic Valuation (Chapter 2, author copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s5> <https://schema.org/url> "https://pages.stern.nyu.edu/~adamodar/pdfiles/DSV2/Ch2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s6> <http://purl.org/dc/terms/publisher> "Harvard Business School faculty publication page (Harvard Business Review, January 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s6> <http://purl.org/dc/terms/title> "Innovation Killers: How Financial Tools Destroy Your Capacity to Do New Things" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/discounted-cash-flow/s6> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=31559" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/publisher> "Harvard DASH (author manuscript of Journal of Management Studies article)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://purl.org/dc/terms/title> "Disruptive Innovation: An Intellectual History and Directions for Future Research (Journal of Management Studies 55(7), 2018)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/disruptive-innovation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

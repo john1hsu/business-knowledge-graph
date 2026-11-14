@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:discounted-cash-flow` | `kt:free-cash-flow`, `kt:goodwill`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital`, `kt:customer-lifetime-value` |
 | `kt:inventory-management` | `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:enterprise-resource-planning`, `kt:just-in-time`, `kt:material-requirements-planning` |
 | `kt:operations-management` | `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:toyota-motor-corporation` | `kt:general-motors`, `kt:just-in-time`, `kt:kanban`, `kt:taiichi-ohno`, `kt:toyota-production-system` |
@@ -29,6 +28,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:real-options` | `kt:discounted-cash-flow`, `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:resource-based-view` | `kt:david-j-teece`, `kt:dynamic-capabilities`, `kt:porters-five-forces` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
@@ -76,6 +76,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
+| `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
@@ -100,7 +101,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:public-administration` | `kt:public-procurement`, `kt:span-of-control` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
-| `kt:real-options` | `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:relationship-marketing` | `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
@@ -158,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
+| `kt:business-valuation` | `kt:discounted-cash-flow` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
 | `kt:career-concerns` | `kt:bengt-holmstrom` |
@@ -308,7 +309,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:interchangeable-parts` | `kt:mass-production` |
 | `kt:internal-rate-of-return` | `kt:net-present-value` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
-| `kt:irving-fisher` | `kt:net-present-value` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:james-f-moore` | `kt:business-ecosystem` |
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
@@ -318,6 +318,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:job-characteristics-model` | `kt:j-richard-hackman` |
 | `kt:job-enrichment` | `kt:j-richard-hackman` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
+| `kt:john-burr-williams` | `kt:discounted-cash-flow` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
@@ -435,6 +436,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |
+| `kt:relative-valuation` | `kt:discounted-cash-flow` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation` |

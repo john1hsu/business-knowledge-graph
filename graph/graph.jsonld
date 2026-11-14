@@ -5716,6 +5716,106 @@
       ]
     },
     {
+      "@id": "kt:discounted-cash-flow",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows",
+      "skos:definition": "An intrinsic (absolute) valuation method that estimates what a business, project or security is worth today as the present value of its expected future cash flows, discounted at a rate that reflects their risk, with a terminal value capturing cash flows beyond the explicit forecast period.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-14",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 11.3: Discounted Cash Flow (DCF) Model",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/11-3-discounted-cash-flow-dcf-model",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Valuation Approaches and Metrics: A Survey of the Theory and Evidence (author copy)",
+          "dcterms:publisher": "NYU Stern School of Business (Foundations and Trends in Finance)",
+          "schema:url": "https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/valuesurvey.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Valuation Approaches and Metrics: A Survey of the Theory and Evidence (bibliographic record)",
+          "dcterms:publisher": "Foundations and Trends in Finance (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/now/fntfin/0500000013.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Valuation of Cash Flow Forecasts: An Empirical Analysis",
+          "dcterms:publisher": "National Bureau of Economic Research (Working Paper 4724; Journal of Finance, 1995)",
+          "schema:url": "https://nber.org/papers/w4724",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Intrinsic Valuation (Chapter 2, author copy)",
+          "dcterms:publisher": "NYU Stern School of Business, faculty pages",
+          "schema:url": "https://pages.stern.nyu.edu/~adamodar/pdfiles/DSV2/Ch2.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Innovation Killers: How Financial Tools Destroy Your Capacity to Do New Things",
+          "dcterms:publisher": "Harvard Business School faculty publication page (Harvard Business Review, January 2008)",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=31559",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/discounted-cash-flow.md",
+      "skos:altLabel": [
+        "DCF",
+        "DCF model",
+        "DCF analysis",
+        "discounted cash flow model",
+        "intrinsic valuation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-finance"
+        },
+        {
+          "@id": "kt:business-valuation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:net-present-value"
+        },
+        {
+          "@id": "kt:leveraged-buyout"
+        },
+        {
+          "@id": "kt:goodwill"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:real-options"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:john-burr-williams"
+        },
+        {
+          "@id": "kt:irving-fisher"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:relative-valuation"
+        }
+      ]
+    },
+    {
       "@id": "kt:dividend-policy",
       "@type": "kto:Practice",
       "skos:prefLabel": "Dividend Policy",

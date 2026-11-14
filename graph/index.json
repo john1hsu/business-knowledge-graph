@@ -907,6 +907,29 @@
     ]
   },
   {
+    "id": "kt:discounted-cash-flow",
+    "title": "Discounted Cash Flow (DCF) Valuation: Valuing a Firm from Its Expected Future Cash Flows",
+    "aliases": [
+      "DCF",
+      "DCF model",
+      "DCF analysis",
+      "discounted cash flow model",
+      "intrinsic valuation"
+    ],
+    "type": "Framework",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/discounted-cash-flow.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/11-3-discounted-cash-flow-dcf-model",
+      "https://pages.stern.nyu.edu/~adamodar/pdfiles/papers/valuesurvey.pdf",
+      "https://ideas.repec.org/a/now/fntfin/0500000013.html",
+      "https://nber.org/papers/w4724",
+      "https://pages.stern.nyu.edu/~adamodar/pdfiles/DSV2/Ch2.pdf",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=31559"
+    ]
+  },
+  {
     "id": "kt:disruptive-innovation",
     "title": "Disruptive Innovation",
     "aliases": [
