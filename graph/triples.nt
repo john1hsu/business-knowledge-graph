@@ -2954,6 +2954,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/user-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation-the-new-imperative-2003> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://purl.org/dc/terms/created> "2026-11-14" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Organization Theory: Contingency, Institutional and Ecological Explanations of Structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "macro organizational theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "organisation theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "organization theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "organizational theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "theory of organizations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/sociology> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#definition> "The multidisciplinary study of organizations as whole units, which explains why they take the structures they do, how they perform and whether they survive; its main macro perspectives (contingency, resource dependence, institutional theory and organizational ecology) all treat the environment as the key force shaping organizations." .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organization Theory: Contingency, Institutional and Ecological Explanations of Structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/institutional-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ecology> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/resource-dependence-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/max-weber> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> <http://www.w3.org/2000/01/rdf-schema#label> "Organizational Ambidexterity" .
@@ -7009,6 +7037,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://schema.org/url> "https://saylordotorg.github.io/text_international-business/s17-04-increasing-speed-and-effective.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s1> <http://purl.org/dc/terms/title> "Organization theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s1> <https://schema.org/url> "https://britannica.com/topic/organization-theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management, 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s2> <http://purl.org/dc/terms/title> "4.3 Organizational Designs and Structures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/4-3-organizational-designs-and-structures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s3> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business, Faculty Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s3> <http://purl.org/dc/terms/title> "The External Control of Organizations: A Resource Dependence Perspective (Jeffrey Pfeffer and Gerald R. Salancik)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s3> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/books/external-control-organizations-resource-dependence-perspective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s4> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business Insights, 2024" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s4> <http://purl.org/dc/terms/title> "Unlocking the \"Iron Cage\" of Corporate Conformity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s4> <https://schema.org/url> "https://www.gsb.stanford.edu/insights/unlocking-iron-cage-corporate-conformity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s5> <http://purl.org/dc/terms/publisher> "American Sociological Review (author copy via ResearchGate)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s5> <http://purl.org/dc/terms/title> "Structural Inertia and Organizational Change (American Sociological Review 49(2), 1984; doi:10.2307/2095567)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s5> <https://schema.org/url> "https://researchgate.net/profile/Michael-Hannan/publication/228314327_Structural_Inertia_And_Organizational_Change/links/0046352cee5622b2a6000000/Structural-Inertia-And-Organizational-Change.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s6> <http://purl.org/dc/terms/publisher> "SAGE Publications (record via Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s6> <http://purl.org/dc/terms/title> "Do Theories of Organizations Progress? (Organizational Research Methods 13(4), 2010: 690-709; doi:10.1177/1094428110376995)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/organization-theory/s6> <https://schema.org/url> "https://scilit.com/publications/9ca24820d70ea83e5a84d2ee81f64281" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://purl.org/dc/terms/publisher> "Organization Science (RePEc/IDEAS record)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://purl.org/dc/terms/title> "Exploration and Exploitation in Organizational Learning" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-ambidexterity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

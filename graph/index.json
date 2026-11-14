@@ -2489,6 +2489,29 @@
     ]
   },
   {
+    "id": "kt:organization-theory",
+    "title": "Organization Theory: Contingency, Institutional and Ecological Explanations of Structure",
+    "aliases": [
+      "organization theory",
+      "organizational theory",
+      "organisation theory",
+      "theory of organizations",
+      "macro organizational theory"
+    ],
+    "type": "Field",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/organization-theory.md",
+    "created": "2026-11-14",
+    "source_urls": [
+      "https://britannica.com/topic/organization-theory",
+      "https://openstax.org/books/principles-management/pages/4-3-organizational-designs-and-structures",
+      "https://www.gsb.stanford.edu/faculty-research/books/external-control-organizations-resource-dependence-perspective",
+      "https://www.gsb.stanford.edu/insights/unlocking-iron-cage-corporate-conformity",
+      "https://researchgate.net/profile/Michael-Hannan/publication/228314327_Structural_Inertia_And_Organizational_Change/links/0046352cee5622b2a6000000/Structural-Inertia-And-Organizational-Change.pdf",
+      "https://scilit.com/publications/9ca24820d70ea83e5a84d2ee81f64281"
+    ]
+  },
+  {
     "id": "kt:organizational-ambidexterity",
     "title": "Organizational Ambidexterity",
     "aliases": [
