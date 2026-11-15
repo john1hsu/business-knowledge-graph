@@ -3862,6 +3862,30 @@
     ]
   },
   {
+    "id": "kt:statement-of-cash-flows",
+    "title": "Statement of Cash Flows: Sources and Uses of Cash by Activity",
+    "aliases": [
+      "statement of cash flows",
+      "cash flow statement",
+      "consolidated statement of cash flows",
+      "ASC 230",
+      "IAS 7",
+      "SFAS 95"
+    ],
+    "type": "Concept",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/statement-of-cash-flows.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/principles-financial-accounting/pages/16-2-differentiate-between-operating-investing-and-financing-activities",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ias-7-statement-of-cash-flows/",
+      "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+      "https://www.cpajournal.com/2019/08/29/the-statement-of-cash-flows-turns-30/",
+      "https://www.cuhk.edu.hk/acy2/workshop/June2009Wasley/1996TAR).pdf",
+      "https://www.apple.com/newsroom/pdfs/fy2026-q1/FY26_Q1_Consolidated_Financial_Statements.pdf"
+    ]
+  },
+  {
     "id": "kt:strategic-management",
     "title": "Strategic Management: Setting Direction and Sustaining Competitive Advantage",
     "aliases": [

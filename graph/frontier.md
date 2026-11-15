@@ -5,13 +5,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:apple-inc` | `kt:statement-of-cash-flows`, `kt:apple-iphone-launch`, `kt:hewlett-packard`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
-| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:hewlett-packard`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
+| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:operations-management`, `kt:business-ecosystem` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
@@ -70,6 +70,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hawthorne-studies` | `kt:management-theory`, `kt:organizational-behavior` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
+| `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
 | `kt:informativeness-principle` | `kt:contract-theory`, `kt:moral-hazard` |
@@ -138,6 +139,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a3-report` | `kt:structured-problem-solving` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
 | `kt:accounting-fraud` | `kt:enron-scandal` |
+| `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
@@ -329,7 +331,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ifrs-18` | `kt:ifrs` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
-| `kt:income-statement` | `kt:ebitda` |
 | `kt:independent-director` | `kt:board-of-directors` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect` |
@@ -537,7 +538,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:special-purpose-entity` | `kt:enron-scandal` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:stage-gate-process` | `kt:innovation-management` |
-| `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
+| `kt:statement-of-changes-in-financial-position` | `kt:statement-of-cash-flows` |
 | `kt:statistical-process-control` | `kt:total-quality-management` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
 | `kt:steve-blank` | `kt:customer-development` |
