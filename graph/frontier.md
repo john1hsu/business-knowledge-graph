@@ -15,7 +15,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
-| `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model`, `kt:customer-relationship-management` |
 | `kt:corporate-decline` | `kt:blockbuster-decline`, `kt:general-motors`, `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
@@ -23,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:government-accountability-office` | `kt:bid-protest`, `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
+| `kt:marketing-metrics` | `kt:churn-rate`, `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
@@ -86,7 +86,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
-| `kt:marketing-metrics` | `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
@@ -542,6 +541,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
 | `kt:systematic-management` | `kt:scientific-management` |
+| `kt:t-mobile-us` | `kt:churn-rate` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |

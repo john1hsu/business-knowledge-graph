@@ -960,6 +960,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/kotters-eight-step-model> .
 <https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/lewins-three-step-model> .
 <https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kurt-lewin> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2000/01/rdf-schema#label> "Churn Rate: Measuring Customer Attrition and Retention" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#altLabel> "attrition rate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#altLabel> "churn" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#altLabel> "customer attrition rate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#altLabel> "customer churn" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#altLabel> "customer defection rate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#altLabel> "defection rate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/customer-relationship-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#definition> "The share of a firm's customers who stop doing business with it during a given period, usually disconnections or cancellations divided by the average customer base; it is the complement of the retention rate and a central input to customer lifetime value." .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#prefLabel> "Churn Rate: Measuring Customer Attrition and Retention" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/saas-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/subscription-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/t-mobile-us> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton Christensen" .
@@ -5424,6 +5449,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <https://schema.org/url> "https://courses.lumenlearning.com/suny-orgbehavior/chapter/14-3-organizational-change/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s1> <http://purl.org/dc/terms/publisher> "Customer Needs and Solutions 5(1-2), Springer (author version hosted by Columbia Business School)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s1> <http://purl.org/dc/terms/title> "In Pursuit of Enhanced Customer Retention Management: Review, Key Issues, and Future Directions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s1> <https://schema.org/url> "https://drupalgsb-test.paas.cc.columbia.edu/sites/default/files-efs/pubfiles/25780/ascarza_et_al_choice_symposium.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review (summary hosted by Bain & Company)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s2> <http://purl.org/dc/terms/title> "Zero Defections: Quality Comes to Services" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s2> <https://schema.org/url> "https://www.bain.com/insights/zero-defections-quality-comes-to-services-harvard-business-review-hbr/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s3> <http://purl.org/dc/terms/title> "T-Mobile US, Inc. Form 10-K for fiscal year 2017" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s3> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0001283699/000128369918000011/tmus12312017form10-k.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s4> <http://purl.org/dc/terms/publisher> "Journal of Interactive Marketing 21(1) (author copy hosted by Wharton)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s4> <http://purl.org/dc/terms/title> "How to Project Customer Retention" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s4> <https://schema.org/url> "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s5> <http://purl.org/dc/terms/publisher> "Columbia Business School, Chazen Global Insights" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s5> <http://purl.org/dc/terms/title> "Some Customers Are Best Left Alone" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/churn-rate/s5> <https://schema.org/url> "https://business.columbia.edu/insights/chazen-global-insights/some-customers-are-best-left-alone" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/title> "Clayton M. Christensen, Acclaimed Author and Teacher, Dies at 67" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

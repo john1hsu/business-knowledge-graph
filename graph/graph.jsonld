@@ -12761,6 +12761,87 @@
       ]
     },
     {
+      "@id": "kt:churn-rate",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Churn Rate: Measuring Customer Attrition and Retention",
+      "skos:definition": "The share of a firm's customers who stop doing business with it during a given period, usually disconnections or cancellations divided by the average customer base; it is the complement of the retention rate and a central input to customer lifetime value.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "In Pursuit of Enhanced Customer Retention Management: Review, Key Issues, and Future Directions",
+          "dcterms:publisher": "Customer Needs and Solutions 5(1-2), Springer (author version hosted by Columbia Business School)",
+          "schema:url": "https://drupalgsb-test.paas.cc.columbia.edu/sites/default/files-efs/pubfiles/25780/ascarza_et_al_choice_symposium.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Zero Defections: Quality Comes to Services",
+          "dcterms:publisher": "Harvard Business Review (summary hosted by Bain & Company)",
+          "schema:url": "https://www.bain.com/insights/zero-defections-quality-comes-to-services-harvard-business-review-hbr/",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "T-Mobile US, Inc. Form 10-K for fiscal year 2017",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/0001283699/000128369918000011/tmus12312017form10-k.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "How to Project Customer Retention",
+          "dcterms:publisher": "Journal of Interactive Marketing 21(1) (author copy hosted by Wharton)",
+          "schema:url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Some Customers Are Best Left Alone",
+          "dcterms:publisher": "Columbia Business School, Chazen Global Insights",
+          "schema:url": "https://business.columbia.edu/insights/chazen-global-insights/some-customers-are-best-left-alone",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/marketing/churn-rate.md",
+      "skos:altLabel": [
+        "churn",
+        "customer churn",
+        "customer attrition rate",
+        "attrition rate",
+        "defection rate",
+        "customer defection rate"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing-metrics"
+        },
+        {
+          "@id": "kt:customer-relationship-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:subscription-business-model"
+        },
+        {
+          "@id": "kt:saas-business-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:switching-costs"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:t-mobile-us"
+        }
+      ]
+    },
+    {
       "@id": "kt:customer-lifetime-value",
       "@type": "kto:Metric",
       "skos:prefLabel": "Customer Lifetime Value",

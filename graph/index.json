@@ -802,6 +802,29 @@
     ]
   },
   {
+    "id": "kt:churn-rate",
+    "title": "Churn Rate: Measuring Customer Attrition and Retention",
+    "aliases": [
+      "churn",
+      "customer churn",
+      "customer attrition rate",
+      "attrition rate",
+      "defection rate",
+      "customer defection rate"
+    ],
+    "type": "Metric",
+    "domain": "marketing",
+    "file": "articles/marketing/churn-rate.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://drupalgsb-test.paas.cc.columbia.edu/sites/default/files-efs/pubfiles/25780/ascarza_et_al_choice_symposium.pdf",
+      "https://www.bain.com/insights/zero-defections-quality-comes-to-services-harvard-business-review-hbr/",
+      "https://www.sec.gov/Archives/edgar/data/0001283699/000128369918000011/tmus12312017form10-k.htm",
+      "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf",
+      "https://business.columbia.edu/insights/chazen-global-insights/some-customers-are-best-left-alone"
+    ]
+  },
+  {
     "id": "kt:clayton-christensen",
     "title": "Clayton Christensen",
     "aliases": [
