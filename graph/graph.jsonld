@@ -7372,6 +7372,9 @@
         },
         {
           "@id": "kt:revolutionary-far-overhaul"
+        },
+        {
+          "@id": "kt:bid-protest"
         }
       ],
       "kto:regulatedBy": [
@@ -7388,6 +7391,108 @@
         },
         {
           "@id": "kt:highest-technically-rated-fair-and-reasonable-price"
+        }
+      ]
+    },
+    {
+      "@id": "kt:bid-protest",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Bid Protest: Challenging Federal Contract Awards at GAO",
+      "skos:definition": "A written objection by an actual or prospective offeror to a US federal solicitation, award or related procurement action, filed with the buying agency, the Government Accountability Office or the Court of Federal Claims, that can pause performance and lead to re-evaluation or a new award.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Subpart 33.1 - Protests (FAC 2026-01)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://www.acquisition.gov/far/subpart-33.1",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "GAO Bid Protest Annual Report to Congress for Fiscal Year 2025 (GAO-26-900695)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/gao-26-900695",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Government Contract Bid Protests: Analysis of Legal Processes and Recent Developments (R45080)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/reports/R45080.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Assessing Bid Protests of U.S. Department of Defense Procurements: Identifying Issues, Trends, and Drivers (RR-2356)",
+          "dcterms:publisher": "RAND Corporation (hosted by Professional Services Council)",
+          "schema:url": "https://www.pscouncil.org/Downloads/RAND_RR2356.pdf",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Cost-Benefit Analysis of Bid Protests: A Representative Bidder Model",
+          "dcterms:publisher": "Defence and Peace Economics 31(5), 502-516 (via EconPapers)",
+          "schema:url": "https://econpapers.repec.org/RePEc:taf:defpea:v:31:y:2020:i:5:p:502-516",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Choose Your Battles Wisely: The Consequences of Protesting Government Procurement Contracts",
+          "dcterms:publisher": "American Economic Association 2020 Annual Meeting (Pennsylvania State University authors)",
+          "schema:url": "https://aeaweb.org/conference/2020/preliminary/paper/AhGRDsyA",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "GAO Sustains Boeing Bid Protest, Agency Recommends Air Force Reopen Bid Process",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/press-release/gao-sustains-boeing-bid-protest-agency-recommends-air-force-reopen-bid-process",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/bid-protest.md",
+      "skos:altLabel": [
+        "GAO bid protest",
+        "federal bid protest",
+        "procurement protest",
+        "government contract protest"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:best-value-tradeoff"
+        },
+        {
+          "@id": "kt:indefinite-delivery-indefinite-quantity"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        },
+        {
+          "@id": "kt:competition-in-contracting-act"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:government-accountability-office"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kc-x-tanker-competition"
         }
       ]
     },

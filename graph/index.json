@@ -441,6 +441,29 @@
     ]
   },
   {
+    "id": "kt:bid-protest",
+    "title": "Bid Protest: Challenging Federal Contract Awards at GAO",
+    "aliases": [
+      "GAO bid protest",
+      "federal bid protest",
+      "procurement protest",
+      "government contract protest"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/bid-protest.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://www.acquisition.gov/far/subpart-33.1",
+      "https://www.gao.gov/products/gao-26-900695",
+      "https://www.everycrsreport.com/reports/R45080.html",
+      "https://www.pscouncil.org/Downloads/RAND_RR2356.pdf",
+      "https://econpapers.repec.org/RePEc:taf:defpea:v:31:y:2020:i:5:p:502-516",
+      "https://aeaweb.org/conference/2020/preliminary/paper/AhGRDsyA",
+      "https://www.gao.gov/press-release/gao-sustains-boeing-bid-protest-agency-recommends-air-force-reopen-bid-process"
+    ]
+  },
+  {
     "id": "kt:bill-of-materials",
     "title": "Bill of Materials",
     "aliases": [

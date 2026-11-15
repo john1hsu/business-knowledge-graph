@@ -9,7 +9,7 @@ summary: >-
   offeror other than the lowest-priced or highest-rated one, weighing price against stated non-price
   factors and documenting why any extra benefit is worth the extra cost.
 broader: [kt:public-procurement, kt:federal-acquisition-regulation]
-related: [kt:indefinite-delivery-indefinite-quantity, kt:contracting-officer, kt:revolutionary-far-overhaul]
+related: [kt:indefinite-delivery-indefinite-quantity, kt:contracting-officer, kt:revolutionary-far-overhaul, kt:bid-protest]
 relations:
   - {predicate: regulatedBy, object: kt:federal-acquisition-regulation}
   - {predicate: alternativeTo, object: kt:lowest-price-technically-acceptable}

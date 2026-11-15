@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:customer-satisfaction`, `kt:enterprise-resource-planning` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
+| `kt:government-accountability-office` | `kt:bid-protest`, `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
@@ -66,7 +67,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol` |
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
-| `kt:government-accountability-office` | `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
@@ -188,6 +188,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:closed-innovation` | `kt:open-innovation` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competing-values-framework` | `kt:organizational-culture` |
+| `kt:competition-in-contracting-act` | `kt:bid-protest` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-strategy` | `kt:business-model` |
 | `kt:compstat` | `kt:public-value` |
@@ -347,6 +348,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
 | `kt:kaizen` | `kt:five-whys` |
 | `kt:kanban-method` | `kt:kanban` |
+| `kt:kc-x-tanker-competition` | `kt:bid-protest` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |
 | `kt:kingdomware-technologies-v-united-states` | `kt:small-business-set-asides` |
