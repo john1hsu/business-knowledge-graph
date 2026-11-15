@@ -29,6 +29,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2004/02/skos/core#definition> "A basis of accounting that records revenues, expenses and other effects of transactions in the periods in which they occur, rather than when the related cash is received or paid." .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Accrual Accounting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/revenue-recognition-asc-606> .
@@ -1443,6 +1444,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2000/01/rdf-schema#label> "Double-Entry Bookkeeping: Debits, Credits and the Accounting Equation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#altLabel> "double entry system" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#altLabel> "double-entry accounting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#altLabel> "double-entry bookkeeping" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#altLabel> "partita doppia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#definition> "The method of recording every business transaction as at least one debit and one equal credit across integrated accounts, so that the accounting equation (assets = liabilities + equity) stays in balance and profit can be derived as the change in owners' equity." .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#prefLabel> "Double-Entry Bookkeeping: Debits, Credits and the Accounting Equation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fasb-conceptual-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/luca-pacioli> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/single-entry-bookkeeping> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/accounting-equation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/trial-balance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "DuPont Analysis: Decomposing Return on Equity" .
@@ -5768,6 +5795,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dividend-policy/s5> <https://schema.org/url> "https://www.spglobal.com/spdji/en/corporate-news/article/sp-500-q4-2024-buybacks-increase-74-and-2024-expenditure-sets-new-record-by-increasing-18-5" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s1> <http://purl.org/dc/terms/title> "Principles of Financial Accounting, Section 3.5: Use Journal Entries to Record Transactions and Post to T-Accounts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s1> <https://schema.org/url> "https://openstax.org/books/principles-financial-accounting/pages/3-5-use-journal-entries-to-record-transactions-and-post-to-t-accounts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s2> <http://purl.org/dc/terms/title> "Principles of Financial Accounting, Section 3.6: Prepare a Trial Balance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s2> <https://schema.org/url> "https://openstax.org/books/principles-financial-accounting/pages/3-6-prepare-a-trial-balance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s3> <http://purl.org/dc/terms/publisher> "Economic History Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s3> <http://purl.org/dc/terms/title> "The emergence of double entry bookkeeping" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s3> <https://schema.org/url> "https://www.abdn.ac.uk/media/site/business/content-images/Sangster---RI---Emergence.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s4> <http://purl.org/dc/terms/publisher> "Accounting Historians Journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s4> <http://purl.org/dc/terms/title> "The Market for Luca Pacioli's Summa Arithmetica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s4> <https://schema.org/url> "https://core.ac.uk/download/288025276.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s5> <http://purl.org/dc/terms/publisher> "London School of Economics, Department of Accounting working paper" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s5> <http://purl.org/dc/terms/title> "Contesting the Indigenous Development of 'Chinese Double-entry Bookkeeping' and its Significance in China's Economic Institutions and Business Organization before c.1850" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s5> <https://schema.org/url> "https://www.lse.ac.uk/asset-library/information/wp160.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <http://purl.org/dc/terms/publisher> "Australasian Accounting, Business and Finance Journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <http://purl.org/dc/terms/title> "Historical Note: Did double-entry bookkeeping contribute to economic development, specifically the introduction of capitalism?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <https://schema.org/url> "https://www.uowoajournals.org/aabfj/article/id/1454/print/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 6.6: Profitability Ratios and the DuPont Method" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

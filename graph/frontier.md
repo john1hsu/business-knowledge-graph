@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:operations-management` | `kt:inventory-management`, `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:organizational-behavior` | `kt:leadership`, `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
@@ -134,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
 | `kt:a-resource-based-view-of-the-firm-1984` | `kt:resource-based-view` |
 | `kt:a3-report` | `kt:structured-problem-solving` |
+| `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
 | `kt:accounting-fraud` | `kt:enron-scandal` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
@@ -370,6 +371,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:loyalty-program` | `kt:customer-relationship-management` |
+| `kt:luca-pacioli` | `kt:double-entry-bookkeeping` |
 | `kt:luther-gulick` | `kt:span-of-control` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
@@ -501,6 +503,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:shareholder-activism` | `kt:blockbuster-decline` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:signaling-theory` | `kt:information-asymmetry` |
+| `kt:single-entry-bookkeeping` | `kt:double-entry-bookkeeping` |
 | `kt:small-business-act` | `kt:small-business-set-asides` |
 | `kt:small-business-administration` | `kt:small-business-set-asides` |
 | `kt:social-identity-theory` | `kt:groupthink` |
@@ -550,6 +553,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
 | `kt:transformational-leadership` | `kt:leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
+| `kt:trial-balance` | `kt:double-entry-bookkeeping` |
 | `kt:triple-bottom-line` | `kt:corporate-social-responsibility` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |

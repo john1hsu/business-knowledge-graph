@@ -1208,6 +1208,28 @@
     ]
   },
   {
+    "id": "kt:double-entry-bookkeeping",
+    "title": "Double-Entry Bookkeeping: Debits, Credits and the Accounting Equation",
+    "aliases": [
+      "double-entry bookkeeping",
+      "double-entry accounting",
+      "double entry system",
+      "partita doppia"
+    ],
+    "type": "Practice",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/double-entry-bookkeeping.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/principles-financial-accounting/pages/3-5-use-journal-entries-to-record-transactions-and-post-to-t-accounts",
+      "https://openstax.org/books/principles-financial-accounting/pages/3-6-prepare-a-trial-balance",
+      "https://www.abdn.ac.uk/media/site/business/content-images/Sangster---RI---Emergence.pdf",
+      "https://core.ac.uk/download/288025276.pdf",
+      "https://www.lse.ac.uk/asset-library/information/wp160.pdf",
+      "https://www.uowoajournals.org/aabfj/article/id/1454/print/"
+    ]
+  },
+  {
     "id": "kt:dupont-analysis",
     "title": "DuPont Analysis: Decomposing Return on Equity",
     "aliases": [

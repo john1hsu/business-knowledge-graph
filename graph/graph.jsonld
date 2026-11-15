@@ -77,6 +77,9 @@
         },
         {
           "@id": "kt:working-capital"
+        },
+        {
+          "@id": "kt:double-entry-bookkeeping"
         }
       ],
       "kto:contrastsWith": [
@@ -273,6 +276,101 @@
       "kto:exemplifiedBy": [
         {
           "@id": "kt:salesforce"
+        }
+      ]
+    },
+    {
+      "@id": "kt:double-entry-bookkeeping",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Double-Entry Bookkeeping: Debits, Credits and the Accounting Equation",
+      "skos:definition": "The method of recording every business transaction as at least one debit and one equal credit across integrated accounts, so that the accounting equation (assets = liabilities + equity) stays in balance and profit can be derived as the change in owners' equity.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Financial Accounting, Section 3.5: Use Journal Entries to Record Transactions and Post to T-Accounts",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-financial-accounting/pages/3-5-use-journal-entries-to-record-transactions-and-post-to-t-accounts",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Financial Accounting, Section 3.6: Prepare a Trial Balance",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-financial-accounting/pages/3-6-prepare-a-trial-balance",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The emergence of double entry bookkeeping",
+          "dcterms:publisher": "Economic History Review",
+          "schema:url": "https://www.abdn.ac.uk/media/site/business/content-images/Sangster---RI---Emergence.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Market for Luca Pacioli's Summa Arithmetica",
+          "dcterms:publisher": "Accounting Historians Journal",
+          "schema:url": "https://core.ac.uk/download/288025276.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Contesting the Indigenous Development of 'Chinese Double-entry Bookkeeping' and its Significance in China's Economic Institutions and Business Organization before c.1850",
+          "dcterms:publisher": "London School of Economics, Department of Accounting working paper",
+          "schema:url": "https://www.lse.ac.uk/asset-library/information/wp160.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Historical Note: Did double-entry bookkeeping contribute to economic development, specifically the introduction of capitalism?",
+          "dcterms:publisher": "Australasian Accounting, Business and Finance Journal",
+          "schema:url": "https://www.uowoajournals.org/aabfj/article/id/1454/print/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/double-entry-bookkeeping.md",
+      "skos:altLabel": [
+        "double-entry bookkeeping",
+        "double-entry accounting",
+        "double entry system",
+        "partita doppia"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:fasb-conceptual-framework"
+        },
+        {
+          "@id": "kt:luca-pacioli"
+        },
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:accounting-equation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:trial-balance"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:single-entry-bookkeeping"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:accrual-accounting"
         }
       ]
     },

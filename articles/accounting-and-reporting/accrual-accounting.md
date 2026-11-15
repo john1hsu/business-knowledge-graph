@@ -8,7 +8,7 @@ summary: >-
   A basis of accounting that records revenues, expenses and other effects of transactions in the
   periods in which they occur, rather than when the related cash is received or paid.
 broader: [kt:financial-accounting]
-related: [kt:revenue-recognition-asc-606, kt:gaap, kt:free-cash-flow, kt:working-capital]
+related: [kt:revenue-recognition-asc-606, kt:gaap, kt:free-cash-flow, kt:working-capital, kt:double-entry-bookkeeping]
 relations:
   - {predicate: contrastsWith, object: kt:cash-basis-accounting}
   - {predicate: dependsOn, object: kt:matching-principle}
