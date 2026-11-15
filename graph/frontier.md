@@ -6,9 +6,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
+| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:hewlett-packard`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:operations-management`, `kt:business-ecosystem` |
-| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:government-accountability-office` | `kt:bid-protest`, `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
-| `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
@@ -47,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:cisco-systems` | `kt:bill-of-materials`, `kt:inventory-management` |
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
+| `kt:computer-industry` | `kt:hewlett-packard`, `kt:hewlett-packard` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
@@ -200,6 +200,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
 | `kt:corporate-moral-agency` | `kt:business-ethics` |
 | `kt:corporate-scandal` | `kt:enron-scandal` |
+| `kt:corporate-spin-off` | `kt:hewlett-packard` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-accounting` | `kt:activity-based-costing` |
@@ -219,6 +220,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
+| `kt:david-packard` | `kt:hewlett-packard` |
 | `kt:debt-covenant` | `kt:ebitda` |
 | `kt:debt-to-equity-ratio` | `kt:capital-structure` |
 | `kt:decision-rights` | `kt:span-of-control` |
@@ -379,6 +381,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:luther-gulick` | `kt:span-of-control` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
+| `kt:management-by-walking-around` | `kt:hewlett-packard` |
 | `kt:management-consulting` | `kt:structured-problem-solving` |
 | `kt:managerial-accounting` | `kt:activity-based-costing` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
@@ -582,6 +585,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:whistleblowing` | `kt:business-ethics` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-c-durant` | `kt:general-motors` |
+| `kt:william-hewlett` | `kt:hewlett-packard` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |
 | `kt:yves-pigneur` | `kt:business-model-canvas` |

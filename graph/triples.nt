@@ -2252,6 +2252,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> .
 <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/unity-of-command> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2000/01/rdf-schema#label> "Hewlett-Packard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#altLabel> "HP Co." .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#altLabel> "HP" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#altLabel> "Hewlett-Packard Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#definition> "The Palo Alto electronics company founded in 1939 by Stanford graduates Bill Hewlett and Dave Packard, known in management history for the \"HP Way\" culture of management by objectives and management by walking around, its contested 2002 merger with Compaq and its 2015 split into HP Inc. and Hewlett Packard Enterprise." .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hewlett-Packard" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bullwhip-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/david-packard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/william-hewlett> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-spin-off> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-walking-around> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> <http://www.w3.org/2000/01/rdf-schema#label> "High-Performance Teams" .
@@ -6788,6 +6816,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s6> <https://schema.org/url> "https://store.hbr.org/product/manager-s-job-folklore-and-fact-hbr-classic/90210" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s1> <http://purl.org/dc/terms/title> "Hewlett-Packard Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s1> <https://schema.org/url> "https://www.britannica.com/money/Hewlett-Packard-Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s2> <http://purl.org/dc/terms/publisher> "Computer History Museum, Revolution exhibition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s2> <http://purl.org/dc/terms/title> "The HP Way" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s2> <https://schema.org/url> "https://www.computerhistory.org/revolution/story/337" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s3> <http://purl.org/dc/terms/publisher> "Hewlett-Packard Company Archives" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s3> <http://purl.org/dc/terms/title> "Management by walking around" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s3> <https://schema.org/url> "https://www.hewlettpackardhistory.com/item/management-by-walking-around/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s4> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s4> <http://purl.org/dc/terms/title> "New HP Way (case SM72)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s4> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/case-studies/new-hp-way" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s5> <http://purl.org/dc/terms/publisher> "Delaware Court of Chancery" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s5> <http://purl.org/dc/terms/title> "Walter Hewlett v. Hewlett-Packard Co., C.A. No. 19513 (opinion of April 30, 2002)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s5> <https://schema.org/url> "https://courts.delaware.gov/OPINIONS/download.ASPx?ID=13060" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s6> <http://purl.org/dc/terms/title> "Hewlett Packard Enterprise Co., Form 8-K Exhibit 99.1 (information statement for the separation from Hewlett-Packard Company), October 2015" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hewlett-packard/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0001645590/000119312515368376/d98001dex991.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review 71(2), March-April 1993 (copy hosted by Stanford HCI course readings)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://purl.org/dc/terms/title> "The Discipline of Teams" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/high-performance-teams/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
