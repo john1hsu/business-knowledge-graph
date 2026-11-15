@@ -1569,6 +1569,88 @@
       ]
     },
     {
+      "@id": "kt:business-ethics",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Business Ethics: Moral Principles Applied to Commercial Conduct",
+      "skos:definition": "The study and practice of what is right and wrong in commerce: the ethical dimensions of producing, marketing, selling and exchanging goods and services, and of the firms and people that do so, approached both normatively (what ought to be done) and descriptively (why people and organizations actually behave ethically or not).",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Business Ethics",
+          "dcterms:publisher": "Stanford Encyclopedia of Philosophy (Jeffrey Moriarty; substantive revision 2021)",
+          "schema:url": "https://plato.stanford.edu/ENTRIES/ethics-business/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Introduction to Business, Section 2.1: Understanding Business Ethics",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/introduction-business/pages/2-1-understanding-business-ethics",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Bad Apples, Bad Cases, and Bad Barrels: Meta-Analytic Evidence About Sources of Unethical Decisions at Work",
+          "dcterms:publisher": "Journal of Applied Psychology (Penn State research portal record)",
+          "schema:url": "https://pure.psu.edu/en/publications/bad-apples-bad-cases-and-bad-barrels-meta-analytic-evidence-about/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Global Business Ethics Survey U.S. Trends Report (press release, January 2025)",
+          "dcterms:publisher": "Ethics & Compliance Initiative",
+          "schema:url": "https://www.ethics.org/41013-2",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/business-ethics.md",
+      "skos:altLabel": [
+        "ethics in business",
+        "corporate ethics",
+        "commercial ethics",
+        "organizational ethics"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:applied-ethics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-social-responsibility"
+        },
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:enron-scandal"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:corporate-moral-agency"
+        },
+        {
+          "@id": "kt:whistleblowing"
+        },
+        {
+          "@id": "kt:behavioral-ethics"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:utilitarianism"
+        },
+        {
+          "@id": "kt:deontology"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-roundtable-statement-on-corporate-purpose",
       "@type": "kto:Case",
       "skos:prefLabel": "Business Roundtable Statement on the Purpose of a Corporation",

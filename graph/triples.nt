@@ -706,6 +706,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/walmart> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/predators-and-prey-a-new-ecology-of-competition-1993> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2000/01/rdf-schema#label> "Business Ethics: Moral Principles Applied to Commercial Conduct" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "commercial ethics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "corporate ethics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "ethics in business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#altLabel> "organizational ethics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/applied-ethics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#definition> "The study and practice of what is right and wrong in commerce: the ethical dimensions of producing, marketing, selling and exchanging goods and services, and of the firms and people that do so, approached both normatively (what ought to be done) and descriptively (why people and organizations actually behave ethically or not)." .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business Ethics: Moral Principles Applied to Commercial Conduct" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-ethics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-moral-agency> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/deontology> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/utilitarianism> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <http://www.w3.org/2000/01/rdf-schema#label> "Business Format Franchising" .
@@ -5029,6 +5054,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-ecosystem/s5> <https://schema.org/url> "https://tuck.dartmouth.edu/news/articles/upstream-downstream-in-an-innovation-ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s1> <http://purl.org/dc/terms/publisher> "Stanford Encyclopedia of Philosophy (Jeffrey Moriarty; substantive revision 2021)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s1> <http://purl.org/dc/terms/title> "Business Ethics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s1> <https://schema.org/url> "https://plato.stanford.edu/ENTRIES/ethics-business/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s2> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s2> <http://purl.org/dc/terms/title> "Introduction to Business, Section 2.1: Understanding Business Ethics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s2> <https://schema.org/url> "https://openstax.org/books/introduction-business/pages/2-1-understanding-business-ethics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s3> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology (Penn State research portal record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s3> <http://purl.org/dc/terms/title> "Bad Apples, Bad Cases, and Bad Barrels: Meta-Analytic Evidence About Sources of Unethical Decisions at Work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s3> <https://schema.org/url> "https://pure.psu.edu/en/publications/bad-apples-bad-cases-and-bad-barrels-meta-analytic-evidence-about/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s4> <http://purl.org/dc/terms/publisher> "Ethics & Compliance Initiative" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s4> <http://purl.org/dc/terms/title> "Global Business Ethics Survey U.S. Trends Report (press release, January 2025)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-ethics/s4> <https://schema.org/url> "https://www.ethics.org/41013-2" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://purl.org/dc/terms/title> "Franchise Rule Compliance Guide" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

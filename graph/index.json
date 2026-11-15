@@ -596,6 +596,26 @@
     ]
   },
   {
+    "id": "kt:business-ethics",
+    "title": "Business Ethics: Moral Principles Applied to Commercial Conduct",
+    "aliases": [
+      "ethics in business",
+      "corporate ethics",
+      "commercial ethics",
+      "organizational ethics"
+    ],
+    "type": "Field",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/business-ethics.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://plato.stanford.edu/ENTRIES/ethics-business/",
+      "https://openstax.org/books/introduction-business/pages/2-1-understanding-business-ethics",
+      "https://pure.psu.edu/en/publications/bad-apples-bad-cases-and-bad-barrels-meta-analytic-evidence-about/",
+      "https://www.ethics.org/41013-2"
+    ]
+  },
+  {
     "id": "kt:business-format-franchising",
     "title": "Business Format Franchising",
     "aliases": [

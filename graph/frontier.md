@@ -15,7 +15,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:asset-pricing`, `kt:efficient-market-hypothesis` |
-| `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model`, `kt:customer-relationship-management` |
@@ -150,6 +149,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:andy-rachleff` | `kt:product-market-fit` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
+| `kt:applied-ethics` | `kt:business-ethics` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:arthur-andersen` | `kt:enron-scandal` |
 | `kt:assembly-line` | `kt:mass-production` |
@@ -158,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barrier-analysis` | `kt:root-cause-analysis` |
 | `kt:bass-diffusion-model` | `kt:technology-adoption-life-cycle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
+| `kt:behavioral-ethics` | `kt:business-ethics` |
 | `kt:ben-thompson` | `kt:aggregation-theory` |
 | `kt:benjamin-tregoe` | `kt:kepner-tregoe-method` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
@@ -196,6 +197,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conservation-of-attractive-profits` | `kt:aggregation-theory` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
+| `kt:corporate-moral-agency` | `kt:business-ethics` |
 | `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround` |
@@ -225,6 +227,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:demand-forecasting` | `kt:inventory-management` |
+| `kt:deontology` | `kt:business-ethics` |
 | `kt:department-of-defense` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dfars-procedures-guidance-and-information` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
@@ -563,6 +566,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:unity-of-command` | `kt:henri-fayol` |
 | `kt:user-innovation` | `kt:open-innovation` |
+| `kt:utilitarianism` | `kt:business-ethics` |
 | `kt:v-a-graicunas` | `kt:span-of-control` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
 | `kt:value-based-pricing` | `kt:pricing-strategy` |
@@ -573,6 +577,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vrio-framework` | `kt:resource-based-view` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
+| `kt:whistleblowing` | `kt:business-ethics` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
