@@ -6087,6 +6087,88 @@
       ]
     },
     {
+      "@id": "kt:asset-pricing",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Asset Pricing: Valuing Risky Payoffs with Stochastic Discount Factors",
+      "skos:definition": "The branch of financial economics that explains why risky assets have the prices and expected returns they do, unifying models such as the CAPM, multifactor models and option pricing around the idea that price equals the expected payoff discounted by a stochastic discount factor.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Prize in Economic Sciences 2013",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences",
+          "schema:url": "https://www.kva.se/en/news/ekonomipriset-2013-2/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Asset Pricing: Revised Edition (John H. Cochrane)",
+          "dcterms:publisher": "Princeton University Press",
+          "schema:url": "https://press.princeton.edu/node/21225",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Equity Premium: A Puzzle",
+          "dcterms:publisher": "Journal of Monetary Economics (copy filed with the Kentucky Public Service Commission)",
+          "schema:url": "https://psc.ky.gov/pscecf/2012-00221/rateintervention@ag.ky.gov/10252012f/Mehra_-_The_Equity_Premium_-_A_Puzzle.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Implications of Security Market Data for Models of Dynamic Economies",
+          "dcterms:publisher": "Federal Reserve Bank of Minneapolis",
+          "schema:url": "https://minneapolisfed.org/research/discussion-papers/implications-of-security-market-data-for-models-of-dynamic-economies",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Martingales and arbitrage in multiperiod securities markets (EconPapers record)",
+          "dcterms:publisher": "Journal of Economic Theory / RePEc EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:eee:jetheo:v:20:y:1979:i:3:p:381-408",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Common Risk Factors in the Returns on Stocks and Bonds (abstract)",
+          "dcterms:publisher": "Casualty Actuarial Society",
+          "schema:url": "https://casact.org/abstract/common-risk-factors-returns-stocks-and-bonds",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/asset-pricing.md",
+      "skos:altLabel": [
+        "asset pricing",
+        "asset pricing theory",
+        "theory of asset pricing",
+        "empirical asset pricing"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-economics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-finance"
+        },
+        {
+          "@id": "kt:behavioral-finance"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:capital-asset-pricing-model"
+        },
+        {
+          "@id": "kt:efficient-market-hypothesis"
+        },
+        {
+          "@id": "kt:fama-french-three-factor-model"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:arbitrage"
+        }
+      ]
+    },
+    {
       "@id": "kt:capital-asset-pricing-model",
       "@type": "kto:Theory",
       "skos:prefLabel": "Capital Asset Pricing Model: Pricing Systematic Risk",

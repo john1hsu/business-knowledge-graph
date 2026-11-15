@@ -13,7 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:business-ecosystem` |
-| `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
+| `kt:behavioral-finance` | `kt:arbitrage`, `kt:asset-pricing`, `kt:efficient-market-hypothesis` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
@@ -39,7 +39,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
-| `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
@@ -57,6 +56,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
+| `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
@@ -261,13 +261,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
 | `kt:failure-mode-and-effects-analysis` | `kt:root-cause-analysis` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
-| `kt:fama-french-three-factor-model` | `kt:capital-asset-pricing-model` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:federal-acquisition-certification-in-contracting` | `kt:contracting-officer` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
+| `kt:financial-economics` | `kt:asset-pricing` |
 | `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:ford-model-a` | `kt:ford-model-t` |

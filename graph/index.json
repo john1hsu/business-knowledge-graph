@@ -248,6 +248,28 @@
     ]
   },
   {
+    "id": "kt:asset-pricing",
+    "title": "Asset Pricing: Valuing Risky Payoffs with Stochastic Discount Factors",
+    "aliases": [
+      "asset pricing",
+      "asset pricing theory",
+      "theory of asset pricing",
+      "empirical asset pricing"
+    ],
+    "type": "Field",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/asset-pricing.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://www.kva.se/en/news/ekonomipriset-2013-2/",
+      "https://press.princeton.edu/node/21225",
+      "https://psc.ky.gov/pscecf/2012-00221/rateintervention@ag.ky.gov/10252012f/Mehra_-_The_Equity_Premium_-_A_Puzzle.pdf",
+      "https://minneapolisfed.org/research/discussion-papers/implications-of-security-market-data-for-models-of-dynamic-economies",
+      "https://econpapers.repec.org/RePEc:eee:jetheo:v:20:y:1979:i:3:p:381-408",
+      "https://casact.org/abstract/common-risk-factors-returns-stocks-and-bonds"
+    ]
+  },
+  {
     "id": "kt:audit-committee",
     "title": "Board Audit Committee",
     "aliases": [
