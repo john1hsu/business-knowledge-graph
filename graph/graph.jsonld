@@ -10851,6 +10851,96 @@
       ]
     },
     {
+      "@id": "kt:lyndall-urwick",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Lyndall Urwick",
+      "skos:definition": "British management consultant, writer and historian (1891-1983) who ran the International Management Institute in Geneva, founded the consultancy Urwick Orr & Partners, co-edited Papers on the Science of Administration (1937) with Luther Gulick and spent six decades trying to fuse Taylor's scientific management with Fayol's administrative principles into a general science of organization.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "URWICK, Lyndall Fownes",
+          "dcterms:publisher": "The Rowntree Business Lectures and the Interwar British Management Movement (University of Exeter and University of Bath, ESRC-funded)",
+          "schema:url": "https://rowntree.exeter.ac.uk/items/show/719",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Rage, rage against the dying of the light: Lyndall Urwick's scientific management (Lee D. Parker and Philip Ritson, Journal of Management History 17(4):379-398, 2011; doi:10.1108/17511341111164409)",
+          "dcterms:publisher": "University of Adelaide repository",
+          "schema:url": "https://hekyll.services.adelaide.edu.au/dspace/handle/2440/71705",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "British management theory and practice: the impact of Fayol (Ian Smith and Trevor Boyns, Management Decision 43(10):1317-1334, 2005; doi:10.1108/00251740510634895)",
+          "dcterms:publisher": "Cardiff University ORCA repository",
+          "schema:url": "https://orca.cardiff.ac.uk/id/eprint/38739/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Management Theory and the Economic Size of Organizations Development (Edward A. Nelson, SP-2605, 1966)",
+          "dcterms:publisher": "Defense Technical Information Center (DTIC), AD0642234",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/AD0642234.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Fayolism as the Necessary Complement of Taylorism (Norman M. Pearson, American Political Science Review 39(1):68-80, 1945; doi:10.2307/1948832)",
+          "dcterms:publisher": "Cambridge University Press",
+          "schema:url": "https://www.cambridge.org/core/journals/american-political-science-review/article/fayolism-as-the-necessary-complement-of-taylorism/2D7E71F8B55703B251059BC49F984E3D",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "British Management Developments from the 1940s (ch. 7 of Lyndall Urwick, Management Pioneer: A Biography, 2010; doi:10.1093/acprof:oso/9780199541966.003.0008)",
+          "dcterms:publisher": "Oxford University Press (Oxford Academic)",
+          "schema:url": "https://academic.oup.com/book/6826/chapter-abstract/151002243?redirectedFrom=fulltext",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/lyndall-urwick.md",
+      "skos:altLabel": [
+        "Lyndall Fownes Urwick",
+        "L. F. Urwick",
+        "Lyndall F. Urwick"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:henri-fayol"
+        },
+        {
+          "@id": "kt:scientific-management"
+        },
+        {
+          "@id": "kt:management-consulting"
+        },
+        {
+          "@id": "kt:luther-gulick"
+        },
+        {
+          "@id": "kt:v-a-graicunas"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:henri-fayol"
+        },
+        {
+          "@id": "kt:frederick-winslow-taylor"
+        },
+        {
+          "@id": "kt:mary-parker-follett"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:span-of-control"
+        }
+      ]
+    },
+    {
       "@id": "kt:management-by-objectives",
       "@type": "kto:Practice",
       "skos:prefLabel": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",

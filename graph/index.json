@@ -2601,6 +2601,27 @@
     ]
   },
   {
+    "id": "kt:lyndall-urwick",
+    "title": "Lyndall Urwick",
+    "aliases": [
+      "Lyndall Fownes Urwick",
+      "L. F. Urwick",
+      "Lyndall F. Urwick"
+    ],
+    "type": "Person",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/lyndall-urwick.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://rowntree.exeter.ac.uk/items/show/719",
+      "https://hekyll.services.adelaide.edu.au/dspace/handle/2440/71705",
+      "https://orca.cardiff.ac.uk/id/eprint/38739/",
+      "https://apps.dtic.mil/sti/pdfs/AD0642234.pdf",
+      "https://www.cambridge.org/core/journals/american-political-science-review/article/fayolism-as-the-necessary-complement-of-taylorism/2D7E71F8B55703B251059BC49F984E3D",
+      "https://academic.oup.com/book/6826/chapter-abstract/151002243?redirectedFrom=fulltext"
+    ]
+  },
+  {
     "id": "kt:malcolm-baldrige-national-quality-award",
     "title": "Malcolm Baldrige National Quality Award",
     "aliases": [

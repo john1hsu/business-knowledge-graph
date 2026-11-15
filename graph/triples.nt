@@ -3086,6 +3086,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/lowest-price-technically-acceptable> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2000/01/rdf-schema#label> "Lyndall Urwick" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#altLabel> "L. F. Urwick" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#altLabel> "Lyndall F. Urwick" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#altLabel> "Lyndall Fownes Urwick" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#definition> "British management consultant, writer and historian (1891-1983) who ran the International Management Institute in Geneva, founded the consultancy Urwick Orr & Partners, co-edited Papers on the Science of Administration (1937) with Luther Gulick and spent six decades trying to fuse Taylor's scientific management with Fayol's administrative principles into a general science of organization." .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lyndall Urwick" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/luther-gulick> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/management-consulting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/v-a-graicunas> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
+<https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/mary-parker-follett> .
 <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Award> .
 <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> <http://www.w3.org/2000/01/rdf-schema#label> "Malcolm Baldrige National Quality Award" .
@@ -7949,6 +7974,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lowest-price-technically-acceptable/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lowest-price-technically-acceptable/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lowest-price-technically-acceptable/s6> <https://schema.org/url> "https://acquisition.gov/far-overhaul/far-part-deviation-guide/far-overhaul-part-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s1> <http://purl.org/dc/terms/publisher> "The Rowntree Business Lectures and the Interwar British Management Movement (University of Exeter and University of Bath, ESRC-funded)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s1> <http://purl.org/dc/terms/title> "URWICK, Lyndall Fownes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s1> <https://schema.org/url> "https://rowntree.exeter.ac.uk/items/show/719" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s2> <http://purl.org/dc/terms/publisher> "University of Adelaide repository" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s2> <http://purl.org/dc/terms/title> "Rage, rage against the dying of the light: Lyndall Urwick's scientific management (Lee D. Parker and Philip Ritson, Journal of Management History 17(4):379-398, 2011; doi:10.1108/17511341111164409)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s2> <https://schema.org/url> "https://hekyll.services.adelaide.edu.au/dspace/handle/2440/71705" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s3> <http://purl.org/dc/terms/publisher> "Cardiff University ORCA repository" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s3> <http://purl.org/dc/terms/title> "British management theory and practice: the impact of Fayol (Ian Smith and Trevor Boyns, Management Decision 43(10):1317-1334, 2005; doi:10.1108/00251740510634895)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s3> <https://schema.org/url> "https://orca.cardiff.ac.uk/id/eprint/38739/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s4> <http://purl.org/dc/terms/publisher> "Defense Technical Information Center (DTIC), AD0642234" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s4> <http://purl.org/dc/terms/title> "Management Theory and the Economic Size of Organizations Development (Edward A. Nelson, SP-2605, 1966)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s4> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0642234.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s5> <http://purl.org/dc/terms/publisher> "Cambridge University Press" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s5> <http://purl.org/dc/terms/title> "Fayolism as the Necessary Complement of Taylorism (Norman M. Pearson, American Political Science Review 39(1):68-80, 1945; doi:10.2307/1948832)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s5> <https://schema.org/url> "https://www.cambridge.org/core/journals/american-political-science-review/article/fayolism-as-the-necessary-complement-of-taylorism/2D7E71F8B55703B251059BC49F984E3D" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s6> <http://purl.org/dc/terms/publisher> "Oxford University Press (Oxford Academic)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s6> <http://purl.org/dc/terms/title> "British Management Developments from the 1940s (ch. 7 of Lyndall Urwick, Management Pioneer: A Biography, 2010; doi:10.1093/acprof:oso/9780199541966.003.0008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/lyndall-urwick/s6> <https://schema.org/url> "https://academic.oup.com/book/6826/chapter-abstract/151002243?redirectedFrom=fulltext" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/malcolm-baldrige-national-quality-award/s1> <http://purl.org/dc/terms/publisher> "The Foundation for the Malcolm Baldrige National Quality Award" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/malcolm-baldrige-national-quality-award/s1> <http://purl.org/dc/terms/title> "History" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/malcolm-baldrige-national-quality-award/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

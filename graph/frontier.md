@@ -20,6 +20,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
+| `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-metrics` | `kt:churn-rate`, `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
@@ -63,7 +64,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
-| `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol` |
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
@@ -80,7 +80,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
-| `kt:lyndall-urwick` | `kt:henri-fayol`, `kt:span-of-control` |
+| `kt:luther-gulick` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:cost-structure` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -124,6 +124,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
+| `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:value-proposition` | `kt:business-model-canvas`, `kt:business-model` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:transaction-cost-economics` |
@@ -384,7 +385,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:loyalty-program` | `kt:customer-relationship-management` |
 | `kt:luca-pacioli` | `kt:double-entry-bookkeeping` |
-| `kt:luther-gulick` | `kt:span-of-control` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-by-walking-around` | `kt:hewlett-packard` |
@@ -398,6 +398,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
 | `kt:marketing` | `kt:services-marketing` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
+| `kt:mary-parker-follett` | `kt:lyndall-urwick` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:max-weber` | `kt:organization-theory` |
@@ -585,7 +586,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:unity-of-command` | `kt:henri-fayol` |
 | `kt:user-innovation` | `kt:open-innovation` |
 | `kt:utilitarianism` | `kt:business-ethics` |
-| `kt:v-a-graicunas` | `kt:span-of-control` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
 | `kt:value-based-pricing` | `kt:pricing-strategy` |
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
