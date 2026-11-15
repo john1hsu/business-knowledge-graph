@@ -8330,6 +8330,116 @@
       ]
     },
     {
+      "@id": "kt:government-accountability-office",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "Government Accountability Office (GAO): The Congressional Watchdog Over Federal Spending",
+      "skos:definition": "The US legislative-branch agency, created in 1921 as the General Accounting Office and renamed in 2004, that audits and evaluates executive-branch programs and spending for Congress, decides bid protests and appropriations-law questions, and is led by the Comptroller General.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "GAO History",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/about/what-gao-does/history",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "GAO: Government Accountability Office and General Accounting Office (RL30349)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/reports/RL30349.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Government Accountability Office (GAO)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/money/Government-Accountability-Office",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "GAO Reports $62.7 Billion in Financial Benefits for Fiscal Year 2025",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/press-release/gao-reports-62.7-billion-financial-benefits-fiscal-year-2025",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "GAO and Inspector General Recommendations to Agencies: An Introduction (IF11807)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/reports/IF11807.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Keeping Tabs on the Executive",
+          "dcterms:publisher": "Presidential Studies Quarterly 53(2), 186-208 (author copy via Carl Levin Center)",
+          "schema:url": "https://m.carllevincenter.org/wp-content/uploads/2024/08/Pres-Stud-Q-2023-Selin-Keeping-tabs-on-the-executive.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Impoundment Control Act",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/legal/appropriations-law/impoundment-control-act",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Bipartisan process for picking GAO chief breaks down",
+          "dcterms:publisher": "Roll Call",
+          "schema:url": "https://rollcall.com/2026/11/13/bipartisan-process-for-picking-gao-chief-breaks-down/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/government-accountability-office.md",
+      "skos:altLabel": [
+        "GAO",
+        "U.S. Government Accountability Office",
+        "General Accounting Office",
+        "congressional watchdog"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-administration"
+        },
+        {
+          "@id": "kt:congressional-oversight"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bid-protest"
+        },
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:government-contract-types"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        },
+        {
+          "@id": "kt:public-value"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:budget-and-accounting-act-of-1921"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:office-of-inspector-general"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:comptroller-general-of-the-united-states"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ]
+    },
+    {
       "@id": "kt:government-contract-types",
       "@type": "kto:Framework",
       "skos:prefLabel": "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements",

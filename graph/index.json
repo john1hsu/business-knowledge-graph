@@ -1877,6 +1877,30 @@
     ]
   },
   {
+    "id": "kt:government-accountability-office",
+    "title": "Government Accountability Office (GAO): The Congressional Watchdog Over Federal Spending",
+    "aliases": [
+      "GAO",
+      "U.S. Government Accountability Office",
+      "General Accounting Office",
+      "congressional watchdog"
+    ],
+    "type": "Organization",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/government-accountability-office.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://www.gao.gov/about/what-gao-does/history",
+      "https://www.everycrsreport.com/reports/RL30349.html",
+      "https://www.britannica.com/money/Government-Accountability-Office",
+      "https://www.gao.gov/press-release/gao-reports-62.7-billion-financial-benefits-fiscal-year-2025",
+      "https://www.everycrsreport.com/reports/IF11807.html",
+      "https://m.carllevincenter.org/wp-content/uploads/2024/08/Pres-Stud-Q-2023-Selin-Keeping-tabs-on-the-executive.pdf",
+      "https://www.gao.gov/legal/appropriations-law/impoundment-control-act",
+      "https://rollcall.com/2026/11/13/bipartisan-process-for-picking-gao-chief-breaks-down/"
+    ]
+  },
+  {
     "id": "kt:government-contract-types",
     "title": "Government Contract Types: Fixed-Price, Cost-Reimbursement and Incentive Arrangements",
     "aliases": [

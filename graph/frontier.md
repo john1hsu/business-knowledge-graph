@@ -14,12 +14,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
+| `kt:public-administration` | `kt:government-accountability-office`, `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift`, `kt:corporate-decline` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
-| `kt:government-accountability-office` | `kt:bid-protest`, `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-metrics` | `kt:churn-rate`, `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
@@ -27,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
-| `kt:public-administration` | `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
 | `kt:real-options` | `kt:discounted-cash-flow`, `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
@@ -173,6 +172,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
+| `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-policy` | `kt:strategic-management` |
@@ -199,7 +199,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-strategy` | `kt:business-model` |
 | `kt:compstat` | `kt:public-value` |
+| `kt:comptroller-general-of-the-united-states` | `kt:government-accountability-office` |
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
+| `kt:congressional-oversight` | `kt:government-accountability-office` |
 | `kt:conservation-of-attractive-profits` | `kt:aggregation-theory` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
@@ -426,6 +428,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
+| `kt:office-of-inspector-general` | `kt:government-accountability-office` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:olaf-helmer` | `kt:delphi-method` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
