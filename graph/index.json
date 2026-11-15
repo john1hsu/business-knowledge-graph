@@ -1055,6 +1055,29 @@
     ]
   },
   {
+    "id": "kt:customer-development",
+    "title": "Customer Development: Steve Blank's Search for a Repeatable Business Model",
+    "aliases": [
+      "customer development",
+      "customer development model",
+      "customer development methodology",
+      "custdev",
+      "customer discovery and validation"
+    ],
+    "type": "Practice",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/customer-development.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://gustavus.edu/academics/departments/business-and-economics/concertFiles/media/2020_Gustie_Cup/Blank_2013.pdf",
+      "https://innovation.ucsd.edu/startup/startup-toolkit/Steve-Blank-CustDev.pdf",
+      "https://steveblank.com/2009/08/31/the-customer-development-manifesto-reasons-for-the-revolution-part-1/",
+      "https://www.nsf.gov/funding/initiatives/i-corps/information-accepted-national-teams",
+      "https://econpapers.repec.org/RePEc:cpr:ceprdp:12421",
+      "https://par.nsf.gov/biblio/10072084-lean-launchpad-customer-discovery-form-qualitative-research"
+    ]
+  },
+  {
     "id": "kt:customer-lifetime-value",
     "title": "Customer Lifetime Value",
     "aliases": [

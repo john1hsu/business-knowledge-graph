@@ -1261,6 +1261,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
 <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/a-model-of-growth-through-creative-destruction-1992> .
 <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/capitalism-socialism-and-democracy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2000/01/rdf-schema#label> "Customer Development: Steve Blank's Search for a Repeatable Business Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#altLabel> "custdev" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#altLabel> "customer development methodology" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#altLabel> "customer development model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#altLabel> "customer development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#altLabel> "customer discovery and validation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/market-research> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#definition> "A four-step startup process devised by Steve Blank (customer discovery, customer validation, customer creation and company building) that runs alongside product development and has founders test their business model hypotheses directly with prospective customers before spending to scale." .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#prefLabel> "Customer Development: Steve Blank's Search for a Repeatable Business Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/steve-blank> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/nsf-innovation-corps> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/customer-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-four-steps-to-the-epiphany> .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> <http://www.w3.org/2000/01/rdf-schema#label> "Customer Lifetime Value" .
@@ -5884,6 +5909,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s5> <https://schema.org/url> "https://www.nber.org/chapters/c13889.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review 91(5), May 2013 (reprint hosted by Gustavus Adolphus College)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s1> <http://purl.org/dc/terms/title> "Why the Lean Start-Up Changes Everything" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s1> <https://schema.org/url> "https://gustavus.edu/academics/departments/business-and-economics/concertFiles/media/2020_Gustie_Cup/Blank_2013.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s2> <http://purl.org/dc/terms/publisher> "Steve Blank, UC Berkeley Haas course materials (hosted by UC San Diego Office of Innovation)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s2> <http://purl.org/dc/terms/title> "The Customer Development Methodology (ENGINEERING 140A lecture slides)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s2> <https://schema.org/url> "https://innovation.ucsd.edu/startup/startup-toolkit/Steve-Blank-CustDev.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s3> <http://purl.org/dc/terms/publisher> "Steve Blank, steveblank.com, 31 August 2009" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s3> <http://purl.org/dc/terms/title> "The Customer Development Manifesto: Reasons for the Revolution (part 1)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s3> <https://schema.org/url> "https://steveblank.com/2009/08/31/the-customer-development-manifesto-reasons-for-the-revolution-part-1/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s4> <http://purl.org/dc/terms/publisher> "U.S. National Science Foundation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s4> <http://purl.org/dc/terms/title> "Information for Accepted National Teams (NSF I-Corps)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s4> <https://schema.org/url> "https://www.nsf.gov/funding/initiatives/i-corps/information-accepted-national-teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s5> <http://purl.org/dc/terms/publisher> "Centre for Economic Policy Research, Discussion Paper 12421, November 2017 (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s5> <http://purl.org/dc/terms/title> "A Scientific Approach to Entrepreneurial Decision-Making: Evidence from a Randomized Control Trial" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s5> <https://schema.org/url> "https://econpapers.repec.org/RePEc:cpr:ceprdp:12421" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s6> <http://purl.org/dc/terms/publisher> "ASEE Annual Conference & Exposition Proceedings (NSF Public Access Repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s6> <http://purl.org/dc/terms/title> "Lean LaunchPad and Customer Discovery as a Form of Qualitative Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/customer-development/s6> <https://schema.org/url> "https://par.nsf.gov/biblio/10072084-lean-launchpad-customer-discovery-form-qualitative-research" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://purl.org/dc/terms/publisher> "Columbia Business School (Gupta, Lehmann and Stuart)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://purl.org/dc/terms/title> "Valuing Customers (author manuscript, Journal of Marketing Research)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/customer-lifetime-value/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

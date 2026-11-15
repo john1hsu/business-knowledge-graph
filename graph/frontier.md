@@ -50,7 +50,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
-| `kt:customer-development` | `kt:lean-startup`, `kt:product-market-fit` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
@@ -393,6 +392,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:mark-h-moore` | `kt:public-value` |
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
+| `kt:market-research` | `kt:customer-development` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
@@ -426,6 +426,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:new-product-development` | `kt:cannibalization` |
 | `kt:new-public-management` | `kt:public-value` |
 | `kt:norman-dalkey` | `kt:delphi-method` |
+| `kt:nsf-innovation-corps` | `kt:customer-development` |
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
@@ -538,6 +539,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statement-of-cash-flows` | `kt:free-cash-flow` |
 | `kt:statistical-process-control` | `kt:total-quality-management` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
+| `kt:steve-blank` | `kt:customer-development` |
 | `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
 | `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
@@ -552,6 +554,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-concept-of-the-marketing-mix-1964` | `kt:marketing-mix` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
+| `kt:the-four-steps-to-the-epiphany` | `kt:customer-development` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-long-tail-wired-2004` | `kt:long-tail` |
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
