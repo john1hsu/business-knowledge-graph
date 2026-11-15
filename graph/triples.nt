@@ -3547,6 +3547,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/wells-fargo-cross-selling-scandal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/economic-theory-of-agency-ross-1973> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2000/01/rdf-schema#label> "Product-Market Fit: When Customer Demand Pulls a Startup Forward" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#altLabel> "PMF" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#altLabel> "product market fit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#altLabel> "product-market fit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#altLabel> "product/market fit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#definition> "The state in which a venture serves a good market with a product that satisfies it, so that customer demand pulls the product out of the company; popularized by Marc Andreessen in 2007 and widely treated as the milestone a startup should reach before scaling its spending on growth." .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#prefLabel> "Product-Market Fit: When Customer Demand Pulls a Startup Forward" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/premature-scaling> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/andy-rachleff> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-only-thing-that-matters-2007> .
+<https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/sean-ellis-test> .
 <https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> <http://www.w3.org/2000/01/rdf-schema#label> "Proxy Advisory Firm" .
@@ -8086,6 +8111,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://schema.org/url> "https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <http://purl.org/dc/terms/publisher> "Marc Andreessen, June 25, 2007 (reposted by Stanford EE204)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <http://purl.org/dc/terms/title> "The Only Thing That Matters (Part 4 of The Pmarca Guide to Startups)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <https://schema.org/url> "https://web.stanford.edu/class/ee204/ProductMarketFit.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s2> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 45(9), 2024 (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s2> <http://purl.org/dc/terms/title> "When do startups scale? Large-scale evidence from job postings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:stratm:v:45:y:2024:i:9:p:1633-1669" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s3> <http://purl.org/dc/terms/publisher> "Strategic Management Society, Strategic Management Explorer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s3> <http://purl.org/dc/terms/title> "Ready to Scale Your Startup? Not So Fast, Says New Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s3> <https://schema.org/url> "https://www.strategicmanagement.net/publications-resources/strategic-management-explorer/ready-to-scale-your-startup-not-so-fast-says-new-research/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s4> <http://purl.org/dc/terms/publisher> "Stanford Technology Ventures Program, eCorner, January 27, 2016" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s4> <http://purl.org/dc/terms/title> "The Dance of Product-Market Fit (transcript)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s4> <https://schema.org/url> "https://stvp.stanford.edu/wp-content/uploads/sites/3/2024/09/the-dance-of-product-market-fit-transcript.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s5> <http://purl.org/dc/terms/publisher> "First Round Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s5> <http://purl.org/dc/terms/title> "How Superhuman Built an Engine to Find Product/Market Fit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s5> <https://schema.org/url> "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s6> <http://purl.org/dc/terms/publisher> "Long Range Planning 53, 2020 (MIT DSpace)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s6> <http://purl.org/dc/terms/title> "Lean startup and the business model: Experimentation revisited" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s6> <https://schema.org/url> "https://dspace.mit.edu/bitstream/handle/1721.1/134124/1-s2.0-S0024630119301505-main.pdf?sequence=2" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business (Journal of Law and Economics, 58(1), 2015)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <http://purl.org/dc/terms/title> "Outsourcing Shareholder Voting to Proxy Advisory Firms" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/proxy-advisory-firm/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

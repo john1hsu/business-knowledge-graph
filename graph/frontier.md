@@ -54,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
+| `kt:customer-development` | `kt:lean-startup`, `kt:product-market-fit` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
@@ -102,7 +103,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
-| `kt:product-market-fit` | `kt:lean-startup`, `kt:technology-adoption-life-cycle` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
@@ -147,6 +147,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction` |
 | `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963` | `kt:delphi-method` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
+| `kt:andy-rachleff` | `kt:product-market-fit` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:aristotle` | `kt:mece-principle` |
@@ -209,7 +210,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:current-ratio` | `kt:working-capital` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
-| `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction` |
 | `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
@@ -441,6 +441,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:power-law` | `kt:eighty-twenty-rule` |
 | `kt:predators-and-prey-a-new-ecology-of-competition-1993` | `kt:business-ecosystem` |
+| `kt:premature-scaling` | `kt:product-market-fit` |
 | `kt:price-skimming` | `kt:pricing-strategy` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:prison-privatization` | `kt:contract-theory` |
@@ -488,6 +489,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:scqa-framework` | `kt:pyramid-principle` |
+| `kt:sean-ellis-test` | `kt:product-market-fit` |
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:self-efficacy` | `kt:goal-setting-theory` |
@@ -533,6 +535,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
 | `kt:the-modern-corporation-and-private-property` | `kt:separation-of-ownership-and-control` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
+| `kt:the-only-thing-that-matters-2007` | `kt:product-market-fit` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:the-pyramid-principle-logic-in-writing-and-thinking` | `kt:pyramid-principle` |

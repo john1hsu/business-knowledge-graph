@@ -2993,6 +2993,28 @@
     ]
   },
   {
+    "id": "kt:product-market-fit",
+    "title": "Product-Market Fit: When Customer Demand Pulls a Startup Forward",
+    "aliases": [
+      "product-market fit",
+      "product/market fit",
+      "PMF",
+      "product market fit"
+    ],
+    "type": "Concept",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/product-market-fit.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://web.stanford.edu/class/ee204/ProductMarketFit.html",
+      "https://econpapers.repec.org/RePEc:bla:stratm:v:45:y:2024:i:9:p:1633-1669",
+      "https://www.strategicmanagement.net/publications-resources/strategic-management-explorer/ready-to-scale-your-startup-not-so-fast-says-new-research/",
+      "https://stvp.stanford.edu/wp-content/uploads/sites/3/2024/09/the-dance-of-product-market-fit-transcript.pdf",
+      "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit",
+      "https://dspace.mit.edu/bitstream/handle/1721.1/134124/1-s2.0-S0024630119301505-main.pdf?sequence=2"
+    ]
+  },
+  {
     "id": "kt:proxy-advisory-firm",
     "title": "Proxy Advisory Firm",
     "aliases": [

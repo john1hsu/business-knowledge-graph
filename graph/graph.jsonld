@@ -9492,6 +9492,96 @@
       ]
     },
     {
+      "@id": "kt:product-market-fit",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Product-Market Fit: When Customer Demand Pulls a Startup Forward",
+      "skos:definition": "The state in which a venture serves a good market with a product that satisfies it, so that customer demand pulls the product out of the company; popularized by Marc Andreessen in 2007 and widely treated as the milestone a startup should reach before scaling its spending on growth.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Only Thing That Matters (Part 4 of The Pmarca Guide to Startups)",
+          "dcterms:publisher": "Marc Andreessen, June 25, 2007 (reposted by Stanford EE204)",
+          "schema:url": "https://web.stanford.edu/class/ee204/ProductMarketFit.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "When do startups scale? Large-scale evidence from job postings",
+          "dcterms:publisher": "Strategic Management Journal 45(9), 2024 (RePEc record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:stratm:v:45:y:2024:i:9:p:1633-1669",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Ready to Scale Your Startup? Not So Fast, Says New Research",
+          "dcterms:publisher": "Strategic Management Society, Strategic Management Explorer",
+          "schema:url": "https://www.strategicmanagement.net/publications-resources/strategic-management-explorer/ready-to-scale-your-startup-not-so-fast-says-new-research/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Dance of Product-Market Fit (transcript)",
+          "dcterms:publisher": "Stanford Technology Ventures Program, eCorner, January 27, 2016",
+          "schema:url": "https://stvp.stanford.edu/wp-content/uploads/sites/3/2024/09/the-dance-of-product-market-fit-transcript.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How Superhuman Built an Engine to Find Product/Market Fit",
+          "dcterms:publisher": "First Round Review",
+          "schema:url": "https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Lean startup and the business model: Experimentation revisited",
+          "dcterms:publisher": "Long Range Planning 53, 2020 (MIT DSpace)",
+          "schema:url": "https://dspace.mit.edu/bitstream/handle/1721.1/134124/1-s2.0-S0024630119301505-main.pdf?sequence=2",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/product-market-fit.md",
+      "skos:altLabel": [
+        "product-market fit",
+        "product/market fit",
+        "PMF",
+        "product market fit"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:technology-adoption-life-cycle"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        },
+        {
+          "@id": "kt:customer-development"
+        },
+        {
+          "@id": "kt:premature-scaling"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-only-thing-that-matters-2007"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:andy-rachleff"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:sean-ellis-test"
+        }
+      ]
+    },
+    {
       "@id": "kt:technology-adoption-life-cycle",
       "@type": "kto:Framework",
       "skos:prefLabel": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",
