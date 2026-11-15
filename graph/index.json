@@ -2792,6 +2792,29 @@
     ]
   },
   {
+    "id": "kt:operations-management",
+    "title": "Operations Management: Cost, Quality and Delivery in Producing Goods and Services",
+    "aliases": [
+      "operations management",
+      "production and operations management",
+      "production management",
+      "POM",
+      "OM"
+    ],
+    "type": "Field",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/operations-management.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/introduction-business-2e/pages/10-1-production-and-operations-management-an-overview",
+      "https://openstax.org/books/introduction-business-2e/pages/10-2-the-production-process-how-do-we-make-it",
+      "https://www.britannica.com/money/production-management",
+      "https://emerald.com/insight/content/doi/10.1108/01443570810888625/full/html",
+      "https://knowledge.insead.edu/operations/how-focused-factories-deal-disruption",
+      "https://strategy-business.com/article/09402"
+    ]
+  },
+  {
     "id": "kt:organization-theory",
     "title": "Organization Theory: Contingency, Institutional and Ecological Explanations of Structure",
     "aliases": [

@@ -5,14 +5,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:operations-management` | `kt:inventory-management`, `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:organizational-behavior` | `kt:leadership`, `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
+| `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:operations-management`, `kt:business-ecosystem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
-| `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:business-ecosystem` |
+| `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory` |
+| `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:asset-pricing`, `kt:efficient-market-hypothesis` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
@@ -26,12 +27,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
-| `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:organization-theory` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
-| `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:public-administration` | `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
 | `kt:real-options` | `kt:discounted-cash-flow`, `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
@@ -275,6 +274,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-economics` | `kt:asset-pricing` |
 | `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
+| `kt:focused-factory` | `kt:operations-management` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |
 | `kt:fred-fiedler` | `kt:contingency-theory-of-leadership` |
@@ -422,6 +422,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:olaf-helmer` | `kt:delphi-method` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
+| `kt:operations-research` | `kt:operations-management` |
+| `kt:operations-strategy` | `kt:operations-management` |
 | `kt:organizational-culture-profile` | `kt:organizational-culture` |
 | `kt:organizational-ecology` | `kt:organization-theory` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
