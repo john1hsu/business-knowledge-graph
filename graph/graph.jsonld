@@ -15606,6 +15606,105 @@
       ]
     },
     {
+      "@id": "kt:organizational-behavior",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Organizational Behavior: How Individuals and Groups Act Within Organizations",
+      "skos:definition": "The applied behavioral-science field that studies how people think, feel and act in organizations at the individual, group and organizational levels, drawing on psychology, sociology, anthropology, economics and political science to understand, predict and improve behavior and performance at work.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "1.4 A Model of Organizational Behavior and Management",
+          "dcterms:publisher": "OpenStax, Organizational Behavior (J. Stewart Black, David S. Bright et al.), 2019",
+          "schema:url": "https://openstax.org/books/organizational-behavior/pages/1-4-a-model-of-organizational-behavior-and-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Human Relations Movement: Harvard Business School and the Hawthorne Experiments (1924-1933), Introduction",
+          "dcterms:publisher": "Baker Library Historical Collections, Harvard Business School",
+          "schema:url": "https://www.library.hbs.edu/hc/hawthorne/intro.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Human Relations and Harvard Business School / The Hawthorne Effect (exhibit section)",
+          "dcterms:publisher": "Baker Library Historical Collections, Harvard Business School",
+          "schema:url": "https://www.library.hbs.edu/hc/hawthorne/09.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Was there Really a Hawthorne Effect at the Hawthorne Plant? An Analysis of the Original Illumination Experiments (NBER Working Paper 15016, 2009)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://www.nber.org/papers/w15016",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Is There Such a Thing as \"Evidence-Based Management\"? (Academy of Management Review 31(2):256-269, 2006)",
+          "dcterms:publisher": "Academy of Management (copy hosted on University of Illinois faculty site)",
+          "schema:url": "https://josephmahoney.web.illinois.edu/BADM504_Fall%202014/6_Rouseau%20(2006).pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/organizational-behavior.md",
+      "skos:altLabel": [
+        "organizational behavior",
+        "organisational behaviour",
+        "OB",
+        "micro organizational behavior"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management"
+        },
+        {
+          "@id": "kt:social-science"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organization-theory"
+        },
+        {
+          "@id": "kt:organizational-culture"
+        },
+        {
+          "@id": "kt:leadership"
+        },
+        {
+          "@id": "kt:psychological-safety"
+        },
+        {
+          "@id": "kt:high-performance-teams"
+        },
+        {
+          "@id": "kt:scientific-management"
+        },
+        {
+          "@id": "kt:evidence-based-management"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:hawthorne-studies"
+        },
+        {
+          "@id": "kt:elton-mayo"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:scientific-management"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:employee-motivation"
+        },
+        {
+          "@id": "kt:group-decision-making"
+        }
+      ]
+    },
+    {
       "@id": "kt:organizational-culture",
       "@type": "kto:Concept",
       "skos:prefLabel": "Organizational Culture: Shared Assumptions, Values and Artifacts in Firms",

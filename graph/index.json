@@ -2881,6 +2881,27 @@
     ]
   },
   {
+    "id": "kt:organizational-behavior",
+    "title": "Organizational Behavior: How Individuals and Groups Act Within Organizations",
+    "aliases": [
+      "organizational behavior",
+      "organisational behaviour",
+      "OB",
+      "micro organizational behavior"
+    ],
+    "type": "Field",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/organizational-behavior.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/organizational-behavior/pages/1-4-a-model-of-organizational-behavior-and-management",
+      "https://www.library.hbs.edu/hc/hawthorne/intro.html",
+      "https://www.library.hbs.edu/hc/hawthorne/09.html",
+      "https://www.nber.org/papers/w15016",
+      "https://josephmahoney.web.illinois.edu/BADM504_Fall%202014/6_Rouseau%20(2006).pdf"
+    ]
+  },
+  {
     "id": "kt:organizational-culture",
     "title": "Organizational Culture: Shared Assumptions, Values and Artifacts in Firms",
     "aliases": [

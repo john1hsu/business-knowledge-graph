@@ -6,13 +6,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
-| `kt:organizational-behavior` | `kt:leadership`, `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
+| `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:operations-management`, `kt:business-ecosystem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
-| `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:asset-pricing`, `kt:efficient-market-hypothesis` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
@@ -58,6 +57,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
+| `kt:employee-motivation` | `kt:j-richard-hackman`, `kt:organizational-behavior` |
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
@@ -69,6 +69,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
+| `kt:hawthorne-studies` | `kt:management-theory`, `kt:organizational-behavior` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
@@ -252,8 +253,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
 | `kt:electric-vehicle` | `kt:automotive-industry` |
+| `kt:elton-mayo` | `kt:organizational-behavior` |
 | `kt:emergent-strategy` | `kt:strategic-management` |
-| `kt:employee-motivation` | `kt:j-richard-hackman` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
 | `kt:enterprise-value-multiples` | `kt:ebitda` |
@@ -263,6 +264,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eu-data-act` | `kt:switching-costs` |
 | `kt:eu-ias-regulation` | `kt:ifrs` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
+| `kt:evidence-based-management` | `kt:organizational-behavior` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:executive-order-14402` | `kt:government-contract-types` |
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
@@ -300,7 +302,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-polarization` | `kt:group-decision-making` |
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
-| `kt:hawthorne-studies` | `kt:management-theory` |
 | `kt:henry-chesbrough` | `kt:open-innovation` |
 | `kt:henry-mintzberg` | `kt:henri-fayol` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
@@ -513,6 +514,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:small-business-administration` | `kt:small-business-set-asides` |
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:social-responsibilities-of-the-businessman` | `kt:corporate-social-responsibility` |
+| `kt:social-science` | `kt:organizational-behavior` |
 | `kt:sociology` | `kt:organization-theory` |
 | `kt:sol-price` | `kt:membership-warehouse-club` |
 | `kt:soldiering` | `kt:scientific-management` |
