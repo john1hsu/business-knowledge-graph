@@ -14,8 +14,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
+| `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift`, `kt:corporate-decline` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
-| `kt:corporate-decline` | `kt:blockbuster-decline`, `kt:general-motors`, `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
@@ -31,7 +31,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:real-options` | `kt:discounted-cash-flow`, `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
-| `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
@@ -49,6 +48,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
+| `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:customer-development` | `kt:lean-startup`, `kt:product-market-fit` |
@@ -97,6 +97,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
+| `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
 | `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:scenario-planning` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
@@ -206,7 +207,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-spin-off` | `kt:hewlett-packard` |
 | `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
-| `kt:corporate-turnaround` | `kt:ibm-turnaround` |
 | `kt:cost-accounting` | `kt:activity-based-costing` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
@@ -433,7 +433,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operations-research` | `kt:operations-management` |
 | `kt:operations-strategy` | `kt:operations-management` |
 | `kt:organizational-culture-profile` | `kt:organizational-culture` |
-| `kt:organizational-ecology` | `kt:organization-theory` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:organizational-structure` | `kt:span-of-control` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |

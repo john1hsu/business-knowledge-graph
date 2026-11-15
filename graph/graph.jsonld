@@ -16793,6 +16793,94 @@
       ]
     },
     {
+      "@id": "kt:corporate-decline",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Corporate Decline: Why Established Firms Spiral Toward Failure",
+      "skos:definition": "A sustained deterioration in a firm's resources, competitiveness and performance, usually unfolding as a multi-year process rather than a single event, in which external change, managerial rigidity and weakening leadership reinforce one another until the firm recovers through a turnaround or fails.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Organizational decline: A yet largely neglected topic in organizational studies",
+          "dcterms:publisher": "globADVANTAGE Working Paper 88/2012, Polytechnic Institute of Leiria",
+          "schema:url": "https://globadvantage.ipleiria.pt/files/2012/02/working_paper-88_globadvantage.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Top Team Deterioration as Part of the Downward Spiral of Large Corporate Bankruptcies",
+          "dcterms:publisher": "Management Science (record at IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/inm/ormnsc/v38y1992i10p1445-1466.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Threat Rigidity Effects in Organizational Behavior: A Multilevel Analysis",
+          "dcterms:publisher": "Administrative Science Quarterly (record at Northern Rockies Fire Science Network)",
+          "schema:url": "https://nrfirescience.org/node/15967",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Stuck in Gear: Why Managers Don't Act",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/stuck-in-gear-why-managers-dont-act",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Learning About Failure: Bankruptcy, Firm Age, and the Resource-Based View",
+          "dcterms:publisher": "Organization Science (author version, Wharton faculty site)",
+          "schema:url": "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/05/Amit_Thornhill_Learning_From_Failure.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Corporate Governance and Financial Constraints on Strategic Turnarounds",
+          "dcterms:publisher": "Journal of Management Studies (author version, White Rose eprints)",
+          "schema:url": "https://eprints.whiterose.ac.uk/1420/1/tomss1.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/strategy/corporate-decline.md",
+      "skos:altLabel": [
+        "organizational decline",
+        "firm decline",
+        "downward spiral",
+        "decline of established firms"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-turnaround"
+        },
+        {
+          "@id": "kt:strategic-renewal"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:innovators-dilemma"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kodak-decline"
+        },
+        {
+          "@id": "kt:blockbuster-decline"
+        },
+        {
+          "@id": "kt:general-motors"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:organizational-ecology"
+        }
+      ]
+    },
+    {
       "@id": "kt:david-j-teece",
       "@type": "kto:Person",
       "skos:prefLabel": "David J. Teece",

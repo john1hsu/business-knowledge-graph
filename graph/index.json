@@ -929,6 +929,28 @@
     ]
   },
   {
+    "id": "kt:corporate-decline",
+    "title": "Corporate Decline: Why Established Firms Spiral Toward Failure",
+    "aliases": [
+      "organizational decline",
+      "firm decline",
+      "downward spiral",
+      "decline of established firms"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/corporate-decline.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://globadvantage.ipleiria.pt/files/2012/02/working_paper-88_globadvantage.pdf",
+      "https://ideas.repec.org/a/inm/ormnsc/v38y1992i10p1445-1466.html",
+      "https://nrfirescience.org/node/15967",
+      "https://www.library.hbs.edu/working-knowledge/stuck-in-gear-why-managers-dont-act",
+      "https://faculty.wharton.upenn.edu/wp-content/uploads/2012/05/Amit_Thornhill_Learning_From_Failure.pdf",
+      "https://eprints.whiterose.ac.uk/1420/1/tomss1.pdf"
+    ]
+  },
+  {
     "id": "kt:corporate-finance",
     "title": "Corporate Finance: Investment, Financing and Payout Decisions",
     "aliases": [
