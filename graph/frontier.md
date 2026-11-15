@@ -13,12 +13,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
+| `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:public-administration` | `kt:government-accountability-office`, `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift`, `kt:corporate-decline` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
-| `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
@@ -83,6 +83,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:lyndall-urwick` | `kt:henri-fayol`, `kt:span-of-control` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
+| `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:cost-structure` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
@@ -92,7 +93,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:porters-five-forces` |
-| `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
@@ -215,6 +215,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:cost-plus-contract` | `kt:government-contract-types` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
+| `kt:cost-volume-profit-analysis` | `kt:cost-structure` |
 | `kt:creating-public-value-1995` | `kt:public-value` |
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility` |
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
@@ -230,6 +231,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:debt-covenant` | `kt:ebitda` |
 | `kt:debt-to-equity-ratio` | `kt:capital-structure` |
 | `kt:decision-rights` | `kt:span-of-control` |
+| `kt:degree-of-operating-leverage` | `kt:cost-structure` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
 | `kt:delegation` | `kt:span-of-control` |
 | `kt:dell-technologies` | `kt:working-capital` |
@@ -387,7 +389,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-by-walking-around` | `kt:hewlett-packard` |
-| `kt:managerial-accounting` | `kt:activity-based-costing` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:mark-h-moore` | `kt:public-value` |
@@ -433,6 +434,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:olaf-helmer` | `kt:delphi-method` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
+| `kt:operating-leverage` | `kt:cost-structure` |
 | `kt:operations-research` | `kt:operations-management` |
 | `kt:operations-strategy` | `kt:operations-management` |
 | `kt:organizational-culture-profile` | `kt:organizational-culture` |

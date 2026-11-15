@@ -12041,6 +12041,107 @@
       ]
     },
     {
+      "@id": "kt:cost-structure",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Cost Structure: Fixed Versus Variable Costs and Operating Leverage",
+      "skos:definition": "A firm's cost structure is the relative mix of fixed costs, which do not change with activity in the short run, and variable costs, which move with volume; that mix determines its break-even point and operating leverage, and so how sharply profits swing when sales rise or fall.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "2.2 Identify and Apply Basic Cost Behavior Patterns (Principles of Accounting, Volume 2: Managerial Accounting)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/2-2-identify-and-apply-basic-cost-behavior-patterns",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "7.3 Costs in the Short Run (Principles of Microeconomics 2e)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-microeconomics-2e/pages/7-3-costs-in-the-short-run",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "3.5 Calculate and Interpret a Company's Margin of Safety and Operating Leverage",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/3-5-calculate-and-interpret-a-companys-margin-of-safety-and-operating-leverage",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "On the Association between Operating Leverage and Risk",
+          "dcterms:publisher": "Journal of Financial and Quantitative Analysis (via IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/cup/jfinqa/v9y1974i04p627-641_01.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Are Selling, General, and Administrative Costs \"Sticky\"?",
+          "dcterms:publisher": "Journal of Accounting Research (via IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/bla/joares/v41y2003i1p47-63.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Operating leverage and its importance during the COVID-19 pandemic",
+          "dcterms:publisher": "SUERF – The European Money and Finance Forum (Policy Brief No. 256)",
+          "schema:url": "https://suerf.org/publications/suerf-policy-notes-and-briefs/operating-leverage-and-its-importance-during-the-covid-19-pandemic",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/cost-structure.md",
+      "skos:altLabel": [
+        "cost behavior",
+        "fixed and variable cost mix"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:managerial-accounting"
+        },
+        {
+          "@id": "kt:microeconomics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:experience-curve"
+        },
+        {
+          "@id": "kt:activity-based-costing"
+        },
+        {
+          "@id": "kt:business-model-canvas"
+        },
+        {
+          "@id": "kt:cost-volume-profit-analysis"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:degree-of-operating-leverage"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:capital-structure"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:operating-leverage"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:airline-industry"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:microeconomics"
+        }
+      ]
+    },
+    {
       "@id": "kt:economies-of-scale",
       "@type": "kto:Concept",
       "skos:prefLabel": "Economies of Scale",

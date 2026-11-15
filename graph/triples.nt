@@ -1212,6 +1212,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-of-corporate-social-responsibility> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/social-responsibilities-of-the-businessman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2000/01/rdf-schema#label> "Cost Structure: Fixed Versus Variable Costs and Operating Leverage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "cost behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#altLabel> "fixed and variable cost mix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/managerial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#definition> "A firm's cost structure is the relative mix of fixed costs, which do not change with activity in the short run, and variable costs, which move with volume; that mix determines its break-even point and operating leverage, and so how sharply profits swing when sales rise or fall." .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cost Structure: Fixed Versus Variable Costs and Operating Leverage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/activity-based-costing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cost-volume-profit-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/operating-leverage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/degree-of-operating-leverage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> .
 <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/creative-destruction> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change" .
@@ -5803,6 +5829,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-social-responsibility/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-social-responsibility/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-social-responsibility/s5> <https://schema.org/url> "https://store.hbr.org/product/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility/R0612D" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://purl.org/dc/terms/title> "2.2 Identify and Apply Basic Cost Behavior Patterns (Principles of Accounting, Volume 2: Managerial Accounting)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/2-2-identify-and-apply-basic-cost-behavior-patterns" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s2> <http://purl.org/dc/terms/title> "7.3 Costs in the Short Run (Principles of Microeconomics 2e)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s2> <https://schema.org/url> "https://openstax.org/books/principles-microeconomics-2e/pages/7-3-costs-in-the-short-run" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s3> <http://purl.org/dc/terms/title> "3.5 Calculate and Interpret a Company's Margin of Safety and Operating Leverage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s3> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/3-5-calculate-and-interpret-a-companys-margin-of-safety-and-operating-leverage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s4> <http://purl.org/dc/terms/publisher> "Journal of Financial and Quantitative Analysis (via IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s4> <http://purl.org/dc/terms/title> "On the Association between Operating Leverage and Risk" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s4> <https://schema.org/url> "https://ideas.repec.org/a/cup/jfinqa/v9y1974i04p627-641_01.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s5> <http://purl.org/dc/terms/publisher> "Journal of Accounting Research (via IDEAS/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s5> <http://purl.org/dc/terms/title> "Are Selling, General, and Administrative Costs \"Sticky\"?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/joares/v41y2003i1p47-63.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s6> <http://purl.org/dc/terms/publisher> "SUERF – The European Money and Finance Forum (Policy Brief No. 256)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s6> <http://purl.org/dc/terms/title> "Operating leverage and its importance during the COVID-19 pandemic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s6> <https://schema.org/url> "https://suerf.org/publications/suerf-policy-notes-and-briefs/operating-leverage-and-its-importance-during-the-covid-19-pandemic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <http://purl.org/dc/terms/publisher> "The Concise Encyclopedia of Economics, Library of Economics and Liberty (Econlib)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <http://purl.org/dc/terms/title> "Creative Destruction" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/creative-destruction/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -1015,6 +1015,26 @@
     ]
   },
   {
+    "id": "kt:cost-structure",
+    "title": "Cost Structure: Fixed Versus Variable Costs and Operating Leverage",
+    "aliases": [
+      "cost behavior",
+      "fixed and variable cost mix"
+    ],
+    "type": "Concept",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/cost-structure.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/principles-managerial-accounting/pages/2-2-identify-and-apply-basic-cost-behavior-patterns",
+      "https://openstax.org/books/principles-microeconomics-2e/pages/7-3-costs-in-the-short-run",
+      "https://openstax.org/books/principles-managerial-accounting/pages/3-5-calculate-and-interpret-a-companys-margin-of-safety-and-operating-leverage",
+      "https://ideas.repec.org/a/cup/jfinqa/v9y1974i04p627-641_01.html",
+      "https://ideas.repec.org/a/bla/joares/v41y2003i1p47-63.html",
+      "https://suerf.org/publications/suerf-policy-notes-and-briefs/operating-leverage-and-its-importance-during-the-covid-19-pandemic"
+    ]
+  },
+  {
     "id": "kt:creative-destruction",
     "title": "Creative Destruction: Schumpeter's Process of Innovation-Driven Industrial Change",
     "aliases": [
