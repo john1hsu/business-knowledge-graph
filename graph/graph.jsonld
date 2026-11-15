@@ -4964,6 +4964,93 @@
       ]
     },
     {
+      "@id": "kt:servitization",
+      "@type": "kto:Strategy",
+      "skos:prefLabel": "Servitization: From Selling Products to Selling Outcomes",
+      "skos:definition": "The strategic shift in which a manufacturer adds services to, or wraps services around, its products, moving from one-off product sales toward bundled product-service offerings that are paid for by use, availability or results.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Servitization of business: Adding value by adding services",
+          "dcterms:publisher": "European Management Journal 6(4), 1988 (RePEc/EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:eee:eurman:v:6:y:1988:i:4:p:314-324",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The servitization of manufacturing: A review of literature and reflection on future challenges",
+          "dcterms:publisher": "Journal of Manufacturing Technology Management, 2009 (Aston University author copy)",
+          "schema:url": "https://publications.aston.ac.uk/id/eprint/20298/2/The_servitization_of_manufacturing.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Overcoming the Service Paradox in Manufacturing Companies",
+          "dcterms:publisher": "European Management Journal 23(1), 2005 (IDEAS/RePEc record)",
+          "schema:url": "https://ideas.repec.org/a/eee/eurman/v23y2005i1p14-26.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Exploring the financial consequences of the servitization of manufacturing",
+          "dcterms:publisher": "Operations Management Research 1(2), 2008 (Cranfield University repository)",
+          "schema:url": "https://dspace.lib.cranfield.ac.uk/handle/1826/4012?show=full",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Eight types of product-service system: eight ways to sustainability? Experiences from SusProNet",
+          "dcterms:publisher": "Business Strategy and the Environment 13(4), 2004 (IDEAS/RePEc record)",
+          "schema:url": "https://ideas.repec.org/a/bla/bstrat/v13y2004i4p246-260.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Long-term service agreements (LTSA) FAQ",
+          "dcterms:publisher": "Rolls-Royce Holdings plc, investor relations",
+          "schema:url": "https://www.rolls-royce.com/~/media/Files/R/Rolls-Royce/documents/investors/rr-ltsa-faq.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-models/servitization.md",
+      "skos:altLabel": [
+        "servitisation",
+        "servitization of business",
+        "servitization of manufacturing",
+        "service transition in manufacturing"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:business-model-innovation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:services-marketing"
+        },
+        {
+          "@id": "kt:subscription-business-model"
+        },
+        {
+          "@id": "kt:product-service-system"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:sandra-vandermerwe"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:servitization-of-business-1988"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:rolls-royce"
+        }
+      ]
+    },
+    {
       "@id": "kt:subscription-business-model",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Subscription Business Model: Selling Ongoing Access",

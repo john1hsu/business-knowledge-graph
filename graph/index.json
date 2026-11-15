@@ -3532,6 +3532,28 @@
     ]
   },
   {
+    "id": "kt:servitization",
+    "title": "Servitization: From Selling Products to Selling Outcomes",
+    "aliases": [
+      "servitisation",
+      "servitization of business",
+      "servitization of manufacturing",
+      "service transition in manufacturing"
+    ],
+    "type": "Strategy",
+    "domain": "business-models",
+    "file": "articles/business-models/servitization.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://econpapers.repec.org/RePEc:eee:eurman:v:6:y:1988:i:4:p:314-324",
+      "https://publications.aston.ac.uk/id/eprint/20298/2/The_servitization_of_manufacturing.pdf",
+      "https://ideas.repec.org/a/eee/eurman/v23y2005i1p14-26.html",
+      "https://dspace.lib.cranfield.ac.uk/handle/1826/4012?show=full",
+      "https://ideas.repec.org/a/bla/bstrat/v13y2004i4p246-260.html",
+      "https://www.rolls-royce.com/~/media/Files/R/Rolls-Royce/documents/investors/rr-ltsa-faq.pdf"
+    ]
+  },
+  {
     "id": "kt:servqual",
     "title": "SERVQUAL",
     "aliases": [

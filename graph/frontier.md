@@ -9,11 +9,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:hewlett-packard`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:operations-management`, `kt:business-ecosystem` |
+| `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
-| `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model`, `kt:customer-relationship-management` |
 | `kt:corporate-decline` | `kt:blockbuster-decline`, `kt:general-motors`, `kt:kodak-decline` |
@@ -465,6 +465,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-launch` | `kt:apple-iphone-launch` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
+| `kt:product-service-system` | `kt:servitization` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:prospect-theory` | `kt:behavioral-finance` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
@@ -493,9 +494,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
+| `kt:rolls-royce` | `kt:servitization` |
 | `kt:ronald-coase` | `kt:transaction-cost-economics` |
 | `kt:royal-dutch-shell` | `kt:scenario-planning` |
 | `kt:sam-walton` | `kt:walmart` |
+| `kt:sandra-vandermerwe` | `kt:servitization` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
@@ -506,6 +509,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:self-efficacy` | `kt:goal-setting-theory` |
 | `kt:service-dominant-logic` | `kt:services-marketing` |
 | `kt:servicescape` | `kt:services-marketing` |
+| `kt:servitization-of-business-1988` | `kt:servitization` |
 | `kt:servperf` | `kt:servqual` |
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |

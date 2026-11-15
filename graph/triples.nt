@@ -4198,6 +4198,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/servicescape> .
 <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/service-dominant-logic> .
 <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2000/01/rdf-schema#label> "Servitization: From Selling Products to Selling Outcomes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#altLabel> "service transition in manufacturing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#altLabel> "servitisation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#altLabel> "servitization of business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#altLabel> "servitization of manufacturing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#definition> "The strategic shift in which a manufacturer adds services to, or wraps services around, its products, moving from one-off product sales toward bundled product-service offerings that are paid for by use, availability or results." .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servitization: From Selling Products to Selling Outcomes" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/product-service-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/subscription-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/sandra-vandermerwe> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/rolls-royce> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servitization> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/servitization-of-business-1988> .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <http://www.w3.org/2000/01/rdf-schema#label> "SERVQUAL" .
@@ -9020,6 +9044,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/services-marketing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/services-marketing/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/services-marketing/s6> <https://schema.org/url> "https://scilit.com/publications/ae16c029b352356c30bd004535616af3" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s1> <http://purl.org/dc/terms/publisher> "European Management Journal 6(4), 1988 (RePEc/EconPapers record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s1> <http://purl.org/dc/terms/title> "Servitization of business: Adding value by adding services" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s1> <https://schema.org/url> "https://econpapers.repec.org/RePEc:eee:eurman:v:6:y:1988:i:4:p:314-324" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s2> <http://purl.org/dc/terms/publisher> "Journal of Manufacturing Technology Management, 2009 (Aston University author copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s2> <http://purl.org/dc/terms/title> "The servitization of manufacturing: A review of literature and reflection on future challenges" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s2> <https://schema.org/url> "https://publications.aston.ac.uk/id/eprint/20298/2/The_servitization_of_manufacturing.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s3> <http://purl.org/dc/terms/publisher> "European Management Journal 23(1), 2005 (IDEAS/RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s3> <http://purl.org/dc/terms/title> "Overcoming the Service Paradox in Manufacturing Companies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s3> <https://schema.org/url> "https://ideas.repec.org/a/eee/eurman/v23y2005i1p14-26.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s4> <http://purl.org/dc/terms/publisher> "Operations Management Research 1(2), 2008 (Cranfield University repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s4> <http://purl.org/dc/terms/title> "Exploring the financial consequences of the servitization of manufacturing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s4> <https://schema.org/url> "https://dspace.lib.cranfield.ac.uk/handle/1826/4012?show=full" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s5> <http://purl.org/dc/terms/publisher> "Business Strategy and the Environment 13(4), 2004 (IDEAS/RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s5> <http://purl.org/dc/terms/title> "Eight types of product-service system: eight ways to sustainability? Experiences from SusProNet" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/bstrat/v13y2004i4p246-260.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s6> <http://purl.org/dc/terms/publisher> "Rolls-Royce Holdings plc, investor relations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s6> <http://purl.org/dc/terms/title> "Long-term service agreements (LTSA) FAQ" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servitization/s6> <https://schema.org/url> "https://www.rolls-royce.com/~/media/Files/R/Rolls-Royce/documents/investors/rr-ltsa-faq.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <http://purl.org/dc/terms/publisher> "Journal of Retailing 64(1), 12–40 (1988); course copy hosted by Aalto University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <http://purl.org/dc/terms/title> "SERVQUAL: A Multiple-Item Scale for Measuring Consumer Perceptions of Service Quality" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
