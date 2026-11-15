@@ -89,6 +89,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
+| `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:porters-five-forces` |
@@ -167,6 +168,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:birger-wernerfelt` | `kt:resource-based-view` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
+| `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
@@ -383,7 +385,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-by-walking-around` | `kt:hewlett-packard` |
-| `kt:management-consulting` | `kt:structured-problem-solving` |
 | `kt:managerial-accounting` | `kt:activity-based-costing` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
@@ -398,7 +399,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:max-weber` | `kt:organization-theory` |
 | `kt:mcdonalds` | `kt:business-format-franchising` |
-| `kt:mckinsey-and-company` | `kt:structured-problem-solving` |
 | `kt:measure-costs-right-make-the-right-decisions-1988` | `kt:activity-based-costing` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
@@ -465,6 +465,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
 | `kt:product-service-system` | `kt:servitization` |
+| `kt:professional-services` | `kt:management-consulting` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:prospect-theory` | `kt:behavioral-finance` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |

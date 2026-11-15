@@ -5972,6 +5972,98 @@
       ]
     },
     {
+      "@id": "kt:management-consulting",
+      "@type": "kto:Industry",
+      "skos:prefLabel": "Management Consulting: The Business of Expert Advice to Client Organizations",
+      "skos:definition": "The industry and occupation in which outside (or internal) advisers are paid to diagnose organizational problems and recommend ways to improve a client's efficiency, strategy, structure and performance, typically on a project basis.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Management Analysts, Occupational Outlook Handbook",
+          "dcterms:publisher": "U.S. Bureau of Labor Statistics",
+          "schema:url": "https://www.bls.gov/ooh/business-and-financial/management-analysts.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The World's Newest Profession: Management Consulting in the Twentieth Century (book page)",
+          "dcterms:publisher": "Cambridge University Press",
+          "schema:url": "https://www.cambridge.org/core/product/identifier/9780511511622/type/book",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The World's Newest Profession: front matter and table of contents",
+          "dcterms:publisher": "Cambridge University Press",
+          "schema:url": "https://assets.cambridge.org/97805218/10395/frontmatter/9780521810395_frontmatter.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Popular Critiques of Consultancy and a Politics of Management Learning?",
+          "dcterms:publisher": "Management Learning (author repository copy via CORE)",
+          "schema:url": "https://core.ac.uk/download/47207.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How Professional Services Firms Dodged Disruption",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/?p=107538",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "How Professional Services Firms Dodged Disruption (research record)",
+          "dcterms:publisher": "London Business School Research Online",
+          "schema:url": "https://lbsresearch.london.edu/id/eprint/3022",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/management-consulting.md",
+      "skos:altLabel": [
+        "management consultancy",
+        "management advisory services",
+        "strategy consulting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:professional-services"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:benchmarking"
+        },
+        {
+          "@id": "kt:organizational-culture"
+        },
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:enron-scandal"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:mckinsey-and-company"
+        },
+        {
+          "@id": "kt:booz-allen-hamilton"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:scientific-management"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ]
+    },
+    {
       "@id": "kt:mece-principle",
       "@type": "kto:Framework",
       "skos:prefLabel": "MECE Principle",

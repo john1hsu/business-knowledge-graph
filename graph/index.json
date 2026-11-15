@@ -2555,6 +2555,27 @@
     ]
   },
   {
+    "id": "kt:management-consulting",
+    "title": "Management Consulting: The Business of Expert Advice to Client Organizations",
+    "aliases": [
+      "management consultancy",
+      "management advisory services",
+      "strategy consulting"
+    ],
+    "type": "Industry",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/management-consulting.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://www.bls.gov/ooh/business-and-financial/management-analysts.htm",
+      "https://www.cambridge.org/core/product/identifier/9780511511622/type/book",
+      "https://assets.cambridge.org/97805218/10395/frontmatter/9780521810395_frontmatter.pdf",
+      "https://core.ac.uk/download/47207.pdf",
+      "https://sloanreview.mit.edu/?p=107538",
+      "https://lbsresearch.london.edu/id/eprint/3022"
+    ]
+  },
+  {
     "id": "kt:management-theory",
     "title": "Management Theory: From Classical Administration to Systems and Contingency Thinking",
     "aliases": [
