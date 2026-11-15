@@ -6536,6 +6536,99 @@
       ]
     },
     {
+      "@id": "kt:behavioral-finance",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Behavioral Finance: How Investor Psychology and Limits to Arbitrage Shape Prices",
+      "skos:definition": "The branch of financial economics that explains asset prices, investor trading and corporate financial decisions with models in which some agents are not fully rational, resting on two pillars: limits to arbitrage and evidence from psychology about how people form beliefs and make risky choices.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Survey of Behavioral Finance",
+          "dcterms:publisher": "NBER Working Paper 9222 (Barberis and Thaler, 2002; later Handbook of the Economics of Finance, 2003), via EconPapers/RePEc",
+          "schema:url": "https://econpapers.repec.org/RePEc:nbr:nberwo:9222",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Behavioral Finance at 40",
+          "dcterms:publisher": "NBER Working Paper 35959 (Nicholas C. Barberis, October 2026)",
+          "schema:url": "https://www.nber.org/papers/w35959",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Limits of Arbitrage",
+          "dcterms:publisher": "The Journal of Finance 52(1), 35-55, 1997 (Shleifer and Vishny; course copy, McMaster University)",
+          "schema:url": "https://ms.mcmaster.ca/%7Egrasselli/ShleiferVishny97.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Prospect Theory: An Analysis of Decision under Risk",
+          "dcterms:publisher": "Econometrica 47(2), 263-292, 1979 (Econometric Society)",
+          "schema:url": "https://www.econometricsociety.org/publications/econometrica/1979/03/01/prospect-theory-analysis-decision-under-risk",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Are Investors Reluctant to Realize Their Losses?",
+          "dcterms:publisher": "Terrance Odean, Haas School of Business, UC Berkeley (paper page)",
+          "schema:url": "https://faculty.haas.berkeley.edu/odean/papers/disposition/disposition.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How are Stock Prices Affected by the Location of Trade?",
+          "dcterms:publisher": "NBER Working Paper 6572 (Froot and Dabora, 1998; Journal of Financial Economics, 1999)",
+          "schema:url": "https://www.nber.org/papers/w6572",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/behavioral-finance.md",
+      "skos:altLabel": [
+        "behavioural finance",
+        "behavioral financial economics"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-economics"
+        },
+        {
+          "@id": "kt:asset-pricing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:arbitrage"
+        },
+        {
+          "@id": "kt:overconfidence-bias"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:efficient-market-hypothesis"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:limits-to-arbitrage"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:prospect-theory"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:disposition-effect"
+        },
+        {
+          "@id": "kt:royal-dutch-shell-twin-shares"
+        }
+      ]
+    },
+    {
       "@id": "kt:capital-asset-pricing-model",
       "@type": "kto:Theory",
       "skos:prefLabel": "Capital Asset Pricing Model: Pricing Systematic Risk",

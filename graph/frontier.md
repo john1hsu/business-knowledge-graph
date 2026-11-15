@@ -13,7 +13,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
-| `kt:behavioral-finance` | `kt:arbitrage`, `kt:asset-pricing`, `kt:efficient-market-hypothesis` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model`, `kt:customer-relationship-management` |
@@ -61,6 +60,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
+| `kt:financial-economics` | `kt:asset-pricing`, `kt:behavioral-finance` |
 | `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
@@ -81,6 +81,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
+| `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:lyndall-urwick` | `kt:henri-fayol`, `kt:span-of-control` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
@@ -96,6 +97,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
+| `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:scenario-planning` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:patient-safety` | `kt:five-whys`, `kt:root-cause-analysis` |
@@ -106,6 +108,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
+| `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:say-on-pay` | `kt:executive-compensation`, `kt:proxy-advisory-firm` |
@@ -237,6 +240,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:diffusion-of-innovations` | `kt:technology-adoption-life-cycle` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:dish-network` | `kt:blockbuster-decline` |
+| `kt:disposition-effect` | `kt:behavioral-finance` |
 | `kt:distribution-channel` | `kt:direct-selling` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
@@ -278,7 +282,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
-| `kt:financial-economics` | `kt:asset-pricing` |
 | `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:focused-factory` | `kt:operations-management` |
@@ -370,7 +373,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
 | `kt:leonard-berry` | `kt:gaps-model-of-service-quality` |
 | `kt:lewins-three-step-model` | `kt:change-management` |
-| `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
@@ -436,7 +438,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:organizational-structure` | `kt:span-of-control` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
-| `kt:overconfidence-bias` | `kt:scenario-planning` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:payback-period` | `kt:net-present-value` |
@@ -465,6 +466,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
+| `kt:prospect-theory` | `kt:behavioral-finance` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
@@ -493,7 +495,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:ronald-coase` | `kt:transaction-cost-economics` |
 | `kt:royal-dutch-shell` | `kt:scenario-planning` |
-| `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage` |
 | `kt:sam-walton` | `kt:walmart` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
 | `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |

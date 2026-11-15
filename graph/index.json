@@ -378,6 +378,26 @@
     ]
   },
   {
+    "id": "kt:behavioral-finance",
+    "title": "Behavioral Finance: How Investor Psychology and Limits to Arbitrage Shape Prices",
+    "aliases": [
+      "behavioural finance",
+      "behavioral financial economics"
+    ],
+    "type": "Field",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/behavioral-finance.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://econpapers.repec.org/RePEc:nbr:nberwo:9222",
+      "https://www.nber.org/papers/w35959",
+      "https://ms.mcmaster.ca/%7Egrasselli/ShleiferVishny97.pdf",
+      "https://www.econometricsociety.org/publications/econometrica/1979/03/01/prospect-theory-analysis-decision-under-risk",
+      "https://faculty.haas.berkeley.edu/odean/papers/disposition/disposition.html",
+      "https://www.nber.org/papers/w6572"
+    ]
+  },
+  {
     "id": "kt:benchmarking",
     "title": "Benchmarking",
     "aliases": [
