@@ -971,6 +971,27 @@
     ]
   },
   {
+    "id": "kt:customer-relationship-management",
+    "title": "Customer Relationship Management (CRM): Building Profitable Long-Term Customer Relationships",
+    "aliases": [
+      "CRM",
+      "customer relationship management",
+      "CRM strategy",
+      "CRM systems"
+    ],
+    "type": "Practice",
+    "domain": "marketing",
+    "file": "articles/marketing/customer-relationship-management.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/principles-marketing/pages/1-6-customer-relationship-management-crm",
+      "https://www.ama.org/2018/12/03/a-strategic-framework-for-crm/",
+      "https://www.insead.edu/faculty-research/publications/journal-articles/customer-relationship-management-process-its",
+      "https://bain.com/insights/avoid-the-four-perils-of-crm",
+      "https://core.ac.uk/download/16395838.pdf"
+    ]
+  },
+  {
     "id": "kt:customer-satisfaction",
     "title": "Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit",
     "aliases": [

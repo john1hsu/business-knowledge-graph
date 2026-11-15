@@ -17,21 +17,23 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
+| `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model`, `kt:customer-relationship-management` |
 | `kt:corporate-decline` | `kt:blockbuster-decline`, `kt:general-motors`, `kt:kodak-decline` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
-| `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:customer-satisfaction`, `kt:enterprise-resource-planning` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:government-accountability-office` | `kt:bid-protest`, `kt:lowest-price-technically-acceptable`, `kt:truth-in-negotiations-act` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
+| `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:public-administration` | `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
 | `kt:real-options` | `kt:discounted-cash-flow`, `kt:net-present-value`, `kt:scenario-planning` |
+| `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-renewal` | `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
@@ -45,7 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
-| `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
 | `kt:cisco-systems` | `kt:bill-of-materials`, `kt:inventory-management` |
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
@@ -86,7 +87,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:marketing-metrics` | `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
-| `kt:marketing-strategy` | `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
@@ -104,7 +104,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:product-market-fit` | `kt:lean-startup`, `kt:technology-adoption-life-cycle` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
-| `kt:relationship-marketing` | `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
@@ -209,6 +208,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility` |
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:current-ratio` | `kt:working-capital` |
+| `kt:customer-data-analytics` | `kt:customer-relationship-management` |
 | `kt:customer-development` | `kt:lean-startup` |
 | `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction` |
@@ -369,6 +369,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
+| `kt:loyalty-program` | `kt:customer-relationship-management` |
 | `kt:luther-gulick` | `kt:span-of-control` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |

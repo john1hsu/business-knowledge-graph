@@ -12205,6 +12205,96 @@
       ]
     },
     {
+      "@id": "kt:customer-relationship-management",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Customer Relationship Management (CRM): Building Profitable Long-Term Customer Relationships",
+      "skos:definition": "A cross-functional management approach that uses customer data and insight to acquire, retain and grow profitable customer relationships, supported by software that records and analyses every customer interaction; scholars stress it is a strategy first and a technology second.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "1.6 Customer Relationship Management (CRM)",
+          "dcterms:publisher": "OpenStax, Principles of Marketing (2023)",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/1-6-customer-relationship-management-crm",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A Strategic Framework for CRM (teaching summary of Payne and Frow, Journal of Marketing, 2005)",
+          "dcterms:publisher": "American Marketing Association",
+          "schema:url": "https://www.ama.org/2018/12/03/a-strategic-framework-for-crm/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Customer Relationship Management Process: Its Measurement and Impact on Performance",
+          "dcterms:publisher": "INSEAD (Journal of Marketing Research 41(3), 2004)",
+          "schema:url": "https://www.insead.edu/faculty-research/publications/journal-articles/customer-relationship-management-process-its",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Avoid the Four Perils of CRM (Harvard Business Review, February 2002)",
+          "dcterms:publisher": "Bain & Company (republished from Harvard Business Review)",
+          "schema:url": "https://bain.com/insights/avoid-the-four-perils-of-crm",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Towards Developing a Customer Relationship Management (CRM) Strategy for Supporting Pre-implementation Activities in Business",
+          "dcterms:publisher": "Henley Business School, University of Reading (via CORE)",
+          "schema:url": "https://core.ac.uk/download/16395838.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/marketing/customer-relationship-management.md",
+      "skos:altLabel": [
+        "CRM",
+        "customer relationship management",
+        "CRM strategy",
+        "CRM systems"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:relationship-marketing"
+        },
+        {
+          "@id": "kt:marketing-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:enterprise-resource-planning"
+        },
+        {
+          "@id": "kt:loyalty-program"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:churn-rate"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:customer-data-analytics"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:marketing-mix"
+        }
+      ]
+    },
+    {
       "@id": "kt:customer-satisfaction",
       "@type": "kto:Concept",
       "skos:prefLabel": "Customer Satisfaction: Expectations, Disconfirmation and the Link to Loyalty and Profit",

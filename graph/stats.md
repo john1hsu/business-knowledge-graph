@@ -1,9 +1,9 @@
 # Graph statistics
 
-- Articles (nodes written): **179**
-- Frontier nodes (referenced, unwritten): **564**
-- Edges: **1798**
-- Citations: **1026**
+- Articles (nodes written): **180**
+- Frontier nodes (referenced, unwritten): **565**
+- Edges: **1809**
+- Citations: **1031**
 
 - Weakly connected components: **1**
 - Isolated articles (no edges): **0**
@@ -12,34 +12,34 @@
 
 | Node | PageRank | Written |
 |---|---|---|
-| `kt:agency-costs` | 0.0054 | yes |
 | `kt:industrial-organization` | 0.0054 | yes |
+| `kt:agency-costs` | 0.0054 | yes |
 | `kt:corporate-governance` | 0.0047 | yes |
 | `kt:principal-agent-problem` | 0.0044 | yes |
 | `kt:barriers-to-entry` | 0.0041 | yes |
 | `kt:network-effect` | 0.0039 | yes |
-| `kt:disruptive-innovation` | 0.0038 | yes |
+| `kt:disruptive-innovation` | 0.0037 | yes |
 | `kt:economies-of-scale` | 0.0036 | yes |
-| `kt:organizational-ambidexterity` | 0.0035 | yes |
+| `kt:organizational-ambidexterity` | 0.0034 | yes |
 | `kt:innovation-management` | 0.0033 | yes |
+| `kt:switching-costs` | 0.0032 | yes |
 | `kt:shareholder-primacy` | 0.0032 | yes |
+| `kt:customer-lifetime-value` | 0.0031 | yes |
 | `kt:dynamic-capabilities` | 0.0031 | yes |
 | `kt:corporate-finance` | 0.0031 | yes |
-| `kt:free-cash-flow` | 0.0031 | yes |
-| `kt:innovators-dilemma` | 0.0031 | yes |
 
-## Communities (Louvain): 13
+## Communities (Louvain): 14
 
-1. `kt:activity-based-costing`, `kt:agile-software-development`, `kt:alfred-d-chandler-jr`, `kt:alfred-p-sloan-jr`, `kt:annual-model-change`, `kt:assembly-line`, `kt:automotive-industry`, `kt:bcg-growth-share-matrix`, `kt:bill-of-materials`, `kt:bruce-henderson`, `kt:bullwhip-effect`, `kt:business-process-reengineering` …
-2. `kt:a-resource-based-view-of-the-firm-1984`, `kt:aggregation-theory`, `kt:airline-deregulation-act`, `kt:airline-industry`, `kt:alexander-osterwalder`, `kt:amazon`, `kt:antitrust-law`, `kt:app-store`, `kt:apple-inc`, `kt:apple-iphone-launch`, `kt:barriers-to-entry`, `kt:ben-thompson` …
+1. `kt:a-resource-based-view-of-the-firm-1984`, `kt:advertising-elasticity`, `kt:aggregation-theory`, `kt:airline-deregulation-act`, `kt:airline-industry`, `kt:alexander-osterwalder`, `kt:alfred-marshall`, `kt:amazon`, `kt:antitrust-law`, `kt:app-store`, `kt:apple-inc`, `kt:apple-iphone-launch` …
+2. `kt:adverse-selection`, `kt:agreement-on-government-procurement`, `kt:bengt-holmstrom`, `kt:best-value-tradeoff`, `kt:bid-protest`, `kt:bidder-subsidies`, `kt:career-concerns`, `kt:competition-in-contracting-act`, `kt:compstat`, `kt:contract-pricing`, `kt:contract-theory`, `kt:contracting-officer` …
 3. `kt:agency-costs`, `kt:arbitrage`, `kt:asset-pricing`, `kt:behavioral-finance`, `kt:black-scholes-model`, `kt:business-valuation`, `kt:capital-asset-pricing-model`, `kt:capital-budgeting`, `kt:capital-structure`, `kt:cash-conversion-cycle`, `kt:corporate-finance`, `kt:cost-of-capital` …
-4. `kt:a-parasuraman`, `kt:accrued-revenue`, `kt:advertising-elasticity`, `kt:alfred-marshall`, `kt:american-customer-satisfaction-index`, `kt:churn-rate`, `kt:cloud-computing`, `kt:conceptual-model-of-service-quality-1985`, `kt:cost-plus-pricing`, `kt:costco`, `kt:cross-price-elasticity`, `kt:customer-equity` …
-5. `kt:a-group-process-model-for-problem-identification-and-program-planning-1971`, `kt:amy-edmondson`, `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963`, `kt:andre-delbecq`, `kt:andrew-van-de-ven`, `kt:authentic-dissent`, `kt:bay-of-pigs-invasion`, `kt:brainstorming`, `kt:change-management`, `kt:competing-values-framework`, `kt:decision-making`, `kt:delphi-method` …
+4. `kt:amy-edmondson`, `kt:analog-devices`, `kt:balanced-scorecard`, `kt:baldrige-excellence-framework`, `kt:benchmarking`, `kt:change-management`, `kt:competing-values-framework`, `kt:david-p-norton`, `kt:deloitte`, `kt:double-loop-learning`, `kt:edgar-schein`, `kt:edwin-locke` …
+5. `kt:agile-software-development`, `kt:alfred-d-chandler-jr`, `kt:alfred-p-sloan-jr`, `kt:annual-model-change`, `kt:assembly-line`, `kt:automotive-industry`, `kt:bill-of-materials`, `kt:bullwhip-effect`, `kt:business-process-reengineering`, `kt:cisco-systems`, `kt:demand-driven-mrp`, `kt:demand-forecasting` …
 6. `kt:accounting-fraud`, `kt:adolf-berle`, `kt:arthur-andersen`, `kt:audit-committee`, `kt:board-of-directors`, `kt:business-ethics`, `kt:business-judgment-rule`, `kt:business-roundtable`, `kt:business-roundtable-statement-on-corporate-governance-1997`, `kt:business-roundtable-statement-on-corporate-purpose`, `kt:cadbury-report`, `kt:caremark-oversight-duty` …
 7. `kt:a-behavioral-theory-of-the-firm`, `kt:a-model-of-growth-through-creative-destruction-1992`, `kt:andy-grove`, `kt:blockbuster-decline`, `kt:cannibalization`, `kt:capitalism-socialism-and-democracy`, `kt:central-problems-in-the-management-of-innovation-1986`, `kt:charles-a-oreilly`, `kt:clayton-christensen`, `kt:closed-innovation`, `kt:corporate-decline`, `kt:corporate-turnaround` …
 8. `kt:a3-report`, `kt:aristotle`, `kt:barbara-minto`, `kt:barrier-analysis`, `kt:bass-diffusion-model`, `kt:benjamin-tregoe`, `kt:bottom-line-up-front`, `kt:business-communication`, `kt:charles-kepner`, `kt:confirmation-bias`, `kt:crossing-the-chasm`, `kt:customer-development` …
-9. `kt:agreement-on-government-procurement`, `kt:best-value-tradeoff`, `kt:bid-protest`, `kt:bidder-subsidies`, `kt:competition-in-contracting-act`, `kt:compstat`, `kt:contract-pricing`, `kt:contracting-officer`, `kt:contracting-officers-representative`, `kt:cost-plus-contract`, `kt:creating-public-value-1995`, `kt:cybersecurity-maturity-model-certification` …
-10. `kt:adverse-selection`, `kt:bengt-holmstrom`, `kt:business-format-franchising`, `kt:career-concerns`, `kt:contract-theory`, `kt:direct-marketing`, `kt:direct-selling`, `kt:distribution-channel`, `kt:economic-theory-of-agency-ross-1973`, `kt:federal-trade-commission-act`, `kt:franchising`, `kt:ftc-franchise-rule` …
+9. `kt:accrual-accounting`, `kt:accrued-revenue`, `kt:brand-equity`, `kt:brand-management`, `kt:cash-basis-accounting`, `kt:david-aaker`, `kt:debt-covenant`, `kt:deferred-revenue`, `kt:ebitda`, `kt:enterprise-value-multiples`, `kt:eu-ias-regulation`, `kt:fair-value-measurement` …
+10. `kt:a-group-process-model-for-problem-identification-and-program-planning-1971`, `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963`, `kt:andre-delbecq`, `kt:andrew-van-de-ven`, `kt:authentic-dissent`, `kt:bay-of-pigs-invasion`, `kt:brainstorming`, `kt:decision-making`, `kt:delphi-method`, `kt:devils-advocacy`, `kt:dialectical-inquiry`, `kt:engaged-scholarship` …
 
 ## By type
 
@@ -53,7 +53,7 @@
 - Industry: 2
 - Metric: 8
 - Person: 11
-- Practice: 31
+- Practice: 32
 - Regulation: 7
 - Strategy: 1
 - Theory: 18
@@ -71,7 +71,7 @@
 - innovation-and-entrepreneurship: 12
 - leadership-and-management: 12
 - managerial-economics: 13
-- marketing: 12
+- marketing: 13
 - operations-and-supply-chain: 13
 - organizational-behavior: 13
 - strategy: 13
