@@ -5521,6 +5521,89 @@
       ]
     },
     {
+      "@id": "kt:kepner-tregoe-method",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis",
+      "skos:definition": "A set of four structured thinking processes (Situation Appraisal, Problem Analysis, Decision Analysis and Potential Problem Analysis) developed by Charles Kepner and Benjamin Tregoe for finding the cause of a performance deviation, choosing among alternatives and protecting a plan.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The New Rational Manager",
+          "dcterms:publisher": "Kepner-Tregoe, Inc. (Charles H. Kepner and Benjamin B. Tregoe)",
+          "schema:url": "https://kepner-tregoe.com/wp-content/uploads/2021/10/E_New-Rat-Man_secured.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Kepner-Tregoe Matrix",
+          "dcterms:publisher": "Agency for Healthcare Research and Quality (AHRQ), U.S. Department of Health and Human Services",
+          "schema:url": "https://digital.ahrq.gov/health-it-tools-and-resources/evaluation-resources/workflow-assessment-health-it-toolkit/all-workflow-tools/kepner-tregoe-matrix",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "A Path to Management Development and to the Measurement of Its Growth (Report 63-2)",
+          "dcterms:publisher": "U.S. Department of Agriculture, Office of Personnel (via DTIC)",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/AD0645772.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Management Training and Post-Industrial Apologetics",
+          "dcterms:publisher": "California Management Review",
+          "schema:url": "https://cmr.berkeley.edu/1978/08/20-4-management-training-and-post-industrial-apologetics/",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/kepner-tregoe-method.md",
+      "skos:altLabel": [
+        "Kepner-Tregoe",
+        "KT method",
+        "Kepner-Tregoe matrix",
+        "is/is not analysis",
+        "KT problem analysis",
+        "rational process"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:decision-making"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:root-cause-analysis"
+        },
+        {
+          "@id": "kt:five-whys"
+        },
+        {
+          "@id": "kt:ishikawa-diagram"
+        },
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:charles-kepner"
+        },
+        {
+          "@id": "kt:benjamin-tregoe"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-rational-manager-1965"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:ishikawa-diagram"
+        }
+      ]
+    },
+    {
       "@id": "kt:mece-principle",
       "@type": "kto:Framework",
       "skos:prefLabel": "MECE Principle",
@@ -5870,6 +5953,9 @@
         },
         {
           "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:kepner-tregoe-method"
         }
       ],
       "kto:hasPart": [

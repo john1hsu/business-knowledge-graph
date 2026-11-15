@@ -2573,6 +2573,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kanban> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/kanban-method> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2000/01/rdf-schema#label> "Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#altLabel> "KT method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#altLabel> "KT problem analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#altLabel> "Kepner-Tregoe matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#altLabel> "Kepner-Tregoe" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#altLabel> "is/is not analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#altLabel> "rational process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#definition> "A set of four structured thinking processes (Situation Appraisal, Problem Analysis, Decision Analysis and Potential Problem Analysis) developed by Charles Kepner and Benjamin Tregoe for finding the cause of a performance deviation, choosing among alternatives and protecting a plan." .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/five-whys> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/benjamin-tregoe> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/charles-kepner> .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-rational-manager-1965> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <http://www.w3.org/2000/01/rdf-schema#label> "Kodak Decline" .
@@ -3691,6 +3717,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/five-whys> .
 <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
 <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/issue-tree> .
+<https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kepner-tregoe-method> .
 <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s1> .
 <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s2> .
 <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/root-cause-analysis/s3> .
@@ -6887,6 +6914,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kanban/s6> <https://schema.org/url> "https://www.cio.com/article/286826/agile-development-how-the-kanban-method-changes-software-engineering.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s1> <http://purl.org/dc/terms/publisher> "Kepner-Tregoe, Inc. (Charles H. Kepner and Benjamin B. Tregoe)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s1> <http://purl.org/dc/terms/title> "The New Rational Manager" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s1> <https://schema.org/url> "https://kepner-tregoe.com/wp-content/uploads/2021/10/E_New-Rat-Man_secured.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s2> <http://purl.org/dc/terms/publisher> "Agency for Healthcare Research and Quality (AHRQ), U.S. Department of Health and Human Services" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s2> <http://purl.org/dc/terms/title> "Kepner-Tregoe Matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s2> <https://schema.org/url> "https://digital.ahrq.gov/health-it-tools-and-resources/evaluation-resources/workflow-assessment-health-it-toolkit/all-workflow-tools/kepner-tregoe-matrix" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s3> <http://purl.org/dc/terms/publisher> "U.S. Department of Agriculture, Office of Personnel (via DTIC)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s3> <http://purl.org/dc/terms/title> "A Path to Management Development and to the Measurement of Its Growth (Report 63-2)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s3> <https://schema.org/url> "https://apps.dtic.mil/sti/pdfs/AD0645772.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s4> <http://purl.org/dc/terms/publisher> "California Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s4> <http://purl.org/dc/terms/title> "Management Training and Post-Industrial Apologetics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/kepner-tregoe-method/s4> <https://schema.org/url> "https://cmr.berkeley.edu/1978/08/20-4-management-training-and-post-industrial-apologetics/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <http://purl.org/dc/terms/publisher> "Business History Review 99(1), 3–38 (2025), Cambridge University Press (record via EconPapers/RePEc)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <http://purl.org/dc/terms/title> "The Problem of Sustaining a Successful Enterprise: Kodak's Multiple Takes at Strategic Renewal that Culminated in Failure" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

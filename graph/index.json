@@ -2169,6 +2169,28 @@
     ]
   },
   {
+    "id": "kt:kepner-tregoe-method",
+    "title": "Kepner-Tregoe Method: Rational Processes for Problem and Decision Analysis",
+    "aliases": [
+      "Kepner-Tregoe",
+      "KT method",
+      "Kepner-Tregoe matrix",
+      "is/is not analysis",
+      "KT problem analysis",
+      "rational process"
+    ],
+    "type": "Framework",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/kepner-tregoe-method.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://kepner-tregoe.com/wp-content/uploads/2021/10/E_New-Rat-Man_secured.pdf",
+      "https://digital.ahrq.gov/health-it-tools-and-resources/evaluation-resources/workflow-assessment-health-it-toolkit/all-workflow-tools/kepner-tregoe-matrix",
+      "https://apps.dtic.mil/sti/pdfs/AD0645772.pdf",
+      "https://cmr.berkeley.edu/1978/08/20-4-management-training-and-post-industrial-apologetics/"
+    ]
+  },
+  {
     "id": "kt:kodak-decline",
     "title": "Kodak Decline",
     "aliases": [

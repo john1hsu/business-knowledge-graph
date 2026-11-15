@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:cost-structure` | `kt:activity-based-costing`, `kt:economies-of-scale`, `kt:experience-curve` |
 | `kt:customer-relationship-management` | `kt:customer-lifetime-value`, `kt:customer-satisfaction`, `kt:enterprise-resource-planning` |
+| `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
@@ -51,7 +52,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
-| `kt:decision-making` | `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
@@ -158,6 +158,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bass-diffusion-model` | `kt:technology-adoption-life-cycle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:ben-thompson` | `kt:aggregation-theory` |
+| `kt:benjamin-tregoe` | `kt:kepner-tregoe-method` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:birger-wernerfelt` | `kt:resource-based-view` |
 | `kt:black-scholes-model` | `kt:arbitrage` |
@@ -180,6 +181,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:centralization-and-decentralization` | `kt:span-of-control` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
+| `kt:charles-kepner` | `kt:kepner-tregoe-method` |
 | `kt:chris-anderson` | `kt:long-tail` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:closed-innovation` | `kt:open-innovation` |
@@ -532,6 +534,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:the-pyramid-principle-logic-in-writing-and-thinking` | `kt:pyramid-principle` |
+| `kt:the-rational-manager-1965` | `kt:kepner-tregoe-method` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |

@@ -9,7 +9,7 @@ summary: >-
   underlying system causes that produced it, rather than its symptoms or the person nearest to it,
   and to design corrective actions that stop it recurring.
 broader: [kt:structured-problem-solving, kt:total-quality-management]
-related: [kt:ishikawa-diagram, kt:five-whys, kt:issue-tree]
+related: [kt:ishikawa-diagram, kt:five-whys, kt:issue-tree, kt:kepner-tregoe-method]
 relations:
   - {predicate: hasPart, object: kt:barrier-analysis}
   - {predicate: contrastsWith, object: kt:failure-mode-and-effects-analysis}
