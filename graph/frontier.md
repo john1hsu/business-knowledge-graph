@@ -7,11 +7,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:operations-management` | `kt:inventory-management`, `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
+| `kt:organizational-behavior` | `kt:leadership`, `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
-| `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:business-ecosystem` |
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:asset-pricing`, `kt:efficient-market-hypothesis` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
@@ -26,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hewlett-packard` | `kt:hoshin-kanri`, `kt:management-by-objectives`, `kt:bullwhip-effect` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
+| `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:organization-theory` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
@@ -81,9 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
-| `kt:leadership` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:lyndall-urwick` | `kt:henri-fayol`, `kt:span-of-control` |
-| `kt:management` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
@@ -96,6 +95,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:microeconomics` | `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
+| `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
@@ -416,7 +416,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
-| `kt:ohio-state-leadership-studies` | `kt:situational-leadership` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:olaf-helmer` | `kt:delphi-method` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
@@ -549,6 +548,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
 | `kt:trade-credit` | `kt:working-capital` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
+| `kt:transformational-leadership` | `kt:leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:triple-bottom-line` | `kt:corporate-social-responsibility` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |

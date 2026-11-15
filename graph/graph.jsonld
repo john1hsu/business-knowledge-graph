@@ -10017,6 +10017,87 @@
       ]
     },
     {
+      "@id": "kt:leadership",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Leadership: Influencing People Toward Shared Goals",
+      "skos:definition": "A social influence relationship in which a leader and followers who depend on one another work toward shared goals; in management scholarship it is studied through trait, behavioral, contingency and relational approaches and is commonly distinguished from, but complementary to, management.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "13.1 The Nature of Leadership",
+          "dcterms:publisher": "OpenStax, Principles of Management (Bright, Cortes et al.)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/13-1-the-nature-of-leadership",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "13.5 Behavioral Approaches to Leadership",
+          "dcterms:publisher": "OpenStax, Principles of Management",
+          "schema:url": "https://openstax.org/books/principles-management/pages/13-5-behavioral-approaches-to-leadership",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "What Leaders Really Do",
+          "dcterms:publisher": "Harvard Business Review (John P. Kotter; 1990, reprinted December 2001), hosted by Harvard Kennedy School",
+          "schema:url": "https://bsc.hks.harvard.edu/files/2023/04/kotter_what_leaders_really_do_hbr_2001.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Managers and Leaders: Are They Different?",
+          "dcterms:publisher": "Harvard Business Review (Abraham Zaleznik; 1977, HBR Classic reprint 2004)",
+          "schema:url": "https://store.hbr.org/product/managers-and-leaders-are-they-different/R0401G",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Personality and leadership: A qualitative and quantitative review (Judge, Bono, Ilies & Gerhardt, Journal of Applied Psychology 87(4), 2002)",
+          "dcterms:publisher": "Shanghai University of Finance and Economics academic newsletter (abstract record)",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/372622",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "'No More Heroes': Critical Perspectives on Leadership Romanticism (Organization Studies manuscript)",
+          "dcterms:publisher": "CORE open-access repository",
+          "schema:url": "https://core.ac.uk/download/96837727.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/leadership.md",
+      "skos:altLabel": [
+        "organizational leadership",
+        "business leadership"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-behavior"
+        },
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:situational-leadership"
+        },
+        {
+          "@id": "kt:contingency-theory-of-leadership"
+        },
+        {
+          "@id": "kt:transformational-leadership"
+        },
+        {
+          "@id": "kt:ohio-state-leadership-studies"
+        },
+        {
+          "@id": "kt:change-management"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:management"
+        }
+      ]
+    },
+    {
       "@id": "kt:management-by-objectives",
       "@type": "kto:Practice",
       "skos:prefLabel": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",

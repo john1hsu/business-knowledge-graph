@@ -2703,6 +2703,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Leadership: Influencing People Toward Shared Goals" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "business leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "organizational leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#definition> "A social influence relationship in which a leader and followers who depend on one another work toward shared goals; in management scholarship it is studied through trait, behavioral, contingency and relational approaches and is commonly distinguished from, but complementary to, management." .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leadership: Influencing People Toward Shared Goals" .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/change-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ohio-state-leadership-studies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transformational-leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> <http://www.w3.org/2000/01/rdf-schema#label> "Lean Manufacturing: Eliminating Waste Across the Value Stream" .
@@ -7151,6 +7173,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/kodak-decline/s6> <https://schema.org/url> "https://caseworks.business.columbia.edu/caseworks/leap-void-how-digital-disruption-broke-kodak-and-transformed-fuji" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management (Bright, Cortes et al.)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s1> <http://purl.org/dc/terms/title> "13.1 The Nature of Leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s1> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/13-1-the-nature-of-leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s2> <http://purl.org/dc/terms/title> "13.5 Behavioral Approaches to Leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/13-5-behavioral-approaches-to-leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review (John P. Kotter; 1990, reprinted December 2001), hosted by Harvard Kennedy School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s3> <http://purl.org/dc/terms/title> "What Leaders Really Do" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s3> <https://schema.org/url> "https://bsc.hks.harvard.edu/files/2023/04/kotter_what_leaders_really_do_hbr_2001.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Abraham Zaleznik; 1977, HBR Classic reprint 2004)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s4> <http://purl.org/dc/terms/title> "Managers and Leaders: Are They Different?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s4> <https://schema.org/url> "https://store.hbr.org/product/managers-and-leaders-are-they-different/R0401G" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s5> <http://purl.org/dc/terms/publisher> "Shanghai University of Finance and Economics academic newsletter (abstract record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s5> <http://purl.org/dc/terms/title> "Personality and leadership: A qualitative and quantitative review (Judge, Bono, Ilies & Gerhardt, Journal of Applied Psychology 87(4), 2002)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s5> <https://schema.org/url> "https://academicnewsletter.sufe.edu.cn/info/372622" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s6> <http://purl.org/dc/terms/publisher> "CORE open-access repository" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s6> <http://purl.org/dc/terms/title> "'No More Heroes': Critical Perspectives on Leadership Romanticism (Organization Studies manuscript)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s6> <https://schema.org/url> "https://core.ac.uk/download/96837727.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute (James P. Womack)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <http://purl.org/dc/terms/title> "Lean Thinking: A Look Back and a Look Forward" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/lean-manufacturing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

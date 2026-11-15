@@ -2278,6 +2278,26 @@
     ]
   },
   {
+    "id": "kt:leadership",
+    "title": "Leadership: Influencing People Toward Shared Goals",
+    "aliases": [
+      "organizational leadership",
+      "business leadership"
+    ],
+    "type": "Concept",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/leadership.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/13-1-the-nature-of-leadership",
+      "https://openstax.org/books/principles-management/pages/13-5-behavioral-approaches-to-leadership",
+      "https://bsc.hks.harvard.edu/files/2023/04/kotter_what_leaders_really_do_hbr_2001.pdf",
+      "https://store.hbr.org/product/managers-and-leaders-are-they-different/R0401G",
+      "https://academicnewsletter.sufe.edu.cn/info/372622",
+      "https://core.ac.uk/download/96837727.pdf"
+    ]
+  },
+  {
     "id": "kt:lean-manufacturing",
     "title": "Lean Manufacturing: Eliminating Waste Across the Value Stream",
     "aliases": [
