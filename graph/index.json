@@ -676,6 +676,26 @@
     ]
   },
   {
+    "id": "kt:change-management",
+    "title": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
+    "aliases": [
+      "organizational change management",
+      "planned organizational change",
+      "managing organizational change"
+    ],
+    "type": "Practice",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/change-management.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://fcm.ucsf.edu/sites/g/files/tkssra17611/files/Kotter_WhyTransformationEffortsFail.pdf",
+      "https://dspace.stir.ac.uk/handle/1893/21356",
+      "https://openaccess.wgtn.ac.nz/articles/journal_contribution/Unfreezing_change_as_three_steps_Rethinking_Kurt_Lewin_s_legacy_for_change_management/12735971",
+      "https://research.brighton.ac.uk/en/publications/do-70-per-cent-of-all-organizational-change-initiatives-really-fa/",
+      "https://courses.lumenlearning.com/suny-orgbehavior/chapter/14-3-organizational-change/"
+    ]
+  },
+  {
     "id": "kt:clayton-christensen",
     "title": "Clayton Christensen",
     "aliases": [

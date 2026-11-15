@@ -13888,6 +13888,97 @@
       ]
     },
     {
+      "@id": "kt:change-management",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
+      "skos:definition": "The discipline of planning, leading and embedding organization-wide change in strategy, structure, technology or culture so that people adopt new ways of working; its canonical models are the unfreeze-change-refreeze sequence attributed to Kurt Lewin and John Kotter's eight-step process.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Leading Change: Why Transformation Efforts Fail (John P. Kotter, Harvard Business Review, March-April 1995)",
+          "dcterms:publisher": "Harvard Business Review (copy hosted by UCSF Family and Community Medicine)",
+          "schema:url": "https://fcm.ucsf.edu/sites/g/files/tkssra17611/files/Kotter_WhyTransformationEffortsFail.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Kurt Lewin and the Planned Approach to Change: A Re-appraisal (Bernard Burnes, Journal of Management Studies 41(6), 2004)",
+          "dcterms:publisher": "University of Stirling (STORRE repository record)",
+          "schema:url": "https://dspace.stir.ac.uk/handle/1893/21356",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Unfreezing Change as Three Steps: Rethinking Kurt Lewin's Legacy for Change Management (Cummings, Bridgman and Brown, Human Relations 69(1), 2016)",
+          "dcterms:publisher": "Victoria University of Wellington open access repository",
+          "schema:url": "https://openaccess.wgtn.ac.nz/articles/journal_contribution/Unfreezing_change_as_three_steps_Rethinking_Kurt_Lewin_s_legacy_for_change_management/12735971",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Do 70 Per Cent of All Organizational Change Initiatives Really Fail? (Mark Hughes, Journal of Change Management 11(4), 2011)",
+          "dcterms:publisher": "University of Brighton research portal",
+          "schema:url": "https://research.brighton.ac.uk/en/publications/do-70-per-cent-of-all-organizational-change-initiatives-really-fa/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "14.3 Organizational Change (An Introduction to Organizational Behavior)",
+          "dcterms:publisher": "Lumen Learning / SUNY (CC BY-NC-SA 4.0)",
+          "schema:url": "https://courses.lumenlearning.com/suny-orgbehavior/chapter/14-3-organizational-change/",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/change-management.md",
+      "skos:altLabel": [
+        "organizational change management",
+        "planned organizational change",
+        "managing organizational change"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-behavior"
+        },
+        {
+          "@id": "kt:organization-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organizational-culture"
+        },
+        {
+          "@id": "kt:strategy-execution"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        },
+        {
+          "@id": "kt:resistance-to-change"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:kurt-lewin"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:kotters-eight-step-model"
+        },
+        {
+          "@id": "kt:lewins-three-step-model"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ibm-turnaround"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:organizational-culture"
+        }
+      ]
+    },
+    {
       "@id": "kt:devils-advocacy",
       "@type": "kto:Practice",
       "skos:prefLabel": "Devil's Advocate Method",

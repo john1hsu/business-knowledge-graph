@@ -7,10 +7,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:operations-management` | `kt:inventory-management`, `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
-| `kt:change-management` | `kt:ibm-turnaround`, `kt:andrew-van-de-ven`, `kt:strategy-execution`, `kt:organizational-culture` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
+| `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:business-ecosystem` |
 | `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
@@ -25,7 +25,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
-| `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:public-administration` | `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
@@ -349,12 +348,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kingdomware-technologies-v-united-states` | `kt:small-business-set-asides` |
 | `kt:knowledge-transfer` | `kt:organizational-learning` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
+| `kt:kotters-eight-step-model` | `kt:change-management` |
 | `kt:kraft-heinz` | `kt:goodwill` |
+| `kt:kurt-lewin` | `kt:change-management` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
 | `kt:learning-curve` | `kt:experience-curve` |
 | `kt:learning-organization` | `kt:organizational-learning` |
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
 | `kt:leonard-berry` | `kt:gaps-model-of-service-quality` |
+| `kt:lewins-three-step-model` | `kt:change-management` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
@@ -462,6 +464,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relative-valuation` | `kt:discounted-cash-flow` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
+| `kt:resistance-to-change` | `kt:change-management` |
 | `kt:return-on-equity` | `kt:dupont-analysis` |
 | `kt:revenue-premium` | `kt:brand-equity` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |

@@ -808,6 +808,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/trade-off-theory-of-capital-structure> .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/debt-to-equity-ratio> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2000/01/rdf-schema#label> "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps" .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#altLabel> "managing organizational change" .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#altLabel> "organizational change management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#altLabel> "planned organizational change" .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organization-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#definition> "The discipline of planning, leading and embedding organization-wide change in strategy, structure, technology or culture so that people adopt new ways of working; its canonical models are the unfreeze-change-refreeze sequence attributed to Kurt Lewin and John Kotter's eight-step process." .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#prefLabel> "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps" .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/resistance-to-change> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/kotters-eight-step-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/lewins-three-step-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/change-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kurt-lewin> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <http://www.w3.org/2000/01/rdf-schema#label> "Clayton Christensen" .
@@ -4849,6 +4874,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s4> <https://schema.org/url> "https://pages.stern.nyu.edu/%7Ejwurgler/papers/capstruct.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (copy hosted by UCSF Family and Community Medicine)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s1> <http://purl.org/dc/terms/title> "Leading Change: Why Transformation Efforts Fail (John P. Kotter, Harvard Business Review, March-April 1995)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s1> <https://schema.org/url> "https://fcm.ucsf.edu/sites/g/files/tkssra17611/files/Kotter_WhyTransformationEffortsFail.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s2> <http://purl.org/dc/terms/publisher> "University of Stirling (STORRE repository record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s2> <http://purl.org/dc/terms/title> "Kurt Lewin and the Planned Approach to Change: A Re-appraisal (Bernard Burnes, Journal of Management Studies 41(6), 2004)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s2> <https://schema.org/url> "https://dspace.stir.ac.uk/handle/1893/21356" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s3> <http://purl.org/dc/terms/publisher> "Victoria University of Wellington open access repository" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s3> <http://purl.org/dc/terms/title> "Unfreezing Change as Three Steps: Rethinking Kurt Lewin's Legacy for Change Management (Cummings, Bridgman and Brown, Human Relations 69(1), 2016)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s3> <https://schema.org/url> "https://openaccess.wgtn.ac.nz/articles/journal_contribution/Unfreezing_change_as_three_steps_Rethinking_Kurt_Lewin_s_legacy_for_change_management/12735971" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s4> <http://purl.org/dc/terms/publisher> "University of Brighton research portal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s4> <http://purl.org/dc/terms/title> "Do 70 Per Cent of All Organizational Change Initiatives Really Fail? (Mark Hughes, Journal of Change Management 11(4), 2011)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s4> <https://schema.org/url> "https://research.brighton.ac.uk/en/publications/do-70-per-cent-of-all-organizational-change-initiatives-really-fa/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <http://purl.org/dc/terms/publisher> "Lumen Learning / SUNY (CC BY-NC-SA 4.0)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <http://purl.org/dc/terms/title> "14.3 Organizational Change (An Introduction to Organizational Behavior)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/change-management/s5> <https://schema.org/url> "https://courses.lumenlearning.com/suny-orgbehavior/chapter/14-3-organizational-change/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Working Knowledge" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://purl.org/dc/terms/title> "Clayton M. Christensen, Acclaimed Author and Teacher, Dies at 67" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
