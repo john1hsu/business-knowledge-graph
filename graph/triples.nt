@@ -677,6 +677,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/mcdonalds> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ftc-franchise-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2000/01/rdf-schema#label> "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#altLabel> "BMC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#altLabel> "Osterwalder canvas" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#altLabel> "business model canvas" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#altLabel> "nine building blocks of a business model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#definition> "A one-page visual template, developed by Alexander Osterwalder and Yves Pigneur from Osterwalder's business model ontology, that describes how an organization creates, delivers and captures value through nine building blocks, from customer segments to cost structure." .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/alexander-osterwalder> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/yves-pigneur> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-generation-2010> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2000/01/rdf-schema#label> "Business Model: How a Firm Creates, Delivers and Captures Value" .
@@ -686,6 +710,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2004/02/skos/core#definition> "The conceptual architecture of how a firm creates value for customers, delivers it, and captures part of that value as profit; a system of choices and their consequences that sits between strategy and tactics." .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business Model: How a Firm Creates, Delivers and Captures Value" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
@@ -4744,6 +4769,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s7> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <http://purl.org/dc/terms/publisher> "Communications of the Association for Information Systems 15, Article 1 (2005) (copy hosted by KTH)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <http://purl.org/dc/terms/title> "Clarifying Business Models: Origins, Present, and Future of the Concept" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <https://schema.org/url> "https://kth.se/social/upload/528c4a3cf276545904bb9e58/Osterwalder%20%282005%29.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s2> <http://purl.org/dc/terms/publisher> "John Wiley & Sons, 2010 (excerpt hosted by e-bookshelf)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s2> <http://purl.org/dc/terms/title> "Business Model Generation (front matter and opening chapter excerpt)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s2> <https://schema.org/url> "https://download.e-bookshelf.de/download/0000/5810/64/L-G-0000581064-0004488200.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review, May 2013 (copy hosted by Gustavus Adolphus College)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s3> <http://purl.org/dc/terms/title> "Why the Lean Start-Up Changes Everything" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s3> <https://schema.org/url> "https://gustavus.edu/academics/departments/business-and-economics/concertFiles/media/2020_Gustie_Cup/Blank_2013.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s4> <http://purl.org/dc/terms/publisher> "Proceedings of BMSD 2015 (SciTePress), pp. 86–95" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s4> <http://purl.org/dc/terms/title> "Extending the Business Model Canvas: A Dynamic Perspective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s4> <https://schema.org/url> "https://scitepress.org/Papers/2015/58858/pdf/index.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <http://purl.org/dc/terms/publisher> "Strategyzer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <http://purl.org/dc/terms/title> "Business Models (Business Model Canvas overview)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <https://schema.org/url> "https://www.strategyzer.com/expertise/business-models" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model/s1> <http://purl.org/dc/terms/publisher> "Long Range Planning 43 (2010), pp. 172–194 (author copy hosted by KTH)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model/s1> <http://purl.org/dc/terms/title> "Business Models, Business Strategy and Innovation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

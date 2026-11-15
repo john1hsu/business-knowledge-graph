@@ -7,14 +7,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:operations-management` | `kt:inventory-management`, `kt:just-in-time`, `kt:lean-manufacturing`, `kt:mass-production`, `kt:total-quality-management`, `kt:toyota-production-system` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
+| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:business-model-canvas`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:working-capital` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:organizational-behavior` | `kt:amy-edmondson`, `kt:change-management`, `kt:j-richard-hackman`, `kt:organizational-culture` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:business-ecosystem` |
-| `kt:apple-inc` | `kt:apple-iphone-launch`, `kt:corporate-finance`, `kt:brand-equity` |
 | `kt:asset-pricing` | `kt:arbitrage`, `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:business-ethics` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:corporate-social-responsibility`, `kt:stakeholder-theory` |
+| `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:competitive-advantage` | `kt:experience-curve`, `kt:first-mover-advantage`, `kt:resource-based-view` |
 | `kt:corporate-decline` | `kt:blockbuster-decline`, `kt:general-motors`, `kt:kodak-decline` |
@@ -41,7 +42,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:behavioral-finance` | `kt:arbitrage`, `kt:efficient-market-hypothesis` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
-| `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:churn-rate` | `kt:saas-business-model`, `kt:subscription-business-model` |
@@ -123,6 +123,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
+| `kt:value-proposition` | `kt:business-model-canvas`, `kt:business-model` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:transaction-cost-economics` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
@@ -139,6 +140,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
+| `kt:alexander-osterwalder` | `kt:business-model-canvas` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
 | `kt:amazon` | `kt:long-tail` |
@@ -163,7 +165,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:business-communication` | `kt:pyramid-principle` |
-| `kt:business-model-canvas` | `kt:lean-startup` |
+| `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
@@ -550,7 +552,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:v-a-graicunas` | `kt:span-of-control` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
 | `kt:value-based-pricing` | `kt:pricing-strategy` |
-| `kt:value-proposition` | `kt:business-model` |
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
@@ -562,3 +563,4 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |
+| `kt:yves-pigneur` | `kt:business-model-canvas` |

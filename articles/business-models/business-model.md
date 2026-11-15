@@ -8,7 +8,7 @@ summary: >-
   The conceptual architecture of how a firm creates value for customers, delivers it, and captures part
   of that value as profit; a system of choices and their consequences that sits between strategy and tactics.
 broader: [kt:strategic-management]
-related: [kt:business-model-innovation, kt:value-proposition, kt:jobs-to-be-done, kt:razor-and-blades-model, kt:freemium]
+related: [kt:business-model-innovation, kt:value-proposition, kt:jobs-to-be-done, kt:razor-and-blades-model, kt:freemium, kt:business-model-canvas]
 relations:
   - {predicate: influencedBy, object: kt:david-j-teece}
   - {predicate: contrastsWith, object: kt:competitive-strategy}

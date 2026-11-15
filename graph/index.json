@@ -592,6 +592,27 @@
     ]
   },
   {
+    "id": "kt:business-model-canvas",
+    "title": "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template",
+    "aliases": [
+      "business model canvas",
+      "BMC",
+      "Osterwalder canvas",
+      "nine building blocks of a business model"
+    ],
+    "type": "Framework",
+    "domain": "business-models",
+    "file": "articles/business-models/business-model-canvas.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://kth.se/social/upload/528c4a3cf276545904bb9e58/Osterwalder%20%282005%29.pdf",
+      "https://download.e-bookshelf.de/download/0000/5810/64/L-G-0000581064-0004488200.pdf",
+      "https://gustavus.edu/academics/departments/business-and-economics/concertFiles/media/2020_Gustie_Cup/Blank_2013.pdf",
+      "https://scitepress.org/Papers/2015/58858/pdf/index.html",
+      "https://www.strategyzer.com/expertise/business-models"
+    ]
+  },
+  {
     "id": "kt:business-roundtable-statement-on-corporate-purpose",
     "title": "Business Roundtable Statement on the Purpose of a Corporation",
     "aliases": [

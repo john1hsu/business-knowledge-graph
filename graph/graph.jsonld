@@ -3868,6 +3868,92 @@
       ]
     },
     {
+      "@id": "kt:business-model-canvas",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template",
+      "skos:definition": "A one-page visual template, developed by Alexander Osterwalder and Yves Pigneur from Osterwalder's business model ontology, that describes how an organization creates, delivers and captures value through nine building blocks, from customer segments to cost structure.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Clarifying Business Models: Origins, Present, and Future of the Concept",
+          "dcterms:publisher": "Communications of the Association for Information Systems 15, Article 1 (2005) (copy hosted by KTH)",
+          "schema:url": "https://kth.se/social/upload/528c4a3cf276545904bb9e58/Osterwalder%20%282005%29.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Business Model Generation (front matter and opening chapter excerpt)",
+          "dcterms:publisher": "John Wiley & Sons, 2010 (excerpt hosted by e-bookshelf)",
+          "schema:url": "https://download.e-bookshelf.de/download/0000/5810/64/L-G-0000581064-0004488200.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Why the Lean Start-Up Changes Everything",
+          "dcterms:publisher": "Harvard Business Review, May 2013 (copy hosted by Gustavus Adolphus College)",
+          "schema:url": "https://gustavus.edu/academics/departments/business-and-economics/concertFiles/media/2020_Gustie_Cup/Blank_2013.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Extending the Business Model Canvas: A Dynamic Perspective",
+          "dcterms:publisher": "Proceedings of BMSD 2015 (SciTePress), pp. 86–95",
+          "schema:url": "https://scitepress.org/Papers/2015/58858/pdf/index.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Business Models (Business Model Canvas overview)",
+          "dcterms:publisher": "Strategyzer",
+          "schema:url": "https://www.strategyzer.com/expertise/business-models",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/business-models/business-model-canvas.md",
+      "skos:altLabel": [
+        "business model canvas",
+        "BMC",
+        "Osterwalder canvas",
+        "nine building blocks of a business model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:value-proposition"
+        },
+        {
+          "@id": "kt:business-model-innovation"
+        },
+        {
+          "@id": "kt:platform-business-model"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:alexander-osterwalder"
+        },
+        {
+          "@id": "kt:yves-pigneur"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:business-model-generation-2010"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:lean-startup"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:apple-inc"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Business Model: How a Firm Creates, Delivers and Captures Value",
@@ -3932,6 +4018,9 @@
         },
         {
           "@id": "kt:freemium"
+        },
+        {
+          "@id": "kt:business-model-canvas"
         }
       ],
       "kto:influencedBy": [
