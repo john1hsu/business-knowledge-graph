@@ -901,6 +901,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://purl.org/dc/terms/created> "2026-11-15" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2000/01/rdf-schema#label> "Competitive Advantage: Why Some Firms Persistently Outperform Rivals" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "competitive advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "competitive edge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "sustainable competitive advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#altLabel> "sustained competitive advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#definition> "The condition in which a firm creates more economic value than its rivals, by delivering greater customer value at comparable cost or comparable value at lower cost, and so earns superior returns; it is sustained when competitors cannot readily copy or neutralize the source of that edge." .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#prefLabel> "Competitive Advantage: Why Some Firms Persistently Outperform Rivals" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/generic-competitive-strategies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> .
+<https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Contingency Theory of Leadership" .
@@ -5059,6 +5081,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/clayton-christensen/s6> <https://schema.org/url> "https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/how-history-shaped-innovators-dilemma-tom-nicholas" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Rice University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s1> <http://purl.org/dc/terms/title> "Principles of Management, 8.6 Competition, Strategy, and Competitive Advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s1> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/8-6-competition-strategy-and-competitive-advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review, November-December 1996 (course copy, Agricultural University of Athens)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s2> <http://purl.org/dc/terms/title> "What Is Strategy?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s2> <https://schema.org/url> "https://oeclass.aua.gr/eclass/modules/document/file.php/5565/porter%20what%20is.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s3> <http://purl.org/dc/terms/publisher> "Journal of Management 17(1):99-120 (Crossref record, DOI 10.1177/014920639101700108)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s3> <http://purl.org/dc/terms/title> "Firm Resources and Sustained Competitive Advantage" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s3> <https://schema.org/url> "https://api.crossref.org/works/10.1177/014920639101700108" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s4> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 12(3):167-185 (record at RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s4> <http://purl.org/dc/terms/title> "How much does industry matter?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s4> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v12y1991i3p167-185.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 26(10):887-911 (record at RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <http://purl.org/dc/terms/title> "Schumpeter's ghost: Is hypercompetition making the best of times shorter?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v26y2005i10p887-911.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Management)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s1> <http://purl.org/dc/terms/title> "13.6 Situational (Contingency) Approaches to Leadership" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

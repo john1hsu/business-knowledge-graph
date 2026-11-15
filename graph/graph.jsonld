@@ -15518,6 +15518,84 @@
       ]
     },
     {
+      "@id": "kt:competitive-advantage",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Competitive Advantage: Why Some Firms Persistently Outperform Rivals",
+      "skos:definition": "The condition in which a firm creates more economic value than its rivals, by delivering greater customer value at comparable cost or comparable value at lower cost, and so earns superior returns; it is sustained when competitors cannot readily copy or neutralize the source of that edge.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-15",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Management, 8.6 Competition, Strategy, and Competitive Advantage",
+          "dcterms:publisher": "OpenStax (Rice University)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/8-6-competition-strategy-and-competitive-advantage",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "What Is Strategy?",
+          "dcterms:publisher": "Harvard Business Review, November-December 1996 (course copy, Agricultural University of Athens)",
+          "schema:url": "https://oeclass.aua.gr/eclass/modules/document/file.php/5565/porter%20what%20is.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Firm Resources and Sustained Competitive Advantage",
+          "dcterms:publisher": "Journal of Management 17(1):99-120 (Crossref record, DOI 10.1177/014920639101700108)",
+          "schema:url": "https://api.crossref.org/works/10.1177/014920639101700108",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How much does industry matter?",
+          "dcterms:publisher": "Strategic Management Journal 12(3):167-185 (record at RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v12y1991i3p167-185.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Schumpeter's ghost: Is hypercompetition making the best of times shorter?",
+          "dcterms:publisher": "Strategic Management Journal 26(10):887-911 (record at RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v26y2005i10p887-911.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/strategy/competitive-advantage.md",
+      "skos:altLabel": [
+        "competitive advantage",
+        "sustained competitive advantage",
+        "sustainable competitive advantage",
+        "competitive edge"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:resource-based-view"
+        },
+        {
+          "@id": "kt:porters-five-forces"
+        },
+        {
+          "@id": "kt:generic-competitive-strategies"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:michael-porter"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:operational-effectiveness"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:southwest-airlines"
+        }
+      ]
+    },
+    {
       "@id": "kt:david-j-teece",
       "@type": "kto:Person",
       "skos:prefLabel": "David J. Teece",

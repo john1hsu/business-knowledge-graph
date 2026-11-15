@@ -759,6 +759,27 @@
     ]
   },
   {
+    "id": "kt:competitive-advantage",
+    "title": "Competitive Advantage: Why Some Firms Persistently Outperform Rivals",
+    "aliases": [
+      "competitive advantage",
+      "sustained competitive advantage",
+      "sustainable competitive advantage",
+      "competitive edge"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/competitive-advantage.md",
+    "created": "2026-11-15",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/8-6-competition-strategy-and-competitive-advantage",
+      "https://oeclass.aua.gr/eclass/modules/document/file.php/5565/porter%20what%20is.pdf",
+      "https://api.crossref.org/works/10.1177/014920639101700108",
+      "https://ideas.repec.org/a/bla/stratm/v12y1991i3p167-185.html",
+      "https://ideas.repec.org/a/bla/stratm/v26y2005i10p887-911.html"
+    ]
+  },
+  {
     "id": "kt:contingency-theory-of-leadership",
     "title": "Contingency Theory of Leadership",
     "aliases": [
