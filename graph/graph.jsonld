@@ -9279,6 +9279,103 @@
       ]
     },
     {
+      "@id": "kt:cybersecurity-maturity-model-certification",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "Cybersecurity Maturity Model Certification (CMMC): Verifying Defense Contractors' Cyber Hygiene",
+      "skos:definition": "The US Department of Defense program, codified at 32 CFR Part 170, that makes award of defense contracts conditional on a contractor's verified implementation of tiered cybersecurity requirements for protecting Federal Contract Information and Controlled Unclassified Information.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Cybersecurity Maturity Model Certification (CMMC) Program, final rule, 89 FR 83092 (32 CFR Part 170)",
+          "dcterms:publisher": "Federal Register, via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2024-10-15/html/2024-22905.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "About CMMC",
+          "dcterms:publisher": "Chief Information Officer, U.S. Department of War",
+          "schema:url": "https://dodcio.defense.gov/CMMC/About/",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Contractor Cybersecurity: Stakeholder Communication and Performance Goals Could Improve Certification Framework (GAO-22-104679)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/gao-22-104679",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Contractor Cybersecurity: DOD Should Address External Factors That Could Impede Program Implementation (GAO-26-107955)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://files.gao.gov/reports/GAO-26-107955/index.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "SBA Commends U.S. Department of War's Suspension of CMMC Phase II for Small Defense Contractors",
+          "dcterms:publisher": "U.S. Small Business Administration",
+          "schema:url": "https://legacy.sba.gov/article/2026/07/13/sba-commends-us-department-wars-suspension-cmmc-phase-ii-small-defense-contractors",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Pentagon Suspends CMMC Phase 2 Requirements and Launches Review of Cybersecurity Certification Program",
+          "dcterms:publisher": "WilmerHale",
+          "schema:url": "https://www.wilmerhale.com/en/insights/client-alerts/20260720-pentagon-suspends-cmmc-phase-2-requirements-and-launches-review-of-cybersecurity-certification-program",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/cybersecurity-maturity-model-certification.md",
+      "skos:altLabel": [
+        "CMMC",
+        "CMMC 2.0",
+        "CMMC Program",
+        "32 CFR Part 170"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:government-accountability-office"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:department-of-defense"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:defense-federal-acquisition-regulation-supplement"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:nist-sp-800-171"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:defense-industrial-base"
+        }
+      ]
+    },
+    {
       "@id": "kt:defense-federal-acquisition-regulation-supplement",
       "@type": "kto:Regulation",
       "skos:prefLabel": "DFARS: Defense Department Rules Layered on Top of the FAR",

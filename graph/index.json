@@ -1227,6 +1227,28 @@
     ]
   },
   {
+    "id": "kt:cybersecurity-maturity-model-certification",
+    "title": "Cybersecurity Maturity Model Certification (CMMC): Verifying Defense Contractors' Cyber Hygiene",
+    "aliases": [
+      "CMMC",
+      "CMMC 2.0",
+      "CMMC Program",
+      "32 CFR Part 170"
+    ],
+    "type": "Regulation",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/cybersecurity-maturity-model-certification.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/FR-2024-10-15/html/2024-22905.htm",
+      "https://dodcio.defense.gov/CMMC/About/",
+      "https://www.gao.gov/products/gao-22-104679",
+      "https://files.gao.gov/reports/GAO-26-107955/index.html",
+      "https://legacy.sba.gov/article/2026/07/13/sba-commends-us-department-wars-suspension-cmmc-phase-ii-small-defense-contractors",
+      "https://www.wilmerhale.com/en/insights/client-alerts/20260720-pentagon-suspends-cmmc-phase-2-requirements-and-launches-review-of-cybersecurity-certification-program"
+    ]
+  },
+  {
     "id": "kt:david-j-teece",
     "title": "David J. Teece",
     "aliases": [

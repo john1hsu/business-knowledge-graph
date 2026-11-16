@@ -53,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule` |
+| `kt:department-of-defense` | `kt:cybersecurity-maturity-model-certification`, `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:employee-motivation` | `kt:j-richard-hackman`, `kt:organizational-behavior` |
@@ -237,13 +238,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction` |
-| `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:david-packard` | `kt:hewlett-packard` |
 | `kt:debt-covenant` | `kt:ebitda` |
 | `kt:decision-rights` | `kt:span-of-control` |
+| `kt:defense-industrial-base` | `kt:cybersecurity-maturity-model-certification` |
 | `kt:degree-of-operating-leverage` | `kt:cost-structure` |
 | `kt:delegation` | `kt:span-of-control` |
 | `kt:dell-technologies` | `kt:working-capital` |
@@ -251,7 +252,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:demand-forecasting` | `kt:inventory-management` |
 | `kt:deontology` | `kt:business-ethics` |
-| `kt:department-of-defense` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dfars-procedures-guidance-and-information` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:diffusion-of-innovations` | `kt:technology-adoption-life-cycle` |
@@ -449,6 +449,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
 | `kt:new-market-entry` | `kt:apple-iphone-launch` |
 | `kt:new-product-development` | `kt:cannibalization` |
+| `kt:nist-sp-800-171` | `kt:cybersecurity-maturity-model-certification` |
 | `kt:norman-dalkey` | `kt:delphi-method` |
 | `kt:nsf-innovation-corps` | `kt:customer-development` |
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
