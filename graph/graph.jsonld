@@ -7472,6 +7472,109 @@
       ]
     },
     {
+      "@id": "kt:capital-budgeting",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Capital Budgeting: Evaluating and Selecting Long-Term Investment Projects",
+      "skos:definition": "The process by which a firm identifies, evaluates, ranks and approves investments in long-lived assets such as plant, equipment, new products and new markets, using screening criteria and valuation methods (payback, NPV, IRR, profitability index) under limits on funds and time.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Accounting, Volume 2, Section 11.1: Describe Capital Investment Decisions and How They Are Applied",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/11-1-describe-capital-investment-decisions-and-how-they-are-applied",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Finance, Chapter 16: How Companies Think about Investing — Why It Matters",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/16-why-it-matters",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Finance, Section 16.4: Alternative Methods",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/16-4-alternative-methods",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Finance, Section 16.5: Choosing between Projects",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/16-5-choosing-between-projects",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Capital Allocation and Delegation of Decision-Making Authority within Firms",
+          "dcterms:publisher": "National Bureau of Economic Research (Working Paper 17370)",
+          "schema:url": "https://nber.org/papers/w17370",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Delusions of Success: How Optimism Undermines Executives' Decisions",
+          "dcterms:publisher": "Harvard Business School Working Knowledge (archive)",
+          "schema:url": "https://hbswk.hbs.edu/archive/delusions-of-success-how-optimism-undermines-executives-decisions",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Capital Budgeting: Top-Management Policy on Plant, Equipment, and Product Development",
+          "dcterms:publisher": "Columbia University Press (catalogue record, Austrian Academy of Sciences library)",
+          "schema:url": "https://oeaw.ac.at/resources/Record/9780231879316",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/capital-budgeting.md",
+      "skos:altLabel": [
+        "capital investment decisions",
+        "capital investment analysis",
+        "investment appraisal",
+        "project appraisal",
+        "capital expenditure planning"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:discounted-cash-flow"
+        },
+        {
+          "@id": "kt:real-options"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:decision-making"
+        },
+        {
+          "@id": "kt:overconfidence-bias"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:net-present-value"
+        },
+        {
+          "@id": "kt:internal-rate-of-return"
+        },
+        {
+          "@id": "kt:payback-period"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:joel-dean"
+        }
+      ]
+    },
+    {
       "@id": "kt:capital-structure",
       "@type": "kto:Concept",
       "skos:prefLabel": "Capital Structure: The Mix of Debt and Equity Financing",

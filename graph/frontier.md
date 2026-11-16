@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
-| `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:real-options`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
@@ -24,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:max-weber` | `kt:public-administration`, `kt:transformational-leadership`, `kt:organization-theory` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
+| `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:capital-budgeting`, `kt:scenario-planning` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
@@ -77,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
 | `kt:informativeness-principle` | `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
+| `kt:internal-rate-of-return` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
@@ -100,10 +101,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
-| `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:scenario-planning` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:patient-safety` | `kt:five-whys`, `kt:root-cause-analysis` |
+| `kt:payback-period` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:private-equity` | `kt:leveraged-buyout`, `kt:venture-capital` |
@@ -356,7 +357,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:insurance-industry` | `kt:adverse-selection` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:interchangeable-parts` | `kt:mass-production` |
-| `kt:internal-rate-of-return` | `kt:net-present-value` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:james-f-moore` | `kt:business-ecosystem` |
@@ -370,6 +370,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:job-enrichment` | `kt:j-richard-hackman` |
 | `kt:joe-m-bohlen` | `kt:technology-adoption-life-cycle` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
+| `kt:joel-dean` | `kt:capital-budgeting` |
 | `kt:john-burr-williams` | `kt:discounted-cash-flow` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
@@ -459,7 +460,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
-| `kt:payback-period` | `kt:net-present-value` |
 | `kt:penetration-pricing` | `kt:pricing-strategy` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:performance-appraisal` | `kt:performance-management` |

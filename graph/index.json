@@ -783,6 +783,30 @@
     ]
   },
   {
+    "id": "kt:capital-budgeting",
+    "title": "Capital Budgeting: Evaluating and Selecting Long-Term Investment Projects",
+    "aliases": [
+      "capital investment decisions",
+      "capital investment analysis",
+      "investment appraisal",
+      "project appraisal",
+      "capital expenditure planning"
+    ],
+    "type": "Practice",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/capital-budgeting.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://openstax.org/books/principles-managerial-accounting/pages/11-1-describe-capital-investment-decisions-and-how-they-are-applied",
+      "https://openstax.org/books/principles-finance/pages/16-why-it-matters",
+      "https://openstax.org/books/principles-finance/pages/16-4-alternative-methods",
+      "https://openstax.org/books/principles-finance/pages/16-5-choosing-between-projects",
+      "https://nber.org/papers/w17370",
+      "https://hbswk.hbs.edu/archive/delusions-of-success-how-optimism-undermines-executives-decisions",
+      "https://oeaw.ac.at/resources/Record/9780231879316"
+    ]
+  },
+  {
     "id": "kt:capital-structure",
     "title": "Capital Structure: The Mix of Debt and Equity Financing",
     "aliases": [

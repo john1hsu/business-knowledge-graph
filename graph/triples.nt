@@ -935,6 +935,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/william-sharpe> .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modern-portfolio-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2000/01/rdf-schema#label> "Capital Budgeting: Evaluating and Selecting Long-Term Investment Projects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#altLabel> "capital expenditure planning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#altLabel> "capital investment analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#altLabel> "capital investment decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#altLabel> "investment appraisal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#altLabel> "project appraisal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#definition> "The process by which a firm identifies, evaluates, ranks and approves investments in long-lived assets such as plant, equipment, new products and new markets, using screening criteria and valuation methods (payback, NPV, IRR, profitability index) under limits on funds and time." .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Capital Budgeting: Evaluating and Selecting Long-Term Investment Projects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/real-options> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joel-dean> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/payback-period> .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> <http://www.w3.org/2000/01/rdf-schema#label> "Capital Structure: The Mix of Debt and Equity Financing" .
@@ -5803,6 +5832,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-asset-pricing-model/s5> <https://schema.org/url> "https://www.gsb.stanford.edu/experience/news-history/professor-william-sharpe-shares-nobel-prize-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s1> <http://purl.org/dc/terms/title> "Principles of Accounting, Volume 2, Section 11.1: Describe Capital Investment Decisions and How They Are Applied" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s1> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/11-1-describe-capital-investment-decisions-and-how-they-are-applied" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s2> <http://purl.org/dc/terms/title> "Principles of Finance, Chapter 16: How Companies Think about Investing — Why It Matters" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s2> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/16-why-it-matters" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s3> <http://purl.org/dc/terms/title> "Principles of Finance, Section 16.4: Alternative Methods" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s3> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/16-4-alternative-methods" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s4> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s4> <http://purl.org/dc/terms/title> "Principles of Finance, Section 16.5: Choosing between Projects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s4> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/16-5-choosing-between-projects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s5> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (Working Paper 17370)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s5> <http://purl.org/dc/terms/title> "Capital Allocation and Delegation of Decision-Making Authority within Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s5> <https://schema.org/url> "https://nber.org/papers/w17370" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s6> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge (archive)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s6> <http://purl.org/dc/terms/title> "Delusions of Success: How Optimism Undermines Executives' Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s6> <https://schema.org/url> "https://hbswk.hbs.edu/archive/delusions-of-success-how-optimism-undermines-executives-decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s7> <http://purl.org/dc/terms/publisher> "Columbia University Press (catalogue record, Austrian Academy of Sciences library)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s7> <http://purl.org/dc/terms/title> "Capital Budgeting: Top-Management Policy on Plant, Equipment, and Product Development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/capital-budgeting/s7> <https://schema.org/url> "https://oeaw.ac.at/resources/Record/9780231879316" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Finance 2e (Knight and Dahlquist)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <http://purl.org/dc/terms/title> "17.5 Optimal Capital Structure" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/capital-structure/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
