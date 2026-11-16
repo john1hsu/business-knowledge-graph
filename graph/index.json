@@ -205,6 +205,27 @@
     ]
   },
   {
+    "id": "kt:apple-inc",
+    "title": "Apple Inc.: From Personal Computers to a Platform Ecosystem",
+    "aliases": [
+      "Apple",
+      "Apple Computer",
+      "Apple Computer, Inc."
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/apple-inc.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.britannica.com/money/Apple-Inc",
+      "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+      "https://www.library.hbs.edu/working-knowledge/the-evolution-of-apple",
+      "https://www.library.hbs.edu/working-knowledge/the-5-strategy-rules-of-bill-gates-andy-grove-and-steve-jobs",
+      "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_1161/IP_24_1161_EN.pdf",
+      "https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets"
+    ]
+  },
+  {
     "id": "kt:apple-iphone-launch",
     "title": "Apple iPhone Launch",
     "aliases": [

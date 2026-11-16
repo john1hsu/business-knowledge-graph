@@ -2709,6 +2709,106 @@
       ]
     },
     {
+      "@id": "kt:apple-inc",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Apple Inc.: From Personal Computers to a Platform Ecosystem",
+      "skos:definition": "The Cupertino technology company founded in 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne, studied as a case of near-collapse and turnaround after Jobs's 1997 return, of tightly integrated hardware, software and services, and of an iPhone-centred ecosystem whose control over app distribution has drawn antitrust action in the EU and the United States.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Apple Inc.",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/Apple-Inc",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Apple Inc., Form 10-K for the fiscal year ended September 27, 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Evolution of Apple",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/the-evolution-of-apple",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The 5 Strategy Rules of Bill Gates, Andy Grove, and Steve Jobs",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/the-5-strategy-rules-of-bill-gates-andy-grove-and-steve-jobs",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Commission fines Apple over €1.8 billion over abusive App store rules for music streaming providers (IP/24/1161)",
+          "dcterms:publisher": "European Commission",
+          "schema:url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_1161/IP_24_1161_EN.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Justice Department Sues Apple for Monopolizing Smartphone Markets",
+          "dcterms:publisher": "U.S. Department of Justice, Office of Public Affairs",
+          "schema:url": "https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/apple-inc.md",
+      "skos:altLabel": [
+        "Apple",
+        "Apple Computer",
+        "Apple Computer, Inc."
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:computer-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:apple-iphone-launch"
+        },
+        {
+          "@id": "kt:hewlett-packard"
+        },
+        {
+          "@id": "kt:intel"
+        },
+        {
+          "@id": "kt:switching-costs"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:steve-jobs"
+        },
+        {
+          "@id": "kt:steve-wozniak"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:platform-business-model"
+        },
+        {
+          "@id": "kt:business-ecosystem"
+        },
+        {
+          "@id": "kt:strategic-renewal"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:computer-industry"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ]
+    },
+    {
       "@id": "kt:apple-iphone-launch",
       "@type": "kto:Case",
       "skos:prefLabel": "Apple iPhone Launch",

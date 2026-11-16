@@ -240,6 +240,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/merger-guidelines> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/sherman-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2000/01/rdf-schema#label> "Apple Inc.: From Personal Computers to a Platform Ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#altLabel> "Apple Computer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#altLabel> "Apple Computer, Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#altLabel> "Apple" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#definition> "The Cupertino technology company founded in 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne, studied as a case of near-collapse and turnaround after Jobs's 1997 return, of tightly integrated hardware, software and services, and of an iPhone-centred ecosystem whose control over app distribution has drawn antitrust action in the EU and the United States." .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Apple Inc.: From Personal Computers to a Platform Ecosystem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hewlett-packard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/steve-jobs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/steve-wozniak> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/business-ecosystem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
 <https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/apple-iphone-launch> <http://www.w3.org/2000/01/rdf-schema#label> "Apple iPhone Launch" .
@@ -4804,6 +4831,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s6> <https://schema.org/url> "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s1> <http://purl.org/dc/terms/title> "Apple Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s1> <https://schema.org/url> "https://www.britannica.com/money/Apple-Inc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s2> <http://purl.org/dc/terms/title> "Apple Inc., Form 10-K for the fiscal year ended September 27, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s2> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s3> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s3> <http://purl.org/dc/terms/title> "The Evolution of Apple" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s3> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/the-evolution-of-apple" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s4> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s4> <http://purl.org/dc/terms/title> "The 5 Strategy Rules of Bill Gates, Andy Grove, and Steve Jobs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s4> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/the-5-strategy-rules-of-bill-gates-andy-grove-and-steve-jobs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s5> <http://purl.org/dc/terms/publisher> "European Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s5> <http://purl.org/dc/terms/title> "Commission fines Apple over €1.8 billion over abusive App store rules for music streaming providers (IP/24/1161)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s5> <https://schema.org/url> "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_24_1161/IP_24_1161_EN.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Office of Public Affairs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s6> <http://purl.org/dc/terms/title> "Justice Department Sues Apple for Monopolizing Smartphone Markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/apple-inc/s6> <https://schema.org/url> "https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <http://purl.org/dc/terms/publisher> "Apple Inc. press release, January 9, 2007" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <http://purl.org/dc/terms/title> "Apple Reinvents the Phone with iPhone" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/apple-iphone-launch/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
