@@ -15734,6 +15734,101 @@
       ]
     },
     {
+      "@id": "kt:supply-chain-management",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Supply Chain Management: Integrating Sourcing, Production and Distribution Across Firms",
+      "skos:definition": "The systemic, strategic coordination of business functions within a firm and across the suppliers and customers linked to it, so that flows of products, services, money and information from source to final customer are managed as one system rather than as separate functional silos.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Defining Supply Chain Management",
+          "dcterms:publisher": "Journal of Business Logistics (author copy hosted by Lehigh University)",
+          "schema:url": "https://bpb-us-w2.wpmucdn.com/wordpress.lehigh.edu/dist/e/653/files/2018/01/Zacharia-JBL-Defining-SCM-2001-2biyclb.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "When Will Supply Chain Management Grow Up?",
+          "dcterms:publisher": "strategy+business",
+          "schema:url": "https://www.strategy-business.com/article/03304",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Origins and Growth of Supply Chain Management",
+          "dcterms:publisher": "Supply Chain Resource Cooperative, NC State University Poole College of Management",
+          "schema:url": "https://scm.ncsu.edu/scm-articles/article/the-origins-and-growth-of-supply-chain-management",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "What Is the Right Supply Chain for Your Product?",
+          "dcterms:publisher": "Harvard Business Review (copy hosted by University of Patras)",
+          "schema:url": "https://eclass.upatras.gr/modules/document/file.php/MECH1277/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%95%CE%A3-PAPERS%20%CE%91%CE%9D%CE%9F%CE%99%CE%9E%CE%97%202024/2-Right%20Supply%20Chain%20B.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "FACT SHEET: Biden-Harris Administration Announces Supply Chain Disruptions Task Force to Address Short-Term Supply Chain Discontinuities",
+          "dcterms:publisher": "The White House (archived)",
+          "schema:url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/supply-chain-management.md",
+      "skos:altLabel": [
+        "supply chain management",
+        "SCM",
+        "total supply chain management",
+        "integrated supply chain management"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bullwhip-effect"
+        },
+        {
+          "@id": "kt:just-in-time"
+        },
+        {
+          "@id": "kt:enterprise-resource-planning"
+        },
+        {
+          "@id": "kt:business-ecosystem"
+        },
+        {
+          "@id": "kt:transaction-cost-economics"
+        },
+        {
+          "@id": "kt:supply-chain-resilience"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:keith-oliver"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:industrial-dynamics"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:inventory-management"
+        },
+        {
+          "@id": "kt:logistics"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:campbell-soup-company"
+        }
+      ]
+    },
+    {
       "@id": "kt:taiichi-ohno",
       "@type": "kto:Person",
       "skos:prefLabel": "Taiichi Ohno",

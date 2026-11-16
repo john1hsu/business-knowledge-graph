@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
-| `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:operations-management`, `kt:business-ecosystem` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:computer-industry` | `kt:apple-inc`, `kt:apple-inc`, `kt:hewlett-packard`, `kt:hewlett-packard` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -73,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
+| `kt:industrial-dynamics` | `kt:bullwhip-effect`, `kt:supply-chain-management` |
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
 | `kt:informativeness-principle` | `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
@@ -182,6 +182,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:business-valuation` | `kt:discounted-cash-flow` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
+| `kt:campbell-soup-company` | `kt:supply-chain-management` |
 | `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
 | `kt:career-concerns` | `kt:bengt-holmstrom` |
 | `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
@@ -334,7 +335,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:independent-director` | `kt:board-of-directors` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
-| `kt:industrial-dynamics` | `kt:bullwhip-effect` |
 | `kt:industry-analysis` | `kt:porters-five-forces` |
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
@@ -366,6 +366,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kaizen` | `kt:five-whys` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:kc-x-tanker-competition` | `kt:bid-protest` |
+| `kt:keith-oliver` | `kt:supply-chain-management` |
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |
 | `kt:kingdomware-technologies-v-united-states` | `kt:small-business-set-asides` |
@@ -382,6 +383,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lewins-three-step-model` | `kt:change-management` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
+| `kt:logistics` | `kt:supply-chain-management` |
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
@@ -554,6 +556,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
+| `kt:supply-chain-resilience` | `kt:supply-chain-management` |
 | `kt:sustainability-reporting` | `kt:ifrs` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |

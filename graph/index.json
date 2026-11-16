@@ -4054,6 +4054,27 @@
     ]
   },
   {
+    "id": "kt:supply-chain-management",
+    "title": "Supply Chain Management: Integrating Sourcing, Production and Distribution Across Firms",
+    "aliases": [
+      "supply chain management",
+      "SCM",
+      "total supply chain management",
+      "integrated supply chain management"
+    ],
+    "type": "Field",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/supply-chain-management.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://bpb-us-w2.wpmucdn.com/wordpress.lehigh.edu/dist/e/653/files/2018/01/Zacharia-JBL-Defining-SCM-2001-2biyclb.pdf",
+      "https://www.strategy-business.com/article/03304",
+      "https://scm.ncsu.edu/scm-articles/article/the-origins-and-growth-of-supply-chain-management",
+      "https://eclass.upatras.gr/modules/document/file.php/MECH1277/%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%95%CE%A3-PAPERS%20%CE%91%CE%9D%CE%9F%CE%99%CE%9E%CE%97%202024/2-Right%20Supply%20Chain%20B.pdf",
+      "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/06/08/fact-sheet-biden-harris-administration-announces-supply-chain-disruptions-task-force-to-address-short-term-supply-chain-discontinuities"
+    ]
+  },
+  {
     "id": "kt:switching-costs",
     "title": "Consumer Switching Costs",
     "aliases": [
