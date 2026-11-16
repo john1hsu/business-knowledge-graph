@@ -3397,6 +3397,27 @@
     ]
   },
   {
+    "id": "kt:public-administration",
+    "title": "Public Administration: Implementing Public Policy Through Government Agencies",
+    "aliases": [
+      "public sector administration",
+      "government administration",
+      "administration of government"
+    ],
+    "type": "Field",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/public-administration.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.britannica.com/topic/public-administration",
+      "https://faculty.fiu.edu/~revellk/pad3003/Wilson.pdf",
+      "https://openstax.org/books/introduction-political-science/pages/10-7-what-are-the-purpose-and-function-of-bureaucracies",
+      "https://openstax.org/books/american-government/pages/15-2-toward-a-merit-based-civil-service",
+      "https://academic.oup.com/edited-volume/27993/chapter-abstract/211717420",
+      "https://law-journals-books.vlex.com/vid/the-complementarity-view-exploring-900925006"
+    ]
+  },
+  {
     "id": "kt:public-procurement",
     "title": "Public Procurement",
     "aliases": [

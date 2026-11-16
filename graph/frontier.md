@@ -5,16 +5,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
-| `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:real-options`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
-| `kt:public-administration` | `kt:government-accountability-office`, `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
@@ -89,11 +88,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
+| `kt:max-weber` | `kt:public-administration`, `kt:organization-theory` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
+| `kt:new-public-management` | `kt:public-administration`, `kt:public-value` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
@@ -192,6 +193,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:charles-kepner` | `kt:kepner-tregoe-method` |
 | `kt:chris-anderson` | `kt:long-tail` |
+| `kt:civil-service` | `kt:public-administration` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:closed-innovation` | `kt:open-innovation` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
@@ -404,7 +406,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mary-parker-follett` | `kt:lyndall-urwick` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
-| `kt:max-weber` | `kt:organization-theory` |
 | `kt:mcdonalds` | `kt:business-format-franchising` |
 | `kt:measure-costs-right-make-the-right-decisions-1988` | `kt:activity-based-costing` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
@@ -429,7 +430,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
 | `kt:new-market-entry` | `kt:apple-iphone-launch` |
 | `kt:new-product-development` | `kt:cannibalization` |
-| `kt:new-public-management` | `kt:public-value` |
 | `kt:norman-dalkey` | `kt:delphi-method` |
 | `kt:nsf-innovation-corps` | `kt:customer-development` |
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
@@ -457,6 +457,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:personal-selling` | `kt:direct-selling` |
 | `kt:pierre-wack` | `kt:scenario-planning` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
+| `kt:political-science` | `kt:public-administration` |
 | `kt:portfolio-planning` | `kt:bcg-growth-share-matrix` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
 | `kt:power-interest-grid` | `kt:stakeholder-analysis` |
@@ -580,6 +581,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:the-pyramid-principle-logic-in-writing-and-thinking` | `kt:pyramid-principle` |
 | `kt:the-rational-manager-1965` | `kt:kepner-tregoe-method` |
+| `kt:the-study-of-administration-1887` | `kt:public-administration` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
