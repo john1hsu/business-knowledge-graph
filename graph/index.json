@@ -678,6 +678,27 @@
     ]
   },
   {
+    "id": "kt:business-judgment-rule",
+    "title": "Business Judgment Rule: Judicial Deference to Directors' Decisions",
+    "aliases": [
+      "business judgment rule",
+      "BJR",
+      "business judgment presumption"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/business-judgment-rule.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://law.justia.com/cases/delaware/supreme-court/1984/473-a-2d-805-5.html",
+      "https://corplaw.delaware.gov/delaware-way-business-judgment",
+      "https://law.justia.com/cases/delaware/supreme-court/1985/488-a-2d-858-4.html",
+      "https://scholarship.law.vanderbilt.edu/vlr/vol57/iss1/3",
+      "https://corpgov.law.harvard.edu/2010/02/17/dow-reaffirms-delawares-business-judgment-rule",
+      "https://www.rlf.com/wp-content/uploads/2020/05/5494_Insights-0412_Reprint-2.pdf"
+    ]
+  },
+  {
     "id": "kt:business-model",
     "title": "Business Model: How a Firm Creates, Delivers and Captures Value",
     "aliases": [

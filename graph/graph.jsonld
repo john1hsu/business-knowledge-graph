@@ -1864,6 +1864,103 @@
       ]
     },
     {
+      "@id": "kt:business-judgment-rule",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Business Judgment Rule: Judicial Deference to Directors' Decisions",
+      "skos:definition": "A corporate-law presumption, developed most fully by Delaware courts, that disinterested directors who act on an informed basis and in good faith made their decision in the company's best interest, so courts will not second-guess its merits even if it turns out badly.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Aronson v. Lewis, 473 A.2d 805 (Del. 1984)",
+          "dcterms:publisher": "Supreme Court of Delaware (via Justia)",
+          "schema:url": "https://law.justia.com/cases/delaware/supreme-court/1984/473-a-2d-805-5.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Delaware Way: Deference to the Business Judgment of Directors Who Act Loyally and Carefully",
+          "dcterms:publisher": "Delaware Department of State, Division of Corporations",
+          "schema:url": "https://corplaw.delaware.gov/delaware-way-business-judgment",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Smith v. Van Gorkom, 488 A.2d 858 (Del. 1985)",
+          "dcterms:publisher": "Supreme Court of Delaware (via Justia)",
+          "schema:url": "https://law.justia.com/cases/delaware/supreme-court/1985/488-a-2d-858-4.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Business Judgment Rule as Abstention Doctrine",
+          "dcterms:publisher": "Vanderbilt Law Review",
+          "schema:url": "https://scholarship.law.vanderbilt.edu/vlr/vol57/iss1/3",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Dow Reaffirms Delaware's Business Judgment Rule",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance",
+          "schema:url": "https://corpgov.law.harvard.edu/2010/02/17/dow-reaffirms-delawares-business-judgment-rule",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Director Liability: From Van Gorkom to Southern Peru and Beyond",
+          "dcterms:publisher": "Richards, Layton & Finger (reprinted from INSIGHTS, Aspen Publishers)",
+          "schema:url": "https://www.rlf.com/wp-content/uploads/2020/05/5494_Insights-0412_Reprint-2.pdf",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/business-judgment-rule.md",
+      "skos:altLabel": [
+        "business judgment rule",
+        "BJR",
+        "business judgment presumption"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fiduciary-duty"
+        },
+        {
+          "@id": "kt:corporate-law"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:caremark-oversight-duty"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:smith-v-van-gorkom"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:entire-fairness-standard"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:delaware-general-corporation-law"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:independent-director"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-roundtable-statement-on-corporate-purpose",
       "@type": "kto:Case",
       "skos:prefLabel": "Business Roundtable Statement on the Purpose of a Corporation",

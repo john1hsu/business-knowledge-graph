@@ -8,11 +8,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
+| `kt:corporate-law` | `kt:business-judgment-rule`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
-| `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
@@ -39,8 +39,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
-| `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
+| `kt:caremark-oversight-duty` | `kt:business-judgment-rule`, `kt:fiduciary-duty` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:cisco-systems` | `kt:bill-of-materials`, `kt:inventory-management` |
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
@@ -53,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
 | `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
+| `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:employee-motivation` | `kt:j-richard-hackman`, `kt:organizational-behavior` |
@@ -72,6 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
+| `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect`, `kt:supply-chain-management` |
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
@@ -194,7 +196,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:campbell-soup-company` | `kt:supply-chain-management` |
 | `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
 | `kt:career-concerns` | `kt:bengt-holmstrom` |
-| `kt:caremark-oversight-duty` | `kt:fiduciary-duty` |
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:cash-conversion-cycle` | `kt:working-capital` |
@@ -242,7 +243,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:debt-covenant` | `kt:ebitda` |
 | `kt:decision-rights` | `kt:span-of-control` |
 | `kt:degree-of-operating-leverage` | `kt:cost-structure` |
-| `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
 | `kt:delegation` | `kt:span-of-control` |
 | `kt:dell-technologies` | `kt:working-capital` |
 | `kt:deloitte` | `kt:performance-management` |
@@ -279,6 +279,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
 | `kt:enterprise-value-multiples` | `kt:ebitda` |
+| `kt:entire-fairness-standard` | `kt:business-judgment-rule` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:entrepreneurial-finance` | `kt:venture-capital` |
 | `kt:eric-ries` | `kt:lean-startup` |
@@ -344,7 +345,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ibm-system-360` | `kt:computer-industry` |
 | `kt:ifrs-18` | `kt:ifrs` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
-| `kt:independent-director` | `kt:board-of-directors` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industry-analysis` | `kt:porters-five-forces` |
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
@@ -544,6 +544,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:single-entry-bookkeeping` | `kt:double-entry-bookkeeping` |
 | `kt:small-business-act` | `kt:small-business-set-asides` |
 | `kt:small-business-administration` | `kt:small-business-set-asides` |
+| `kt:smith-v-van-gorkom` | `kt:business-judgment-rule` |
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:social-responsibilities-of-the-businessman` | `kt:corporate-social-responsibility` |
 | `kt:social-science` | `kt:organizational-behavior` |

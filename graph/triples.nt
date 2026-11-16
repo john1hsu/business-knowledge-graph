@@ -806,6 +806,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/mcdonalds> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-format-franchising> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ftc-franchise-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2000/01/rdf-schema#label> "Business Judgment Rule: Judicial Deference to Directors' Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "BJR" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "business judgment presumption" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#altLabel> "business judgment rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/fiduciary-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#definition> "A corporate-law presumption, developed most fully by Delaware courts, that disinterested directors who act on an informed basis and in good faith made their decision in the company's best interest, so courts will not second-guess its merits even if it turns out badly." .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business Judgment Rule: Judicial Deference to Directors' Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/caremark-oversight-duty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/entire-fairness-standard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/independent-director> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/smith-v-van-gorkom> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/delaware-general-corporation-law> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <http://www.w3.org/2000/01/rdf-schema#label> "Business Model Canvas: Osterwalder and Pigneur's Nine-Block Template" .
@@ -5697,6 +5723,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-format-franchising/s7> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/63908/000006390826000035/mcd-20251231.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s1> <http://purl.org/dc/terms/publisher> "Supreme Court of Delaware (via Justia)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s1> <http://purl.org/dc/terms/title> "Aronson v. Lewis, 473 A.2d 805 (Del. 1984)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s1> <https://schema.org/url> "https://law.justia.com/cases/delaware/supreme-court/1984/473-a-2d-805-5.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s2> <http://purl.org/dc/terms/publisher> "Delaware Department of State, Division of Corporations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s2> <http://purl.org/dc/terms/title> "The Delaware Way: Deference to the Business Judgment of Directors Who Act Loyally and Carefully" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s2> <https://schema.org/url> "https://corplaw.delaware.gov/delaware-way-business-judgment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s3> <http://purl.org/dc/terms/publisher> "Supreme Court of Delaware (via Justia)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s3> <http://purl.org/dc/terms/title> "Smith v. Van Gorkom, 488 A.2d 858 (Del. 1985)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s3> <https://schema.org/url> "https://law.justia.com/cases/delaware/supreme-court/1985/488-a-2d-858-4.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s4> <http://purl.org/dc/terms/publisher> "Vanderbilt Law Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s4> <http://purl.org/dc/terms/title> "The Business Judgment Rule as Abstention Doctrine" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s4> <https://schema.org/url> "https://scholarship.law.vanderbilt.edu/vlr/vol57/iss1/3" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s5> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s5> <http://purl.org/dc/terms/title> "Dow Reaffirms Delaware's Business Judgment Rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s5> <https://schema.org/url> "https://corpgov.law.harvard.edu/2010/02/17/dow-reaffirms-delawares-business-judgment-rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s6> <http://purl.org/dc/terms/publisher> "Richards, Layton & Finger (reprinted from INSIGHTS, Aspen Publishers)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s6> <http://purl.org/dc/terms/title> "Director Liability: From Van Gorkom to Southern Peru and Beyond" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-judgment-rule/s6> <https://schema.org/url> "https://www.rlf.com/wp-content/uploads/2020/05/5494_Insights-0412_Reprint-2.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <http://purl.org/dc/terms/publisher> "Communications of the Association for Information Systems 15, Article 1 (2005) (copy hosted by KTH)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <http://purl.org/dc/terms/title> "Clarifying Business Models: Origins, Present, and Future of the Concept" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
