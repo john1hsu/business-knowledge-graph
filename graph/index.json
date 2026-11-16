@@ -887,6 +887,26 @@
     ]
   },
   {
+    "id": "kt:computer-industry",
+    "title": "Computer Industry: Platforms, Modularity and Vertical Disintegration",
+    "aliases": [
+      "computing industry",
+      "computer hardware industry"
+    ],
+    "type": "Industry",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/computer-industry.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://econpapers.repec.org/RePEc:bla:jindec:v:47:y:1999:i:1:p:1-40",
+      "https://www.ibm.com/history/system-360",
+      "https://www.ibm.com/jp-ja/history/personal-computer",
+      "https://scholarsarchive.byu.edu/facpub/8945",
+      "https://www.idc.com/resource-center/press-releases/4q25-pc-top-5-pr/",
+      "https://www.bls.gov/iag/tgs/iag334.htm"
+    ]
+  },
+  {
     "id": "kt:contingency-theory-of-leadership",
     "title": "Contingency Theory of Leadership",
     "aliases": [

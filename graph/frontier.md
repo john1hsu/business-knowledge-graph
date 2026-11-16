@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
-| `kt:computer-industry` | `kt:apple-inc`, `kt:apple-inc`, `kt:hewlett-packard`, `kt:hewlett-packard` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
@@ -35,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
+| `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
@@ -127,7 +127,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:value-proposition` | `kt:business-model-canvas`, `kt:business-model` |
 | `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
-| `kt:vertical-integration` | `kt:platform-business-model`, `kt:transaction-cost-economics` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
@@ -331,6 +330,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:human-resource-management` | `kt:performance-management` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
+| `kt:ibm-system-360` | `kt:computer-industry` |
 | `kt:ifrs-18` | `kt:ifrs` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:independent-director` | `kt:board-of-directors` |
@@ -416,6 +416,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:milton-friedman` | `kt:shareholder-primacy` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:modern-portfolio-theory` | `kt:capital-asset-pricing-model` |
+| `kt:modularity` | `kt:computer-industry` |
 | `kt:motivation` | `kt:goal-setting-theory` |
 | `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |

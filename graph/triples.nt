@@ -1054,6 +1054,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
 <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> .
 <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2000/01/rdf-schema#label> "Computer Industry: Platforms, Modularity and Vertical Disintegration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#altLabel> "computer hardware industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#altLabel> "computing industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#definition> "The industry that designs and builds computers and their peripherals, from mainframes to personal computers; a standard case in industrial organization of platform competition, in which IBM's vertically integrated model gave way to a modular, vertically disintegrated structure with technical leadership split among component, software and system makers." .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#prefLabel> "Computer Industry: Platforms, Modularity and Vertical Disintegration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/modularity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-system-360> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/computer-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Contingency Theory of Leadership" .
@@ -5770,6 +5793,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/competitive-advantage/s5> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v26y2005i10p887-911.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s1> <http://purl.org/dc/terms/publisher> "Journal of Industrial Economics 47(1), 1–40 (1999), via RePEc EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s1> <http://purl.org/dc/terms/title> "Technological Competition and the Structure of the Computer Industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s1> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:jindec:v:47:y:1999:i:1:p:1-40" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s2> <http://purl.org/dc/terms/publisher> "IBM (corporate history)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s2> <http://purl.org/dc/terms/title> "The IBM System/360" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s2> <https://schema.org/url> "https://www.ibm.com/history/system-360" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s3> <http://purl.org/dc/terms/publisher> "IBM (corporate history, Japanese edition)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s3> <http://purl.org/dc/terms/title> "The IBM PC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s3> <https://schema.org/url> "https://www.ibm.com/jp-ja/history/personal-computer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review 75(5), 84–93 (1997), via BYU ScholarsArchive" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s4> <http://purl.org/dc/terms/title> "Managing in an Age of Modularity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s4> <https://schema.org/url> "https://scholarsarchive.byu.edu/facpub/8945" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s5> <http://purl.org/dc/terms/publisher> "IDC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s5> <http://purl.org/dc/terms/title> "Fourth-quarter 2025 PC shipments and full-year 2025 results (preliminary)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s5> <https://schema.org/url> "https://www.idc.com/resource-center/press-releases/4q25-pc-top-5-pr/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s6> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Labor Statistics, Industries at a Glance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s6> <http://purl.org/dc/terms/title> "Computer and Electronic Product Manufacturing: NAICS 334" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/computer-industry/s6> <https://schema.org/url> "https://www.bls.gov/iag/tgs/iag334.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Management)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s1> <http://purl.org/dc/terms/title> "13.6 Situational (Contingency) Approaches to Leadership" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contingency-theory-of-leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

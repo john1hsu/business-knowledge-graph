@@ -12588,6 +12588,92 @@
       ]
     },
     {
+      "@id": "kt:computer-industry",
+      "@type": "kto:Industry",
+      "skos:prefLabel": "Computer Industry: Platforms, Modularity and Vertical Disintegration",
+      "skos:definition": "The industry that designs and builds computers and their peripherals, from mainframes to personal computers; a standard case in industrial organization of platform competition, in which IBM's vertically integrated model gave way to a modular, vertically disintegrated structure with technical leadership split among component, software and system makers.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Technological Competition and the Structure of the Computer Industry",
+          "dcterms:publisher": "Journal of Industrial Economics 47(1), 1–40 (1999), via RePEc EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:jindec:v:47:y:1999:i:1:p:1-40",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The IBM System/360",
+          "dcterms:publisher": "IBM (corporate history)",
+          "schema:url": "https://www.ibm.com/history/system-360",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The IBM PC",
+          "dcterms:publisher": "IBM (corporate history, Japanese edition)",
+          "schema:url": "https://www.ibm.com/jp-ja/history/personal-computer",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Managing in an Age of Modularity",
+          "dcterms:publisher": "Harvard Business Review 75(5), 84–93 (1997), via BYU ScholarsArchive",
+          "schema:url": "https://scholarsarchive.byu.edu/facpub/8945",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Fourth-quarter 2025 PC shipments and full-year 2025 results (preliminary)",
+          "dcterms:publisher": "IDC",
+          "schema:url": "https://www.idc.com/resource-center/press-releases/4q25-pc-top-5-pr/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Computer and Electronic Product Manufacturing: NAICS 334",
+          "dcterms:publisher": "U.S. Bureau of Labor Statistics, Industries at a Glance",
+          "schema:url": "https://www.bls.gov/iag/tgs/iag334.htm",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/computer-industry.md",
+      "skos:altLabel": [
+        "computing industry",
+        "computer hardware industry"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:platform-business-model"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:vertical-integration"
+        },
+        {
+          "@id": "kt:modularity"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ibm-system-360"
+        },
+        {
+          "@id": "kt:intel"
+        }
+      ]
+    },
+    {
       "@id": "kt:contract-theory",
       "@type": "kto:Field",
       "skos:prefLabel": "Contract Theory: How Incentives and Ownership Shape Agreements",
