@@ -21,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
-| `kt:marketing-metrics` | `kt:churn-rate`, `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:max-weber` | `kt:public-administration`, `kt:transformational-leadership`, `kt:organization-theory` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
@@ -51,6 +50,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
+| `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
@@ -86,6 +86,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:cost-structure` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
+| `kt:marketing` | `kt:marketing-metrics`, `kt:services-marketing` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
@@ -229,7 +230,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:current-ratio` | `kt:working-capital` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
-| `kt:customer-equity` | `kt:customer-lifetime-value` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction` |
 | `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dan-schendel` | `kt:strategic-management` |
@@ -410,7 +410,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
-| `kt:marketing` | `kt:services-marketing` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
 | `kt:mary-parker-follett` | `kt:lyndall-urwick` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
@@ -463,6 +462,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:penetration-pricing` | `kt:pricing-strategy` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:performance-appraisal` | `kt:performance-management` |
+| `kt:performance-measurement` | `kt:marketing-metrics` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
 | `kt:pierre-wack` | `kt:scenario-planning` |
@@ -507,6 +507,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
 | `kt:resistance-to-change` | `kt:change-management` |
 | `kt:return-on-equity` | `kt:dupont-analysis` |
+| `kt:return-on-marketing-investment` | `kt:marketing-metrics` |
 | `kt:revenue-premium` | `kt:brand-equity` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |

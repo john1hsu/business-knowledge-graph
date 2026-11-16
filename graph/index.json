@@ -2772,6 +2772,29 @@
     ]
   },
   {
+    "id": "kt:marketing-metrics",
+    "title": "Marketing Metrics: Measuring Marketing Performance and Productivity",
+    "aliases": [
+      "marketing performance measurement",
+      "marketing measurement",
+      "marketing productivity measurement",
+      "marketing accountability metrics",
+      "marketing KPIs"
+    ],
+    "type": "Practice",
+    "domain": "marketing",
+    "file": "articles/marketing/marketing-metrics.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://core.ac.uk/download/13250448.pdf",
+      "https://core.ac.uk/download/210590386.pdf",
+      "https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2020/06/MSI_Report_06-113.pdf",
+      "https://www.informit.com/articles/article.aspx?p=3091775&seqNum=5",
+      "https://themasb.org/?p=5391",
+      "https://www.fuqua.duke.edu/duke-fuqua-insights/marketing-strategic-influence-expands-as-does-scrutiny"
+    ]
+  },
+  {
     "id": "kt:marketing-mix",
     "title": "Marketing Mix: The Four Ps of Product, Price, Place and Promotion",
     "aliases": [

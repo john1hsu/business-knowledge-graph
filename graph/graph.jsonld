@@ -14622,6 +14622,98 @@
       ]
     },
     {
+      "@id": "kt:marketing-metrics",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Marketing Metrics: Measuring Marketing Performance and Productivity",
+      "skos:definition": "The quantitative measures firms use to track marketing activity and its effects, from awareness, satisfaction and intentions through acquisition, retention and customer lifetime value to sales, profit and firm value, so that marketing spending can be planned, judged and tied to financial results.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Measuring Marketing Productivity: Current Knowledge and Future Directions",
+          "dcterms:publisher": "Journal of Marketing 68(4), American Marketing Association (open copy via CORE)",
+          "schema:url": "https://core.ac.uk/download/13250448.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Customer Metrics and Their Impact on Financial Performance",
+          "dcterms:publisher": "Marketing Science 25(6), INFORMS (open copy via CORE)",
+          "schema:url": "https://core.ac.uk/download/210590386.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Beware the Silver Metric: Marketing Performance Measurement Has to Be Multidimensional",
+          "dcterms:publisher": "Marketing Science Institute, Report No. 06-113 (London Business School authors)",
+          "schema:url": "https://thearf-org-unified-admin.s3.amazonaws.com/MSI/2020/06/MSI_Report_06-113.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Marketing Metrics, 4th Edition — 1.1 What Is a Metric?",
+          "dcterms:publisher": "Pearson FT Press (InformIT excerpt)",
+          "schema:url": "https://www.informit.com/articles/article.aspx?p=3091775&seqNum=5",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Common Language Dictionary Launched",
+          "dcterms:publisher": "Marketing Accountability Standards Board (MASB)",
+          "schema:url": "https://themasb.org/?p=5391",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Marketing's Strategic Influence Expands, As Does Scrutiny",
+          "dcterms:publisher": "Duke University Fuqua School of Business (The CMO Survey)",
+          "schema:url": "https://www.fuqua.duke.edu/duke-fuqua-insights/marketing-strategic-influence-expands-as-does-scrutiny",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/marketing/marketing-metrics.md",
+      "skos:altLabel": [
+        "marketing performance measurement",
+        "marketing measurement",
+        "marketing productivity measurement",
+        "marketing accountability metrics",
+        "marketing KPIs"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing"
+        },
+        {
+          "@id": "kt:performance-measurement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:brand-equity"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:marketing-mix"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:churn-rate"
+        },
+        {
+          "@id": "kt:return-on-marketing-investment"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:customer-equity"
+        }
+      ]
+    },
+    {
       "@id": "kt:marketing-mix",
       "@type": "kto:Framework",
       "skos:prefLabel": "Marketing Mix: The Four Ps of Product, Price, Place and Promotion",
