@@ -10,7 +10,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
@@ -33,6 +32,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
+| `kt:alfred-marshall` | `kt:microeconomics`, `kt:price-elasticity` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
@@ -152,7 +152,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:airbnb` | `kt:sharing-economy` |
 | `kt:alexander-osterwalder` | `kt:business-model-canvas` |
-| `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
 | `kt:altman-z-score` | `kt:financial-statement-analysis` |
 | `kt:amazon` | `kt:long-tail` |
@@ -173,6 +172,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barrier-analysis` | `kt:root-cause-analysis` |
 | `kt:bass-diffusion-model` | `kt:technology-adoption-life-cycle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
+| `kt:behavioral-economics` | `kt:microeconomics` |
 | `kt:behavioral-ethics` | `kt:business-ethics` |
 | `kt:ben-thompson` | `kt:aggregation-theory` |
 | `kt:benjamin-tregoe` | `kt:kepner-tregoe-method` |
@@ -267,6 +267,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:economic-growth` | `kt:creative-destruction` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
+| `kt:economics` | `kt:microeconomics` |
 | `kt:economies-of-density` | `kt:walmart` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
 | `kt:edward-michaels` | `kt:value-proposition` |
@@ -404,6 +405,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:loyalty-program` | `kt:customer-relationship-management` |
 | `kt:luca-pacioli` | `kt:double-entry-bookkeeping` |
+| `kt:macroeconomics` | `kt:microeconomics` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-by-walking-around` | `kt:hewlett-packard` |

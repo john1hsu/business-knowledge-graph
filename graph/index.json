@@ -3010,6 +3010,26 @@
     ]
   },
   {
+    "id": "kt:microeconomics",
+    "title": "Microeconomics: How Households and Firms Allocate Scarce Resources Through Markets and Prices",
+    "aliases": [
+      "micro economics",
+      "price theory",
+      "microeconomic theory"
+    ],
+    "type": "Field",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/microeconomics.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://openstax.org/books/principles-microeconomics-3e/pages/1-2-microeconomics-and-macroeconomics",
+      "https://www.britannica.com/money/economics/Microeconomics",
+      "https://openstax.org/books/principles-economics-3e/pages/10-introduction-to-monopolistic-competition-and-oligopoly",
+      "https://hetwebsite.net/het/profiles/marshall.htm",
+      "https://www.nobelprize.org/prizes/economic-sciences/2017/press-release/"
+    ]
+  },
+  {
     "id": "kt:modigliani-miller-theorem",
     "title": "Modigliani-Miller Theorem",
     "aliases": [

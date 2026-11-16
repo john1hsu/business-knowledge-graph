@@ -3574,6 +3574,27 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/jensens-alpha> .
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2000/01/rdf-schema#label> "Microeconomics: How Households and Firms Allocate Scarce Resources Through Markets and Prices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#altLabel> "micro economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#altLabel> "microeconomic theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#altLabel> "price theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#definition> "The branch of economics that studies how individual decision-makers (households, workers and firms) choose under scarcity and how their interaction in markets determines prices, quantities and the allocation of resources." .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#prefLabel> "Microeconomics: How Households and Firms Allocate Scarce Resources Through Markets and Prices" .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/macroeconomics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> <http://www.w3.org/2000/01/rdf-schema#label> "Modigliani-Miller Theorem" .
@@ -8839,6 +8860,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <https://schema.org/url> "https://conference.nber.org/confer/2005/si2005/cg/jensen.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <http://purl.org/dc/terms/title> "1.2 Microeconomics and Macroeconomics (Principles of Microeconomics 3e)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <https://schema.org/url> "https://openstax.org/books/principles-microeconomics-3e/pages/1-2-microeconomics-and-macroeconomics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s2> <http://purl.org/dc/terms/publisher> "Britannica Money" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s2> <http://purl.org/dc/terms/title> "Economics: Microeconomics (Methodological considerations in contemporary economics)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s2> <https://schema.org/url> "https://www.britannica.com/money/economics/Microeconomics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s3> <http://purl.org/dc/terms/title> "Introduction to Monopolistic Competition and Oligopoly (Principles of Economics 3e, ch. 10)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s3> <https://schema.org/url> "https://openstax.org/books/principles-economics-3e/pages/10-introduction-to-monopolistic-competition-and-oligopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s4> <http://purl.org/dc/terms/publisher> "History of Economic Thought Website (Gonçalo L. Fonseca)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s4> <http://purl.org/dc/terms/title> "Alfred Marshall, 1842-1924 (profile)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s4> <https://schema.org/url> "https://hetwebsite.net/het/profiles/marshall.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s5> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (NobelPrize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s5> <http://purl.org/dc/terms/title> "Press release: The Prize in Economic Sciences 2017" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s5> <https://schema.org/url> "https://www.nobelprize.org/prizes/economic-sciences/2017/press-release/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/publisher> "American Economic Review (AEA Top 20 reprint)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://purl.org/dc/terms/title> "The Cost of Capital, Corporation Finance and the Theory of Investment" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/modigliani-miller-theorem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

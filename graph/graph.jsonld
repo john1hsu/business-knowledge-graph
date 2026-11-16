@@ -14002,6 +14002,81 @@
       ]
     },
     {
+      "@id": "kt:microeconomics",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Microeconomics: How Households and Firms Allocate Scarce Resources Through Markets and Prices",
+      "skos:definition": "The branch of economics that studies how individual decision-makers (households, workers and firms) choose under scarcity and how their interaction in markets determines prices, quantities and the allocation of resources.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "1.2 Microeconomics and Macroeconomics (Principles of Microeconomics 3e)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-microeconomics-3e/pages/1-2-microeconomics-and-macroeconomics",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Economics: Microeconomics (Methodological considerations in contemporary economics)",
+          "dcterms:publisher": "Britannica Money",
+          "schema:url": "https://www.britannica.com/money/economics/Microeconomics",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Introduction to Monopolistic Competition and Oligopoly (Principles of Economics 3e, ch. 10)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-economics-3e/pages/10-introduction-to-monopolistic-competition-and-oligopoly",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Alfred Marshall, 1842-1924 (profile)",
+          "dcterms:publisher": "History of Economic Thought Website (Gonçalo L. Fonseca)",
+          "schema:url": "https://hetwebsite.net/het/profiles/marshall.htm",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Press release: The Prize in Economic Sciences 2017",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (NobelPrize.org)",
+          "schema:url": "https://www.nobelprize.org/prizes/economic-sciences/2017/press-release/",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/microeconomics.md",
+      "skos:altLabel": [
+        "micro economics",
+        "price theory",
+        "microeconomic theory"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:economics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:price-elasticity"
+        },
+        {
+          "@id": "kt:cost-structure"
+        },
+        {
+          "@id": "kt:behavioral-economics"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:alfred-marshall"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:macroeconomics"
+        }
+      ]
+    },
+    {
       "@id": "kt:moral-hazard",
       "@type": "kto:Concept",
       "skos:prefLabel": "Moral Hazard: Risk-Taking When Others Bear the Cost",
