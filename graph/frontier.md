@@ -20,7 +20,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
+| `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
+| `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-metrics` | `kt:churn-rate`, `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
@@ -33,6 +35,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
+| `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
@@ -51,7 +54,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
-| `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:employee-motivation` | `kt:j-richard-hackman`, `kt:organizational-behavior` |
@@ -74,7 +76,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
 | `kt:informativeness-principle` | `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
-| `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
@@ -137,7 +138,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-resource-based-view-of-the-firm-1984` | `kt:resource-based-view` |
 | `kt:a3-report` | `kt:structured-problem-solving` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
-| `kt:accounting-fraud` | `kt:enron-scandal` |
 | `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
@@ -597,7 +597,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vrio-framework` | `kt:resource-based-view` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
-| `kt:whistleblowing` | `kt:business-ethics` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-hewlett` | `kt:hewlett-packard` |

@@ -10201,6 +10201,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/weighted-average-cost-of-capital/s6> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:jfinan:v:70:y:2015:i:3:p:1253-1285" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s1> <http://purl.org/dc/terms/publisher> "Journal of Business Ethics 4, 1–16 (Janet P. Near and Marcia P. Miceli, 1985)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s1> <http://purl.org/dc/terms/title> "Organizational Dissidence: The Case of Whistle-Blowing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s1> <https://schema.org/url> "https://link.springer.com/doi/10.1007/BF00382668" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s2> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research (Alexander Dyck, Adair Morse and Luigi Zingales)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s2> <http://purl.org/dc/terms/title> "Who Blows the Whistle on Corporate Fraud? (NBER Working Paper 12882; published in Journal of Finance 65(6), 2010)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s2> <https://schema.org/url> "https://nber.org/papers/w12882" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s3> <http://purl.org/dc/terms/title> "Annual Report to Congress on the Whistleblower Program, Fiscal Year 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s3> <https://schema.org/url> "https://sec.gov/files/fy25-annual-whistleblower-report.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s4> <http://purl.org/dc/terms/publisher> "U.S. Occupational Safety and Health Administration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s4> <http://purl.org/dc/terms/title> "Filing Whistleblower Complaints under the Sarbanes-Oxley Act (fact sheet)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s4> <https://schema.org/url> "https://osha.gov/Publications/osha-factsheet-sox-act.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s5> <http://purl.org/dc/terms/publisher> "Journal of Accounting Research 58(2), 473–518 (Stephen R. Stubben and Kyle T. Welch, 2020; RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s5> <http://purl.org/dc/terms/title> "Evidence on the Use and Efficacy of Internal Whistleblowing Systems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s5> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:joares:v:58:y:2020:i:2:p:473-518" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s6> <http://purl.org/dc/terms/publisher> "Dechert LLP (OnPoint, February 2018)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s6> <http://purl.org/dc/terms/title> "Supreme Court Clarifies Dodd-Frank Whistleblower Provision" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s6> <https://schema.org/url> "https://www.dechert.com/knowledge/onpoint/2018/2/supreme-court-clarifies-dodd-frank-whistleblower-provision.html" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 19.1: What Is Working Capital?" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -10717,6 +10747,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/capital-asset-pricing-model> .
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/modigliani-miller-theorem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2000/01/rdf-schema#label> "Whistleblowing and Whistleblower Protection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#altLabel> "internal reporting of wrongdoing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#altLabel> "speaking up about misconduct" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#altLabel> "whistle-blower" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#altLabel> "whistle-blowing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#altLabel> "whistleblower" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#definition> "The disclosure, by employees or other organization members, of evidence of organizational wrongdoing to people or bodies able to act on it, either inside the firm (hotlines, managers, audit committees) or outside it (regulators, legislators, the press), together with the legal protections and incentive programs that shield and reward such reporters." .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Whistleblowing and Whistleblower Protection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/internal-control-over-financial-reporting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/whistleblowing/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/accounting-fraud> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dodd-frank-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/whistleblowing> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <http://www.w3.org/2000/01/rdf-schema#label> "Working Capital: Current Assets Minus Current Liabilities" .

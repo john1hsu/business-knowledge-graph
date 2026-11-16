@@ -4229,6 +4229,29 @@
     ]
   },
   {
+    "id": "kt:whistleblowing",
+    "title": "Whistleblowing and Whistleblower Protection",
+    "aliases": [
+      "whistle-blowing",
+      "whistleblower",
+      "whistle-blower",
+      "internal reporting of wrongdoing",
+      "speaking up about misconduct"
+    ],
+    "type": "Practice",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/whistleblowing.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://link.springer.com/doi/10.1007/BF00382668",
+      "https://nber.org/papers/w12882",
+      "https://sec.gov/files/fy25-annual-whistleblower-report.pdf",
+      "https://osha.gov/Publications/osha-factsheet-sox-act.pdf",
+      "https://econpapers.repec.org/RePEc:bla:joares:v:58:y:2020:i:2:p:473-518",
+      "https://www.dechert.com/knowledge/onpoint/2018/2/supreme-court-clarifies-dodd-frank-whistleblower-provision.html"
+    ]
+  },
+  {
     "id": "kt:working-capital",
     "title": "Working Capital: Current Assets Minus Current Liabilities",
     "aliases": [

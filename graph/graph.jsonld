@@ -2709,6 +2709,95 @@
       ]
     },
     {
+      "@id": "kt:whistleblowing",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Whistleblowing and Whistleblower Protection",
+      "skos:definition": "The disclosure, by employees or other organization members, of evidence of organizational wrongdoing to people or bodies able to act on it, either inside the firm (hotlines, managers, audit committees) or outside it (regulators, legislators, the press), together with the legal protections and incentive programs that shield and reward such reporters.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Organizational Dissidence: The Case of Whistle-Blowing",
+          "dcterms:publisher": "Journal of Business Ethics 4, 1–16 (Janet P. Near and Marcia P. Miceli, 1985)",
+          "schema:url": "https://link.springer.com/doi/10.1007/BF00382668",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Who Blows the Whistle on Corporate Fraud? (NBER Working Paper 12882; published in Journal of Finance 65(6), 2010)",
+          "dcterms:publisher": "National Bureau of Economic Research (Alexander Dyck, Adair Morse and Luigi Zingales)",
+          "schema:url": "https://nber.org/papers/w12882",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Annual Report to Congress on the Whistleblower Program, Fiscal Year 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://sec.gov/files/fy25-annual-whistleblower-report.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Filing Whistleblower Complaints under the Sarbanes-Oxley Act (fact sheet)",
+          "dcterms:publisher": "U.S. Occupational Safety and Health Administration",
+          "schema:url": "https://osha.gov/Publications/osha-factsheet-sox-act.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Evidence on the Use and Efficacy of Internal Whistleblowing Systems",
+          "dcterms:publisher": "Journal of Accounting Research 58(2), 473–518 (Stephen R. Stubben and Kyle T. Welch, 2020; RePEc record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:joares:v:58:y:2020:i:2:p:473-518",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Supreme Court Clarifies Dodd-Frank Whistleblower Provision",
+          "dcterms:publisher": "Dechert LLP (OnPoint, February 2018)",
+          "schema:url": "https://www.dechert.com/knowledge/onpoint/2018/2/supreme-court-clarifies-dodd-frank-whistleblower-provision.html",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/whistleblowing.md",
+      "skos:altLabel": [
+        "whistle-blowing",
+        "whistleblower",
+        "whistle-blower",
+        "internal reporting of wrongdoing",
+        "speaking up about misconduct"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-ethics"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:audit-committee"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:internal-control-over-financial-reporting"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        },
+        {
+          "@id": "kt:dodd-frank-act"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:accounting-fraud"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ]
+    },
+    {
       "@id": "kt:apple-inc",
       "@type": "kto:Company",
       "skos:prefLabel": "Apple Inc.: From Personal Computers to a Platform Ecosystem",
