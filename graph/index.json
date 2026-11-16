@@ -1745,6 +1745,27 @@
     ]
   },
   {
+    "id": "kt:fault-tree-analysis",
+    "title": "Fault Tree Analysis: Deductive Top-Down Modeling of How System Failures Occur",
+    "aliases": [
+      "fault tree analysis",
+      "FTA",
+      "fault tree",
+      "fault tree method"
+    ],
+    "type": "Framework",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/fault-tree-analysis.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr0492/index",
+      "https://extapps.ksc.nasa.gov/reliability/Documents/Fault_Tree_Handbook_with_Aerospace_Applications_August_2002.pdf",
+      "https://ris.utwente.nl/ws/files/6420246/1-s2.0-S1574013715000027-main.pdf",
+      "https://www.nottingham.ac.uk/research/groups/resilience-engineering/documents/nxgen/outputs/an-introduction-to-fault-tree-analysis.pdf",
+      "https://www.pnnl.gov/publications/three-kinds-proactive-risk-analyses-health-care"
+    ]
+  },
+  {
     "id": "kt:federal-acquisition-regulation",
     "title": "Federal Acquisition Regulation",
     "aliases": [

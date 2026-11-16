@@ -6314,6 +6314,97 @@
       ]
     },
     {
+      "@id": "kt:fault-tree-analysis",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Fault Tree Analysis: Deductive Top-Down Modeling of How System Failures Occur",
+      "skos:definition": "A deductive, top-down method that starts from one clearly defined undesired outcome (the top event) and decomposes it through AND/OR logic gates into the combinations of lower-level faults that could produce it; developed at Bell Labs in the early 1960s for the Minuteman missile and now used for reliability, safety and process-risk analysis well beyond engineering.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fault Tree Handbook (NUREG-0492)",
+          "dcterms:publisher": "U.S. Nuclear Regulatory Commission",
+          "schema:url": "https://www.nrc.gov/reading-rm/doc-collections/nuregs/staff/sr0492/index",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Fault Tree Handbook with Aerospace Applications, Version 1.1",
+          "dcterms:publisher": "NASA Office of Safety and Mission Assurance",
+          "schema:url": "https://extapps.ksc.nasa.gov/reliability/Documents/Fault_Tree_Handbook_with_Aerospace_Applications_August_2002.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Fault tree analysis: A survey of the state-of-the-art in modeling, analysis and tools",
+          "dcterms:publisher": "Computer Science Review (University of Twente repository)",
+          "schema:url": "https://ris.utwente.nl/ws/files/6420246/1-s2.0-S1574013715000027-main.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "An Introduction to Fault Tree Analysis",
+          "dcterms:publisher": "University of Nottingham, Resilience Engineering Research Group",
+          "schema:url": "https://www.nottingham.ac.uk/research/groups/resilience-engineering/documents/nxgen/outputs/an-introduction-to-fault-tree-analysis.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Three Kinds of Proactive Risk Analyses for Health Care",
+          "dcterms:publisher": "Joint Commission Journal on Quality and Patient Safety (record at Pacific Northwest National Laboratory)",
+          "schema:url": "https://www.pnnl.gov/publications/three-kinds-proactive-risk-analyses-health-care",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/fault-tree-analysis.md",
+      "skos:altLabel": [
+        "fault tree analysis",
+        "FTA",
+        "fault tree",
+        "fault tree method"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:root-cause-analysis"
+        },
+        {
+          "@id": "kt:structured-problem-solving"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:issue-tree"
+        },
+        {
+          "@id": "kt:five-whys"
+        },
+        {
+          "@id": "kt:event-tree-analysis"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:bell-labs"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:ishikawa-diagram"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:failure-mode-and-effects-analysis"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:probabilistic-risk-assessment"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:patient-safety"
+        }
+      ]
+    },
+    {
       "@id": "kt:five-whys",
       "@type": "kto:Practice",
       "skos:prefLabel": "Five Whys: Iterative Why-Questioning to Trace a Problem to Its Root Cause",

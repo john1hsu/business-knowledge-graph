@@ -22,6 +22,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:capital-budgeting`, `kt:scenario-planning` |
+| `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
@@ -57,9 +58,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:employee-motivation` | `kt:j-richard-hackman`, `kt:organizational-behavior` |
 | `kt:evidence-based-management` | `kt:decision-making`, `kt:organizational-behavior` |
+| `kt:failure-mode-and-effects-analysis` | `kt:fault-tree-analysis`, `kt:root-cause-analysis` |
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
-| `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
 | `kt:financial-economics` | `kt:asset-pricing`, `kt:behavioral-finance` |
 | `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
@@ -104,7 +105,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
-| `kt:patient-safety` | `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:payback-period` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
@@ -174,6 +174,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
 | `kt:behavioral-economics` | `kt:microeconomics` |
 | `kt:behavioral-ethics` | `kt:business-ethics` |
+| `kt:bell-labs` | `kt:fault-tree-analysis` |
 | `kt:ben-thompson` | `kt:aggregation-theory` |
 | `kt:benjamin-tregoe` | `kt:kepner-tregoe-method` |
 | `kt:bernard-bass` | `kt:transformational-leadership` |
@@ -290,10 +291,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eu-data-act` | `kt:switching-costs` |
 | `kt:eu-ias-regulation` | `kt:ifrs` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
+| `kt:event-tree-analysis` | `kt:fault-tree-analysis` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:executive-order-14402` | `kt:government-contract-types` |
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
-| `kt:failure-mode-and-effects-analysis` | `kt:root-cause-analysis` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:federal-acquisition-certification-in-contracting` | `kt:contracting-officer` |
@@ -484,6 +485,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:price-skimming` | `kt:pricing-strategy` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:prison-privatization` | `kt:contract-theory` |
+| `kt:probabilistic-risk-assessment` | `kt:fault-tree-analysis` |
 | `kt:problem-formulation` | `kt:structured-problem-solving` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:process-theories-of-organizational-change` | `kt:andrew-van-de-ven` |
