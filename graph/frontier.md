@@ -122,6 +122,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:say-on-pay` | `kt:executive-compensation`, `kt:proxy-advisory-firm` |
 | `kt:screening-theory` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
+| `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
@@ -133,7 +134,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
-| `kt:value-proposition` | `kt:business-model-canvas`, `kt:business-model` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
@@ -269,6 +269,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
 | `kt:economies-of-density` | `kt:walmart` |
 | `kt:economies-of-scope` | `kt:economies-of-scale` |
+| `kt:edward-michaels` | `kt:value-proposition` |
 | `kt:edward-s-mason` | `kt:industrial-organization` |
 | `kt:edwin-locke` | `kt:goal-setting-theory` |
 | `kt:efficiency-wages` | `kt:ford-model-t` |
@@ -424,6 +425,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
+| `kt:michael-lanning` | `kt:value-proposition` |
 | `kt:microsoft` | `kt:revenue-recognition-asc-606` |
 | `kt:milton-friedman` | `kt:shareholder-primacy` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
@@ -533,7 +535,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:self-efficacy` | `kt:goal-setting-theory` |
 | `kt:sergey-brin` | `kt:google` |
-| `kt:service-dominant-logic` | `kt:services-marketing` |
 | `kt:servicescape` | `kt:services-marketing` |
 | `kt:servitization-of-business-1988` | `kt:servitization` |
 | `kt:servperf` | `kt:servqual` |

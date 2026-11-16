@@ -5944,6 +5944,95 @@
       ]
     },
     {
+      "@id": "kt:value-proposition",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Value Proposition: The Promised Net Benefit That Gives Target Customers a Reason to Choose",
+      "skos:definition": "A statement of the benefits, net of price, that a firm intends to deliver to a chosen customer segment and why that bundle is superior to alternatives; coined by McKinsey's Michael Lanning and Edward Michaels in 1988 and now a core building block of business-model and marketing analysis.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Delivering value to customers (incl. Lanning & Michaels, 'A business is a value delivery system', adapted from the 1988 staff paper)",
+          "dcterms:publisher": "McKinsey Quarterly, June 2000",
+          "schema:url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/delivering-value-to-customers",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The customer value proposition: evolution, development, and application in marketing",
+          "dcterms:publisher": "Journal of the Academy of Marketing Science 45(4), 467-489 (2017)",
+          "schema:url": "https://link.springer.com/10.1007/s11747-017-0523-z",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Customer Value Propositions in Business Markets",
+          "dcterms:publisher": "Harvard Business Review, March 2006",
+          "schema:url": "https://hbr.org/2006/03/customer-value-propositions-in-business-markets",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "From promise to perspective: Reconsidering value propositions from a service-dominant logic orientation",
+          "dcterms:publisher": "Industrial Marketing Management 87, 309-311 (2020) (author copy hosted at sdlogic.net)",
+          "schema:url": "https://www.sdlogic.net/pdf/post2018/20-Vargo-2020-IMM-V-Prop.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "1.5 Determining Consumer Needs and Wants",
+          "dcterms:publisher": "OpenStax, Principles of Marketing",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/1-5-determining-consumer-needs-and-wants",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "19.3 Business Model Canvas",
+          "dcterms:publisher": "OpenStax, Organizational Behavior",
+          "schema:url": "https://openstax.org/books/organizational-behavior/pages/19-3-business-model-canvas",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/business-models/value-proposition.md",
+      "skos:altLabel": [
+        "customer value proposition",
+        "CVP",
+        "value prop"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:business-model-canvas"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        },
+        {
+          "@id": "kt:competitive-advantage"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:michael-lanning"
+        },
+        {
+          "@id": "kt:edward-michaels"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:business-model-canvas"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:service-dominant-logic"
+        }
+      ]
+    },
+    {
       "@id": "kt:benchmarking",
       "@type": "kto:Practice",
       "skos:prefLabel": "Benchmarking",

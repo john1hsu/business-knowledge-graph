@@ -4487,6 +4487,27 @@
     ]
   },
   {
+    "id": "kt:value-proposition",
+    "title": "Value Proposition: The Promised Net Benefit That Gives Target Customers a Reason to Choose",
+    "aliases": [
+      "customer value proposition",
+      "CVP",
+      "value prop"
+    ],
+    "type": "Concept",
+    "domain": "business-models",
+    "file": "articles/business-models/value-proposition.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/delivering-value-to-customers",
+      "https://link.springer.com/10.1007/s11747-017-0523-z",
+      "https://hbr.org/2006/03/customer-value-propositions-in-business-markets",
+      "https://www.sdlogic.net/pdf/post2018/20-Vargo-2020-IMM-V-Prop.pdf",
+      "https://openstax.org/books/principles-marketing/pages/1-5-determining-consumer-needs-and-wants",
+      "https://openstax.org/books/organizational-behavior/pages/19-3-business-model-canvas"
+    ]
+  },
+  {
     "id": "kt:venture-capital",
     "title": "Venture Capital: Funds, Stages and Startup Investing",
     "aliases": [

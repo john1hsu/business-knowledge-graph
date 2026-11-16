@@ -10814,6 +10814,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://schema.org/url> "https://www.law.cornell.edu/supremecourt/text/16-1454" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <http://purl.org/dc/terms/publisher> "McKinsey Quarterly, June 2000" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <http://purl.org/dc/terms/title> "Delivering value to customers (incl. Lanning & Michaels, 'A business is a value delivery system', adapted from the 1988 staff paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <https://schema.org/url> "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/delivering-value-to-customers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s2> <http://purl.org/dc/terms/publisher> "Journal of the Academy of Marketing Science 45(4), 467-489 (2017)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s2> <http://purl.org/dc/terms/title> "The customer value proposition: evolution, development, and application in marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s2> <https://schema.org/url> "https://link.springer.com/10.1007/s11747-017-0523-z" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review, March 2006" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s3> <http://purl.org/dc/terms/title> "Customer Value Propositions in Business Markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s3> <https://schema.org/url> "https://hbr.org/2006/03/customer-value-propositions-in-business-markets" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s4> <http://purl.org/dc/terms/publisher> "Industrial Marketing Management 87, 309-311 (2020) (author copy hosted at sdlogic.net)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s4> <http://purl.org/dc/terms/title> "From promise to perspective: Reconsidering value propositions from a service-dominant logic orientation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s4> <https://schema.org/url> "https://www.sdlogic.net/pdf/post2018/20-Vargo-2020-IMM-V-Prop.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s5> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s5> <http://purl.org/dc/terms/title> "1.5 Determining Consumer Needs and Wants" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s5> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/1-5-determining-consumer-needs-and-wants" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s6> <http://purl.org/dc/terms/publisher> "OpenStax, Organizational Behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s6> <http://purl.org/dc/terms/title> "19.3 Business Model Canvas" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s6> <https://schema.org/url> "https://openstax.org/books/organizational-behavior/pages/19-3-business-model-canvas" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s1> <http://purl.org/dc/terms/publisher> "Harvard Business School, Baker Library Historical Collections" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s1> <http://purl.org/dc/terms/title> "ARD — Georges F. Doriot: Innovation and Venture Capital" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -11484,6 +11514,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ohio-v-american-express> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/platform-competition-in-two-sided-markets-2003> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2000/01/rdf-schema#label> "Value Proposition: The Promised Net Benefit That Gives Target Customers a Reason to Choose" .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#altLabel> "CVP" .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#altLabel> "customer value proposition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#altLabel> "value prop" .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#definition> "A statement of the benefits, net of price, that a firm intends to deliver to a chosen customer segment and why that bundle is superior to alternatives; coined by McKinsey's Michael Lanning and Edward Michaels in 1988 and now a core building block of business-model and marketing analysis." .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Value Proposition: The Promised Net Benefit That Gives Target Customers a Reason to Choose" .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/edward-michaels> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-lanning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/service-dominant-logic> .
+<https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> .
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <http://www.w3.org/2000/01/rdf-schema#label> "Venture Capital: Funds, Stages and Startup Investing" .
