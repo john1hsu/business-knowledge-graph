@@ -3612,6 +3612,101 @@
       ]
     },
     {
+      "@id": "kt:google",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Google: From Stanford Search Project to Alphabet Inc.",
+      "skos:definition": "The search and advertising company founded in 1998 by Stanford graduate students Larry Page and Sergey Brin, studied as a case of a link-analysis technology turned into an auction-priced advertising business, of a 2015 holding-company reorganization under Alphabet Inc., and of a dominant search position that a U.S. court found in 2024 to be an unlawfully maintained monopoly.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Google Inc.",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/Google-Inc",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
+          "dcterms:publisher": "Stanford University, Computer Science Department (Sergey Brin and Lawrence Page)",
+          "schema:url": "https://stanford.io/2Xz7Khb",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Internet Advertising and the Generalized Second Price Auction: Selling Billions of Dollars Worth of Keywords (NBER Working Paper 11765)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://www.nber.org/papers/w11765",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "G is for Google",
+          "dcterms:publisher": "Google (The Keyword blog), letter by Larry Page",
+          "schema:url": "https://blog.google/alphabet/google-alphabet/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Alphabet Inc., Form 10-K for the fiscal year ended December 31, 2025",
+          "dcterms:publisher": "Alphabet Inc. (investor relations copy of the SEC filing)",
+          "schema:url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Department of Justice Wins Significant Remedies Against Google",
+          "dcterms:publisher": "U.S. Department of Justice, Office of Public Affairs",
+          "schema:url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/google.md",
+      "skos:altLabel": [
+        "Google LLC",
+        "Google Inc.",
+        "Alphabet Inc."
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:digital-advertising-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:apple-inc"
+        },
+        {
+          "@id": "kt:okrs"
+        },
+        {
+          "@id": "kt:google-project-aristotle"
+        },
+        {
+          "@id": "kt:bcg-growth-share-matrix"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:larry-page"
+        },
+        {
+          "@id": "kt:sergey-brin"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:aggregation-theory"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:holding-company"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ]
+    },
+    {
       "@id": "kt:hewlett-packard",
       "@type": "kto:Company",
       "skos:prefLabel": "Hewlett-Packard",

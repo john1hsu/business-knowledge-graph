@@ -10,7 +10,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
@@ -253,6 +252,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dfars-procedures-guidance-and-information` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:diffusion-of-innovations` | `kt:technology-adoption-life-cycle` |
+| `kt:digital-advertising-industry` | `kt:google` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:dish-network` | `kt:blockbuster-decline` |
 | `kt:disposition-effect` | `kt:behavioral-finance` |
@@ -334,6 +334,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristics-and-biases` | `kt:decision-making` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
+| `kt:holding-company` | `kt:google` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
@@ -387,6 +388,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kotters-eight-step-model` | `kt:change-management` |
 | `kt:kraft-heinz` | `kt:goodwill` |
 | `kt:kurt-lewin` | `kt:change-management` |
+| `kt:larry-page` | `kt:google` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
 | `kt:learning-curve` | `kt:experience-curve` |
 | `kt:learning-organization` | `kt:organizational-learning` |
@@ -530,6 +532,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:self-efficacy` | `kt:goal-setting-theory` |
+| `kt:sergey-brin` | `kt:google` |
 | `kt:service-dominant-logic` | `kt:services-marketing` |
 | `kt:servicescape` | `kt:services-marketing` |
 | `kt:servitization-of-business-1988` | `kt:servitization` |

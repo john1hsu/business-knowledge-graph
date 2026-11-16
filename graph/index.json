@@ -2030,6 +2030,27 @@
     ]
   },
   {
+    "id": "kt:google",
+    "title": "Google: From Stanford Search Project to Alphabet Inc.",
+    "aliases": [
+      "Google LLC",
+      "Google Inc.",
+      "Alphabet Inc."
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/google.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.britannica.com/money/Google-Inc",
+      "https://stanford.io/2Xz7Khb",
+      "https://www.nber.org/papers/w11765",
+      "https://blog.google/alphabet/google-alphabet/",
+      "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf",
+      "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google"
+    ]
+  },
+  {
     "id": "kt:google-project-aristotle",
     "title": "Google Project Aristotle",
     "aliases": [

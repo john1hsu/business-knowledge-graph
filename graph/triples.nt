@@ -2445,6 +2445,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> .
 <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-oxygen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2000/01/rdf-schema#label> "Google: From Stanford Search Project to Alphabet Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#altLabel> "Alphabet Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#altLabel> "Google Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#altLabel> "Google LLC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/digital-advertising-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#definition> "The search and advertising company founded in 1998 by Stanford graduate students Larry Page and Sergey Brin, studied as a case of a link-analysis technology turned into an auction-priced advertising business, of a 2015 holding-company reorganization under Alphabet Inc., and of a dominant search position that a U.S. court found in 2024 to be an unlawfully maintained monopoly." .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#prefLabel> "Google: From Stanford Search Project to Alphabet Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bcg-growth-share-matrix> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/okrs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/google/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/larry-page> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/sergey-brin> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/aggregation-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/holding-company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/google> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
 <https://github.com/john1hsu/business-knowledge-graph/id/government-accountability-office> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/government-accountability-office> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/government-accountability-office> <http://www.w3.org/2000/01/rdf-schema#label> "Government Accountability Office (GAO): The Congressional Watchdog Over Federal Spending" .
@@ -7533,6 +7559,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/google-project-aristotle/s6> <https://schema.org/url> "https://www.eurekalert.org/news-releases/639223" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s1> <http://purl.org/dc/terms/title> "Google Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s1> <https://schema.org/url> "https://www.britannica.com/money/Google-Inc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s2> <http://purl.org/dc/terms/publisher> "Stanford University, Computer Science Department (Sergey Brin and Lawrence Page)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s2> <http://purl.org/dc/terms/title> "The Anatomy of a Large-Scale Hypertextual Web Search Engine" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s2> <https://schema.org/url> "https://stanford.io/2Xz7Khb" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s3> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s3> <http://purl.org/dc/terms/title> "Internet Advertising and the Generalized Second Price Auction: Selling Billions of Dollars Worth of Keywords (NBER Working Paper 11765)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s3> <https://schema.org/url> "https://www.nber.org/papers/w11765" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s4> <http://purl.org/dc/terms/publisher> "Google (The Keyword blog), letter by Larry Page" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s4> <http://purl.org/dc/terms/title> "G is for Google" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s4> <https://schema.org/url> "https://blog.google/alphabet/google-alphabet/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s5> <http://purl.org/dc/terms/publisher> "Alphabet Inc. (investor relations copy of the SEC filing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s5> <http://purl.org/dc/terms/title> "Alphabet Inc., Form 10-K for the fiscal year ended December 31, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s5> <https://schema.org/url> "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s6> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Office of Public Affairs" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s6> <http://purl.org/dc/terms/title> "Department of Justice Wins Significant Remedies Against Google" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/google/s6> <https://schema.org/url> "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/government-accountability-office/s1> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/government-accountability-office/s1> <http://purl.org/dc/terms/title> "GAO History" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/government-accountability-office/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
