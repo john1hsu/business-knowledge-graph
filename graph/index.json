@@ -2969,6 +2969,25 @@
     ]
   },
   {
+    "id": "kt:max-weber",
+    "title": "Max Weber",
+    "aliases": [
+      "Maximilian Karl Emil Weber"
+    ],
+    "type": "Person",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/max-weber.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.britannica.com/biography/Max-Weber-German-sociologist",
+      "https://plato.stanford.edu/Entries/weber/",
+      "https://openstax.org/books/principles-management/pages/3-5-administrative-and-bureaucratic-management",
+      "https://emerald.com/insight/content/doi/10.1108/17511341011073933/full/html",
+      "https://econpapers.repec.org/RePEc:oup:qjecon:v:124:y:2009:i:2:p:531-596.",
+      "https://www.gsb.stanford.edu/insights/unlocking-iron-cage-corporate-conformity"
+    ]
+  },
+  {
     "id": "kt:mece-principle",
     "title": "MECE Principle",
     "aliases": [

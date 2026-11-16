@@ -18,7 +18,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
-| `kt:max-weber` | `kt:public-administration`, `kt:transformational-leadership`, `kt:organization-theory` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:capital-budgeting`, `kt:scenario-planning` |
@@ -78,6 +77,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:industrial-dynamics` | `kt:bullwhip-effect`, `kt:supply-chain-management` |
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
 | `kt:informativeness-principle` | `kt:contract-theory`, `kt:moral-hazard` |
+| `kt:institutional-theory` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
 | `kt:internal-rate-of-return` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
@@ -124,6 +124,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
+| `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
@@ -186,6 +187,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
+| `kt:bureaucracy` | `kt:max-weber` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-policy` | `kt:strategic-management` |
@@ -356,7 +358,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
-| `kt:institutional-theory` | `kt:organization-theory` |
 | `kt:insurance-death-spiral` | `kt:adverse-selection` |
 | `kt:insurance-industry` | `kt:adverse-selection` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
@@ -556,7 +557,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:social-identity-theory` | `kt:groupthink` |
 | `kt:social-responsibilities-of-the-businessman` | `kt:corporate-social-responsibility` |
 | `kt:social-science` | `kt:organizational-behavior` |
-| `kt:sociology` | `kt:organization-theory` |
 | `kt:sol-price` | `kt:membership-warehouse-club` |
 | `kt:soldiering` | `kt:scientific-management` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
