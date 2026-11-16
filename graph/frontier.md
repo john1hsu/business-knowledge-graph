@@ -104,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:patient-safety` | `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
+| `kt:private-equity` | `kt:leveraged-buyout`, `kt:venture-capital` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
@@ -127,7 +128,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:value-proposition` | `kt:business-model-canvas`, `kt:business-model` |
-| `kt:venture-capital` | `kt:leveraged-buyout`, `kt:open-innovation` |
 | `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
@@ -150,9 +150,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
 | `kt:amazon` | `kt:long-tail` |
 | `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction` |
+| `kt:american-research-and-development-corporation` | `kt:venture-capital` |
 | `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963` | `kt:delphi-method` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
 | `kt:andy-rachleff` | `kt:product-market-fit` |
+| `kt:angel-investing` | `kt:venture-capital` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:applied-ethics` | `kt:business-ethics` |
@@ -273,6 +275,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
 | `kt:enterprise-value-multiples` | `kt:ebitda` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
+| `kt:entrepreneurial-finance` | `kt:venture-capital` |
 | `kt:eric-ries` | `kt:lean-startup` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:eu-data-act` | `kt:switching-costs` |
@@ -467,7 +470,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:price-skimming` | `kt:pricing-strategy` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:prison-privatization` | `kt:contract-theory` |
-| `kt:private-equity` | `kt:leveraged-buyout` |
 | `kt:problem-formulation` | `kt:structured-problem-solving` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:process-theories-of-organizational-change` | `kt:andrew-van-de-ven` |

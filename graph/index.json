@@ -4333,6 +4333,28 @@
     ]
   },
   {
+    "id": "kt:venture-capital",
+    "title": "Venture Capital: Funds, Stages and Startup Investing",
+    "aliases": [
+      "venture capital",
+      "VC",
+      "venture capital financing",
+      "venture investing"
+    ],
+    "type": "Practice",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/venture-capital.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.library.hbs.edu/hc/doriot/innovation-vc/ard",
+      "https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0717.pdf",
+      "https://www.nber.org/papers/w7660",
+      "https://www.ecgi.global/sites/default/files/2026-10/fin-477-2016_how_do_venture_capitalists_make_decisions.pdf",
+      "https://core.ac.uk/download/357282212.pdf",
+      "https://www.aeaweb.org/doi/10.1257/jep.34.3.237"
+    ]
+  },
+  {
     "id": "kt:walmart",
     "title": "Walmart",
     "aliases": [

@@ -11082,6 +11082,112 @@
       ]
     },
     {
+      "@id": "kt:venture-capital",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Venture Capital: Funds, Stages and Startup Investing",
+      "skos:definition": "Equity financing supplied by specialized intermediaries, usually organized as limited-partnership funds, to young, high-risk companies with the potential for very rapid growth; venture capitalists screen heavily, invest in stages under contingent contracts, take board seats and seek returns through acquisitions or IPOs.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "ARD — Georges F. Doriot: Innovation and Venture Capital",
+          "dcterms:publisher": "Harvard Business School, Baker Library Historical Collections",
+          "schema:url": "https://www.library.hbs.edu/hc/doriot/innovation-vc/ard",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Economics of Private Equity Funds (Wharton Financial Institutions Center working paper 07-17)",
+          "dcterms:publisher": "Andrew Metrick and Ayako Yasuda, Wharton School, 2007 (published in Review of Financial Studies, 2010)",
+          "schema:url": "https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/04/0717.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts",
+          "dcterms:publisher": "Steven N. Kaplan and Per Strömberg, NBER Working Paper 7660, 2000 (Review of Economic Studies, 2003)",
+          "schema:url": "https://www.nber.org/papers/w7660",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How Do Venture Capitalists Make Decisions?",
+          "dcterms:publisher": "Paul Gompers, William Gornall, Steven N. Kaplan and Ilya A. Strebulaev, ECGI Finance Working Paper 477/2016 (Journal of Financial Economics, 2020)",
+          "schema:url": "https://www.ecgi.global/sites/default/files/2026-10/fin-477-2016_how_do_venture_capitalists_make_decisions.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "It Ain't Broke: The Past, Present, and Future of Venture Capital",
+          "dcterms:publisher": "Steven N. Kaplan and Josh Lerner, Journal of Applied Corporate Finance 22(2), 2010",
+          "schema:url": "https://core.ac.uk/download/357282212.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Venture Capital's Role in Financing Innovation: What We Know and How Much We Still Need to Learn",
+          "dcterms:publisher": "Josh Lerner and Ramana Nanda, Journal of Economic Perspectives 34(3), 2020",
+          "schema:url": "https://www.aeaweb.org/doi/10.1257/jep.34.3.237",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/venture-capital.md",
+      "skos:altLabel": [
+        "venture capital",
+        "VC",
+        "venture capital financing",
+        "venture investing"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:entrepreneurial-finance"
+        },
+        {
+          "@id": "kt:private-equity"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:product-market-fit"
+        },
+        {
+          "@id": "kt:open-innovation"
+        },
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:creative-destruction"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:leveraged-buyout"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:angel-investing"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:moral-hazard"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:american-research-and-development-corporation"
+        }
+      ]
+    },
+    {
       "@id": "kt:balanced-scorecard",
       "@type": "kto:Framework",
       "skos:prefLabel": "Balanced Scorecard",
