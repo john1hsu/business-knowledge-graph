@@ -1741,6 +1741,29 @@
     ]
   },
   {
+    "id": "kt:financial-statement-analysis",
+    "title": "Financial Statement Analysis: Ratios, Trends and Comparisons for Evaluating Firm Performance",
+    "aliases": [
+      "financial analysis",
+      "ratio analysis",
+      "financial ratio analysis",
+      "horizontal and vertical analysis"
+    ],
+    "type": "Practice",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/financial-statement-analysis.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://openstax.org/books/principles-managerial-accounting/pages/a-financial-statement-analysis",
+      "https://openstax.org/books/principles-finance/pages/6-1-ratios-condensing-information-into-smaller-pieces",
+      "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+      "https://openstax.org/books/introduction-business/pages/14-7-analyzing-financial-statements",
+      "https://www.systemicrisk.ac.uk/sites/default/files/images/Evolution%20of%20Altman%20Z-Score.lse.pdf",
+      "https://www.stern.nyu.edu/experience-stern/news/professor-edward-altman-shares-most-common-mistakes-practicioners-make-using-his-z-score-research.md",
+      "https://scilit.com/publications/97a25887de38cdaa674358d5cb1ed07a"
+    ]
+  },
+  {
     "id": "kt:first-mover-advantage",
     "title": "First-Mover Advantage",
     "aliases": [

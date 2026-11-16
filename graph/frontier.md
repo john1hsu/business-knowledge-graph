@@ -4,10 +4,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
-| `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:real-options`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -50,7 +49,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
+| `kt:current-ratio` | `kt:financial-statement-analysis`, `kt:working-capital` |
 | `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
+| `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
@@ -111,6 +112,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
+| `kt:return-on-equity` | `kt:dupont-analysis`, `kt:financial-statement-analysis` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
@@ -150,6 +152,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alexander-osterwalder` | `kt:business-model-canvas` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
+| `kt:altman-z-score` | `kt:financial-statement-analysis` |
 | `kt:amazon` | `kt:long-tail` |
 | `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction` |
 | `kt:american-research-and-development-corporation` | `kt:venture-capital` |
@@ -228,7 +231,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:creating-public-value-1995` | `kt:public-value` |
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility` |
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
-| `kt:current-ratio` | `kt:working-capital` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction` |
 | `kt:cybersecurity-maturity-model-certification` | `kt:defense-federal-acquisition-regulation-supplement` |
@@ -237,7 +239,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:david-packard` | `kt:hewlett-packard` |
 | `kt:debt-covenant` | `kt:ebitda` |
-| `kt:debt-to-equity-ratio` | `kt:capital-structure` |
 | `kt:decision-rights` | `kt:span-of-control` |
 | `kt:degree-of-operating-leverage` | `kt:cost-structure` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors` |
@@ -506,7 +507,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
 | `kt:resistance-to-change` | `kt:change-management` |
-| `kt:return-on-equity` | `kt:dupont-analysis` |
 | `kt:return-on-marketing-investment` | `kt:marketing-metrics` |
 | `kt:revenue-premium` | `kt:brand-equity` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |

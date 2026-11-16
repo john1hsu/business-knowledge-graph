@@ -639,6 +639,114 @@
       ]
     },
     {
+      "@id": "kt:financial-statement-analysis",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Financial Statement Analysis: Ratios, Trends and Comparisons for Evaluating Firm Performance",
+      "skos:definition": "The practice of reviewing a company's balance sheet, income statement, cash flow statement and notes through trend (horizontal), common-size (vertical) and ratio analysis, then comparing the results with the firm's own history and its peers to judge liquidity, solvency, efficiency and profitability.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Accounting, Volume 2: Managerial Accounting, Appendix A: Financial Statement Analysis",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/a-financial-statement-analysis",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Finance, Section 6.1: Ratios: Condensing Information into Smaller Pieces",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/6-1-ratios-condensing-information-into-smaller-pieces",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Beginners' Guide to Financial Statements",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Introduction to Business, Section 14.7: Analyzing Financial Statements",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/introduction-business/pages/14-7-analyzing-financial-statements",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "50 Years of Altman Z-Score: What Have We Learned & the Applications in Financial & Managerial Markets",
+          "dcterms:publisher": "London School of Economics, Systemic Risk Centre",
+          "schema:url": "https://www.systemicrisk.ac.uk/sites/default/files/images/Evolution%20of%20Altman%20Z-Score.lse.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Professor Edward Altman shares the most common mistakes practitioners make in using his Z-Score research today",
+          "dcterms:publisher": "NYU Stern School of Business",
+          "schema:url": "https://www.stern.nyu.edu/experience-stern/news/professor-edward-altman-shares-most-common-mistakes-practicioners-make-using-his-z-score-research.md",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Financial Ratios As Predictors of Failure",
+          "dcterms:publisher": "Journal of Accounting Research (via Scilit)",
+          "schema:url": "https://scilit.com/publications/97a25887de38cdaa674358d5cb1ed07a",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/financial-statement-analysis.md",
+      "skos:altLabel": [
+        "financial analysis",
+        "ratio analysis",
+        "financial ratio analysis",
+        "horizontal and vertical analysis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:dupont-analysis"
+        },
+        {
+          "@id": "kt:working-capital"
+        },
+        {
+          "@id": "kt:statement-of-cash-flows"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:ebitda"
+        },
+        {
+          "@id": "kt:accrual-accounting"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:current-ratio"
+        },
+        {
+          "@id": "kt:debt-to-equity-ratio"
+        },
+        {
+          "@id": "kt:return-on-equity"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:altman-z-score"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:gaap"
+        }
+      ]
+    },
+    {
       "@id": "kt:free-cash-flow",
       "@type": "kto:Metric",
       "skos:prefLabel": "Free Cash Flow",
