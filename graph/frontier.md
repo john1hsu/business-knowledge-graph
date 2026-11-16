@@ -5,7 +5,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
+| `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
@@ -16,7 +16,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
-| `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
@@ -55,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:employee-motivation` | `kt:j-richard-hackman`, `kt:organizational-behavior` |
+| `kt:evidence-based-management` | `kt:decision-making`, `kt:organizational-behavior` |
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:fault-tree-analysis` | `kt:ishikawa-diagram`, `kt:issue-tree` |
@@ -106,6 +106,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:private-equity` | `kt:leveraged-buyout`, `kt:venture-capital` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
+| `kt:prospect-theory` | `kt:behavioral-finance`, `kt:decision-making` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
@@ -173,6 +174,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:birger-wernerfelt` | `kt:resource-based-view` |
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
+| `kt:bounded-rationality` | `kt:decision-making` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
@@ -277,11 +279,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:entrepreneurial-finance` | `kt:venture-capital` |
 | `kt:eric-ries` | `kt:lean-startup` |
+| `kt:escalation-of-commitment` | `kt:decision-making` |
 | `kt:esg-ratings` | `kt:esg` |
 | `kt:eu-data-act` | `kt:switching-costs` |
 | `kt:eu-ias-regulation` | `kt:ifrs` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
-| `kt:evidence-based-management` | `kt:organizational-behavior` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:executive-order-14402` | `kt:government-contract-types` |
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
@@ -323,7 +325,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-mintzberg` | `kt:henri-fayol` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
+| `kt:herbert-a-simon` | `kt:decision-making` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
+| `kt:heuristics-and-biases` | `kt:decision-making` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
@@ -481,7 +485,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-service-system` | `kt:servitization` |
 | `kt:professional-services` | `kt:management-consulting` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
-| `kt:prospect-theory` | `kt:behavioral-finance` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |

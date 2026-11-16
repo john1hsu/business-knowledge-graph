@@ -1437,6 +1437,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
 <https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/profiting-from-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/david-j-teece> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2000/01/rdf-schema#label> "Decision Making in Organizations: Rational, Bounded and Intuitive Choice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#altLabel> "decision making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#altLabel> "decision-making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#altLabel> "managerial decision making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#altLabel> "organizational decision making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#definition> "The process by which managers and employees recognize a problem, generate and weigh alternatives and commit to a course of action; research since Herbert Simon shows that real choices depart from the rational ideal because of bounded rationality, heuristics, biases and the limits of intuition." .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decision Making in Organizations: Rational, Bounded and Intuitive Choice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/evidence-based-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/prospect-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/bounded-rationality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/escalation-of-commitment> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/heuristics-and-biases> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/herbert-a-simon> .
 <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> <http://www.w3.org/2000/01/rdf-schema#label> "DFARS: Defense Department Rules Layered on Top of the FAR" .
@@ -6260,6 +6286,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/david-j-teece/s6> <https://schema.org/url> "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0358B6321818FA9A6B5EE160F94BC55E/S1833367219000889a.pdf/dynamic-capabilities-and-performance-how-has-the-relationship-been-assessed.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s1> <http://purl.org/dc/terms/publisher> "OpenStax (J. Stewart Black, David S. Bright et al.), 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s1> <http://purl.org/dc/terms/title> "Organizational Behavior, 6.3 Programmed and Nonprogrammed Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s1> <https://schema.org/url> "https://openstax.org/books/organizational-behavior/pages/6-3-programmed-and-nonprogrammed-decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s2> <http://purl.org/dc/terms/publisher> "OpenStax (David S. Bright, Anastasia H. Cortes et al.), 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s2> <http://purl.org/dc/terms/title> "Principles of Management, 2.4 Barriers to Effective Decision-Making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/2-4-barriers-to-effective-decision-making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s3> <http://purl.org/dc/terms/publisher> "OpenStax (David S. Bright, Anastasia H. Cortes et al.), 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s3> <http://purl.org/dc/terms/title> "Principles of Management, 2.5 Improving the Quality of Decision-Making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s3> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s4> <http://purl.org/dc/terms/publisher> "Herbert A. Simon, The Quarterly Journal of Economics 69(1), 99-118, 1955" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s4> <http://purl.org/dc/terms/title> "A Behavioral Model of Rational Choice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s4> <https://schema.org/url> "https://econpapers.repec.org/RePEc:oup:qjecon:v:69:y:1955:i:1:p:99-118." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s5> <http://purl.org/dc/terms/publisher> "Amos Tversky and Daniel Kahneman, Science 185(4157), 1124-1131, 1974" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s5> <http://purl.org/dc/terms/title> "Judgment under Uncertainty: Heuristics and Biases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s5> <https://schema.org/url> "https://pubmed.ncbi.nlm.nih.gov/17835457/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <http://purl.org/dc/terms/publisher> "Daniel Kahneman and Gary Klein, American Psychologist 64(6), 515-526, 2009" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <http://purl.org/dc/terms/title> "Conditions for intuitive expertise: a failure to disagree" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <https://schema.org/url> "https://pubmed.ncbi.nlm.nih.gov/19739881/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/defense-federal-acquisition-regulation-supplement/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (Department of Defense)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/defense-federal-acquisition-regulation-supplement/s1> <http://purl.org/dc/terms/title> "Subpart 201.3 - Agency Acquisition Regulations (DFARS)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/defense-federal-acquisition-regulation-supplement/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -16664,6 +16664,97 @@
       ]
     },
     {
+      "@id": "kt:decision-making",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Decision Making in Organizations: Rational, Bounded and Intuitive Choice",
+      "skos:definition": "The process by which managers and employees recognize a problem, generate and weigh alternatives and commit to a course of action; research since Herbert Simon shows that real choices depart from the rational ideal because of bounded rationality, heuristics, biases and the limits of intuition.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Organizational Behavior, 6.3 Programmed and Nonprogrammed Decisions",
+          "dcterms:publisher": "OpenStax (J. Stewart Black, David S. Bright et al.), 2019",
+          "schema:url": "https://openstax.org/books/organizational-behavior/pages/6-3-programmed-and-nonprogrammed-decisions",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Management, 2.4 Barriers to Effective Decision-Making",
+          "dcterms:publisher": "OpenStax (David S. Bright, Anastasia H. Cortes et al.), 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/2-4-barriers-to-effective-decision-making",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Management, 2.5 Improving the Quality of Decision-Making",
+          "dcterms:publisher": "OpenStax (David S. Bright, Anastasia H. Cortes et al.), 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A Behavioral Model of Rational Choice",
+          "dcterms:publisher": "Herbert A. Simon, The Quarterly Journal of Economics 69(1), 99-118, 1955",
+          "schema:url": "https://econpapers.repec.org/RePEc:oup:qjecon:v:69:y:1955:i:1:p:99-118.",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Judgment under Uncertainty: Heuristics and Biases",
+          "dcterms:publisher": "Amos Tversky and Daniel Kahneman, Science 185(4157), 1124-1131, 1974",
+          "schema:url": "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Conditions for intuitive expertise: a failure to disagree",
+          "dcterms:publisher": "Daniel Kahneman and Gary Klein, American Psychologist 64(6), 515-526, 2009",
+          "schema:url": "https://pubmed.ncbi.nlm.nih.gov/19739881/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/decision-making.md",
+      "skos:altLabel": [
+        "decision making",
+        "decision-making",
+        "managerial decision making",
+        "organizational decision making"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-behavior"
+        },
+        {
+          "@id": "kt:management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:group-decision-making"
+        },
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:evidence-based-management"
+        },
+        {
+          "@id": "kt:prospect-theory"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:bounded-rationality"
+        },
+        {
+          "@id": "kt:heuristics-and-biases"
+        },
+        {
+          "@id": "kt:escalation-of-commitment"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:herbert-a-simon"
+        }
+      ]
+    },
+    {
       "@id": "kt:devils-advocacy",
       "@type": "kto:Practice",
       "skos:prefLabel": "Devil's Advocate Method",

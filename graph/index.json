@@ -1203,6 +1203,28 @@
     ]
   },
   {
+    "id": "kt:decision-making",
+    "title": "Decision Making in Organizations: Rational, Bounded and Intuitive Choice",
+    "aliases": [
+      "decision making",
+      "decision-making",
+      "managerial decision making",
+      "organizational decision making"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/decision-making.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://openstax.org/books/organizational-behavior/pages/6-3-programmed-and-nonprogrammed-decisions",
+      "https://openstax.org/books/principles-management/pages/2-4-barriers-to-effective-decision-making",
+      "https://openstax.org/books/principles-management/pages/2-5-improving-the-quality-of-decision-making",
+      "https://econpapers.repec.org/RePEc:oup:qjecon:v:69:y:1955:i:1:p:99-118.",
+      "https://pubmed.ncbi.nlm.nih.gov/17835457/",
+      "https://pubmed.ncbi.nlm.nih.gov/19739881/"
+    ]
+  },
+  {
     "id": "kt:defense-federal-acquisition-regulation-supplement",
     "title": "DFARS: Defense Department Rules Layered on Top of the FAR",
     "aliases": [
