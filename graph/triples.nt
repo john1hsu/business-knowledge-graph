@@ -4481,6 +4481,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dodge-v-ford-motor-co> .
 <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
 <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/milton-friedman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2000/01/rdf-schema#label> "Sharing Economy: Access-Based Peer-to-Peer Exchange" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#altLabel> "access economy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#altLabel> "collaborative consumption" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#altLabel> "peer-to-peer economy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#altLabel> "peer-to-peer platforms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#altLabel> "sharing economy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/platform-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#definition> "A business model in which digital platforms match individuals or small suppliers who have underused assets or time with people who want temporary access to them, earning a fee on each transaction while relying on ratings and other trust mechanisms to let strangers deal with each other." .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sharing Economy: Access-Based Peer-to-Peer Exchange" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gig-economy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/access-based-consumption> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/reputation-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/airbnb> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/uber> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sharing-economy> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/short-term-rental-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Hersey-Blanchard Situational Leadership Model" .
@@ -9586,6 +9615,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s6> <https://schema.org/url> "https://fortune.com/2019/08/26/business-roundtable-shareholders-rights-law/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s1> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission, staff report, November 2016" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s1> <http://purl.org/dc/terms/title> "The \"Sharing\" Economy: Issues Facing Platforms, Participants & Regulators" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s1> <https://schema.org/url> "https://www.ftc.gov/system/files/documents/reports/sharing-economy-issues-facing-platforms-participants-regulators-federal-trade-commission-staff/p151200_ftc_staff_report_on_the_sharing_economy.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s2> <http://purl.org/dc/terms/publisher> "Journal of Marketing Research 54(5), 2017 (Boston University OpenBU record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s2> <http://purl.org/dc/terms/title> "The rise of the sharing economy: Estimating the impact of Airbnb on the hotel industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s2> <https://schema.org/url> "https://open.bu.edu/handle/2144/40311" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s3> <http://purl.org/dc/terms/publisher> "Boston University (author copy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s3> <http://purl.org/dc/terms/title> "The Rise of the Sharing Economy: Estimating the Impact of Airbnb on the Hotel Industry (author manuscript)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s3> <https://schema.org/url> "https://people.bu.edu/zg/publications/airbnb.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s4> <http://purl.org/dc/terms/publisher> "Journal of the Association for Information Science and Technology 67(9), 2016 (Aalto University research portal)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s4> <http://purl.org/dc/terms/title> "The sharing economy: Why people participate in collaborative consumption" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s4> <https://schema.org/url> "https://research.aalto.fi/en/publications/the-sharing-economy-why-people-participate-in-collaborative-consu/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s5> <http://purl.org/dc/terms/publisher> "Journal of Consumer Research 39(4), 2012 (City, University of London repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s5> <http://purl.org/dc/terms/title> "Access-Based Consumption: The Case of Car Sharing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s5> <https://schema.org/url> "https://openaccess.city.ac.uk/id/eprint/18256/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s6> <http://purl.org/dc/terms/publisher> "Airbnb, Inc. annual report filed with the SEC, February 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s6> <http://purl.org/dc/terms/title> "Airbnb, Inc. Form 10-K for the fiscal year ended December 31, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sharing-economy/s6> <https://schema.org/url> "https://fortune.com/company-assets/2512/quartr/annual-report-10-k-dca2b-2026-02-12-09-38-05.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://purl.org/dc/terms/publisher> "Training and Development Journal (Association for Talent Development archive)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://purl.org/dc/terms/title> "Life Cycle Theory of Leadership" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -5345,6 +5345,108 @@
       ]
     },
     {
+      "@id": "kt:sharing-economy",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Sharing Economy: Access-Based Peer-to-Peer Exchange",
+      "skos:definition": "A business model in which digital platforms match individuals or small suppliers who have underused assets or time with people who want temporary access to them, earning a fee on each transaction while relying on ratings and other trust mechanisms to let strangers deal with each other.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The \"Sharing\" Economy: Issues Facing Platforms, Participants & Regulators",
+          "dcterms:publisher": "U.S. Federal Trade Commission, staff report, November 2016",
+          "schema:url": "https://www.ftc.gov/system/files/documents/reports/sharing-economy-issues-facing-platforms-participants-regulators-federal-trade-commission-staff/p151200_ftc_staff_report_on_the_sharing_economy.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The rise of the sharing economy: Estimating the impact of Airbnb on the hotel industry",
+          "dcterms:publisher": "Journal of Marketing Research 54(5), 2017 (Boston University OpenBU record)",
+          "schema:url": "https://open.bu.edu/handle/2144/40311",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Rise of the Sharing Economy: Estimating the Impact of Airbnb on the Hotel Industry (author manuscript)",
+          "dcterms:publisher": "Boston University (author copy)",
+          "schema:url": "https://people.bu.edu/zg/publications/airbnb.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The sharing economy: Why people participate in collaborative consumption",
+          "dcterms:publisher": "Journal of the Association for Information Science and Technology 67(9), 2016 (Aalto University research portal)",
+          "schema:url": "https://research.aalto.fi/en/publications/the-sharing-economy-why-people-participate-in-collaborative-consu/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Access-Based Consumption: The Case of Car Sharing",
+          "dcterms:publisher": "Journal of Consumer Research 39(4), 2012 (City, University of London repository)",
+          "schema:url": "https://openaccess.city.ac.uk/id/eprint/18256/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Airbnb, Inc. Form 10-K for the fiscal year ended December 31, 2025",
+          "dcterms:publisher": "Airbnb, Inc. annual report filed with the SEC, February 2026",
+          "schema:url": "https://fortune.com/company-assets/2512/quartr/annual-report-10-k-dca2b-2026-02-12-09-38-05.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-models/sharing-economy.md",
+      "skos:altLabel": [
+        "sharing economy",
+        "collaborative consumption",
+        "peer-to-peer economy",
+        "peer-to-peer platforms",
+        "access economy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:platform-business-model"
+        },
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:transaction-cost-economics"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        },
+        {
+          "@id": "kt:gig-economy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:airbnb"
+        },
+        {
+          "@id": "kt:uber"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:reputation-system"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:access-based-consumption"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:short-term-rental-regulation"
+        }
+      ]
+    },
+    {
       "@id": "kt:subscription-business-model",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Subscription Business Model: Selling Ongoing Access",

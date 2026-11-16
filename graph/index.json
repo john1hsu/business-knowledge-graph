@@ -3772,6 +3772,29 @@
     ]
   },
   {
+    "id": "kt:sharing-economy",
+    "title": "Sharing Economy: Access-Based Peer-to-Peer Exchange",
+    "aliases": [
+      "sharing economy",
+      "collaborative consumption",
+      "peer-to-peer economy",
+      "peer-to-peer platforms",
+      "access economy"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/sharing-economy.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://www.ftc.gov/system/files/documents/reports/sharing-economy-issues-facing-platforms-participants-regulators-federal-trade-commission-staff/p151200_ftc_staff_report_on_the_sharing_economy.pdf",
+      "https://open.bu.edu/handle/2144/40311",
+      "https://people.bu.edu/zg/publications/airbnb.pdf",
+      "https://research.aalto.fi/en/publications/the-sharing-economy-why-people-participate-in-collaborative-consu/",
+      "https://openaccess.city.ac.uk/id/eprint/18256/",
+      "https://fortune.com/company-assets/2512/quartr/annual-report-10-k-dca2b-2026-02-12-09-38-05.pdf"
+    ]
+  },
+  {
     "id": "kt:situational-leadership",
     "title": "Hersey-Blanchard Situational Leadership Model",
     "aliases": [

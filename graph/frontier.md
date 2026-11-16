@@ -136,6 +136,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
 | `kt:a-resource-based-view-of-the-firm-1984` | `kt:resource-based-view` |
 | `kt:a3-report` | `kt:structured-problem-solving` |
+| `kt:access-based-consumption` | `kt:sharing-economy` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
 | `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
@@ -143,6 +144,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
+| `kt:airbnb` | `kt:sharing-economy` |
 | `kt:alexander-osterwalder` | `kt:business-model-canvas` |
 | `kt:alfred-marshall` | `kt:price-elasticity` |
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
@@ -305,6 +307,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:george-m-beal` | `kt:technology-adoption-life-cycle` |
+| `kt:gig-economy` | `kt:sharing-economy` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:glass-lewis` | `kt:proxy-advisory-firm` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
@@ -487,6 +490,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relational-coordination` | `kt:southwest-airlines` |
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |
 | `kt:relative-valuation` | `kt:discounted-cash-flow` |
+| `kt:reputation-system` | `kt:sharing-economy` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
 | `kt:resistance-to-change` | `kt:change-management` |
@@ -522,6 +526,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:seven-wastes` | `kt:taiichi-ohno` |
 | `kt:shareholder-activism` | `kt:blockbuster-decline` |
 | `kt:sherman-act` | `kt:antitrust-law` |
+| `kt:short-term-rental-regulation` | `kt:sharing-economy` |
 | `kt:signaling-theory` | `kt:information-asymmetry` |
 | `kt:single-entry-bookkeeping` | `kt:double-entry-bookkeeping` |
 | `kt:small-business-act` | `kt:small-business-set-asides` |
@@ -582,6 +587,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trial-balance` | `kt:double-entry-bookkeeping` |
 | `kt:triple-bottom-line` | `kt:corporate-social-responsibility` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |
+| `kt:uber` | `kt:sharing-economy` |
 | `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:uncertainty-and-the-welfare-economics-of-medical-care-1963` | `kt:moral-hazard` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
