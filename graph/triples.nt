@@ -4136,6 +4136,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gillette> .
 <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2000/01/rdf-schema#label> "Real Options: Valuing Managerial Flexibility in Capital Investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#altLabel> "ROV" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#altLabel> "options approach to capital investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#altLabel> "real option theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#altLabel> "real options analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#altLabel> "real options valuation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#definition> "An approach to capital budgeting that treats the right, but not the obligation, to defer, stage, expand, contract, switch or abandon a real investment as an option, and values that managerial flexibility with option-pricing logic so that a project is worth its static NPV plus the value of its options." .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#prefLabel> "Real Options: Valuing Managerial Flexibility in Capital Investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/sunk-cost> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <https://github.com/john1hsu/business-knowledge-graph/ontology#critiques> <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/black-scholes-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/real-options> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/stewart-myers> .
 <https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/resource-based-view> <http://www.w3.org/2000/01/rdf-schema#label> "Resource-Based View: Firm Resources as the Source of Competitive Advantage" .
@@ -9253,6 +9279,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/razor-and-blades-model/s5> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/47217/000004721723000100/hpq-20231031.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s1> <http://purl.org/dc/terms/publisher> "Columbia Business School, Columbia Institute for Tele-Information (CITI)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s1> <http://purl.org/dc/terms/title> "Real Options: A Primer" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s1> <https://schema.org/url> "https://business.columbia.edu/sites/default/files-efs/imce-uploads/CITI/Articles/978-0-585-33314-4_1.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review (reprint 98404, hosted by Silicon Flatirons, University of Colorado)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s2> <http://purl.org/dc/terms/title> "Investment Opportunities as Real Options: Getting Started on the Numbers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s2> <https://schema.org/url> "https://siliconflatirons.org/documents/initiatives/IRLEdayfour/Luehrman_Investment_Opportunities.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review (HBR Store, product 98506)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s3> <http://purl.org/dc/terms/title> "Strategy as a Portfolio of Real Options" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s3> <https://schema.org/url> "https://store.hbr.org/product/strategy-as-a-portfolio-of-real-options/98506" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s4> <http://purl.org/dc/terms/publisher> "Princeton University Press" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s4> <http://purl.org/dc/terms/title> "Investment under Uncertainty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s4> <https://schema.org/url> "https://press.princeton.edu/node/27002" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s5> <http://purl.org/dc/terms/publisher> "MIT Center for Energy and Environmental Policy Research (working paper 97-006)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s5> <http://purl.org/dc/terms/title> "Expandability, Reversibility, and Optimal Capacity Choice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s5> <https://schema.org/url> "https://core.ac.uk/download/4414698.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s6> <http://purl.org/dc/terms/publisher> "Journal of Applied Corporate Finance (author copy, Duke University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s6> <http://purl.org/dc/terms/title> "How Do CFOs Make Capital Budgeting and Capital Structure Decisions?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/real-options/s6> <https://schema.org/url> "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <http://purl.org/dc/terms/publisher> "Strategic Management Journal (record at IDEAS/RePEc)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <http://purl.org/dc/terms/title> "A resource-based view of the firm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/resource-based-view/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -8234,6 +8234,97 @@
       ]
     },
     {
+      "@id": "kt:real-options",
+      "@type": "kto:Framework",
+      "skos:prefLabel": "Real Options: Valuing Managerial Flexibility in Capital Investment",
+      "skos:definition": "An approach to capital budgeting that treats the right, but not the obligation, to defer, stage, expand, contract, switch or abandon a real investment as an option, and values that managerial flexibility with option-pricing logic so that a project is worth its static NPV plus the value of its options.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Real Options: A Primer",
+          "dcterms:publisher": "Columbia Business School, Columbia Institute for Tele-Information (CITI)",
+          "schema:url": "https://business.columbia.edu/sites/default/files-efs/imce-uploads/CITI/Articles/978-0-585-33314-4_1.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Investment Opportunities as Real Options: Getting Started on the Numbers",
+          "dcterms:publisher": "Harvard Business Review (reprint 98404, hosted by Silicon Flatirons, University of Colorado)",
+          "schema:url": "https://siliconflatirons.org/documents/initiatives/IRLEdayfour/Luehrman_Investment_Opportunities.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Strategy as a Portfolio of Real Options",
+          "dcterms:publisher": "Harvard Business Review (HBR Store, product 98506)",
+          "schema:url": "https://store.hbr.org/product/strategy-as-a-portfolio-of-real-options/98506",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Investment under Uncertainty",
+          "dcterms:publisher": "Princeton University Press",
+          "schema:url": "https://press.princeton.edu/node/27002",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Expandability, Reversibility, and Optimal Capacity Choice",
+          "dcterms:publisher": "MIT Center for Energy and Environmental Policy Research (working paper 97-006)",
+          "schema:url": "https://core.ac.uk/download/4414698.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How Do CFOs Make Capital Budgeting and Capital Structure Decisions?",
+          "dcterms:publisher": "Journal of Applied Corporate Finance (author copy, Duke University)",
+          "schema:url": "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/real-options.md",
+      "skos:altLabel": [
+        "real options analysis",
+        "real options valuation",
+        "real option theory",
+        "ROV",
+        "options approach to capital investment"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:capital-budgeting"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scenario-planning"
+        },
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        },
+        {
+          "@id": "kt:sunk-cost"
+        }
+      ],
+      "kto:critiques": [
+        {
+          "@id": "kt:net-present-value"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:discounted-cash-flow"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:black-scholes-model"
+        },
+        {
+          "@id": "kt:stewart-myers"
+        }
+      ]
+    },
+    {
       "@id": "kt:weighted-average-cost-of-capital",
       "@type": "kto:Metric",
       "skos:prefLabel": "Weighted Average Cost of Capital",

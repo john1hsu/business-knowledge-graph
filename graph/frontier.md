@@ -9,12 +9,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
+| `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:real-options`, `kt:weighted-average-cost-of-capital` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:google` | `kt:aggregation-theory`, `kt:okrs`, `kt:google-project-aristotle`, `kt:bcg-growth-share-matrix` |
 | `kt:microeconomics` | `kt:cost-structure`, `kt:cost-structure`, `kt:industrial-organization`, `kt:price-elasticity` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:public-administration` | `kt:government-accountability-office`, `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
-| `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
@@ -28,7 +28,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
-| `kt:real-options` | `kt:discounted-cash-flow`, `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
@@ -41,6 +40,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
+| `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-judgment-rule` | `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
@@ -168,7 +168,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:benjamin-tregoe` | `kt:kepner-tregoe-method` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:birger-wernerfelt` | `kt:resource-based-view` |
-| `kt:black-scholes-model` | `kt:arbitrage` |
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
@@ -553,10 +552,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:steve-blank` | `kt:customer-development` |
 | `kt:steve-jobs` | `kt:apple-inc` |
 | `kt:steve-wozniak` | `kt:apple-inc` |
+| `kt:stewart-myers` | `kt:real-options` |
 | `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
 | `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
+| `kt:sunk-cost` | `kt:real-options` |
 | `kt:supply-chain-resilience` | `kt:supply-chain-management` |
 | `kt:sustainability-reporting` | `kt:ifrs` |
 | `kt:sustainable-finance` | `kt:esg` |

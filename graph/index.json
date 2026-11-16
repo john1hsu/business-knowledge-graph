@@ -3485,6 +3485,29 @@
     ]
   },
   {
+    "id": "kt:real-options",
+    "title": "Real Options: Valuing Managerial Flexibility in Capital Investment",
+    "aliases": [
+      "real options analysis",
+      "real options valuation",
+      "real option theory",
+      "ROV",
+      "options approach to capital investment"
+    ],
+    "type": "Framework",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/real-options.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://business.columbia.edu/sites/default/files-efs/imce-uploads/CITI/Articles/978-0-585-33314-4_1.pdf",
+      "https://siliconflatirons.org/documents/initiatives/IRLEdayfour/Luehrman_Investment_Opportunities.pdf",
+      "https://store.hbr.org/product/strategy-as-a-portfolio-of-real-options/98506",
+      "https://press.princeton.edu/node/27002",
+      "https://core.ac.uk/download/4414698.pdf",
+      "https://people.duke.edu/~charvey/Research/Published_Papers/P76_How_do_CFOs.pdf"
+    ]
+  },
+  {
     "id": "kt:resource-based-view",
     "title": "Resource-Based View: Firm Resources as the Source of Competitive Advantage",
     "aliases": [
