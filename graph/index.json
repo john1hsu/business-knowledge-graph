@@ -3884,6 +3884,25 @@
     ]
   },
   {
+    "id": "kt:stakeholder-analysis",
+    "title": "Stakeholder Analysis: Identifying, Prioritizing and Mapping Stakeholders by Power, Interest and Salience",
+    "aliases": [
+      "stakeholder analysis",
+      "stakeholder mapping",
+      "stakeholder identification and analysis"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/stakeholder-analysis.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://fenix.iseg.ulisboa.pt/downloadFile/563083097458401/Mitchell%20et%20al.%201997%20%28AMR%29%20Toward%20a%20theory%20of%20stakeholder%20identification%20and%20salience%20Defining%20the%20principle%20of%20who%20and%20what%20really%20counts.pdf",
+      "https://www.sog.unc.edu/sites/www.sog.unc.edu/files/general_media/Bryson%20PMR%202004%20What%20to%20do%20when%20stakeholders%20matter%20%281%29.pdf",
+      "https://library.alnap.org/system/files/content/resource/files/main/Zsuzsa_Varvasovsky_2000_stakeholder_analysis.pdf",
+      "https://gala.gre.ac.uk/id/eprint/4003/"
+    ]
+  },
+  {
     "id": "kt:stakeholder-theory",
     "title": "Stakeholder Theory",
     "aliases": [

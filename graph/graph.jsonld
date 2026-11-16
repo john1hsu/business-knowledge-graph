@@ -6831,6 +6831,78 @@
       ]
     },
     {
+      "@id": "kt:stakeholder-analysis",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Stakeholder Analysis: Identifying, Prioritizing and Mapping Stakeholders by Power, Interest and Salience",
+      "skos:definition": "A family of practical techniques for identifying the individuals and groups that can affect or are affected by a decision, project or policy, assessing their interests, power and positions, and using that picture to plan engagement, build coalitions and anticipate opposition.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts",
+          "dcterms:publisher": "Academy of Management Review 22(4), 853-886 (Mitchell, Agle and Wood, 1997)",
+          "schema:url": "https://fenix.iseg.ulisboa.pt/downloadFile/563083097458401/Mitchell%20et%20al.%201997%20%28AMR%29%20Toward%20a%20theory%20of%20stakeholder%20identification%20and%20salience%20Defining%20the%20principle%20of%20who%20and%20what%20really%20counts.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What to Do When Stakeholders Matter: Stakeholder Identification and Analysis Techniques",
+          "dcterms:publisher": "Public Management Review 6(1), 21-53 (John M. Bryson, 2004)",
+          "schema:url": "https://www.sog.unc.edu/sites/www.sog.unc.edu/files/general_media/Bryson%20PMR%202004%20What%20to%20do%20when%20stakeholders%20matter%20%281%29.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How to do (or not to do)... a stakeholder analysis",
+          "dcterms:publisher": "Health Policy and Planning 15(3), 338-345 (Varvasovszky and Brugha, 2000)",
+          "schema:url": "https://library.alnap.org/system/files/content/resource/files/main/Zsuzsa_Varvasovsky_2000_stakeholder_analysis.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Who's in and why? A typology of stakeholder analysis methods for natural resource management",
+          "dcterms:publisher": "Journal of Environmental Management 90(5), 1933-1949 (Reed et al., 2009), University of Greenwich repository",
+          "schema:url": "https://gala.gre.ac.uk/id/eprint/4003/",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/stakeholder-analysis.md",
+      "skos:altLabel": [
+        "stakeholder analysis",
+        "stakeholder mapping",
+        "stakeholder identification and analysis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:strategic-planning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:change-management"
+        },
+        {
+          "@id": "kt:delphi-method"
+        },
+        {
+          "@id": "kt:public-value"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:stakeholder-theory"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:stakeholder-salience-model"
+        },
+        {
+          "@id": "kt:power-interest-grid"
+        }
+      ]
+    },
+    {
       "@id": "kt:structured-problem-solving",
       "@type": "kto:Practice",
       "skos:prefLabel": "Structured Problem Solving: The Consultant's Stepwise Method",

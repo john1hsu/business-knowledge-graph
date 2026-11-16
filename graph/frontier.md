@@ -33,6 +33,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:real-options` | `kt:discounted-cash-flow`, `kt:net-present-value`, `kt:scenario-planning` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
+| `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
@@ -115,7 +116,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
-| `kt:strategic-planning` | `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
@@ -457,6 +457,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:portfolio-planning` | `kt:bcg-growth-share-matrix` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
+| `kt:power-interest-grid` | `kt:stakeholder-analysis` |
 | `kt:power-law` | `kt:eighty-twenty-rule` |
 | `kt:predators-and-prey-a-new-ecology-of-competition-1993` | `kt:business-ecosystem` |
 | `kt:premature-scaling` | `kt:product-market-fit` |
@@ -542,6 +543,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:special-purpose-entity` | `kt:enron-scandal` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:stage-gate-process` | `kt:innovation-management` |
+| `kt:stakeholder-salience-model` | `kt:stakeholder-analysis` |
 | `kt:statement-of-changes-in-financial-position` | `kt:statement-of-cash-flows` |
 | `kt:statistical-process-control` | `kt:total-quality-management` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
