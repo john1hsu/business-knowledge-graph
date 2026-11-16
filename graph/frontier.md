@@ -23,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-metrics` | `kt:churn-rate`, `kt:customer-lifetime-value`, `kt:customer-satisfaction` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
+| `kt:max-weber` | `kt:public-administration`, `kt:transformational-leadership`, `kt:organization-theory` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
@@ -88,7 +89,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
-| `kt:max-weber` | `kt:public-administration`, `kt:organization-theory` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
@@ -170,6 +170,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:behavioral-ethics` | `kt:business-ethics` |
 | `kt:ben-thompson` | `kt:aggregation-theory` |
 | `kt:benjamin-tregoe` | `kt:kepner-tregoe-method` |
+| `kt:bernard-bass` | `kt:transformational-leadership` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:birger-wernerfelt` | `kt:resource-based-view` |
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
@@ -359,6 +360,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:james-f-moore` | `kt:business-ecosystem` |
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
+| `kt:james-macgregor-burns` | `kt:transformational-leadership` |
 | `kt:jay-barney` | `kt:resource-based-view` |
 | `kt:jean-charles-rochet` | `kt:two-sided-market` |
 | `kt:jensens-alpha` | `kt:michael-c-jensen` |
@@ -429,6 +431,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:multidivisional-form` | `kt:general-motors` |
+| `kt:multifactor-leadership-questionnaire` | `kt:transformational-leadership` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:neil-borden` | `kt:marketing-mix` |
 | `kt:net-promoter-score` | `kt:customer-satisfaction` |
@@ -596,7 +599,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
 | `kt:trade-credit` | `kt:working-capital` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |
-| `kt:transformational-leadership` | `kt:leadership` |
+| `kt:transactional-leadership` | `kt:transformational-leadership` |
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:trial-balance` | `kt:double-entry-bookkeeping` |
 | `kt:triple-bottom-line` | `kt:corporate-social-responsibility` |

@@ -12412,6 +12412,89 @@
       ]
     },
     {
+      "@id": "kt:transformational-leadership",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Transformational Leadership: Vision, Inspiration and the Four I's",
+      "skos:definition": "A leadership theory, traced to James MacGregor Burns (1978) and formalized by Bernard Bass (1985), in which leaders raise followers' motivation beyond self-interest through idealized influence, inspirational motivation, intellectual stimulation and individualized consideration, in contrast to transactional leadership's exchange of rewards for performance.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "From transactional to transformational leadership: Learning to share the vision",
+          "dcterms:publisher": "Organizational Dynamics 18(3), 19–31 (Bernard M. Bass, 1990), hosted by the Norwegian research archive Brage",
+          "schema:url": "https://omsorgsforskning.brage.unit.no/omsorgsforskning-xmlui/bitstream/handle/11250/2656417/Bass.pdf?sequence=1",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "13.8 Transformational, Visionary, and Charismatic Leadership",
+          "dcterms:publisher": "OpenStax, Principles of Management (Bright, Cortes et al.)",
+          "schema:url": "https://openstax.org/books/principles-management/pages/13-8-transformational-visionary-and-charismatic-leadership",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Transformational and transactional leadership: A meta-analytic test of their relative validity (Judge & Piccolo, Journal of Applied Psychology 89(5), 2004)",
+          "dcterms:publisher": "Shanghai University of Finance and Economics academic newsletter (abstract record)",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/372429",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A critical assessment of charismatic-transformational leadership research: Back to the drawing board? (Academy of Management Annals 7(1), 2013)",
+          "dcterms:publisher": "University of Colorado Leeds School of Business faculty page (author manuscript)",
+          "schema:url": "https://leeds-faculty.colorado.edu/dahe7472/dvk%20and%20sitkin%202013.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/transformational-leadership.md",
+      "skos:altLabel": [
+        "transformational leadership theory",
+        "transforming leadership",
+        "charismatic-transformational leadership",
+        "four I's of leadership"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:leadership"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:situational-leadership"
+        },
+        {
+          "@id": "kt:contingency-theory-of-leadership"
+        },
+        {
+          "@id": "kt:change-management"
+        },
+        {
+          "@id": "kt:organizational-culture"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:james-macgregor-burns"
+        },
+        {
+          "@id": "kt:bernard-bass"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:max-weber"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:transactional-leadership"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:multifactor-leadership-questionnaire"
+        }
+      ]
+    },
+    {
       "@id": "kt:adverse-selection",
       "@type": "kto:Concept",
       "skos:prefLabel": "Adverse Selection: Hidden Information Before a Contract",

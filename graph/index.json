@@ -4312,6 +4312,26 @@
     ]
   },
   {
+    "id": "kt:transformational-leadership",
+    "title": "Transformational Leadership: Vision, Inspiration and the Four I's",
+    "aliases": [
+      "transformational leadership theory",
+      "transforming leadership",
+      "charismatic-transformational leadership",
+      "four I's of leadership"
+    ],
+    "type": "Theory",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/transformational-leadership.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://omsorgsforskning.brage.unit.no/omsorgsforskning-xmlui/bitstream/handle/11250/2656417/Bass.pdf?sequence=1",
+      "https://openstax.org/books/principles-management/pages/13-8-transformational-visionary-and-charismatic-leadership",
+      "https://academicnewsletter.sufe.edu.cn/info/372429",
+      "https://leeds-faculty.colorado.edu/dahe7472/dvk%20and%20sitkin%202013.pdf"
+    ]
+  },
+  {
     "id": "kt:truth-in-negotiations-act",
     "title": "Truth in Negotiations Act",
     "aliases": [
