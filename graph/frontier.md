@@ -8,7 +8,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:financial-statement-analysis` | `kt:dupont-analysis`, `kt:ebitda`, `kt:free-cash-flow`, `kt:statement-of-cash-flows`, `kt:working-capital` |
 | `kt:management` | `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:organization-theory`, `kt:organizational-behavior` |
-| `kt:strategic-renewal` | `kt:apple-inc`, `kt:intel`, `kt:kodak-decline`, `kt:netflix-business-model-shift`, `kt:corporate-decline` |
 | `kt:supply-chain-management` | `kt:walmart`, `kt:bullwhip-effect`, `kt:inventory-management`, `kt:operations-management`, `kt:business-ecosystem` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:computer-industry` | `kt:apple-inc`, `kt:apple-inc`, `kt:hewlett-packard`, `kt:hewlett-packard` |
@@ -19,6 +18,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:public-administration` | `kt:government-accountability-office`, `kt:public-procurement`, `kt:public-value`, `kt:span-of-control` |
 | `kt:capital-budgeting` | `kt:corporate-finance`, `kt:net-present-value`, `kt:weighted-average-cost-of-capital` |
 | `kt:corporate-law` | `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
+| `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:decision-making` | `kt:kepner-tregoe-method`, `kt:structured-problem-solving`, `kt:group-decision-making` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
@@ -50,7 +50,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
-| `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
@@ -496,6 +495,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
 | `kt:robert-b-wilson` | `kt:bengt-holmstrom` |
+| `kt:robert-burgelman` | `kt:strategic-renewal` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |

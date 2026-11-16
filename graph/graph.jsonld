@@ -18325,6 +18325,86 @@
       ]
     },
     {
+      "@id": "kt:strategic-renewal",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Strategic Renewal: Refreshing or Replacing a Firm's Attributes to Sustain Long-Term Prospects",
+      "skos:definition": "The process by which an organization refreshes or replaces the attributes that shape its long-term prospects, such as its strategic intent, core capabilities and businesses, so that it can escape path dependence and remain viable as its environment changes.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-16",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Strategic Renewal of Organizations",
+          "dcterms:publisher": "Organization Science 20(2), 281-293 (record at University of Illinois Experts)",
+          "schema:url": "https://experts.illinois.edu/en/publications/strategic-renewal-of-organizations/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategic Renewal: Past Research, Theoretical Tensions and Future Challenges",
+          "dcterms:publisher": "International Journal of Management Reviews (author version, Erasmus University repository)",
+          "schema:url": "https://repub.eur.nl/pub/93857/REPUB_93857_OA.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategic Renewal and the Interaction of Cumulative Stress and Inertia",
+          "dcterms:publisher": "Strategic Management Journal 13(1), 55-75 (record at Singapore Management University)",
+          "schema:url": "https://ink.library.smu.edu.sg/lkcsb_research/1855",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Intel Corporation (A): The DRAM Decision",
+          "dcterms:publisher": "Stanford Graduate School of Business case BP256A",
+          "schema:url": "https://www.gsb.stanford.edu/faculty-research/case-studies/intel-corporation-dram-decision",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/strategy/strategic-renewal.md",
+      "skos:altLabel": [
+        "organizational renewal",
+        "corporate revitalization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:organizational-ambidexterity"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        },
+        {
+          "@id": "kt:corporate-decline"
+        },
+        {
+          "@id": "kt:corporate-turnaround"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:intel"
+        },
+        {
+          "@id": "kt:ibm-turnaround"
+        },
+        {
+          "@id": "kt:apple-inc"
+        },
+        {
+          "@id": "kt:netflix-business-model-shift"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:robert-burgelman"
+        }
+      ]
+    },
+    {
       "@id": "kt:switching-costs",
       "@type": "kto:Concept",
       "skos:prefLabel": "Consumer Switching Costs",

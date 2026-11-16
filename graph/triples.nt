@@ -9801,6 +9801,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-management/s6> <https://schema.org/url> "https://scholars.nova.edu/en/publications/thirty-five-years-of-strategic-planning-and-firm-performance-rese/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s1> <http://purl.org/dc/terms/publisher> "Organization Science 20(2), 281-293 (record at University of Illinois Experts)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s1> <http://purl.org/dc/terms/title> "Strategic Renewal of Organizations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s1> <https://schema.org/url> "https://experts.illinois.edu/en/publications/strategic-renewal-of-organizations/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s2> <http://purl.org/dc/terms/publisher> "International Journal of Management Reviews (author version, Erasmus University repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s2> <http://purl.org/dc/terms/title> "Strategic Renewal: Past Research, Theoretical Tensions and Future Challenges" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s2> <https://schema.org/url> "https://repub.eur.nl/pub/93857/REPUB_93857_OA.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s3> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 13(1), 55-75 (record at Singapore Management University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s3> <http://purl.org/dc/terms/title> "Strategic Renewal and the Interaction of Cumulative Stress and Inertia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s3> <https://schema.org/url> "https://ink.library.smu.edu.sg/lkcsb_research/1855" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s4> <http://purl.org/dc/terms/publisher> "Stanford Graduate School of Business case BP256A" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s4> <http://purl.org/dc/terms/title> "Intel Corporation (A): The DRAM Decision" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s4> <https://schema.org/url> "https://www.gsb.stanford.edu/faculty-research/case-studies/intel-corporation-dram-decision" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <http://purl.org/dc/terms/title> "9.5 Planning Firm Actions to Implement Strategies" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/strategy-execution/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -10383,6 +10403,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/alfred-d-chandler-jr> .
 <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-policy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://purl.org/dc/terms/created> "2026-11-16" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2000/01/rdf-schema#label> "Strategic Renewal: Refreshing or Replacing a Firm's Attributes to Sustain Long-Term Prospects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#altLabel> "corporate revitalization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#altLabel> "organizational renewal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#definition> "The process by which an organization refreshes or replaces the attributes that shape its long-term prospects, such as its strategic intent, core capabilities and businesses, so that it can escape path dependence and remain viable as its environment changes." .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strategic Renewal: Refreshing or Replacing a Firm's Attributes to Sustain Long-Term Prospects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/dynamic-capabilities> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/strategic-renewal/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> .
+<https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-burgelman> .
 <https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> <http://www.w3.org/2000/01/rdf-schema#label> "Strategy Execution" .

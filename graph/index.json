@@ -3928,6 +3928,24 @@
     ]
   },
   {
+    "id": "kt:strategic-renewal",
+    "title": "Strategic Renewal: Refreshing or Replacing a Firm's Attributes to Sustain Long-Term Prospects",
+    "aliases": [
+      "organizational renewal",
+      "corporate revitalization"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/strategic-renewal.md",
+    "created": "2026-11-16",
+    "source_urls": [
+      "https://experts.illinois.edu/en/publications/strategic-renewal-of-organizations/",
+      "https://repub.eur.nl/pub/93857/REPUB_93857_OA.pdf",
+      "https://ink.library.smu.edu.sg/lkcsb_research/1855",
+      "https://www.gsb.stanford.edu/faculty-research/case-studies/intel-corporation-dram-decision"
+    ]
+  },
+  {
     "id": "kt:strategy-execution",
     "title": "Strategy Execution",
     "aliases": [
