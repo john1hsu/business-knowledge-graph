@@ -2225,6 +2225,27 @@
     ]
   },
   {
+    "id": "kt:hawthorne-studies",
+    "title": "Hawthorne Studies: Western Electric's Experiments on Work and Productivity",
+    "aliases": [
+      "Hawthorne experiments",
+      "Hawthorne Works studies",
+      "Western Electric Hawthorne research"
+    ],
+    "type": "Case",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/hawthorne-studies.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.library.hbs.edu/hc/hawthorne/03.html",
+      "https://www.library.hbs.edu/hc/hawthorne/06.html",
+      "https://openstax.org/books/introduction-business-2e/pages/9-2-the-hawthorne-studies",
+      "https://www.nber.org/papers/w15016",
+      "https://journals.sagepub.com/doi/10.2307/1389160",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3969247"
+    ]
+  },
+  {
     "id": "kt:henri-fayol",
     "title": "Henri Fayol",
     "aliases": [

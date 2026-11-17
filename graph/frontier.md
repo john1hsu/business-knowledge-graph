@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
+| `kt:employee-motivation` | `kt:hawthorne-studies`, `kt:j-richard-hackman`, `kt:organizational-behavior` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
@@ -64,7 +65,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:department-of-defense` | `kt:cybersecurity-maturity-model-certification`, `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
-| `kt:employee-motivation` | `kt:j-richard-hackman`, `kt:organizational-behavior` |
+| `kt:elton-mayo` | `kt:hawthorne-studies`, `kt:organizational-behavior` |
 | `kt:evidence-based-management` | `kt:decision-making`, `kt:organizational-behavior` |
 | `kt:failure-mode-and-effects-analysis` | `kt:fault-tree-analysis`, `kt:root-cause-analysis` |
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
@@ -77,10 +78,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
-| `kt:hawthorne-studies` | `kt:management-theory`, `kt:organizational-behavior` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:heuristics-and-biases` | `kt:decision-making`, `kt:overconfidence-bias` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
+| `kt:human-relations-movement` | `kt:hawthorne-studies`, `kt:management-theory` |
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect`, `kt:supply-chain-management` |
@@ -285,7 +286,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
 | `kt:electric-vehicle` | `kt:automotive-industry` |
-| `kt:elton-mayo` | `kt:organizational-behavior` |
 | `kt:emergent-strategy` | `kt:strategic-management` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
@@ -320,6 +320,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fred-reichheld` | `kt:net-promoter-score` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
+| `kt:fritz-roethlisberger` | `kt:hawthorne-studies` |
 | `kt:ftc-franchise-rule` | `kt:business-format-franchising` |
 | `kt:ftc-negative-option-rule` | `kt:subscription-business-model` |
 | `kt:fujifilm` | `kt:kodak-decline` |
@@ -337,8 +338,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:group-norms` | `kt:hawthorne-studies` |
 | `kt:group-polarization` | `kt:group-decision-making` |
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
+| `kt:hawthorne-effect` | `kt:hawthorne-studies` |
 | `kt:henry-chesbrough` | `kt:open-innovation` |
 | `kt:henry-mintzberg` | `kt:henri-fayol` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
@@ -352,7 +355,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
-| `kt:human-relations-movement` | `kt:management-theory` |
 | `kt:human-resource-management` | `kt:performance-management` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
 | `kt:ias-2-inventories` | `kt:inventory-costing-methods` |

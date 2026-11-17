@@ -2651,6 +2651,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/bay-of-pigs-invasion> .
 <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/victims-of-groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2000/01/rdf-schema#label> "Hawthorne Studies: Western Electric's Experiments on Work and Productivity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#altLabel> "Hawthorne Works studies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#altLabel> "Hawthorne experiments" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#altLabel> "Western Electric Hawthorne research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#definition> "A program of workplace experiments run from 1924 to 1933 at Western Electric's Hawthorne Works near Chicago, first by company engineers and later with Elton Mayo and Fritz Roethlisberger of Harvard Business School, whose finding that group attitudes and supervision shaped output launched the human relations movement, though the evidence behind its most famous results remains contested." .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hawthorne Studies: Western Electric's Experiments on Work and Productivity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/group-norms> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/elton-mayo> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/fritz-roethlisberger> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/human-relations-movement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
 <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> <http://www.w3.org/2000/01/rdf-schema#label> "Henri Fayol" .
@@ -8074,6 +8100,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/groupthink/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/00251741011068761" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s1> <http://purl.org/dc/terms/publisher> "Baker Library Historical Collections, Harvard Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s1> <http://purl.org/dc/terms/title> "The Human Relations Movement: Harvard Business School and the Hawthorne Experiments (1924-1933) — Illumination Studies and Relay Assembly Experiments" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s1> <https://schema.org/url> "https://www.library.hbs.edu/hc/hawthorne/03.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s2> <http://purl.org/dc/terms/publisher> "Baker Library Historical Collections, Harvard Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s2> <http://purl.org/dc/terms/title> "The Human Relations Movement: Harvard Business School and the Hawthorne Experiments (1924-1933) — Relay Assembly Test Room" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s2> <https://schema.org/url> "https://www.library.hbs.edu/hc/hawthorne/06.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Introduction to Business 2e (Lawrence J. Gitman, Carl McDaniel, Amit Shah et al.)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s3> <http://purl.org/dc/terms/title> "9.2 The Hawthorne Studies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s3> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/9-2-the-hawthorne-studies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 15016, 2009 (Steven D. Levitt and John A. List)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s4> <http://purl.org/dc/terms/title> "Was there Really a Hawthorne Effect at the Hawthorne Plant? An Analysis of the Original Illumination Experiments" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s4> <https://schema.org/url> "https://www.nber.org/papers/w15016" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s5> <http://purl.org/dc/terms/publisher> "Sociological Perspectives 26(1), 1983, pp. 71-88 (Milton Bloombaum)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s5> <http://purl.org/dc/terms/title> "The Hawthorne Experiments: A Critique and Reanalysis of the First Statistical Interpretation by Franke and Kaul" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s5> <https://schema.org/url> "https://journals.sagepub.com/doi/10.2307/1389160" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s6> <http://purl.org/dc/terms/publisher> "Journal of Clinical Epidemiology 67(3), 2014, pp. 267-277 (Jim McCambridge, John Witton, Diana R. Elbourne)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s6> <http://purl.org/dc/terms/title> "Systematic review of the Hawthorne effect: New concepts are needed to study research participation effects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/hawthorne-studies/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC3969247" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <http://purl.org/dc/terms/publisher> "EBSCO Research Starters (Robert G. Lynch), 2021" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <http://purl.org/dc/terms/title> "Fayol Publishes General and Industrial Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/henri-fayol/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

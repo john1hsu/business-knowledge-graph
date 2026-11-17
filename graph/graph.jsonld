@@ -3888,6 +3888,101 @@
       ]
     },
     {
+      "@id": "kt:hawthorne-studies",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Hawthorne Studies: Western Electric's Experiments on Work and Productivity",
+      "skos:definition": "A program of workplace experiments run from 1924 to 1933 at Western Electric's Hawthorne Works near Chicago, first by company engineers and later with Elton Mayo and Fritz Roethlisberger of Harvard Business School, whose finding that group attitudes and supervision shaped output launched the human relations movement, though the evidence behind its most famous results remains contested.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Human Relations Movement: Harvard Business School and the Hawthorne Experiments (1924-1933) — Illumination Studies and Relay Assembly Experiments",
+          "dcterms:publisher": "Baker Library Historical Collections, Harvard Business School",
+          "schema:url": "https://www.library.hbs.edu/hc/hawthorne/03.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Human Relations Movement: Harvard Business School and the Hawthorne Experiments (1924-1933) — Relay Assembly Test Room",
+          "dcterms:publisher": "Baker Library Historical Collections, Harvard Business School",
+          "schema:url": "https://www.library.hbs.edu/hc/hawthorne/06.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "9.2 The Hawthorne Studies",
+          "dcterms:publisher": "OpenStax, Introduction to Business 2e (Lawrence J. Gitman, Carl McDaniel, Amit Shah et al.)",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/9-2-the-hawthorne-studies",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Was there Really a Hawthorne Effect at the Hawthorne Plant? An Analysis of the Original Illumination Experiments",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 15016, 2009 (Steven D. Levitt and John A. List)",
+          "schema:url": "https://www.nber.org/papers/w15016",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Hawthorne Experiments: A Critique and Reanalysis of the First Statistical Interpretation by Franke and Kaul",
+          "dcterms:publisher": "Sociological Perspectives 26(1), 1983, pp. 71-88 (Milton Bloombaum)",
+          "schema:url": "https://journals.sagepub.com/doi/10.2307/1389160",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Systematic review of the Hawthorne effect: New concepts are needed to study research participation effects",
+          "dcterms:publisher": "Journal of Clinical Epidemiology 67(3), 2014, pp. 267-277 (Jim McCambridge, John Witton, Diana R. Elbourne)",
+          "schema:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3969247",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/hawthorne-studies.md",
+      "skos:altLabel": [
+        "Hawthorne experiments",
+        "Hawthorne Works studies",
+        "Western Electric Hawthorne research"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scientific-management"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:employee-motivation"
+        },
+        {
+          "@id": "kt:group-norms"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:elton-mayo"
+        },
+        {
+          "@id": "kt:fritz-roethlisberger"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:human-relations-movement"
+        },
+        {
+          "@id": "kt:organizational-behavior"
+        },
+        {
+          "@id": "kt:hawthorne-effect"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:scientific-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:hewlett-packard",
       "@type": "kto:Company",
       "skos:prefLabel": "Hewlett-Packard",
