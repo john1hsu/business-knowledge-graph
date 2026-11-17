@@ -1659,6 +1659,28 @@
     ]
   },
   {
+    "id": "kt:employee-motivation",
+    "title": "Employee Motivation: Content and Process Theories of Work Motivation",
+    "aliases": [
+      "work motivation",
+      "employee motivation",
+      "motivation at work",
+      "workplace motivation"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/employee-motivation.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/14-2-content-theories-of-motivation",
+      "https://openstax.org/books/principles-management/pages/14-3-process-theories-of-motivation",
+      "https://psychclassics.yorku.ca/Maslow/motivation",
+      "https://qi.elft.nhs.uk/wp-content/uploads/2015/12/9-herzberg.pdf",
+      "https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SpanishAmPsych.pdf",
+      "https://hillkm.com/EDUC_712/Cerasoli_Nicklin_Ford_2014.pdf"
+    ]
+  },
+  {
     "id": "kt:enron-scandal",
     "title": "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron",
     "aliases": [

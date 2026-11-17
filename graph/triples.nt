@@ -1977,6 +1977,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/vilfredo-pareto> .
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/quality-control-handbook> .
 <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/pareto-chart> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2000/01/rdf-schema#label> "Employee Motivation: Content and Process Theories of Work Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#altLabel> "employee motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#altLabel> "motivation at work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#altLabel> "work motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#altLabel> "workplace motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#definition> "The forces that determine the direction, intensity and persistence of effort people put into their work, explained in organizational behavior by content theories (which needs drive behavior) and process theories (how people decide how much effort to give)." .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Employee Motivation: Content and Process Theories of Work Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hawthorne-studies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/equity-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/maslows-hierarchy-of-needs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/motivation-hygiene-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/self-determination-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/job-enrichment> .
 <https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/enron-scandal> <http://www.w3.org/2000/01/rdf-schema#label> "Enron Scandal: Off-Balance-Sheet Fraud and the 2001 Collapse of Enron" .
@@ -7414,6 +7442,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/eighty-twenty-rule/s5> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=32337" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Rice University), David S. Bright, Anastasia H. Cortes et al., 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s1> <http://purl.org/dc/terms/title> "Principles of Management, 14.2 Content Theories of Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s1> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/14-2-content-theories-of-motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s2> <http://purl.org/dc/terms/publisher> "OpenStax (Rice University), David S. Bright, Anastasia H. Cortes et al., 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s2> <http://purl.org/dc/terms/title> "Principles of Management, 14.3 Process Theories of Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/14-3-process-theories-of-motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s3> <http://purl.org/dc/terms/publisher> "Psychological Review 50, 370-396, 1943 (Classics in the History of Psychology, York University)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s3> <http://purl.org/dc/terms/title> "A Theory of Human Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s3> <https://schema.org/url> "https://psychclassics.yorku.ca/Maslow/motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review, 1968 (reprinted January 2003; copy hosted by East London NHS Foundation Trust QI)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s4> <http://purl.org/dc/terms/title> "One More Time: How Do You Motivate Employees?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s4> <https://schema.org/url> "https://qi.elft.nhs.uk/wp-content/uploads/2015/12/9-herzberg.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s5> <http://purl.org/dc/terms/publisher> "American Psychologist 55(1), 68-78, 2000 (Spanish translation hosted by the Center for Self-Determination Theory)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s5> <http://purl.org/dc/terms/title> "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s5> <https://schema.org/url> "https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SpanishAmPsych.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s6> <http://purl.org/dc/terms/publisher> "Psychological Bulletin 140(2), 2014 (doi:10.1037/a0035661)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s6> <http://purl.org/dc/terms/title> "Intrinsic Motivation and Extrinsic Incentives Jointly Predict Performance: A 40-Year Meta-Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/employee-motivation/s6> <https://schema.org/url> "https://hillkm.com/EDUC_712/Cerasoli_Nicklin_Ford_2014.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <http://purl.org/dc/terms/publisher> "Permanent Subcommittee on Investigations, U.S. Senate Committee on Governmental Affairs (via GovInfo)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <http://purl.org/dc/terms/title> "The Role of the Board of Directors in Enron's Collapse (S. Prt. 107-70)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/enron-scandal/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

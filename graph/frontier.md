@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
-| `kt:employee-motivation` | `kt:hawthorne-studies`, `kt:j-richard-hackman`, `kt:organizational-behavior` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
@@ -66,6 +65,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:elton-mayo` | `kt:hawthorne-studies`, `kt:organizational-behavior` |
 | `kt:evidence-based-management` | `kt:decision-making`, `kt:organizational-behavior` |
+| `kt:expectancy-theory` | `kt:employee-motivation`, `kt:goal-setting-theory` |
 | `kt:failure-mode-and-effects-analysis` | `kt:fault-tree-analysis`, `kt:root-cause-analysis` |
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
@@ -91,6 +91,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:internal-rate-of-return` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
+| `kt:job-enrichment` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:luther-gulick` | `kt:lyndall-urwick`, `kt:span-of-control` |
@@ -103,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
+| `kt:motivation-hygiene-theory` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award`, `kt:six-sigma` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:new-product-development` | `kt:stage-gate-process`, `kt:cannibalization` |
@@ -293,6 +295,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entire-fairness-standard` | `kt:business-judgment-rule` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:entrepreneurial-finance` | `kt:venture-capital` |
+| `kt:equity-theory` | `kt:employee-motivation` |
 | `kt:eric-ries` | `kt:lean-startup` |
 | `kt:escalation-of-commitment` | `kt:decision-making` |
 | `kt:esg-ratings` | `kt:esg` |
@@ -303,7 +306,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:excessive-trading` | `kt:overconfidence-bias` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:executive-order-14402` | `kt:government-contract-types` |
-| `kt:expectancy-theory` | `kt:goal-setting-theory` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
 | `kt:federal-acquisition-certification-in-contracting` | `kt:contracting-officer` |
@@ -386,7 +388,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jensens-alpha` | `kt:michael-c-jensen` |
 | `kt:jidoka` | `kt:toyota-production-system` |
 | `kt:job-characteristics-model` | `kt:j-richard-hackman` |
-| `kt:job-enrichment` | `kt:j-richard-hackman` |
 | `kt:joe-m-bohlen` | `kt:technology-adoption-life-cycle` |
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:joel-dean` | `kt:capital-budgeting` |
@@ -436,6 +437,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
 | `kt:mary-parker-follett` | `kt:lyndall-urwick` |
+| `kt:maslows-hierarchy-of-needs` | `kt:employee-motivation` |
 | `kt:mass-marketing` | `kt:segmentation-targeting-positioning` |
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:mcdonalds` | `kt:business-format-franchising` |
@@ -451,7 +453,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:modern-portfolio-theory` | `kt:capital-asset-pricing-model` |
 | `kt:modularity` | `kt:computer-industry` |
 | `kt:motivation` | `kt:goal-setting-theory` |
-| `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:multidivisional-form` | `kt:general-motors` |
 | `kt:multifactor-leadership-questionnaire` | `kt:transformational-leadership` |
@@ -558,6 +559,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sean-ellis-test` | `kt:product-market-fit` |
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
+| `kt:self-determination-theory` | `kt:employee-motivation` |
 | `kt:self-efficacy` | `kt:goal-setting-theory` |
 | `kt:sergey-brin` | `kt:google` |
 | `kt:servicescape` | `kt:services-marketing` |

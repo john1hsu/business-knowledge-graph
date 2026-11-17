@@ -18803,6 +18803,103 @@
       ]
     },
     {
+      "@id": "kt:employee-motivation",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Employee Motivation: Content and Process Theories of Work Motivation",
+      "skos:definition": "The forces that determine the direction, intensity and persistence of effort people put into their work, explained in organizational behavior by content theories (which needs drive behavior) and process theories (how people decide how much effort to give).",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Management, 14.2 Content Theories of Motivation",
+          "dcterms:publisher": "OpenStax (Rice University), David S. Bright, Anastasia H. Cortes et al., 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/14-2-content-theories-of-motivation",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Management, 14.3 Process Theories of Motivation",
+          "dcterms:publisher": "OpenStax (Rice University), David S. Bright, Anastasia H. Cortes et al., 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/14-3-process-theories-of-motivation",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A Theory of Human Motivation",
+          "dcterms:publisher": "Psychological Review 50, 370-396, 1943 (Classics in the History of Psychology, York University)",
+          "schema:url": "https://psychclassics.yorku.ca/Maslow/motivation",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "One More Time: How Do You Motivate Employees?",
+          "dcterms:publisher": "Harvard Business Review, 1968 (reprinted January 2003; copy hosted by East London NHS Foundation Trust QI)",
+          "schema:url": "https://qi.elft.nhs.uk/wp-content/uploads/2015/12/9-herzberg.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being",
+          "dcterms:publisher": "American Psychologist 55(1), 68-78, 2000 (Spanish translation hosted by the Center for Self-Determination Theory)",
+          "schema:url": "https://www.selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SpanishAmPsych.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Intrinsic Motivation and Extrinsic Incentives Jointly Predict Performance: A 40-Year Meta-Analysis",
+          "dcterms:publisher": "Psychological Bulletin 140(2), 2014 (doi:10.1037/a0035661)",
+          "schema:url": "https://hillkm.com/EDUC_712/Cerasoli_Nicklin_Ford_2014.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/employee-motivation.md",
+      "skos:altLabel": [
+        "work motivation",
+        "employee motivation",
+        "motivation at work",
+        "workplace motivation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-behavior"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:goal-setting-theory"
+        },
+        {
+          "@id": "kt:hawthorne-studies"
+        },
+        {
+          "@id": "kt:j-richard-hackman"
+        },
+        {
+          "@id": "kt:performance-management"
+        },
+        {
+          "@id": "kt:executive-compensation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:maslows-hierarchy-of-needs"
+        },
+        {
+          "@id": "kt:motivation-hygiene-theory"
+        },
+        {
+          "@id": "kt:self-determination-theory"
+        },
+        {
+          "@id": "kt:expectancy-theory"
+        },
+        {
+          "@id": "kt:equity-theory"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:job-enrichment"
+        }
+      ]
+    },
+    {
       "@id": "kt:goal-setting-theory",
       "@type": "kto:Theory",
       "skos:prefLabel": "Goal-Setting Theory: Specific, Difficult Goals and Performance",
