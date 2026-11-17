@@ -34,6 +34,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:alfred-marshall` | `kt:microeconomics`, `kt:price-elasticity` |
+| `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction`, `kt:net-promoter-score` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
@@ -52,6 +53,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:current-ratio` | `kt:financial-statement-analysis`, `kt:working-capital` |
 | `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
+| `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score` |
 | `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule` |
@@ -158,7 +160,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
 | `kt:altman-z-score` | `kt:financial-statement-analysis` |
 | `kt:amazon` | `kt:long-tail` |
-| `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction` |
 | `kt:american-research-and-development-corporation` | `kt:venture-capital` |
 | `kt:an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963` | `kt:delphi-method` |
 | `kt:analog-devices` | `kt:balanced-scorecard` |
@@ -239,7 +240,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility` |
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
-| `kt:customer-loyalty` | `kt:customer-satisfaction` |
 | `kt:dan-schendel` | `kt:strategic-management` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
@@ -269,6 +269,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dual-class-shares` | `kt:separation-of-ownership-and-control` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
+| `kt:earned-growth-rate` | `kt:net-promoter-score` |
 | `kt:economic-growth` | `kt:creative-destruction` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
@@ -313,6 +314,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |
 | `kt:fred-fiedler` | `kt:contingency-theory-of-leadership` |
+| `kt:fred-reichheld` | `kt:net-promoter-score` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
 | `kt:ftc-franchise-rule` | `kt:business-format-franchising` |
@@ -445,7 +447,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multifactor-leadership-questionnaire` | `kt:transformational-leadership` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:neil-borden` | `kt:marketing-mix` |
-| `kt:net-promoter-score` | `kt:customer-satisfaction` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
@@ -599,6 +600,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
 | `kt:the-modern-corporation-and-private-property` | `kt:separation-of-ownership-and-control` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
+| `kt:the-one-number-you-need-to-grow-2003` | `kt:net-promoter-score` |
 | `kt:the-only-thing-that-matters-2007` | `kt:product-market-fit` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
@@ -640,5 +642,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-hewlett` | `kt:hewlett-packard` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
+| `kt:word-of-mouth-marketing` | `kt:net-promoter-score` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |
 | `kt:yves-pigneur` | `kt:business-model-canvas` |

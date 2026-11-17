@@ -15611,6 +15611,9 @@
         },
         {
           "@id": "kt:marketing-mix"
+        },
+        {
+          "@id": "kt:net-promoter-score"
         }
       ],
       "kto:hasPart": [
@@ -15708,6 +15711,96 @@
       "kto:contrastsWith": [
         {
           "@id": "kt:relationship-marketing"
+        }
+      ]
+    },
+    {
+      "@id": "kt:net-promoter-score",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Net Promoter Score: Reichheld's Likelihood-to-Recommend Loyalty Metric",
+      "skos:definition": "A customer-loyalty metric introduced by Fred Reichheld of Bain & Company in 2003: customers rate how likely they are to recommend a company on a 0–10 scale, and the score is the percentage of promoters (9–10) minus the percentage of detractors (0–6); it is widely used but its claimed superiority as a predictor of growth has not held up in independent tests.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The One Number You Need to Grow",
+          "dcterms:publisher": "Harvard Business Review, December 2003 (Frederick F. Reichheld)",
+          "schema:url": "https://hbr.org/2003/12/the-one-number-you-need-to-grow",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Net Promoter 3.0",
+          "dcterms:publisher": "Harvard Business Review, November 2021 (Fred Reichheld, Darci Darnell and Maureen Burns), reposted by Bain & Company",
+          "schema:url": "https://bain.com/insights/net-promoter-3-0",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A Longitudinal Examination of Net Promoter and Firm Revenue Growth",
+          "dcterms:publisher": "Journal of Marketing 71(3), 2007 (doi:10.1509/jmkg.71.3.39), record at Koç University Research Hub",
+          "schema:url": "https://research.hub.ku.edu.tr/entities/publication/6c8605c0-154e-4020-bcd9-2e7e3e1f1550/full",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Taking the Measure of Net Promoter Score: An Assessment of Construct and Predictive Validity",
+          "dcterms:publisher": "International Journal of Market Research 66(2-3), 2024 (doi:10.1177/14707853231213274), University of Memphis Digital Commons",
+          "schema:url": "https://digitalcommons.memphis.edu/facpub2/182",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Net Promoter Score and Future Consumer Behavior in the Casino Gaming Industry",
+          "dcterms:publisher": "International Journal of Market Research 66(2-3), 2024 (doi:10.1177/14707853231198777), University of Iowa Iowa Research Online",
+          "schema:url": "https://iro.uiowa.edu/esploro/outputs/journalArticle/Net-promoter-score-and-future-consumer/9984464659002771",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/marketing/net-promoter-score.md",
+      "skos:altLabel": [
+        "NPS",
+        "Net Promoter",
+        "Net Promoter System",
+        "likelihood-to-recommend score",
+        "ultimate question"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing-metrics"
+        },
+        {
+          "@id": "kt:customer-loyalty"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:churn-rate"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:word-of-mouth-marketing"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:fred-reichheld"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-one-number-you-need-to-grow-2003"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:american-customer-satisfaction-index"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:earned-growth-rate"
         }
       ]
     },

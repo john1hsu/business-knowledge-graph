@@ -3462,6 +3462,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s1> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s2> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s3> .
@@ -3749,6 +3750,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
 <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/irving-fisher> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2000/01/rdf-schema#label> "Net Promoter Score: Reichheld's Likelihood-to-Recommend Loyalty Metric" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#altLabel> "NPS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#altLabel> "Net Promoter System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#altLabel> "Net Promoter" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#altLabel> "likelihood-to-recommend score" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#altLabel> "ultimate question" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/customer-loyalty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#definition> "A customer-loyalty metric introduced by Fred Reichheld of Bain & Company in 2003: customers rate how likely they are to recommend a company on a 0–10 scale, and the score is the percentage of promoters (9–10) minus the percentage of detractors (0–6); it is widely used but its claimed superiority as a predictor of growth has not held up in independent tests." .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#prefLabel> "Net Promoter Score: Reichheld's Likelihood-to-Recommend Loyalty Metric" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/churn-rate> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/word-of-mouth-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/american-customer-satisfaction-index> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/fred-reichheld> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/earned-growth-rate> .
+<https://github.com/john1hsu/business-knowledge-graph/id/net-promoter-score> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-one-number-you-need-to-grow-2003> .
 <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
 <https://github.com/john1hsu/business-knowledge-graph/id/netflix-business-model-shift> <http://www.w3.org/2000/01/rdf-schema#label> "Netflix's Shift from DVD Rental to Streaming" .
@@ -9178,6 +9205,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/net-present-value/s7> <https://schema.org/url> "https://ideas.repec.org/a/inm/orinte/v14y1984i1p126-137.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review, December 2003 (Frederick F. Reichheld)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s1> <http://purl.org/dc/terms/title> "The One Number You Need to Grow" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s1> <https://schema.org/url> "https://hbr.org/2003/12/the-one-number-you-need-to-grow" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review, November 2021 (Fred Reichheld, Darci Darnell and Maureen Burns), reposted by Bain & Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s2> <http://purl.org/dc/terms/title> "Net Promoter 3.0" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s2> <https://schema.org/url> "https://bain.com/insights/net-promoter-3-0" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s3> <http://purl.org/dc/terms/publisher> "Journal of Marketing 71(3), 2007 (doi:10.1509/jmkg.71.3.39), record at Koç University Research Hub" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s3> <http://purl.org/dc/terms/title> "A Longitudinal Examination of Net Promoter and Firm Revenue Growth" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s3> <https://schema.org/url> "https://research.hub.ku.edu.tr/entities/publication/6c8605c0-154e-4020-bcd9-2e7e3e1f1550/full" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s4> <http://purl.org/dc/terms/publisher> "International Journal of Market Research 66(2-3), 2024 (doi:10.1177/14707853231213274), University of Memphis Digital Commons" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s4> <http://purl.org/dc/terms/title> "Taking the Measure of Net Promoter Score: An Assessment of Construct and Predictive Validity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s4> <https://schema.org/url> "https://digitalcommons.memphis.edu/facpub2/182" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s5> <http://purl.org/dc/terms/publisher> "International Journal of Market Research 66(2-3), 2024 (doi:10.1177/14707853231198777), University of Iowa Iowa Research Online" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s5> <http://purl.org/dc/terms/title> "Net Promoter Score and Future Consumer Behavior in the Casino Gaming Industry" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/net-promoter-score/s5> <https://schema.org/url> "https://iro.uiowa.edu/esploro/outputs/journalArticle/Net-promoter-score-and-future-consumer/9984464659002771" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/netflix-business-model-shift/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/netflix-business-model-shift/s1> <http://purl.org/dc/terms/title> "Netflix, Inc." .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/netflix-business-model-shift/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

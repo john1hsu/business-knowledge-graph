@@ -3158,6 +3158,28 @@
     ]
   },
   {
+    "id": "kt:net-promoter-score",
+    "title": "Net Promoter Score: Reichheld's Likelihood-to-Recommend Loyalty Metric",
+    "aliases": [
+      "NPS",
+      "Net Promoter",
+      "Net Promoter System",
+      "likelihood-to-recommend score",
+      "ultimate question"
+    ],
+    "type": "Metric",
+    "domain": "marketing",
+    "file": "articles/marketing/net-promoter-score.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://hbr.org/2003/12/the-one-number-you-need-to-grow",
+      "https://bain.com/insights/net-promoter-3-0",
+      "https://research.hub.ku.edu.tr/entities/publication/6c8605c0-154e-4020-bcd9-2e7e3e1f1550/full",
+      "https://digitalcommons.memphis.edu/facpub2/182",
+      "https://iro.uiowa.edu/esploro/outputs/journalArticle/Net-promoter-score-and-future-consumer/9984464659002771"
+    ]
+  },
+  {
     "id": "kt:netflix-business-model-shift",
     "title": "Netflix's Shift from DVD Rental to Streaming",
     "aliases": [

@@ -9,7 +9,7 @@ summary: >-
   satisfaction and intentions through acquisition, retention and customer lifetime value to sales,
   profit and firm value, so that marketing spending can be planned, judged and tied to financial results.
 broader: [kt:marketing, kt:performance-measurement]
-related: [kt:customer-satisfaction, kt:brand-equity, kt:balanced-scorecard, kt:marketing-mix]
+related: [kt:customer-satisfaction, kt:brand-equity, kt:balanced-scorecard, kt:marketing-mix, kt:net-promoter-score]
 relations:
   - {predicate: hasPart, object: kt:customer-lifetime-value}
   - {predicate: hasPart, object: kt:churn-rate}
