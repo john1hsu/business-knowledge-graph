@@ -18552,6 +18552,103 @@
       ]
     },
     {
+      "@id": "kt:pdca-cycle",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "PDCA Cycle: Plan-Do-Check-Act Iterative Improvement",
+      "skos:definition": "A four-step iterative method for improving a process or product: plan a change and predict its effect, do it (usually on a small scale), check or study the results against the plan, and act by standardizing what worked or starting another cycle. It descends from Shewhart's and Deming's work, was named PDCA in Japan around 1951, and underpins kaizen, ISO 9001 and the A3 report.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Circling Back: Clearing up myths about the Deming cycle and seeing how it keeps evolving",
+          "dcterms:publisher": "Quality Progress (ASQ), November 2010; hosted by East London NHS Foundation Trust QI",
+          "schema:url": "https://qi.elft.nhs.uk/wp-content/uploads/2026/02/ron-cliff-circling-back.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Systematic review of the application of the plan-do-study-act method to improve quality in healthcare",
+          "dcterms:publisher": "BMJ Quality & Safety 23(4):290-298",
+          "schema:url": "https://courses.ucsf.edu/pluginfile.php/174488/mod_resource/content/2/Lyndon%20BMJ%20Qual%20Saf-2014-Taylor-290-8-2.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Process Approach in ISO 9001:2015",
+          "dcterms:publisher": "International Organization for Standardization",
+          "schema:url": "https://ma.iaqg.org/wp-content/uploads/2019/11/ISO9001_2015_Guidance_on_the_Process_Approach.docx",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Principles of Management, Chapter 17 Key Terms",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/principles-management/pages/17-key-terms",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Plan, Do, Check, Act (PDCA) — Lean Lexicon",
+          "dcterms:publisher": "Lean Enterprise Institute",
+          "schema:url": "https://lean.org/?p=1776",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Problem Solving By Design",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/problem-solving-by-design",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/pdca-cycle.md",
+      "skos:altLabel": [
+        "PDCA",
+        "plan-do-check-act",
+        "plan-do-check-act cycle",
+        "PDSA cycle",
+        "plan-do-study-act",
+        "Deming cycle",
+        "Deming wheel",
+        "Shewhart cycle"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:continuous-improvement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:kaizen"
+        },
+        {
+          "@id": "kt:a3-report"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        },
+        {
+          "@id": "kt:root-cause-analysis"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:walter-shewhart"
+        },
+        {
+          "@id": "kt:w-edwards-deming"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:lean-startup"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:iso-9001"
+        }
+      ]
+    },
+    {
       "@id": "kt:six-sigma",
       "@type": "kto:Practice",
       "skos:prefLabel": "Six Sigma: Motorola's DMAIC Method for Reducing Process Variation and Defects",

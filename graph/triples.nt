@@ -4438,6 +4438,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-corporate-finance> .
 <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/calibration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2000/01/rdf-schema#label> "PDCA Cycle: Plan-Do-Check-Act Iterative Improvement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "Deming cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "Deming wheel" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "PDCA" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "PDSA cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "Shewhart cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "plan-do-check-act cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "plan-do-check-act" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#altLabel> "plan-do-study-act" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/continuous-improvement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#definition> "A four-step iterative method for improving a process or product: plan a change and predict its effect, do it (usually on a small scale), check or study the results against the plan, and act by standardizing what worked or starting another cycle. It descends from Shewhart's and Deming's work, was named PDCA in Japan around 1951, and underpins kaizen, ISO 9001 and the A3 report." .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#prefLabel> "PDCA Cycle: Plan-Do-Check-Act Iterative Improvement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/a3-report> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kaizen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/iso-9001> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/walter-shewhart> .
 <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2000/01/rdf-schema#label> "Performance Management: Planning, Appraising and Developing Employee Performance" .
@@ -10381,6 +10411,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <https://schema.org/url> "https://arxiv.org/pdf/1305.0741" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <http://purl.org/dc/terms/publisher> "Quality Progress (ASQ), November 2010; hosted by East London NHS Foundation Trust QI" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <http://purl.org/dc/terms/title> "Circling Back: Clearing up myths about the Deming cycle and seeing how it keeps evolving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <https://schema.org/url> "https://qi.elft.nhs.uk/wp-content/uploads/2026/02/ron-cliff-circling-back.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s2> <http://purl.org/dc/terms/publisher> "BMJ Quality & Safety 23(4):290-298" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s2> <http://purl.org/dc/terms/title> "Systematic review of the application of the plan-do-study-act method to improve quality in healthcare" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s2> <https://schema.org/url> "https://courses.ucsf.edu/pluginfile.php/174488/mod_resource/content/2/Lyndon%20BMJ%20Qual%20Saf-2014-Taylor-290-8-2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s3> <http://purl.org/dc/terms/publisher> "International Organization for Standardization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s3> <http://purl.org/dc/terms/title> "The Process Approach in ISO 9001:2015" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "standards-body" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s3> <https://schema.org/url> "https://ma.iaqg.org/wp-content/uploads/2019/11/ISO9001_2015_Guidance_on_the_Process_Approach.docx" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s4> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s4> <http://purl.org/dc/terms/title> "Principles of Management, Chapter 17 Key Terms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s4> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/17-key-terms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s5> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s5> <http://purl.org/dc/terms/title> "Plan, Do, Check, Act (PDCA) — Lean Lexicon" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s5> <https://schema.org/url> "https://lean.org/?p=1776" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s6> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s6> <http://purl.org/dc/terms/title> "Problem Solving By Design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s6> <https://schema.org/url> "https://sloanreview.mit.edu/article/problem-solving-by-design" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://purl.org/dc/terms/publisher> "U.S. Office of Personnel Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://purl.org/dc/terms/title> "Performance Management: Overview & History" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

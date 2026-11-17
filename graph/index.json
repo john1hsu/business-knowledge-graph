@@ -3729,6 +3729,32 @@
     ]
   },
   {
+    "id": "kt:pdca-cycle",
+    "title": "PDCA Cycle: Plan-Do-Check-Act Iterative Improvement",
+    "aliases": [
+      "PDCA",
+      "plan-do-check-act",
+      "plan-do-check-act cycle",
+      "PDSA cycle",
+      "plan-do-study-act",
+      "Deming cycle",
+      "Deming wheel",
+      "Shewhart cycle"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/pdca-cycle.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://qi.elft.nhs.uk/wp-content/uploads/2026/02/ron-cliff-circling-back.pdf",
+      "https://courses.ucsf.edu/pluginfile.php/174488/mod_resource/content/2/Lyndon%20BMJ%20Qual%20Saf-2014-Taylor-290-8-2.pdf",
+      "https://ma.iaqg.org/wp-content/uploads/2019/11/ISO9001_2015_Guidance_on_the_Process_Approach.docx",
+      "https://openstax.org/books/principles-management/pages/17-key-terms",
+      "https://lean.org/?p=1776",
+      "https://sloanreview.mit.edu/article/problem-solving-by-design"
+    ]
+  },
+  {
     "id": "kt:performance-management",
     "title": "Performance Management: Planning, Appraising and Developing Employee Performance",
     "aliases": [

@@ -7,7 +7,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:non-gaap-financial-measures`, `kt:revenue-recognition-asc-606` |
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
-| `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri`, `kt:six-sigma`, `kt:w-edwards-deming`, `kt:w-edwards-deming` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
@@ -31,6 +30,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
+| `kt:a3-report` | `kt:structured-problem-solving`, `kt:pdca-cycle` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
 | `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
@@ -92,6 +92,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:job-enrichment` | `kt:employee-motivation`, `kt:j-richard-hackman` |
+| `kt:kaizen` | `kt:five-whys`, `kt:pdca-cycle` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:luther-gulick` | `kt:lyndall-urwick`, `kt:span-of-control` |
@@ -145,13 +146,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
+| `kt:walter-shewhart` | `kt:pdca-cycle`, `kt:w-edwards-deming` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
 | `kt:a-resource-based-view-of-the-firm-1984` | `kt:resource-based-view` |
-| `kt:a3-report` | `kt:structured-problem-solving` |
 | `kt:access-based-consumption` | `kt:sharing-economy` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
 | `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
@@ -232,6 +233,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:congressional-oversight` | `kt:government-accountability-office` |
 | `kt:conservation-of-attractive-profits` | `kt:aggregation-theory` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
+| `kt:continuous-improvement` | `kt:pdca-cycle` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
 | `kt:corporate-moral-agency` | `kt:business-ethics` |
 | `kt:corporate-scandal` | `kt:enron-scandal` |
@@ -391,6 +393,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:internal-service-quality` | `kt:service-quality` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-janis` | `kt:groupthink` |
+| `kt:iso-9001` | `kt:pdca-cycle` |
 | `kt:james-f-moore` | `kt:business-ecosystem` |
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:james-macgregor-burns` | `kt:transformational-leadership` |
@@ -406,7 +409,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
-| `kt:kaizen` | `kt:five-whys` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:kc-x-tanker-competition` | `kt:bid-protest` |
 | `kt:keith-oliver` | `kt:supply-chain-management` |
@@ -667,7 +669,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:volkswagen-group` | `kt:toyota-motor-corporation` |
 | `kt:vrio-framework` | `kt:resource-based-view` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
-| `kt:walter-shewhart` | `kt:w-edwards-deming` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:what-is-strategy-1996` | `kt:operational-effectiveness` |
 | `kt:who-cares-wins-report` | `kt:esg` |
