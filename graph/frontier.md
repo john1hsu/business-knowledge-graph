@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
-| `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
@@ -353,6 +352,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:herbert-a-simon` | `kt:decision-making` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
+| `kt:high-speed-steel` | `kt:frederick-winslow-taylor` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:holding-company` | `kt:google` |
@@ -369,6 +369,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ifrs-18` | `kt:ifrs` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
+| `kt:industrial-engineering` | `kt:frederick-winslow-taylor` |
 | `kt:industry-analysis` | `kt:porters-five-forces` |
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
@@ -609,6 +610,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:systematic-management` | `kt:scientific-management` |
 | `kt:t-mobile-us` | `kt:churn-rate` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
+| `kt:taylor-society` | `kt:frederick-winslow-taylor` |
 | `kt:teaming` | `kt:amy-edmondson` |
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-concept-of-the-marketing-mix-1964` | `kt:marketing-mix` |

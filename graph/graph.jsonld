@@ -12697,6 +12697,87 @@
       ]
     },
     {
+      "@id": "kt:frederick-winslow-taylor",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Frederick Winslow Taylor: Engineer and Founder of Scientific Management",
+      "skos:definition": "American mechanical engineer and consultant (1856-1915) who rose from laborer to chief engineer at Midvale Steel, co-invented the Taylor-White process for high-speed tool steel, served as president of the American Society of Mechanical Engineers, and founded scientific management, the first systematic school of management thought.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Frederick W. Taylor",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/print/article/584820",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Frederick Winslow Taylor",
+          "dcterms:publisher": "EBSCO Research Starters (Stephen Burwood), 2024",
+          "schema:url": "https://www.ebsco.com/research-starters/history/frederick-winslow-taylor",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Guide to the Frederick Winslow Taylor Collection",
+          "dcterms:publisher": "Stevens Institute of Technology, Samuel C. Williams Library (biographical note by Elizabeth Gardner Haywood, 1951)",
+          "schema:url": "https://web.stevens.edu/libraryexhibits/FindingAids/FWT_FindingAid.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Original documents throw new light on Frederick W. Taylor",
+          "dcterms:publisher": "Journal of Management History 6(8), 2000 (Charles D. Wrege)",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/jmh_arc.2000.15806haf.001/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Frederick Taylor",
+          "dcterms:publisher": "Resa Wise, Rick Hardcopf and Mike Dixon, open textbook on operations management pioneers (CC BY-NC-SA), 2023",
+          "schema:url": "https://uen.pressbooks.pub/ompeople/?p=38",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/frederick-winslow-taylor.md",
+      "skos:altLabel": [
+        "Frederick W. Taylor",
+        "F. W. Taylor",
+        "Fred W. Taylor"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:management-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scientific-management"
+        },
+        {
+          "@id": "kt:peter-drucker"
+        },
+        {
+          "@id": "kt:mass-production"
+        },
+        {
+          "@id": "kt:lyndall-urwick"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:industrial-engineering"
+        },
+        {
+          "@id": "kt:high-speed-steel"
+        },
+        {
+          "@id": "kt:taylor-society"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:henri-fayol"
+        }
+      ]
+    },
+    {
       "@id": "kt:henri-fayol",
       "@type": "kto:Person",
       "skos:prefLabel": "Henri Fayol",

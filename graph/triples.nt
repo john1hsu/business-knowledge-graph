@@ -2364,6 +2364,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/efficiency-wages> .
 <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> <https://github.com/john1hsu/business-knowledge-graph/ontology#followedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-a> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2000/01/rdf-schema#label> "Frederick Winslow Taylor: Engineer and Founder of Scientific Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#altLabel> "F. W. Taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#altLabel> "Fred W. Taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#altLabel> "Frederick W. Taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#definition> "American mechanical engineer and consultant (1856-1915) who rose from laborer to chief engineer at Midvale Steel, co-invented the Taylor-White process for high-speed tool steel, served as president of the American Society of Mechanical Engineers, and founded scientific management, the first systematic school of management thought." .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#prefLabel> "Frederick Winslow Taylor: Engineer and Founder of Scientific Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/high-speed-steel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-engineering> .
+<https://github.com/john1hsu/business-knowledge-graph/id/frederick-winslow-taylor> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/taylor-society> .
 <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> <http://www.w3.org/2000/01/rdf-schema#label> "Free Cash Flow" .
@@ -7897,6 +7920,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/ford-model-t/s6> <https://schema.org/url> "https://americanhistory.si.edu/collections/object/nmah_739493" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s1> <http://purl.org/dc/terms/title> "Frederick W. Taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s1> <https://schema.org/url> "https://www.britannica.com/print/article/584820" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s2> <http://purl.org/dc/terms/publisher> "EBSCO Research Starters (Stephen Burwood), 2024" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s2> <http://purl.org/dc/terms/title> "Frederick Winslow Taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s2> <https://schema.org/url> "https://www.ebsco.com/research-starters/history/frederick-winslow-taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s3> <http://purl.org/dc/terms/publisher> "Stevens Institute of Technology, Samuel C. Williams Library (biographical note by Elizabeth Gardner Haywood, 1951)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s3> <http://purl.org/dc/terms/title> "Guide to the Frederick Winslow Taylor Collection" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s3> <https://schema.org/url> "https://web.stevens.edu/libraryexhibits/FindingAids/FWT_FindingAid.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s4> <http://purl.org/dc/terms/publisher> "Journal of Management History 6(8), 2000 (Charles D. Wrege)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s4> <http://purl.org/dc/terms/title> "Original documents throw new light on Frederick W. Taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s4> <https://schema.org/url> "https://www.emerald.com/insight/content/doi/10.1108/jmh_arc.2000.15806haf.001/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s5> <http://purl.org/dc/terms/publisher> "Resa Wise, Rick Hardcopf and Mike Dixon, open textbook on operations management pioneers (CC BY-NC-SA), 2023" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s5> <http://purl.org/dc/terms/title> "Frederick Taylor" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/frederick-winslow-taylor/s5> <https://schema.org/url> "https://uen.pressbooks.pub/ompeople/?p=38" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 5.6: Operating Cash Flow and Free Cash Flow to the Firm (FCFF)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/free-cash-flow/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

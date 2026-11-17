@@ -1983,6 +1983,26 @@
     ]
   },
   {
+    "id": "kt:frederick-winslow-taylor",
+    "title": "Frederick Winslow Taylor: Engineer and Founder of Scientific Management",
+    "aliases": [
+      "Frederick W. Taylor",
+      "F. W. Taylor",
+      "Fred W. Taylor"
+    ],
+    "type": "Person",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/frederick-winslow-taylor.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.britannica.com/print/article/584820",
+      "https://www.ebsco.com/research-starters/history/frederick-winslow-taylor",
+      "https://web.stevens.edu/libraryexhibits/FindingAids/FWT_FindingAid.html",
+      "https://www.emerald.com/insight/content/doi/10.1108/jmh_arc.2000.15806haf.001/full/html",
+      "https://uen.pressbooks.pub/ompeople/?p=38"
+    ]
+  },
+  {
     "id": "kt:free-cash-flow",
     "title": "Free Cash Flow",
     "aliases": [
