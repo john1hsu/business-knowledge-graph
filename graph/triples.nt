@@ -3756,6 +3756,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/costco> .
 <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sams-club> .
 <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2000/01/rdf-schema#label> "Mergers and Acquisitions: Takeovers, Synergies and the Market for Corporate Control" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#altLabel> "M&A" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#altLabel> "corporate takeovers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#altLabel> "merger and acquisition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#altLabel> "mergers & acquisitions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#definition> "The combination of independent companies into one enterprise, either by merging into a new entity or by one firm buying control of another's shares or assets, undertaken for synergies, growth, market power or diversification and studied in finance as the market for corporate control." .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mergers and Acquisitions: Takeovers, Synergies and the Market for Corporate Control" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goodwill> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/merger-waves> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/synergy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/business-valuation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/aol-time-warner-merger> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/hostile-takeover> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> .
+<https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/hart-scott-rodino-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <http://www.w3.org/2000/01/rdf-schema#label> "Michael Jensen" .
@@ -9452,6 +9482,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/membership-warehouse-club/s6> <https://schema.org/url> "https://economics.wfu.edu/?p=1194" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s1> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives 15(2), 103-120 (Andrade, Mitchell and Stafford, 2001), RePEc/IDEAS record" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s1> <http://purl.org/dc/terms/title> "New Evidence and Perspectives on Mergers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s1> <https://schema.org/url> "https://ideas.repec.org/a/aea/jecper/v15y2001i2p103-120.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s2> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s2> <http://purl.org/dc/terms/title> "Wealth Destruction on a Massive Scale? A Study of Acquiring-Firm Returns in the Recent Merger Wave (NBER Working Paper 10200)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s2> <https://schema.org/url> "https://www.nber.org/papers/w10200" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s3> <http://purl.org/dc/terms/publisher> "European Corporate Governance Institute (Burkart and Panunzi)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s3> <http://purl.org/dc/terms/title> "Takeovers (ECGI Finance Working Paper 118/2006)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s3> <https://schema.org/url> "https://www.ecgi.global/sites/default/files/2026-10/fin-118-2006_takeovers.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s4> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s4> <http://purl.org/dc/terms/title> "Introduction to Business 2e, 4.6 Mergers and Acquisitions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s4> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/4-6-mergers-and-acquisitions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s5> <http://purl.org/dc/terms/publisher> "U.S. Federal Trade Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s5> <http://purl.org/dc/terms/title> "Premerger Notification and the Merger Review Process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s5> <https://schema.org/url> "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s6> <http://purl.org/dc/terms/title> "AOL Time Warner Inc. Form 10-K for fiscal year 2002" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/mergers-and-acquisitions/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0001105705/000095014403004064/g81332e10vk.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <http://purl.org/dc/terms/publisher> "European Corporate Governance Institute (ECGI)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <http://purl.org/dc/terms/title> "Michael Jensen (deceased): member profile" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

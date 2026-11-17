@@ -8991,6 +8991,115 @@
       ]
     },
     {
+      "@id": "kt:mergers-and-acquisitions",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Mergers and Acquisitions: Takeovers, Synergies and the Market for Corporate Control",
+      "skos:definition": "The combination of independent companies into one enterprise, either by merging into a new entity or by one firm buying control of another's shares or assets, undertaken for synergies, growth, market power or diversification and studied in finance as the market for corporate control.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "New Evidence and Perspectives on Mergers",
+          "dcterms:publisher": "Journal of Economic Perspectives 15(2), 103-120 (Andrade, Mitchell and Stafford, 2001), RePEc/IDEAS record",
+          "schema:url": "https://ideas.repec.org/a/aea/jecper/v15y2001i2p103-120.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Wealth Destruction on a Massive Scale? A Study of Acquiring-Firm Returns in the Recent Merger Wave (NBER Working Paper 10200)",
+          "dcterms:publisher": "National Bureau of Economic Research",
+          "schema:url": "https://www.nber.org/papers/w10200",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Takeovers (ECGI Finance Working Paper 118/2006)",
+          "dcterms:publisher": "European Corporate Governance Institute (Burkart and Panunzi)",
+          "schema:url": "https://www.ecgi.global/sites/default/files/2026-10/fin-118-2006_takeovers.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Introduction to Business 2e, 4.6 Mergers and Acquisitions",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/4-6-mergers-and-acquisitions",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Premerger Notification and the Merger Review Process",
+          "dcterms:publisher": "U.S. Federal Trade Commission",
+          "schema:url": "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "AOL Time Warner Inc. Form 10-K for fiscal year 2002",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/0001105705/000095014403004064/g81332e10vk.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/mergers-and-acquisitions.md",
+      "skos:altLabel": [
+        "M&A",
+        "mergers & acquisitions",
+        "corporate takeovers",
+        "merger and acquisition"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-finance"
+        },
+        {
+          "@id": "kt:corporate-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:goodwill"
+        },
+        {
+          "@id": "kt:antitrust-law"
+        },
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:merger-waves"
+        },
+        {
+          "@id": "kt:synergy"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:leveraged-buyout"
+        },
+        {
+          "@id": "kt:hostile-takeover"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:hart-scott-rodino-act"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:business-valuation"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:aol-time-warner-merger"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:overconfidence-bias"
+        }
+      ]
+    },
+    {
       "@id": "kt:michael-c-jensen",
       "@type": "kto:Person",
       "skos:prefLabel": "Michael Jensen",

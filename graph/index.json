@@ -3165,6 +3165,28 @@
     ]
   },
   {
+    "id": "kt:mergers-and-acquisitions",
+    "title": "Mergers and Acquisitions: Takeovers, Synergies and the Market for Corporate Control",
+    "aliases": [
+      "M&A",
+      "mergers & acquisitions",
+      "corporate takeovers",
+      "merger and acquisition"
+    ],
+    "type": "Practice",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/mergers-and-acquisitions.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://ideas.repec.org/a/aea/jecper/v15y2001i2p103-120.html",
+      "https://www.nber.org/papers/w10200",
+      "https://www.ecgi.global/sites/default/files/2026-10/fin-118-2006_takeovers.pdf",
+      "https://openstax.org/books/introduction-business-2e/pages/4-6-mergers-and-acquisitions",
+      "https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/mergers/premerger-notification-merger-review-process",
+      "https://www.sec.gov/Archives/edgar/data/0001105705/000095014403004064/g81332e10vk.htm"
+    ]
+  },
+  {
     "id": "kt:michael-c-jensen",
     "title": "Michael Jensen",
     "aliases": [

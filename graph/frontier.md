@@ -46,6 +46,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
+| `kt:business-valuation` | `kt:discounted-cash-flow`, `kt:mergers-and-acquisitions` |
 | `kt:caremark-oversight-duty` | `kt:business-judgment-rule`, `kt:fiduciary-duty` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:cisco-systems` | `kt:bill-of-materials`, `kt:inventory-management` |
@@ -53,6 +54,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
+| `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:current-ratio` | `kt:financial-statement-analysis`, `kt:working-capital` |
@@ -102,7 +104,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
-| `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:motivation-hygiene-theory` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award`, `kt:six-sigma` |
@@ -170,6 +171,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:andy-rachleff` | `kt:product-market-fit` |
 | `kt:angel-investing` | `kt:venture-capital` |
 | `kt:annual-model-change` | `kt:ford-model-t` |
+| `kt:aol-time-warner-merger` | `kt:mergers-and-acquisitions` |
 | `kt:app-store` | `kt:apple-iphone-launch` |
 | `kt:applied-ethics` | `kt:business-ethics` |
 | `kt:aristotle` | `kt:mece-principle` |
@@ -200,7 +202,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
-| `kt:business-valuation` | `kt:discounted-cash-flow` |
 | `kt:calibration` | `kt:overconfidence-bias` |
 | `kt:campbell-soup-company` | `kt:supply-chain-management` |
 | `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
@@ -232,7 +233,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-moral-agency` | `kt:business-ethics` |
 | `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-spin-off` | `kt:hewlett-packard` |
-| `kt:corporate-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:cost-accounting` | `kt:activity-based-costing` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
@@ -344,6 +344,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:governmentwide-acquisition-contract` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:group-norms` | `kt:hawthorne-studies` |
 | `kt:group-polarization` | `kt:group-decision-making` |
+| `kt:hart-scott-rodino-act` | `kt:mergers-and-acquisitions` |
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
 | `kt:hawthorne-effect` | `kt:hawthorne-studies` |
 | `kt:henry-chesbrough` | `kt:open-innovation` |
@@ -356,6 +357,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:holding-company` | `kt:google` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
+| `kt:hostile-takeover` | `kt:mergers-and-acquisitions` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
@@ -444,6 +446,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:measure-costs-right-make-the-right-decisions-1988` | `kt:activity-based-costing` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
+| `kt:merger-waves` | `kt:mergers-and-acquisitions` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:michael-lanning` | `kt:value-proposition` |
@@ -602,6 +605,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sustainability-reporting` | `kt:ifrs` |
 | `kt:sustainable-finance` | `kt:esg` |
 | `kt:sustaining-innovation` | `kt:disruptive-innovation` |
+| `kt:synergy` | `kt:mergers-and-acquisitions` |
 | `kt:systematic-management` | `kt:scientific-management` |
 | `kt:t-mobile-us` | `kt:churn-rate` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
