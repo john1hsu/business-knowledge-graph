@@ -870,6 +870,29 @@
     ]
   },
   {
+    "id": "kt:caremark-oversight-duty",
+    "title": "Caremark Oversight Duty: The Board's Duty to Monitor",
+    "aliases": [
+      "Caremark duty",
+      "Caremark claim",
+      "duty of oversight",
+      "director oversight duty",
+      "Caremark doctrine"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/caremark-oversight-duty.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://law.justia.com/cases/delaware/court-of-chancery/1996/13670-3.html",
+      "https://courts.delaware.gov/Opinions/Download.aspx?id=84060",
+      "https://www.uclalawreview.org/the-convergence-of-good-faith-and-oversight/",
+      "https://www.skadden.com/-/media/files/publications/2019/11/insights-the-delaware-edition/delawaresupremecourtreinforcesdirectoroversightobl.pdf",
+      "https://corpgov.law.harvard.edu/2021/10/21/boeing-rejecting-early-dismissal-of-claims-against-directors-for-inadequate-risk-oversight",
+      "https://www.skadden.com/insights/publications/2023/06/insights-the-delaware-edition/the-court-of-chancery-holds-that-corporate-officers-owe-duty-of-oversight"
+    ]
+  },
+  {
     "id": "kt:change-management",
     "title": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
     "aliases": [

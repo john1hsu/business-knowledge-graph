@@ -2335,6 +2335,113 @@
       ]
     },
     {
+      "@id": "kt:caremark-oversight-duty",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Caremark Oversight Duty: The Board's Duty to Monitor",
+      "skos:definition": "The Delaware corporate-law doctrine, named for In re Caremark (1996), that directors and officers must make a good-faith effort to put in place a reasonable information and reporting system for legal compliance and key risks, and must not consciously ignore the warnings it produces.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "In re Caremark International Inc. Derivative Litigation, 698 A.2d 959 (Del. Ch. 1996)",
+          "dcterms:publisher": "Delaware Court of Chancery (via Justia)",
+          "schema:url": "https://law.justia.com/cases/delaware/court-of-chancery/1996/13670-3.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Stone v. Ritter, 911 A.2d 362 (Del. 2006)",
+          "dcterms:publisher": "Supreme Court of the State of Delaware",
+          "schema:url": "https://courts.delaware.gov/Opinions/Download.aspx?id=84060",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Convergence of Good Faith and Oversight",
+          "dcterms:publisher": "UCLA Law Review",
+          "schema:url": "https://www.uclalawreview.org/the-convergence-of-good-faith-and-oversight/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Delaware Supreme Court Reinforces Director Oversight Obligations",
+          "dcterms:publisher": "Skadden, Arps, Slate, Meagher & Flom LLP (Insights: The Delaware Edition)",
+          "schema:url": "https://www.skadden.com/-/media/files/publications/2019/11/insights-the-delaware-edition/delawaresupremecourtreinforcesdirectoroversightobl.pdf",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Boeing: Rejecting Early Dismissal of Claims Against Directors for Inadequate Risk Oversight",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance",
+          "schema:url": "https://corpgov.law.harvard.edu/2021/10/21/boeing-rejecting-early-dismissal-of-claims-against-directors-for-inadequate-risk-oversight",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Court of Chancery Holds That Corporate Officers, Like Directors, Owe a Duty of Oversight",
+          "dcterms:publisher": "Skadden, Arps, Slate, Meagher & Flom LLP (Insights: The Delaware Edition)",
+          "schema:url": "https://www.skadden.com/insights/publications/2023/06/insights-the-delaware-edition/the-court-of-chancery-holds-that-corporate-officers-owe-duty-of-oversight",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/caremark-oversight-duty.md",
+      "skos:altLabel": [
+        "Caremark duty",
+        "Caremark claim",
+        "duty of oversight",
+        "director oversight duty",
+        "Caremark doctrine"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:fiduciary-duty"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:business-judgment-rule"
+        },
+        {
+          "@id": "kt:audit-committee"
+        },
+        {
+          "@id": "kt:whistleblowing"
+        },
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:fiduciary-duty"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:william-t-allen"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:marchand-v-barnhill"
+        },
+        {
+          "@id": "kt:boeing-737-max-crisis"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:corporate-law"
+        }
+      ]
+    },
+    {
       "@id": "kt:corporate-governance",
       "@type": "kto:Concept",
       "skos:prefLabel": "Corporate Governance",

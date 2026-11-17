@@ -6,9 +6,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:non-gaap-financial-measures`, `kt:revenue-recognition-asc-606` |
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
+| `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri`, `kt:six-sigma`, `kt:w-edwards-deming`, `kt:w-edwards-deming` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
-| `kt:corporate-law` | `kt:business-judgment-rule`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
@@ -46,7 +46,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:business-valuation` | `kt:discounted-cash-flow`, `kt:mergers-and-acquisitions` |
-| `kt:caremark-oversight-duty` | `kt:business-judgment-rule`, `kt:fiduciary-duty` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:cisco-systems` | `kt:bill-of-materials`, `kt:inventory-management` |
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
@@ -99,6 +98,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:cost-structure` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
+| `kt:marchand-v-barnhill` | `kt:caremark-oversight-duty`, `kt:fiduciary-duty` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:market-research` | `kt:competition-in-contracting-act`, `kt:customer-development` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
@@ -192,6 +192,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bernard-bass` | `kt:transformational-leadership` |
 | `kt:bidder-subsidies` | `kt:small-business-set-asides` |
 | `kt:birger-wernerfelt` | `kt:resource-based-view` |
+| `kt:boeing-737-max-crisis` | `kt:caremark-oversight-duty` |
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
@@ -438,7 +439,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-by-walking-around` | `kt:hewlett-packard` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
-| `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:mark-h-moore` | `kt:public-value` |
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
 | `kt:market-power` | `kt:price-discrimination` |
@@ -674,6 +674,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-hewlett` | `kt:hewlett-packard` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
+| `kt:william-t-allen` | `kt:caremark-oversight-duty` |
 | `kt:word-of-mouth-marketing` | `kt:net-promoter-score` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |
 | `kt:yves-pigneur` | `kt:business-model-canvas` |
