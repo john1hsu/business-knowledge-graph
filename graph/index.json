@@ -761,6 +761,28 @@
     ]
   },
   {
+    "id": "kt:cadbury-report",
+    "title": "Cadbury Report: The 1992 UK Code of Best Practice and Comply or Explain",
+    "aliases": [
+      "Cadbury Report",
+      "Cadbury Code",
+      "Report of the Committee on the Financial Aspects of Corporate Governance",
+      "Cadbury Committee Report"
+    ],
+    "type": "Work",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/cadbury-report.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.jbs.cam.ac.uk/cadbury-report/",
+      "https://www.jbs.cam.ac.uk/faculty-research/publications/cadbury-archive/report/",
+      "https://econpapers.repec.org/RePEc:bla:jfinan:v:57:y:2002:i:1:p:461-483",
+      "https://www.purdue.edu/uns/html4ever/020426.McConnell.cadbury.html",
+      "https://econpapers.repec.org/RePEc:eee:irlaec:v:30:y:2010:i:2:p:193-201",
+      "https://www.icaew.com/technical/corporate-governance/codes-and-reports/uk-corporate-governance-code/corporate-governance-timeline"
+    ]
+  },
+  {
     "id": "kt:cannibalization",
     "title": "Cannibalization",
     "aliases": [

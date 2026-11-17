@@ -14,6 +14,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
+| `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management` |
@@ -81,7 +82,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:heuristics-and-biases` | `kt:decision-making`, `kt:overconfidence-bias` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
-| `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect`, `kt:supply-chain-management` |
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
@@ -141,6 +141,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
+| `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
@@ -154,6 +155,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
+| `kt:adrian-cadbury` | `kt:cadbury-report` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:airbnb` | `kt:sharing-economy` |
@@ -198,7 +200,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:business-valuation` | `kt:discounted-cash-flow` |
-| `kt:cadbury-report` | `kt:corporate-governance` |
 | `kt:calibration` | `kt:overconfidence-bias` |
 | `kt:campbell-soup-company` | `kt:supply-chain-management` |
 | `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
@@ -624,7 +625,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:triple-bottom-line` | `kt:corporate-social-responsibility` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |
 | `kt:uber` | `kt:sharing-economy` |
-| `kt:uk-corporate-governance-code` | `kt:corporate-governance` |
 | `kt:uncertainty-and-the-welfare-economics-of-medical-care-1963` | `kt:moral-hazard` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:unity-of-command` | `kt:henri-fayol` |
