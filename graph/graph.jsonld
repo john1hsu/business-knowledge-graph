@@ -18850,6 +18850,92 @@
       ]
     },
     {
+      "@id": "kt:overconfidence-bias",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Overconfidence Bias: Overestimation, Overplacement and Overprecision",
+      "skos:definition": "The tendency to hold beliefs about one's own ability, relative standing or knowledge that are more favourable or more certain than the evidence warrants; Moore and Healy (2008) split it into overestimation, overplacement and overprecision, and finance research links it to excessive trading and distorted corporate investment.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Trouble with Overconfidence",
+          "dcterms:publisher": "Don A. Moore and Paul J. Healy, Psychological Review (2008); author copy hosted by The Ohio State University",
+          "schema:url": "https://www.asc.ohio-state.edu/economics/healy/papers/Moore_Healy-TroubleWithOverconfidence.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "CEO Overconfidence and Corporate Investment",
+          "dcterms:publisher": "Ulrike Malmendier and Geoffrey Tate, NBER Working Paper 10807 (2004)",
+          "schema:url": "https://www.nber.org/papers/w10807.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment",
+          "dcterms:publisher": "Brad M. Barber and Terrance Odean, Quarterly Journal of Economics 116(1) (2001); author copy, UC Berkeley Haas",
+          "schema:url": "https://faculty.haas.berkeley.edu/odean/papers/gender/BoysWillBeBoys.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Delusions of Success: Comment on Dan Lovallo and Daniel Kahneman",
+          "dcterms:publisher": "Bent Flyvbjerg, Harvard Business Review, December 2003 (arXiv:1305.0741)",
+          "schema:url": "https://arxiv.org/pdf/1305.0741",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/overconfidence-bias.md",
+      "skos:altLabel": [
+        "overconfidence bias",
+        "overconfidence",
+        "overconfidence effect",
+        "managerial overconfidence"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:heuristics-and-biases"
+        },
+        {
+          "@id": "kt:decision-making"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:behavioral-finance"
+        },
+        {
+          "@id": "kt:capital-budgeting"
+        },
+        {
+          "@id": "kt:scenario-planning"
+        },
+        {
+          "@id": "kt:groupthink"
+        },
+        {
+          "@id": "kt:reference-class-forecasting"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:excessive-trading"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:calibration"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:strategic-misrepresentation"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:behavioral-corporate-finance"
+        }
+      ]
+    },
+    {
       "@id": "kt:psychological-safety",
       "@type": "kto:Concept",
       "skos:prefLabel": "Psychological Safety",

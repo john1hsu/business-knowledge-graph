@@ -20,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
-| `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:capital-budgeting`, `kt:scenario-planning` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
@@ -74,6 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:hawthorne-studies` | `kt:management-theory`, `kt:organizational-behavior` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
+| `kt:heuristics-and-biases` | `kt:decision-making`, `kt:overconfidence-bias` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule` |
@@ -175,6 +175,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barrier-analysis` | `kt:root-cause-analysis` |
 | `kt:bass-diffusion-model` | `kt:technology-adoption-life-cycle` |
 | `kt:bay-of-pigs-invasion` | `kt:groupthink` |
+| `kt:behavioral-corporate-finance` | `kt:overconfidence-bias` |
 | `kt:behavioral-economics` | `kt:microeconomics` |
 | `kt:behavioral-ethics` | `kt:business-ethics` |
 | `kt:bell-labs` | `kt:fault-tree-analysis` |
@@ -196,6 +197,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:business-valuation` | `kt:discounted-cash-flow` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
+| `kt:calibration` | `kt:overconfidence-bias` |
 | `kt:campbell-soup-company` | `kt:supply-chain-management` |
 | `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
 | `kt:career-concerns` | `kt:bengt-holmstrom` |
@@ -294,6 +296,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:eu-ias-regulation` | `kt:ifrs` |
 | `kt:eugene-fama` | `kt:efficient-market-hypothesis` |
 | `kt:event-tree-analysis` | `kt:fault-tree-analysis` |
+| `kt:excessive-trading` | `kt:overconfidence-bias` |
 | `kt:executive-order-14275` | `kt:revolutionary-far-overhaul` |
 | `kt:executive-order-14402` | `kt:government-contract-types` |
 | `kt:expectancy-theory` | `kt:goal-setting-theory` |
@@ -336,7 +339,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:herbert-a-simon` | `kt:decision-making` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
-| `kt:heuristics-and-biases` | `kt:decision-making` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:holding-company` | `kt:google` |
@@ -508,6 +510,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:recommender-system` | `kt:long-tail` |
 | `kt:redbox` | `kt:blockbuster-decline` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
+| `kt:reference-class-forecasting` | `kt:overconfidence-bias` |
 | `kt:regulation-g` | `kt:ebitda` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
@@ -576,6 +579,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-business-unit` | `kt:bcg-growth-share-matrix` |
 | `kt:strategic-decision-making` | `kt:devils-advocacy` |
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
+| `kt:strategic-misrepresentation` | `kt:overconfidence-bias` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
 | `kt:sunk-cost` | `kt:real-options` |
 | `kt:supply-chain-resilience` | `kt:supply-chain-management` |

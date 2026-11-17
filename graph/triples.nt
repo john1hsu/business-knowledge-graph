@@ -4062,6 +4062,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/knowledge-transfer> .
 <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-memory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2000/01/rdf-schema#label> "Overconfidence Bias: Overestimation, Overplacement and Overprecision" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#altLabel> "managerial overconfidence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#altLabel> "overconfidence bias" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#altLabel> "overconfidence effect" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#altLabel> "overconfidence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/heuristics-and-biases> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#definition> "The tendency to hold beliefs about one's own ability, relative standing or knowledge that are more favourable or more certain than the evidence warrants; Moore and Healy (2008) split it into overestimation, overplacement and overprecision, and finance research links it to excessive trading and distorted corporate investment." .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#prefLabel> "Overconfidence Bias: Overestimation, Overplacement and Overprecision" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/reference-class-forecasting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/scenario-planning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/excessive-trading> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-misrepresentation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/calibration> .
 <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> <http://www.w3.org/2000/01/rdf-schema#label> "Performance Management: Planning, Appraising and Developing Employee Performance" .
@@ -9493,6 +9518,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/organizational-learning/s6> <https://schema.org/url> "https://library.alnap.org/node/86300" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s1> <http://purl.org/dc/terms/publisher> "Don A. Moore and Paul J. Healy, Psychological Review (2008); author copy hosted by The Ohio State University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s1> <http://purl.org/dc/terms/title> "The Trouble with Overconfidence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s1> <https://schema.org/url> "https://www.asc.ohio-state.edu/economics/healy/papers/Moore_Healy-TroubleWithOverconfidence.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s2> <http://purl.org/dc/terms/publisher> "Ulrike Malmendier and Geoffrey Tate, NBER Working Paper 10807 (2004)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s2> <http://purl.org/dc/terms/title> "CEO Overconfidence and Corporate Investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s2> <https://schema.org/url> "https://www.nber.org/papers/w10807.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s3> <http://purl.org/dc/terms/publisher> "Brad M. Barber and Terrance Odean, Quarterly Journal of Economics 116(1) (2001); author copy, UC Berkeley Haas" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s3> <http://purl.org/dc/terms/title> "Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s3> <https://schema.org/url> "https://faculty.haas.berkeley.edu/odean/papers/gender/BoysWillBeBoys.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <http://purl.org/dc/terms/publisher> "Bent Flyvbjerg, Harvard Business Review, December 2003 (arXiv:1305.0741)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <http://purl.org/dc/terms/title> "Delusions of Success: Comment on Dan Lovallo and Daniel Kahneman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <https://schema.org/url> "https://arxiv.org/pdf/1305.0741" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://purl.org/dc/terms/publisher> "U.S. Office of Personnel Management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://purl.org/dc/terms/title> "Performance Management: Overview & History" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/performance-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

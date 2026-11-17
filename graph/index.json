@@ -3417,6 +3417,26 @@
     ]
   },
   {
+    "id": "kt:overconfidence-bias",
+    "title": "Overconfidence Bias: Overestimation, Overplacement and Overprecision",
+    "aliases": [
+      "overconfidence bias",
+      "overconfidence",
+      "overconfidence effect",
+      "managerial overconfidence"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/overconfidence-bias.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.asc.ohio-state.edu/economics/healy/papers/Moore_Healy-TroubleWithOverconfidence.pdf",
+      "https://www.nber.org/papers/w10807.pdf",
+      "https://faculty.haas.berkeley.edu/odean/papers/gender/BoysWillBeBoys.pdf",
+      "https://arxiv.org/pdf/1305.0741"
+    ]
+  },
+  {
     "id": "kt:performance-management",
     "title": "Performance Management: Planning, Appraising and Developing Employee Performance",
     "aliases": [
