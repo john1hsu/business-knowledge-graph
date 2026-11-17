@@ -933,6 +933,26 @@
     ]
   },
   {
+    "id": "kt:competition-in-contracting-act",
+    "title": "Competition in Contracting Act (CICA): Full and Open Competition in Federal Procurement",
+    "aliases": [
+      "CICA",
+      "Competition in Contracting Act of 1984",
+      "full and open competition requirement"
+    ],
+    "type": "Regulation",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/competition-in-contracting-act.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://law.cornell.edu/uscode/text/41/3301",
+      "https://www.gao.gov/assets/ogc-85-14.pdf",
+      "https://acquisition.gov/far/part-6",
+      "https://gao.gov/assets/gao-10-833.pdf",
+      "https://acquisition.gov/node/63589"
+    ]
+  },
+  {
     "id": "kt:competitive-advantage",
     "title": "Competitive Advantage: Why Some Firms Persistently Outperform Rivals",
     "aliases": [

@@ -9767,6 +9767,92 @@
       ]
     },
     {
+      "@id": "kt:competition-in-contracting-act",
+      "@type": "kto:Regulation",
+      "skos:prefLabel": "Competition in Contracting Act (CICA): Full and Open Competition in Federal Procurement",
+      "skos:definition": "The 1984 US federal statute (title VII of division B of Pub. L. 98-369) that requires executive agencies to obtain \"full and open competition\" through competitive procedures, allows other than full and open competition only under listed exceptions with written justification and approval, created agency competition advocates, and gave GAO an express statutory basis to decide bid protests.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "41 U.S. Code § 3301 - Full and open competition",
+          "dcterms:publisher": "Legal Information Institute, Cornell Law School (text of the US Code)",
+          "schema:url": "https://law.cornell.edu/uscode/text/41/3301",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Implementation of the Competition in Contracting Act of 1984 (GAO/OGC-85-14)",
+          "dcterms:publisher": "U.S. General Accounting Office",
+          "schema:url": "https://www.gao.gov/assets/ogc-85-14.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FAR Part 6 - Competition Requirements",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://acquisition.gov/far/part-6",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Federal Contracting: Opportunities Exist to Increase Competition and Assess Reasons When Only One Offer Is Received (GAO-10-833)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://gao.gov/assets/gao-10-833.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "FAR Overhaul - Part 6 (model deviation text)",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://acquisition.gov/node/63589",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/competition-in-contracting-act.md",
+      "skos:altLabel": [
+        "CICA",
+        "Competition in Contracting Act of 1984",
+        "full and open competition requirement"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:bid-protest"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:government-accountability-office"
+        },
+        {
+          "@id": "kt:truth-in-negotiations-act"
+        },
+        {
+          "@id": "kt:revolutionary-far-overhaul"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:sole-source-contracting"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:market-research"
+        }
+      ]
+    },
+    {
       "@id": "kt:contracting-officer",
       "@type": "kto:Concept",
       "skos:prefLabel": "Contracting Officer: Warranted Authority to Bind the Government",
