@@ -12,7 +12,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
-| `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:employee-motivation` | `kt:hawthorne-studies`, `kt:j-richard-hackman`, `kt:organizational-behavior` |
@@ -270,6 +269,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
 | `kt:donaldson-brown` | `kt:dupont-analysis` |
 | `kt:double-loop-learning` | `kt:organizational-learning` |
+| `kt:downsizing` | `kt:corporate-turnaround` |
 | `kt:dual-class-shares` | `kt:separation-of-ownership-and-control` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
@@ -311,6 +311,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
+| `kt:financial-distress` | `kt:corporate-turnaround` |
 | `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:focused-factory` | `kt:operations-management` |
@@ -621,6 +622,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:theory-x-and-theory-y` | `kt:management-by-objectives` |
+| `kt:threat-rigidity` | `kt:corporate-turnaround` |
 | `kt:time-driven-activity-based-costing` | `kt:activity-based-costing` |
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
 | `kt:trade-credit` | `kt:working-capital` |
@@ -629,6 +631,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trial-and-error-search` | `kt:hypothesis-driven-problem-solving` |
 | `kt:trial-balance` | `kt:double-entry-bookkeeping` |
 | `kt:triple-bottom-line` | `kt:corporate-social-responsibility` |
+| `kt:turnaround-retrenchment-and-recovery-1992` | `kt:corporate-turnaround` |
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |
 | `kt:uber` | `kt:sharing-economy` |
 | `kt:uncertainty-and-the-welfare-economics-of-medical-care-1963` | `kt:moral-hazard` |

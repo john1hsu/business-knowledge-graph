@@ -20253,6 +20253,101 @@
       ]
     },
     {
+      "@id": "kt:corporate-turnaround",
+      "@type": "kto:Strategy",
+      "skos:prefLabel": "Turnaround Strategy: Retrenchment and Recovery in Declining Firms",
+      "skos:definition": "The set of actions by which a firm in sustained decline arrests the deterioration and restores viable performance, usually framed as a retrenchment phase that cuts costs and assets to stabilize cash, followed by a recovery phase that rebuilds revenue and competitive position.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Corporate distress and turnaround: integrating the literature and directing future research",
+          "dcterms:publisher": "Business Research 10(1), 3-47 (Springer, open access)",
+          "schema:url": "https://link.springer.com/10.1007/s40685-016-0041-8",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Turnaround: Retrenchment and recovery",
+          "dcterms:publisher": "Strategic Management Journal 13(4), 287-309 (library catalog record)",
+          "schema:url": "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_journals_231180602",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Retrenchment: Cause of turnaround or consequence of decline?",
+          "dcterms:publisher": "Strategic Management Journal 15(5), 395-405 (record at EconPapers/RePEc)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:stratm:v:15:y:1994:i:5:p:395-405",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Retrenchment remains the foundation of business turnaround",
+          "dcterms:publisher": "Strategic Management Journal 15(5), 407-417 (record at EconPapers/RePEc)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:stratm:v:15:y:1994:i:5:p:407-417",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Organizational Decline and Turnaround: A Review and Agenda for Future Research",
+          "dcterms:publisher": "SAGE Business and Management INK (Social Science Space), on Journal of Management article",
+          "schema:url": "https://www.socialsciencespace.com/2013/02/organizational-decline-and-turnaround-a-review-and-agenda/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Lou Gerstner's Turnaround Tales at IBM",
+          "dcterms:publisher": "Knowledge at Wharton, University of Pennsylvania",
+          "schema:url": "https://knowledge.wharton.upenn.edu/?p=3398",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/strategy/corporate-turnaround.md",
+      "skos:altLabel": [
+        "corporate turnaround",
+        "turnaround management",
+        "business turnaround",
+        "firm turnaround"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        },
+        {
+          "@id": "kt:change-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:strategic-renewal"
+        },
+        {
+          "@id": "kt:downsizing"
+        },
+        {
+          "@id": "kt:financial-distress"
+        },
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:corporate-decline"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ibm-turnaround"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:turnaround-retrenchment-and-recovery-1992"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:threat-rigidity"
+        }
+      ]
+    },
+    {
       "@id": "kt:david-j-teece",
       "@type": "kto:Person",
       "skos:prefLabel": "David J. Teece",

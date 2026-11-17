@@ -1123,6 +1123,28 @@
     ]
   },
   {
+    "id": "kt:corporate-turnaround",
+    "title": "Turnaround Strategy: Retrenchment and Recovery in Declining Firms",
+    "aliases": [
+      "corporate turnaround",
+      "turnaround management",
+      "business turnaround",
+      "firm turnaround"
+    ],
+    "type": "Strategy",
+    "domain": "strategy",
+    "file": "articles/strategy/corporate-turnaround.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://link.springer.com/10.1007/s40685-016-0041-8",
+      "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_journals_231180602",
+      "https://econpapers.repec.org/RePEc:bla:stratm:v:15:y:1994:i:5:p:395-405",
+      "https://econpapers.repec.org/RePEc:bla:stratm:v:15:y:1994:i:5:p:407-417",
+      "https://www.socialsciencespace.com/2013/02/organizational-decline-and-turnaround-a-review-and-agenda/",
+      "https://knowledge.wharton.upenn.edu/?p=3398"
+    ]
+  },
+  {
     "id": "kt:cost-structure",
     "title": "Cost Structure: Fixed Versus Variable Costs and Operating Leverage",
     "aliases": [

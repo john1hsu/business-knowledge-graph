@@ -1343,6 +1343,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/pyramid-of-corporate-social-responsibility> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/social-responsibilities-of-the-businessman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2000/01/rdf-schema#label> "Turnaround Strategy: Retrenchment and Recovery in Declining Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#altLabel> "business turnaround" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#altLabel> "corporate turnaround" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#altLabel> "firm turnaround" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#altLabel> "turnaround management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/change-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#definition> "The set of actions by which a firm in sustained decline arrests the deterioration and restores viable performance, usually framed as a retrenchment phase that cuts costs and assets to stabilize cash, followed by a recovery phase that rebuilds revenue and competitive position." .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#prefLabel> "Turnaround Strategy: Retrenchment and Recovery in Declining Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/downsizing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/financial-distress> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/threat-rigidity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/turnaround-retrenchment-and-recovery-1992> .
+<https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> .
 <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2000/01/rdf-schema#label> "Cost Structure: Fixed Versus Variable Costs and Operating Leverage" .
@@ -6657,6 +6683,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-social-responsibility/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-social-responsibility/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-social-responsibility/s5> <https://schema.org/url> "https://store.hbr.org/product/strategy-and-society-the-link-between-competitive-advantage-and-corporate-social-responsibility/R0612D" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s1> <http://purl.org/dc/terms/publisher> "Business Research 10(1), 3-47 (Springer, open access)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s1> <http://purl.org/dc/terms/title> "Corporate distress and turnaround: integrating the literature and directing future research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s1> <https://schema.org/url> "https://link.springer.com/10.1007/s40685-016-0041-8" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s2> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 13(4), 287-309 (library catalog record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s2> <http://purl.org/dc/terms/title> "Turnaround: Retrenchment and recovery" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s2> <https://schema.org/url> "https://bvbvf1.bib-bvb.de/vufind/PrimoRecord/cdi_proquest_journals_231180602" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s3> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 15(5), 395-405 (record at EconPapers/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s3> <http://purl.org/dc/terms/title> "Retrenchment: Cause of turnaround or consequence of decline?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s3> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:stratm:v:15:y:1994:i:5:p:395-405" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s4> <http://purl.org/dc/terms/publisher> "Strategic Management Journal 15(5), 407-417 (record at EconPapers/RePEc)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s4> <http://purl.org/dc/terms/title> "Retrenchment remains the foundation of business turnaround" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s4> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:stratm:v:15:y:1994:i:5:p:407-417" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s5> <http://purl.org/dc/terms/publisher> "SAGE Business and Management INK (Social Science Space), on Journal of Management article" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s5> <http://purl.org/dc/terms/title> "Organizational Decline and Turnaround: A Review and Agenda for Future Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s5> <https://schema.org/url> "https://www.socialsciencespace.com/2013/02/organizational-decline-and-turnaround-a-review-and-agenda/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton, University of Pennsylvania" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <http://purl.org/dc/terms/title> "Lou Gerstner's Turnaround Tales at IBM" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/?p=3398" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://purl.org/dc/terms/title> "2.2 Identify and Apply Basic Cost Behavior Patterns (Principles of Accounting, Volume 2: Managerial Accounting)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
