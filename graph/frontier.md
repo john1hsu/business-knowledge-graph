@@ -6,12 +6,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:revenue-recognition-asc-606` |
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
-| `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
+| `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
@@ -19,6 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
+| `kt:marketing` | `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
@@ -57,7 +58,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:current-ratio` | `kt:financial-statement-analysis`, `kt:working-capital` |
 | `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
-| `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score` |
 | `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule` |
@@ -98,7 +98,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:cost-structure` |
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
-| `kt:marketing` | `kt:marketing-metrics`, `kt:services-marketing` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
@@ -130,6 +129,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:screening-theory` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
+| `kt:servperf` | `kt:service-quality`, `kt:servqual` |
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
@@ -212,6 +212,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:charles-kepner` | `kt:kepner-tregoe-method` |
 | `kt:chris-anderson` | `kt:long-tail` |
+| `kt:christian-gronroos` | `kt:service-quality` |
 | `kt:civil-service` | `kt:public-administration` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:closed-innovation` | `kt:open-innovation` |
@@ -370,6 +371,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:insurance-industry` | `kt:adverse-selection` |
 | `kt:intelligent-failure` | `kt:amy-edmondson` |
 | `kt:interchangeable-parts` | `kt:mass-production` |
+| `kt:internal-service-quality` | `kt:service-quality` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:james-f-moore` | `kt:business-ecosystem` |
@@ -552,7 +554,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sergey-brin` | `kt:google` |
 | `kt:servicescape` | `kt:services-marketing` |
 | `kt:servitization-of-business-1988` | `kt:servitization` |
-| `kt:servperf` | `kt:servqual` |
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
 | `kt:seven-wastes` | `kt:taiichi-ohno` |

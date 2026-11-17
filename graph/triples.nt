@@ -4840,6 +4840,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/gardiner-means> .
 <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-modern-corporation-and-private-property> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2000/01/rdf-schema#label> "Service Quality: Customer Perceptions of Technical, Functional and Environmental Excellence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#altLabel> "perceived service quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#altLabel> "quality of service in marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#altLabel> "total perceived service quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#definition> "A customer's overall judgment of the excellence of a service, formed by comparing what was received and how it was delivered against expectations; marketing research models it as multidimensional (outcome, interaction and environment) and links it to satisfaction, loyalty intentions and, through them, to financial returns." .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#prefLabel> "Service Quality: Customer Perceptions of Technical, Functional and Environmental Excellence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-lifetime-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-satisfaction> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/customer-loyalty> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/internal-service-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/christian-gronroos> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/servperf> .
+<https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/servqual> .
 <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> <http://www.w3.org/2000/01/rdf-schema#label> "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings" .
@@ -10502,6 +10529,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/separation-of-ownership-and-control/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/separation-of-ownership-and-control/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/separation-of-ownership-and-control/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <http://purl.org/dc/terms/publisher> "European Journal of Marketing (record on Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <http://purl.org/dc/terms/title> "A Service Quality Model and its Marketing Implications" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <https://schema.org/url> "https://scilit.com/publications/3f183ce3f513e7985a51be6929c0fc00" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s2> <http://purl.org/dc/terms/publisher> "Journal of Marketing (record on Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s2> <http://purl.org/dc/terms/title> "Measuring Service Quality: A Reexamination and Extension" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s2> <https://schema.org/url> "https://scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s3> <http://purl.org/dc/terms/publisher> "Journal of Marketing (record on CiteDrive)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s3> <http://purl.org/dc/terms/title> "Some New Thoughts on Conceptualizing Perceived Service Quality: A Hierarchical Approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s3> <https://schema.org/url> "https://www.citedrive.com/en/discovery/some-new-thoughts-on-conceptualizing-perceived-service-quality-a-hierarchical-approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s4> <http://purl.org/dc/terms/publisher> "Journal of Marketing (record on CiteDrive)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s4> <http://purl.org/dc/terms/title> "The Behavioral Consequences of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s4> <https://schema.org/url> "https://www.citedrive.com/en/discovery/the-behavioral-consequences-of-service-quality/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing (record on Scilit)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s5> <http://purl.org/dc/terms/title> "Return on Quality (ROQ): Making Service Quality Financially Accountable" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s5> <https://schema.org/url> "https://scilit.com/publications/40f14891daccfc9722589eabe23ed218" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s6> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s6> <http://purl.org/dc/terms/title> "11.2 The Service Profit Chain Model and the Service Marketing Triangle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s6> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/11-2-the-service-profit-chain-model-and-the-service-marketing-triangle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s7> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s7> <http://purl.org/dc/terms/title> "11.3 The Gap Model of Service Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s7> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/11-3-the-gap-model-of-service-quality" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/services-marketing/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/services-marketing/s1> <http://purl.org/dc/terms/title> "11.1 Classification of Services (Principles of Marketing)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/services-marketing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

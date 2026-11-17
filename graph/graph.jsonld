@@ -16273,6 +16273,109 @@
       ]
     },
     {
+      "@id": "kt:service-quality",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Service Quality: Customer Perceptions of Technical, Functional and Environmental Excellence",
+      "skos:definition": "A customer's overall judgment of the excellence of a service, formed by comparing what was received and how it was delivered against expectations; marketing research models it as multidimensional (outcome, interaction and environment) and links it to satisfaction, loyalty intentions and, through them, to financial returns.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "A Service Quality Model and its Marketing Implications",
+          "dcterms:publisher": "European Journal of Marketing (record on Scilit)",
+          "schema:url": "https://scilit.com/publications/3f183ce3f513e7985a51be6929c0fc00",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Measuring Service Quality: A Reexamination and Extension",
+          "dcterms:publisher": "Journal of Marketing (record on Scilit)",
+          "schema:url": "https://scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Some New Thoughts on Conceptualizing Perceived Service Quality: A Hierarchical Approach",
+          "dcterms:publisher": "Journal of Marketing (record on CiteDrive)",
+          "schema:url": "https://www.citedrive.com/en/discovery/some-new-thoughts-on-conceptualizing-perceived-service-quality-a-hierarchical-approach",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Behavioral Consequences of Service Quality",
+          "dcterms:publisher": "Journal of Marketing (record on CiteDrive)",
+          "schema:url": "https://www.citedrive.com/en/discovery/the-behavioral-consequences-of-service-quality/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Return on Quality (ROQ): Making Service Quality Financially Accountable",
+          "dcterms:publisher": "Journal of Marketing (record on Scilit)",
+          "schema:url": "https://scilit.com/publications/40f14891daccfc9722589eabe23ed218",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "11.2 The Service Profit Chain Model and the Service Marketing Triangle",
+          "dcterms:publisher": "OpenStax, Principles of Marketing",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/11-2-the-service-profit-chain-model-and-the-service-marketing-triangle",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "11.3 The Gap Model of Service Quality",
+          "dcterms:publisher": "OpenStax, Principles of Marketing",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/11-3-the-gap-model-of-service-quality",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/marketing/service-quality.md",
+      "skos:altLabel": [
+        "perceived service quality",
+        "quality of service in marketing",
+        "total perceived service quality"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:services-marketing"
+        },
+        {
+          "@id": "kt:marketing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:gaps-model-of-service-quality"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:servqual"
+        },
+        {
+          "@id": "kt:servperf"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:christian-gronroos"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:customer-loyalty"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:internal-service-quality"
+        }
+      ]
+    },
+    {
       "@id": "kt:services-marketing",
       "@type": "kto:Field",
       "skos:prefLabel": "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings",

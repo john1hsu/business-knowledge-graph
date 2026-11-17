@@ -4075,6 +4075,28 @@
     ]
   },
   {
+    "id": "kt:service-quality",
+    "title": "Service Quality: Customer Perceptions of Technical, Functional and Environmental Excellence",
+    "aliases": [
+      "perceived service quality",
+      "quality of service in marketing",
+      "total perceived service quality"
+    ],
+    "type": "Concept",
+    "domain": "marketing",
+    "file": "articles/marketing/service-quality.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://scilit.com/publications/3f183ce3f513e7985a51be6929c0fc00",
+      "https://scilit.com/publications/0b7c8e522f865b28cc58b7f6dff52e33",
+      "https://www.citedrive.com/en/discovery/some-new-thoughts-on-conceptualizing-perceived-service-quality-a-hierarchical-approach",
+      "https://www.citedrive.com/en/discovery/the-behavioral-consequences-of-service-quality/",
+      "https://scilit.com/publications/40f14891daccfc9722589eabe23ed218",
+      "https://openstax.org/books/principles-marketing/pages/11-2-the-service-profit-chain-model-and-the-service-marketing-triangle",
+      "https://openstax.org/books/principles-marketing/pages/11-3-the-gap-model-of-service-quality"
+    ]
+  },
+  {
     "id": "kt:services-marketing",
     "title": "Services Marketing: Managing Intangible, Inseparable, Variable and Perishable Offerings",
     "aliases": [
