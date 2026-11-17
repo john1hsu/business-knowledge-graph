@@ -24,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
-| `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:sole-source-contracting` | `kt:competition-in-contracting-act`, `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
@@ -176,6 +175,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:applied-ethics` | `kt:business-ethics` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:arthur-andersen` | `kt:enron-scandal` |
+| `kt:arthur-cecil-pigou` | `kt:price-discrimination` |
 | `kt:assembly-line` | `kt:mass-production` |
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
@@ -197,6 +197,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
+| `kt:bundling` | `kt:price-discrimination` |
 | `kt:bureaucracy` | `kt:max-weber` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
@@ -434,6 +435,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marchand-v-barnhill` | `kt:fiduciary-duty` |
 | `kt:mark-h-moore` | `kt:public-value` |
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
+| `kt:market-power` | `kt:price-discrimination` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
@@ -549,6 +551,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-g-cooper` | `kt:stage-gate-process` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |
+| `kt:robinson-patman-act` | `kt:price-discrimination` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:rolls-royce` | `kt:servitization` |
 | `kt:ronald-coase` | `kt:transaction-cost-economics` |
@@ -614,6 +617,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-concept-of-the-marketing-mix-1964` | `kt:marketing-mix` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
+| `kt:the-economics-of-welfare` | `kt:price-discrimination` |
 | `kt:the-four-steps-to-the-epiphany` | `kt:customer-development` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-long-tail-wired-2004` | `kt:long-tail` |

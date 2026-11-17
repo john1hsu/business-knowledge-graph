@@ -15352,6 +15352,116 @@
       ]
     },
     {
+      "@id": "kt:price-discrimination",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Price Discrimination: Charging Different Customers Different Prices for the Same Good",
+      "skos:definition": "Selling the same product to different buyers, or different units to the same buyer, at prices that differ by more than any difference in cost, which lets a firm with market power capture more consumer surplus; Pigou classified it into first-, second- and third-degree forms.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Economics of Welfare, Part II, Chapter XVII: Discriminating Monopoly",
+          "dcterms:publisher": "Macmillan (4th ed., 1932), via Library of Economics and Liberty",
+          "schema:url": "https://www.econlib.org/library/NPDBooks/Pigou/pgEW.html?chapter_num=30",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Price Discrimination and Competition (Handbook of Industrial Organization, Vol. 3, ch. 34)",
+          "dcterms:publisher": "Elsevier",
+          "schema:url": "https://kylewoodward.com/blog-data/pdfs/references/stole-handbook-of-industrial-organization-2007A.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Price Discrimination (Handbook of Industrial Organization, Vol. 1, ch. 10)",
+          "dcterms:publisher": "Elsevier, via IDEAS/RePEc",
+          "schema:url": "https://ideas.repec.org/h/eee/indchp/1-10.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "First-Degree Price Discrimination Using Big Data",
+          "dcterms:publisher": "Brandeis University, Department of Economics",
+          "schema:url": "https://www.brandeis.edu/economics/RePEc/brd/doc/Brandeis_WP58R2.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Price Discrimination: Robinson-Patman Violations",
+          "dcterms:publisher": "Federal Trade Commission",
+          "schema:url": "https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/price-discrimination-robinson-patman",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Price discrimination",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/price-discrimination",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/price-discrimination.md",
+      "skos:altLabel": [
+        "discriminatory pricing",
+        "differential pricing",
+        "discriminating monopoly",
+        "first-degree price discrimination",
+        "second-degree price discrimination",
+        "third-degree price discrimination"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:microeconomics"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:price-elasticity"
+        },
+        {
+          "@id": "kt:pricing-strategy"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:razor-and-blades-model"
+        },
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:arthur-cecil-pigou"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-economics-of-welfare"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:market-power"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:robinson-patman-act"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:airline-industry"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:bundling"
+        }
+      ]
+    },
+    {
       "@id": "kt:principal-agent-problem",
       "@type": "kto:Theory",
       "skos:prefLabel": "Principal-Agent Problem",

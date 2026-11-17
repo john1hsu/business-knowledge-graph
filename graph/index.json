@@ -3765,6 +3765,30 @@
     ]
   },
   {
+    "id": "kt:price-discrimination",
+    "title": "Price Discrimination: Charging Different Customers Different Prices for the Same Good",
+    "aliases": [
+      "discriminatory pricing",
+      "differential pricing",
+      "discriminating monopoly",
+      "first-degree price discrimination",
+      "second-degree price discrimination",
+      "third-degree price discrimination"
+    ],
+    "type": "Concept",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/price-discrimination.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.econlib.org/library/NPDBooks/Pigou/pgEW.html?chapter_num=30",
+      "https://kylewoodward.com/blog-data/pdfs/references/stole-handbook-of-industrial-organization-2007A.pdf",
+      "https://ideas.repec.org/h/eee/indchp/1-10.html",
+      "https://www.brandeis.edu/economics/RePEc/brd/doc/Brandeis_WP58R2.pdf",
+      "https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/price-discrimination-robinson-patman",
+      "https://www.britannica.com/money/price-discrimination"
+    ]
+  },
+  {
     "id": "kt:price-elasticity",
     "title": "Price Elasticity",
     "aliases": [

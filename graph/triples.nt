@@ -4474,6 +4474,37 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/performing-a-project-premortem-2007> .
 <https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
 <https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2000/01/rdf-schema#label> "Price Discrimination: Charging Different Customers Different Prices for the Same Good" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#altLabel> "differential pricing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#altLabel> "discriminating monopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#altLabel> "discriminatory pricing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#altLabel> "first-degree price discrimination" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#altLabel> "second-degree price discrimination" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#altLabel> "third-degree price discrimination" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#definition> "Selling the same product to different buyers, or different units to the same buyer, at prices that differ by more than any difference in cost, which lets a firm with market power capture more consumer surplus; Pigou classified it into first-, second- and third-degree forms." .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#prefLabel> "Price Discrimination: Charging Different Customers Different Prices for the Same Good" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pricing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/arthur-cecil-pigou> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/market-power> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/bundling> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-economics-of-welfare> .
+<https://github.com/john1hsu/business-knowledge-graph/id/price-discrimination> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/robinson-patman-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2000/01/rdf-schema#label> "Price Elasticity" .
@@ -10314,6 +10345,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <https://schema.org/url> "https://dlab.sauder.ubc.ca/sjdm/presentations/2021-Poster-Gandhi-Linnea-debiasing-premortem-selfserving~.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s1> <http://purl.org/dc/terms/publisher> "Macmillan (4th ed., 1932), via Library of Economics and Liberty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s1> <http://purl.org/dc/terms/title> "The Economics of Welfare, Part II, Chapter XVII: Discriminating Monopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s1> <https://schema.org/url> "https://www.econlib.org/library/NPDBooks/Pigou/pgEW.html?chapter_num=30" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s2> <http://purl.org/dc/terms/publisher> "Elsevier" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s2> <http://purl.org/dc/terms/title> "Price Discrimination and Competition (Handbook of Industrial Organization, Vol. 3, ch. 34)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s2> <https://schema.org/url> "https://kylewoodward.com/blog-data/pdfs/references/stole-handbook-of-industrial-organization-2007A.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s3> <http://purl.org/dc/terms/publisher> "Elsevier, via IDEAS/RePEc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s3> <http://purl.org/dc/terms/title> "Price Discrimination (Handbook of Industrial Organization, Vol. 1, ch. 10)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s3> <https://schema.org/url> "https://ideas.repec.org/h/eee/indchp/1-10.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s4> <http://purl.org/dc/terms/publisher> "Brandeis University, Department of Economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s4> <http://purl.org/dc/terms/title> "First-Degree Price Discrimination Using Big Data" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s4> <https://schema.org/url> "https://www.brandeis.edu/economics/RePEc/brd/doc/Brandeis_WP58R2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s5> <http://purl.org/dc/terms/publisher> "Federal Trade Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s5> <http://purl.org/dc/terms/title> "Price Discrimination: Robinson-Patman Violations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s5> <https://schema.org/url> "https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/price-discrimination-robinson-patman" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s6> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s6> <http://purl.org/dc/terms/title> "Price discrimination" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/price-discrimination/s6> <https://schema.org/url> "https://www.britannica.com/money/price-discrimination" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/publisher> "Library of Economics and Liberty (Liberty Fund)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/title> "Principles of Economics, Book III, Chapter IV: The Elasticity of Wants (8th ed., 1920)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
