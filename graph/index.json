@@ -3264,6 +3264,25 @@
     ]
   },
   {
+    "id": "kt:operational-effectiveness",
+    "title": "Operational Effectiveness: Performing Similar Activities Better Than Rivals",
+    "aliases": [
+      "operational effectiveness",
+      "OE"
+    ],
+    "type": "Concept",
+    "domain": "strategy",
+    "file": "articles/strategy/operational-effectiveness.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://hbr.org/1996/11/what-is-strategy",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=10698",
+      "https://www.isc.hbs.edu/strategy/Pages/strategy-explained.aspx",
+      "https://hbswk.hbs.edu/item/what-do-managers-do-exploring-persistent-performance-differences-among-seemingly-similar-enterprises",
+      "https://www.nber.org/papers/w22327.pdf"
+    ]
+  },
+  {
     "id": "kt:operations-management",
     "title": "Operations Management: Cost, Quality and Delivery in Producing Goods and Services",
     "aliases": [

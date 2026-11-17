@@ -18,14 +18,15 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
+| `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
-| `kt:operational-effectiveness` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:competitive-advantage` |
 | `kt:overconfidence-bias` | `kt:behavioral-finance`, `kt:capital-budgeting`, `kt:scenario-planning` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
+| `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
@@ -38,6 +39,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
+| `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:caremark-oversight-duty` | `kt:business-judgment-rule`, `kt:fiduciary-duty` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
@@ -98,7 +100,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
-| `kt:michael-porter` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:new-public-management` | `kt:public-administration`, `kt:public-value` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
@@ -127,7 +128,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
-| `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
@@ -192,7 +192,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-policy` | `kt:strategic-management` |
-| `kt:business-process-reengineering` | `kt:enterprise-resource-planning` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:business-valuation` | `kt:discounted-cash-flow` |
 | `kt:cadbury-report` | `kt:corporate-governance` |
@@ -631,6 +630,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vrio-framework` | `kt:resource-based-view` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
+| `kt:what-is-strategy-1996` | `kt:operational-effectiveness` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-hewlett` | `kt:hewlett-packard` |

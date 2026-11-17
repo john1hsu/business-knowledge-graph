@@ -3877,6 +3877,27 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/user-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation-the-new-imperative-2003> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2000/01/rdf-schema#label> "Operational Effectiveness: Performing Similar Activities Better Than Rivals" .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#altLabel> "OE" .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#altLabel> "operational effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#definition> "Michael Porter's term for performing the same or similar activities better than competitors, through efficiency, quality, speed and best practice; it moves a firm toward the productivity frontier and is necessary for superior performance, but because rivals can copy it, Porter argues it is not a substitute for strategy." .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Operational Effectiveness: Performing Similar Activities Better Than Rivals" .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-process-reengineering> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/what-is-strategy-1996> .
 <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> <http://www.w3.org/2000/01/rdf-schema#label> "Operations Management: Cost, Quality and Delivery in Producing Goods and Services" .
@@ -9267,6 +9288,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://schema.org/url> "https://saylordotorg.github.io/text_international-business/s17-04-increasing-speed-and-effective.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review 74(6), November-December 1996" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <http://purl.org/dc/terms/title> "What Is Strategy?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <https://schema.org/url> "https://hbr.org/1996/11/what-is-strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School, Faculty & Research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s2> <http://purl.org/dc/terms/title> "What Is Strategy? (faculty publication record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s2> <https://schema.org/url> "https://www.hbs.edu/faculty/Pages/item.aspx?num=10698" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s3> <http://purl.org/dc/terms/publisher> "Institute for Strategy and Competitiveness, Harvard Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s3> <http://purl.org/dc/terms/title> "Strategy Explained" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s3> <https://schema.org/url> "https://www.isc.hbs.edu/strategy/Pages/strategy-explained.aspx" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s4> <http://purl.org/dc/terms/publisher> "HBS Working Knowledge (Robert Gibbons and Rebecca Henderson), 2012" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s4> <http://purl.org/dc/terms/title> "What Do Managers Do? Exploring Persistent Performance Differences among Seemingly Similar Enterprises" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s4> <https://schema.org/url> "https://hbswk.hbs.edu/item/what-do-managers-do-exploring-persistent-performance-differences-among-seemingly-similar-enterprises" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s5> <http://purl.org/dc/terms/publisher> "NBER Working Paper 22327 (Bloom, Sadun and Van Reenen), 2016, revised 2017" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s5> <http://purl.org/dc/terms/title> "Management as a Technology?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s5> <https://schema.org/url> "https://www.nber.org/papers/w22327.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/operations-management/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Introduction to Business 2e" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/operations-management/s1> <http://purl.org/dc/terms/title> "10.1 Production and Operations Management—An Overview" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/operations-management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

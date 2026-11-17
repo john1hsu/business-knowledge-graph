@@ -19671,6 +19671,85 @@
       ]
     },
     {
+      "@id": "kt:operational-effectiveness",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Operational Effectiveness: Performing Similar Activities Better Than Rivals",
+      "skos:definition": "Michael Porter's term for performing the same or similar activities better than competitors, through efficiency, quality, speed and best practice; it moves a firm toward the productivity frontier and is necessary for superior performance, but because rivals can copy it, Porter argues it is not a substitute for strategy.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "What Is Strategy?",
+          "dcterms:publisher": "Harvard Business Review 74(6), November-December 1996",
+          "schema:url": "https://hbr.org/1996/11/what-is-strategy",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "What Is Strategy? (faculty publication record)",
+          "dcterms:publisher": "Harvard Business School, Faculty & Research",
+          "schema:url": "https://www.hbs.edu/faculty/Pages/item.aspx?num=10698",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Strategy Explained",
+          "dcterms:publisher": "Institute for Strategy and Competitiveness, Harvard Business School",
+          "schema:url": "https://www.isc.hbs.edu/strategy/Pages/strategy-explained.aspx",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "What Do Managers Do? Exploring Persistent Performance Differences among Seemingly Similar Enterprises",
+          "dcterms:publisher": "HBS Working Knowledge (Robert Gibbons and Rebecca Henderson), 2012",
+          "schema:url": "https://hbswk.hbs.edu/item/what-do-managers-do-exploring-persistent-performance-differences-among-seemingly-similar-enterprises",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Management as a Technology?",
+          "dcterms:publisher": "NBER Working Paper 22327 (Bloom, Sadun and Van Reenen), 2016, revised 2017",
+          "schema:url": "https://www.nber.org/papers/w22327.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/strategy/operational-effectiveness.md",
+      "skos:altLabel": [
+        "operational effectiveness",
+        "OE"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:competitive-advantage"
+        },
+        {
+          "@id": "kt:benchmarking"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:business-process-reengineering"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:michael-porter"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:what-is-strategy-1996"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:strategic-positioning"
+        }
+      ]
+    },
+    {
       "@id": "kt:porters-five-forces",
       "@type": "kto:Framework",
       "skos:prefLabel": "Porter's Five Forces: Competitive Forces That Shape Industry Profitability",
