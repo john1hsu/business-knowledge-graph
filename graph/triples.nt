@@ -4943,6 +4943,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/paul-hersey> .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
 <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/chris-argyris> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2000/01/rdf-schema#label> "Six Sigma: Motorola's DMAIC Method for Reducing Process Variation and Defects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#altLabel> "6σ" .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#altLabel> "DMAIC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#altLabel> "Six Sigma" .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#definition> "A project-based process-improvement method, developed at Motorola in the 1980s and popularized by General Electric, that uses statistical tools, a structured Define-Measure-Analyze-Improve-Control cycle and a hierarchy of trained specialists (\"belts\") to reduce variation and defects in processes." .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#prefLabel> "Six Sigma: Motorola's DMAIC Method for Reducing Process Variation and Defects" .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ishikawa-diagram> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-manufacturing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-ambidexterity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/motorola> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/statistical-process-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/general-electric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> <https://github.com/john1hsu/business-knowledge-graph/ontology#precededBy> <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <http://www.w3.org/2000/01/rdf-schema#label> "Small Business Set-Asides: Reserving Federal Contracts for Small Firms" .
@@ -10545,6 +10573,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/situational-leadership/s7> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/13-6-situational-contingency-approaches-to-leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s1> <http://purl.org/dc/terms/publisher> "Journal of Operations Management 26(4), 536-554 (Schroeder, Linderman, Liedtke & Choo, 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s1> <http://purl.org/dc/terms/title> "Six Sigma: Definition and underlying theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s1> <https://schema.org/url> "https://pure.psu.edu/en/publications/six-sigma-definition-and-underlying-theory/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s2> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (NIST)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s2> <http://purl.org/dc/terms/title> "1988 Malcolm Baldrige National Quality Award Recipient: Motorola Inc." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s2> <https://schema.org/url> "https://Www.Nist.Gov/system/files/documents/2017/10/11/1988_Motorola_Inc.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s3> <http://purl.org/dc/terms/publisher> "ICOTS9 invited paper, Arizona State University (Douglas C. Montgomery, 2014)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s3> <http://purl.org/dc/terms/title> "The Contributions of Six Sigma to the Development of Statistical Thinking in the Workplace" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s3> <https://schema.org/url> "https://icots.info/9/proceedings/pdfs/ICOTS9_5D2_MONTGOMERY.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s4> <http://purl.org/dc/terms/publisher> "American Society for Quality (ASQ)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s4> <http://purl.org/dc/terms/title> "DMAIC" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s4> <https://schema.org/url> "https://asq.org/quality-resources/dmaic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s5> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton (2005)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s5> <http://purl.org/dc/terms/title> "TQM, ISO 9000, Six Sigma: Do Process Management Programs Discourage Innovation?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s5> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/article/tqm-iso-9000-six-sigma-do-process-management-programs-discourage-innovation/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s6> <http://purl.org/dc/terms/publisher> "U.S. Environmental Protection Agency" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s6> <http://purl.org/dc/terms/title> "Environmental Professional's Guide to Lean and Six Sigma: Executive Summary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/six-sigma/s6> <https://schema.org/url> "https://19january2025snapshot.epa.gov/sustainability/environmental-professionals-guide-lean-and-six-sigma-executive-summary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <http://purl.org/dc/terms/title> "19.502-2 Total small business set-asides" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

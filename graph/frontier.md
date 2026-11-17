@@ -16,19 +16,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:frederick-winslow-taylor` | `kt:scientific-management`, `kt:henri-fayol`, `kt:lyndall-urwick` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
+| `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri`, `kt:six-sigma` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
-| `kt:six-sigma` | `kt:pyramid-principle`, `kt:lean-manufacturing`, `kt:total-quality-management` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
+| `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
 | `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
@@ -88,7 +90,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:internal-rate-of-return` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
-| `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:total-quality-management` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:luther-gulick` | `kt:lyndall-urwick`, `kt:span-of-control` |
@@ -103,6 +104,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
+| `kt:motorola` | `kt:malcolm-baldrige-national-quality-award`, `kt:six-sigma` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:new-product-development` | `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:new-public-management` | `kt:public-administration`, `kt:public-value` |
@@ -112,7 +114,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:payback-period` | `kt:capital-budgeting`, `kt:net-present-value` |
-| `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:private-equity` | `kt:leveraged-buyout`, `kt:venture-capital` |
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
@@ -132,6 +133,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
+| `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
@@ -140,7 +142,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
-| `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:total-quality-management` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
@@ -326,6 +327,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gardiner-means` | `kt:separation-of-ownership-and-control` |
 | `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
+| `kt:general-electric` | `kt:six-sigma` |
 | `kt:george-m-beal` | `kt:technology-adoption-life-cycle` |
 | `kt:gig-economy` | `kt:sharing-economy` |
 | `kt:gillette` | `kt:razor-and-blades-model` |
@@ -441,7 +443,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:modularity` | `kt:computer-industry` |
 | `kt:motivation` | `kt:goal-setting-theory` |
 | `kt:motivation-hygiene-theory` | `kt:j-richard-hackman` |
-| `kt:motorola` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:multidivisional-form` | `kt:general-motors` |
 | `kt:multifactor-leadership-questionnaire` | `kt:transformational-leadership` |
@@ -571,7 +572,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:spotify` | `kt:freemium` |
 | `kt:stakeholder-salience-model` | `kt:stakeholder-analysis` |
 | `kt:statement-of-changes-in-financial-position` | `kt:statement-of-cash-flows` |
-| `kt:statistical-process-control` | `kt:total-quality-management` |
 | `kt:stephen-a-ross` | `kt:principal-agent-problem` |
 | `kt:steve-blank` | `kt:customer-development` |
 | `kt:steve-jobs` | `kt:apple-inc` |

@@ -4160,6 +4160,27 @@
     ]
   },
   {
+    "id": "kt:six-sigma",
+    "title": "Six Sigma: Motorola's DMAIC Method for Reducing Process Variation and Defects",
+    "aliases": [
+      "Six Sigma",
+      "6σ",
+      "DMAIC"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/six-sigma.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://pure.psu.edu/en/publications/six-sigma-definition-and-underlying-theory/",
+      "https://Www.Nist.Gov/system/files/documents/2017/10/11/1988_Motorola_Inc.pdf",
+      "https://icots.info/9/proceedings/pdfs/ICOTS9_5D2_MONTGOMERY.pdf",
+      "https://asq.org/quality-resources/dmaic",
+      "https://knowledge.wharton.upenn.edu/article/tqm-iso-9000-six-sigma-do-process-management-programs-discourage-innovation/",
+      "https://19january2025snapshot.epa.gov/sustainability/environmental-professionals-guide-lean-and-six-sigma-executive-summary"
+    ]
+  },
+  {
     "id": "kt:small-business-set-asides",
     "title": "Small Business Set-Asides: Reserving Federal Contracts for Small Firms",
     "aliases": [
