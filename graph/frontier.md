@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
+| `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
@@ -31,7 +32,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:a3-report` | `kt:structured-problem-solving`, `kt:pdca-cycle` |
-| `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
 | `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
@@ -111,6 +111,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:new-product-development` | `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:new-public-management` | `kt:public-administration`, `kt:public-value` |
+| `kt:office-equipment-industry` | `kt:xerox`, `kt:xerox` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
@@ -148,7 +149,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:walter-shewhart` | `kt:pdca-cycle`, `kt:w-edwards-deming` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
-| `kt:xerox` | `kt:benchmarking`, `kt:hoshin-kanri` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |

@@ -5181,5 +5181,26 @@
       "https://www.journalofaccountancy.com/issues/2013/may/20126764.html",
       "https://investors.delltechnologies.com/static-files/c8eb801f-7885-415c-8596-71723b5f446b"
     ]
+  },
+  {
+    "id": "kt:xerox",
+    "title": "Xerox: From the 914 Copier to PARC and Leadership Through Quality",
+    "aliases": [
+      "Xerox Corporation",
+      "Xerox Holdings Corporation",
+      "Haloid Xerox",
+      "Haloid Company"
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/xerox.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.britannica.com/money/Xerox-Corporation",
+      "https://econpapers.repec.org/RePEc:oup:indcch:v:11:y:2002:i:3:p:529-555",
+      "https://Www.Nist.Gov/system/files/documents/2017/10/11/1989_Xerox.pdf",
+      "https://www.sec.gov/litigation/litreleases/2002/lr17465.htm",
+      "https://investors.xerox.com/node/31031"
+    ]
   }
 ]

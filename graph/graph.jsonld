@@ -5035,6 +5035,94 @@
       ]
     },
     {
+      "@id": "kt:xerox",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Xerox: From the 914 Copier to PARC and Leadership Through Quality",
+      "skos:definition": "The American document-technology company, founded in 1906 as the Haloid Company, that commercialised Chester Carlson's xerography with the 914 copier, founded the PARC research lab, recovered share from Japanese rivals through its Leadership Through Quality and benchmarking programme, and later paid an SEC penalty for accelerating lease revenue; it is a standard case in innovation, quality and governance.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Xerox Corporation",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/Xerox-Corporation",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "The role of the business model in capturing value from innovation: evidence from Xerox Corporation's technology spin-off companies",
+          "dcterms:publisher": "Industrial and Corporate Change 11(3), 529–555 (2002); record at RePEc EconPapers",
+          "schema:url": "https://econpapers.repec.org/RePEc:oup:indcch:v:11:y:2002:i:3:p:529-555",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "1989 Malcolm Baldrige National Quality Award recipient profile: Xerox Business Products and Systems",
+          "dcterms:publisher": "National Institute of Standards and Technology (NIST)",
+          "schema:url": "https://Www.Nist.Gov/system/files/documents/2017/10/11/1989_Xerox.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Litigation Release No. 17465: SEC v. Xerox Corporation",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/litigation/litreleases/2002/lr17465.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Xerox Releases Fourth-Quarter and Full-Year Results",
+          "dcterms:publisher": "Xerox Holdings Corporation (investor relations, 29 January 2026)",
+          "schema:url": "https://investors.xerox.com/node/31031",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/xerox.md",
+      "skos:altLabel": [
+        "Xerox Corporation",
+        "Xerox Holdings Corporation",
+        "Haloid Xerox",
+        "Haloid Company"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:office-equipment-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:open-innovation"
+        },
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:malcolm-baldrige-national-quality-award"
+        },
+        {
+          "@id": "kt:hoshin-kanri"
+        },
+        {
+          "@id": "kt:kodak-decline"
+        },
+        {
+          "@id": "kt:ibm-turnaround"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:benchmarking"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:accounting-fraud"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:office-equipment-industry"
+        }
+      ]
+    },
+    {
       "@id": "kt:aggregation-theory",
       "@type": "kto:Theory",
       "skos:prefLabel": "Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand",

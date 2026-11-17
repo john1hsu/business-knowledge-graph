@@ -12341,6 +12341,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/working-capital/s4> <https://schema.org/url> "https://investors.delltechnologies.com/static-files/c8eb801f-7885-415c-8596-71723b5f446b" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s1> <http://purl.org/dc/terms/title> "Xerox Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s1> <https://schema.org/url> "https://www.britannica.com/money/Xerox-Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s2> <http://purl.org/dc/terms/publisher> "Industrial and Corporate Change 11(3), 529–555 (2002); record at RePEc EconPapers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s2> <http://purl.org/dc/terms/title> "The role of the business model in capturing value from innovation: evidence from Xerox Corporation's technology spin-off companies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s2> <https://schema.org/url> "https://econpapers.repec.org/RePEc:oup:indcch:v:11:y:2002:i:3:p:529-555" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s3> <http://purl.org/dc/terms/publisher> "National Institute of Standards and Technology (NIST)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s3> <http://purl.org/dc/terms/title> "1989 Malcolm Baldrige National Quality Award recipient profile: Xerox Business Products and Systems" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s3> <https://schema.org/url> "https://Www.Nist.Gov/system/files/documents/2017/10/11/1989_Xerox.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s4> <http://purl.org/dc/terms/title> "Litigation Release No. 17465: SEC v. Xerox Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s4> <https://schema.org/url> "https://www.sec.gov/litigation/litreleases/2002/lr17465.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s5> <http://purl.org/dc/terms/publisher> "Xerox Holdings Corporation (investor relations, 29 January 2026)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s5> <http://purl.org/dc/terms/title> "Xerox Releases Fourth-Quarter and Full-Year Results" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s5> <https://schema.org/url> "https://investors.xerox.com/node/31031" .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
 <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> <http://www.w3.org/2000/01/rdf-schema#label> "Southwest Airlines" .
@@ -13085,3 +13110,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dell-technologies> .
 <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/cash-conversion-cycle> .
 <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/current-ratio> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2000/01/rdf-schema#label> "Xerox: From the 914 Copier to PARC and Leadership Through Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#altLabel> "Haloid Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#altLabel> "Haloid Xerox" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#altLabel> "Xerox Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#altLabel> "Xerox Holdings Corporation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/office-equipment-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#definition> "The American document-technology company, founded in 1906 as the Haloid Company, that commercialised Chester Carlson's xerography with the 914 copier, founded the PARC research lab, recovered share from Japanese rivals through its Leadership Through Quality and benchmarking programme, and later paid an SEC penalty for accelerating lease revenue; it is a standard case in innovation, quality and governance." .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#prefLabel> "Xerox: From the 914 Copier to PARC and Leadership Through Quality" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ibm-turnaround> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kodak-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/malcolm-baldrige-national-quality-award> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/xerox/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/accounting-fraud> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/benchmarking> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/xerox> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/office-equipment-industry> .
