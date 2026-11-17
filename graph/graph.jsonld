@@ -11599,6 +11599,102 @@
       ]
     },
     {
+      "@id": "kt:effectuation",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Effectuation: Sarasvathy's Logic of Entrepreneurial Expertise",
+      "skos:definition": "A theory of entrepreneurial decision-making, introduced by Saras Sarasvathy in 2001, holding that expert entrepreneurs facing unpredictable markets start from the means they already have and co-create goals with committed partners (a logic of control) rather than fixing a goal and planning backward from forecasts (the causal logic of prediction).",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Effectuation Publications",
+          "dcterms:publisher": "University of Virginia Darden School of Business",
+          "schema:url": "https://www.darden.virginia.edu/effectuation/publications",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How Saras Sarasvathy Rewrote the Rules of Entrepreneurship",
+          "dcterms:publisher": "Darden News, University of Virginia Darden School of Business, 11 May 2026",
+          "schema:url": "https://news.darden.virginia.edu/2026/05/11/how-saras-sarasvathy-rewrote-the-rules-of-entrepreneurship/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The 5 Principles of Effectuation",
+          "dcterms:publisher": "Society for Effectual Action (effectuation.org)",
+          "schema:url": "https://effectuation.org/effectuation-principles?hsLang=en",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Causation and effectuation processes: A validation study",
+          "dcterms:publisher": "Journal of Business Venturing 26(3), 375-390, 2011 (author copy hosted by effectuation.org)",
+          "schema:url": "https://effectuation.org/hubfs/Journal%20Articles/2017/05/Causation-and-effectuation-processes.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A meta-analytic review of effectuation and venture performance",
+          "dcterms:publisher": "Journal of Business Venturing 24(6), 573-587, 2009 (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/eee/jbvent/v24y2009i6p573-587.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Effectuation as Ineffectual? Applying the 3E Theory-Assessment Framework to a Proposed New Theory of Entrepreneurship",
+          "dcterms:publisher": "Academy of Management Review 40(4), 630-651, 2015 (Butler University Digital Commons record)",
+          "schema:url": "https://digitalcommons.butler.edu/cob_papers/284",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/effectuation.md",
+      "skos:altLabel": [
+        "effectuation",
+        "effectual logic",
+        "effectual reasoning",
+        "effectuation theory",
+        "causation and effectuation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:entrepreneurship"
+        },
+        {
+          "@id": "kt:decision-making"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:customer-development"
+        },
+        {
+          "@id": "kt:real-options"
+        },
+        {
+          "@id": "kt:bounded-rationality"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:saras-sarasvathy"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:causation-and-effectuation-2001"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:herbert-simon"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:business-plan"
+        }
+      ]
+    },
+    {
       "@id": "kt:exploration-and-exploitation-in-organizational-learning-1991",
       "@type": "kto:Work",
       "skos:prefLabel": "Exploration and Exploitation in Organizational Learning",

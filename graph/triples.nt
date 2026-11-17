@@ -1950,6 +1950,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ford-model-t> .
 <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2000/01/rdf-schema#label> "Effectuation: Sarasvathy's Logic of Entrepreneurial Expertise" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#altLabel> "causation and effectuation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#altLabel> "effectual logic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#altLabel> "effectual reasoning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#altLabel> "effectuation theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#altLabel> "effectuation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/entrepreneurship> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#definition> "A theory of entrepreneurial decision-making, introduced by Saras Sarasvathy in 2001, holding that expert entrepreneurs facing unpredictable markets start from the means they already have and co-create goals with committed partners (a logic of control) rather than fixing a goal and planning backward from forecasts (the causal logic of prediction)." .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Effectuation: Sarasvathy's Logic of Entrepreneurial Expertise" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bounded-rationality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/real-options> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/business-plan> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/saras-sarasvathy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/herbert-simon> .
+<https://github.com/john1hsu/business-knowledge-graph/id/effectuation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/causation-and-effectuation-2001> .
 <https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> <http://www.w3.org/2000/01/rdf-schema#label> "Efficient Market Hypothesis" .
@@ -7525,6 +7552,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/economies-of-scale/s6> <https://schema.org/url> "https://richard-langlois.uconn.edu/wp-content/uploads/sites/1617/2019/09/Chandler2.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s1> <http://purl.org/dc/terms/publisher> "University of Virginia Darden School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s1> <http://purl.org/dc/terms/title> "Effectuation Publications" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s1> <https://schema.org/url> "https://www.darden.virginia.edu/effectuation/publications" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s2> <http://purl.org/dc/terms/publisher> "Darden News, University of Virginia Darden School of Business, 11 May 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s2> <http://purl.org/dc/terms/title> "How Saras Sarasvathy Rewrote the Rules of Entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s2> <https://schema.org/url> "https://news.darden.virginia.edu/2026/05/11/how-saras-sarasvathy-rewrote-the-rules-of-entrepreneurship/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s3> <http://purl.org/dc/terms/publisher> "Society for Effectual Action (effectuation.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s3> <http://purl.org/dc/terms/title> "The 5 Principles of Effectuation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s3> <https://schema.org/url> "https://effectuation.org/effectuation-principles?hsLang=en" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s4> <http://purl.org/dc/terms/publisher> "Journal of Business Venturing 26(3), 375-390, 2011 (author copy hosted by effectuation.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s4> <http://purl.org/dc/terms/title> "Causation and effectuation processes: A validation study" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s4> <https://schema.org/url> "https://effectuation.org/hubfs/Journal%20Articles/2017/05/Causation-and-effectuation-processes.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s5> <http://purl.org/dc/terms/publisher> "Journal of Business Venturing 24(6), 573-587, 2009 (RePEc/IDEAS record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s5> <http://purl.org/dc/terms/title> "A meta-analytic review of effectuation and venture performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s5> <https://schema.org/url> "https://ideas.repec.org/a/eee/jbvent/v24y2009i6p573-587.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s6> <http://purl.org/dc/terms/publisher> "Academy of Management Review 40(4), 630-651, 2015 (Butler University Digital Commons record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s6> <http://purl.org/dc/terms/title> "Effectuation as Ineffectual? Applying the 3E Theory-Assessment Framework to a Proposed New Theory of Entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/effectuation/s6> <https://schema.org/url> "https://digitalcommons.butler.edu/cob_papers/284" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <http://purl.org/dc/terms/publisher> "The Journal of Finance 25(2), 383-417 (copy filed with the California Public Utilities Commission)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <http://purl.org/dc/terms/title> "Efficient Capital Markets: A Review of Theory and Empirical Work" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/efficient-market-hypothesis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

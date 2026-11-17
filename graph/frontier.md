@@ -42,6 +42,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
+| `kt:bounded-rationality` | `kt:effectuation`, `kt:decision-making` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
@@ -193,7 +194,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:birger-wernerfelt` | `kt:resource-based-view` |
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
-| `kt:bounded-rationality` | `kt:decision-making` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:brand-equity` |
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
@@ -201,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bureaucracy` | `kt:max-weber` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
+| `kt:business-plan` | `kt:effectuation` |
 | `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
 | `kt:calibration` | `kt:overconfidence-bias` |
@@ -210,6 +211,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:cash-conversion-cycle` | `kt:working-capital` |
+| `kt:causation-and-effectuation-2001` | `kt:effectuation` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:centralization-and-decentralization` | `kt:span-of-control` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
@@ -295,6 +297,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entire-fairness-standard` | `kt:business-judgment-rule` |
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:entrepreneurial-finance` | `kt:venture-capital` |
+| `kt:entrepreneurship` | `kt:effectuation` |
 | `kt:equity-theory` | `kt:employee-motivation` |
 | `kt:eric-ries` | `kt:lean-startup` |
 | `kt:escalation-of-commitment` | `kt:decision-making` |
@@ -352,6 +355,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:herbert-a-simon` | `kt:decision-making` |
+| `kt:herbert-simon` | `kt:effectuation` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:high-speed-steel` | `kt:frederick-winslow-taylor` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
@@ -559,6 +563,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sam-walton` | `kt:walmart` |
 | `kt:sandra-vandermerwe` | `kt:servitization` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
+| `kt:saras-sarasvathy` | `kt:effectuation` |
 | `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:scqa-framework` | `kt:pyramid-principle` |

@@ -1636,6 +1636,29 @@
     ]
   },
   {
+    "id": "kt:effectuation",
+    "title": "Effectuation: Sarasvathy's Logic of Entrepreneurial Expertise",
+    "aliases": [
+      "effectuation",
+      "effectual logic",
+      "effectual reasoning",
+      "effectuation theory",
+      "causation and effectuation"
+    ],
+    "type": "Theory",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/effectuation.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.darden.virginia.edu/effectuation/publications",
+      "https://news.darden.virginia.edu/2026/05/11/how-saras-sarasvathy-rewrote-the-rules-of-entrepreneurship/",
+      "https://effectuation.org/effectuation-principles?hsLang=en",
+      "https://effectuation.org/hubfs/Journal%20Articles/2017/05/Causation-and-effectuation-processes.pdf",
+      "https://ideas.repec.org/a/eee/jbvent/v24y2009i6p573-587.html",
+      "https://digitalcommons.butler.edu/cob_papers/284"
+    ]
+  },
+  {
     "id": "kt:efficient-market-hypothesis",
     "title": "Efficient Market Hypothesis",
     "aliases": [
