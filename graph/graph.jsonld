@@ -1125,6 +1125,92 @@
       ]
     },
     {
+      "@id": "kt:inventory-costing-methods",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Inventory Costing Methods: FIFO, LIFO, Weighted Average and Specific Identification",
+      "skos:definition": "The cost flow assumptions a company uses to split the cost of goods available for sale between cost of goods sold and ending inventory: specific identification, first-in first-out (FIFO), weighted average cost and, under US GAAP only, last-in first-out (LIFO).",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "10.1 Describe and Demonstrate the Basic Inventory Valuation Methods and Their Cost Flow Assumptions",
+          "dcterms:publisher": "OpenStax (Principles of Accounting, Volume 1)",
+          "schema:url": "https://openstax.org/books/principles-financial-accounting/pages/10-1-describe-and-demonstrate-the-basic-inventory-valuation-methods-and-their-cost-flow-assumptions",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "IAS 2 Inventories",
+          "dcterms:publisher": "IFRS Foundation",
+          "schema:url": "https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "26 U.S. Code § 472 - Last-in, first-out inventories",
+          "dcterms:publisher": "Legal Information Institute, Cornell Law School",
+          "schema:url": "https://www.law.cornell.edu/uscode/text/26/472",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "About Form 970, Application to Use LIFO Inventory Method",
+          "dcterms:publisher": "Internal Revenue Service",
+          "schema:url": "https://www.irs.gov/es/forms-pubs/about-form-970",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "LIFO or FIFO During Inflationary Times?",
+          "dcterms:publisher": "The CPA Journal",
+          "schema:url": "https://www.cpajournal.com/2025/06/16/lifo-or-fifo-during-inflationary-times/",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "The Kroger Co. Form 10-K for the fiscal year ended January 28, 2023",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://sec.gov/Archives/edgar/data/56873/000155837023004767/kr-20230128x10k.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/inventory-costing-methods.md",
+      "skos:altLabel": [
+        "inventory cost flow assumptions",
+        "inventory valuation methods",
+        "cost formulas for inventories",
+        "FIFO",
+        "LIFO",
+        "first-in first-out",
+        "last-in first-out",
+        "weighted average cost method"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:ifrs"
+        },
+        {
+          "@id": "kt:inventory-management"
+        },
+        {
+          "@id": "kt:matching-principle"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:ias-2-inventories"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:kroger"
+        }
+      ]
+    },
+    {
       "@id": "kt:revenue-recognition-asc-606",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Revenue from Contracts with Customers",
@@ -16622,6 +16708,9 @@
         },
         {
           "@id": "kt:working-capital"
+        },
+        {
+          "@id": "kt:inventory-costing-methods"
         }
       ],
       "kto:hasPart": [

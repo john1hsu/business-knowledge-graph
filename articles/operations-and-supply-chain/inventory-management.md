@@ -9,7 +9,7 @@ summary: >-
   when to reorder, so that a firm meets demand and service targets at the lowest total cost of
   ordering, holding and running short.
 broader: [kt:operations-management, kt:supply-chain-management]
-related: [kt:just-in-time, kt:bullwhip-effect, kt:working-capital]
+related: [kt:just-in-time, kt:bullwhip-effect, kt:working-capital, kt:inventory-costing-methods]
 relations:
   - {predicate: hasPart, object: kt:economic-order-quantity}
   - {predicate: dependsOn, object: kt:demand-forecasting}

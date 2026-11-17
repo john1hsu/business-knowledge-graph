@@ -2473,6 +2473,32 @@
     ]
   },
   {
+    "id": "kt:inventory-costing-methods",
+    "title": "Inventory Costing Methods: FIFO, LIFO, Weighted Average and Specific Identification",
+    "aliases": [
+      "inventory cost flow assumptions",
+      "inventory valuation methods",
+      "cost formulas for inventories",
+      "FIFO",
+      "LIFO",
+      "first-in first-out",
+      "last-in first-out",
+      "weighted average cost method"
+    ],
+    "type": "Practice",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/inventory-costing-methods.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://openstax.org/books/principles-financial-accounting/pages/10-1-describe-and-demonstrate-the-basic-inventory-valuation-methods-and-their-cost-flow-assumptions",
+      "https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/",
+      "https://www.law.cornell.edu/uscode/text/26/472",
+      "https://www.irs.gov/es/forms-pubs/about-form-970",
+      "https://www.cpajournal.com/2025/06/16/lifo-or-fifo-during-inflationary-times/",
+      "https://sec.gov/Archives/edgar/data/56873/000155837023004767/kr-20230128x10k.htm"
+    ]
+  },
+  {
     "id": "kt:inventory-management",
     "title": "Inventory Management: Order Quantities, Reorder Points and Safety Stock",
     "aliases": [

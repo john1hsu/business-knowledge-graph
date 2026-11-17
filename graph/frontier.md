@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:revenue-recognition-asc-606` |
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:service-quality` | `kt:a-parasuraman`, `kt:customer-satisfaction`, `kt:customer-satisfaction`, `kt:gaps-model-of-service-quality`, `kt:services-marketing`, `kt:servqual` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
@@ -19,6 +19,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
+| `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
@@ -100,7 +101,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing` | `kt:marketing-metrics`, `kt:services-marketing` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
-| `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
@@ -353,6 +353,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:human-relations-movement` | `kt:management-theory` |
 | `kt:human-resource-management` | `kt:performance-management` |
 | `kt:hurdle-rate` | `kt:weighted-average-cost-of-capital` |
+| `kt:ias-2-inventories` | `kt:inventory-costing-methods` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ibm-system-360` | `kt:computer-industry` |
 | `kt:ifrs-18` | `kt:ifrs` |
@@ -397,6 +398,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kotters-eight-step-model` | `kt:change-management` |
 | `kt:kraft-heinz` | `kt:goodwill` |
+| `kt:kroger` | `kt:inventory-costing-methods` |
 | `kt:kurt-lewin` | `kt:change-management` |
 | `kt:larry-page` | `kt:google` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
