@@ -10538,6 +10538,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/span-of-control/s6> <https://schema.org/url> "https://www.gallup.com/workplace/700718/managers-teams-getting-bigger.aspx" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s1> <http://purl.org/dc/terms/publisher> "Project Management Institute (PMI Research Conference, Montreal, 2006)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s1> <http://purl.org/dc/terms/title> "Winning at New Products: Pathways to Profitable Innovation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s1> <https://schema.org/url> "https://www.pmi.org/learning/library/winning-new-product-development-projects-8049" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s2> <http://purl.org/dc/terms/publisher> "Research-Technology Management 61(2):17-26" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s2> <http://purl.org/dc/terms/title> "Agile-Stage-Gate for Manufacturers: Changing the Way New Products Are Developed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s2> <https://schema.org/url> "https://www.five-is.com/download/agile-stage-gate-for-manufacturers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s3> <http://purl.org/dc/terms/publisher> "Prometheus 38(2):207-227 (University of Southampton ePrints)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s3> <http://purl.org/dc/terms/title> "The changing context of innovation management: A critique of the relevance of the stage-gate approach to current organizations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s3> <https://schema.org/url> "https://eprints.soton.ac.uk/468604/2/PROMETHEUS_38_2_Baxter_et_al.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s4> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s4> <http://purl.org/dc/terms/title> "Principles of Marketing, 10.2 Stages of the New Product Development Process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s4> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/10-2-stages-of-the-new-product-development-process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s5> <http://purl.org/dc/terms/publisher> "Stage-Gate International" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s5> <http://purl.org/dc/terms/title> "The Stage-Gate Model: An Overview" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s5> <https://schema.org/url> "https://stage-gate.com/blog/the-stage-gate-model-an-overview" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-analysis/s1> <http://purl.org/dc/terms/publisher> "Academy of Management Review 22(4), 853-886 (Mitchell, Agle and Wood, 1997)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-analysis/s1> <http://purl.org/dc/terms/title> "Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -11274,6 +11299,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/lyndall-urwick> .
 <https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/v-a-graicunas> .
 <https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/public-administration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2000/01/rdf-schema#label> "Stage-Gate Process: Cooper's Idea-to-Launch System for New Product Development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#altLabel> "phase-gate process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#altLabel> "stage-gate idea-to-launch process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#altLabel> "stage-gate model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#altLabel> "stage-gate system" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#altLabel> "stage-gate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#definition> "A management system, introduced by Robert G. Cooper in the late 1980s, that moves new-product projects from idea to launch through a sequence of cross-functional work stages separated by gates, where senior managers decide whether to go, kill, hold or recycle each project and commit the resources for the next stage." .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stage-Gate Process: Cooper's Idea-to-Launch System for New Product Development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/disruptive-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/product-portfolio-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/stage-gate-process/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/agile-software-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-g-cooper> .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> <https://github.com/john1hsu/business-knowledge-graph/ontology#partOf> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-analysis> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "Stakeholder Analysis: Identifying, Prioritizing and Mapping Stakeholders by Power, Interest and Salience" .

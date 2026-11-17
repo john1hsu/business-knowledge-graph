@@ -11667,6 +11667,88 @@
       ]
     },
     {
+      "@id": "kt:stage-gate-process",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Stage-Gate Process: Cooper's Idea-to-Launch System for New Product Development",
+      "skos:definition": "A management system, introduced by Robert G. Cooper in the late 1980s, that moves new-product projects from idea to launch through a sequence of cross-functional work stages separated by gates, where senior managers decide whether to go, kill, hold or recycle each project and commit the resources for the next stage.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Winning at New Products: Pathways to Profitable Innovation",
+          "dcterms:publisher": "Project Management Institute (PMI Research Conference, Montreal, 2006)",
+          "schema:url": "https://www.pmi.org/learning/library/winning-new-product-development-projects-8049",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Agile-Stage-Gate for Manufacturers: Changing the Way New Products Are Developed",
+          "dcterms:publisher": "Research-Technology Management 61(2):17-26",
+          "schema:url": "https://www.five-is.com/download/agile-stage-gate-for-manufacturers",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The changing context of innovation management: A critique of the relevance of the stage-gate approach to current organizations",
+          "dcterms:publisher": "Prometheus 38(2):207-227 (University of Southampton ePrints)",
+          "schema:url": "https://eprints.soton.ac.uk/468604/2/PROMETHEUS_38_2_Baxter_et_al.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Principles of Marketing, 10.2 Stages of the New Product Development Process",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/10-2-stages-of-the-new-product-development-process",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Stage-Gate Model: An Overview",
+          "dcterms:publisher": "Stage-Gate International",
+          "schema:url": "https://stage-gate.com/blog/the-stage-gate-model-an-overview",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/stage-gate-process.md",
+      "skos:altLabel": [
+        "stage-gate",
+        "stage-gate model",
+        "stage-gate system",
+        "stage-gate idea-to-launch process",
+        "phase-gate process"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:new-product-development"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:product-portfolio-management"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:robert-g-cooper"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:agile-software-development"
+        }
+      ]
+    },
+    {
       "@id": "kt:technology-adoption-life-cycle",
       "@type": "kto:Framework",
       "skos:prefLabel": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",

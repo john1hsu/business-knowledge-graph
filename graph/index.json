@@ -4183,6 +4183,28 @@
     ]
   },
   {
+    "id": "kt:stage-gate-process",
+    "title": "Stage-Gate Process: Cooper's Idea-to-Launch System for New Product Development",
+    "aliases": [
+      "stage-gate",
+      "stage-gate model",
+      "stage-gate system",
+      "stage-gate idea-to-launch process",
+      "phase-gate process"
+    ],
+    "type": "Practice",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/stage-gate-process.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.pmi.org/learning/library/winning-new-product-development-projects-8049",
+      "https://www.five-is.com/download/agile-stage-gate-for-manufacturers",
+      "https://eprints.soton.ac.uk/468604/2/PROMETHEUS_38_2_Baxter_et_al.pdf",
+      "https://openstax.org/books/principles-marketing/pages/10-2-stages-of-the-new-product-development-process",
+      "https://stage-gate.com/blog/the-stage-gate-model-an-overview"
+    ]
+  },
+  {
     "id": "kt:stakeholder-analysis",
     "title": "Stakeholder Analysis: Identifying, Prioritizing and Mapping Stakeholders by Power, Interest and Salience",
     "aliases": [

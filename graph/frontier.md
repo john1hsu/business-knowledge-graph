@@ -31,6 +31,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
+| `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:alfred-marshall` | `kt:microeconomics`, `kt:price-elasticity` |
@@ -101,6 +102,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mergers-and-acquisitions` | `kt:goodwill`, `kt:leveraged-buyout` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
+| `kt:new-product-development` | `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:new-public-management` | `kt:public-administration`, `kt:public-value` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
@@ -150,7 +152,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
-| `kt:agile-software-development` | `kt:kanban` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:airbnb` | `kt:sharing-economy` |
 | `kt:alexander-osterwalder` | `kt:business-model-canvas` |
@@ -447,7 +448,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |
 | `kt:new-market-entry` | `kt:apple-iphone-launch` |
-| `kt:new-product-development` | `kt:cannibalization` |
 | `kt:nist-sp-800-171` | `kt:cybersecurity-maturity-model-certification` |
 | `kt:norman-dalkey` | `kt:delphi-method` |
 | `kt:nsf-innovation-corps` | `kt:customer-development` |
@@ -495,6 +495,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-launch` | `kt:apple-iphone-launch` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
+| `kt:product-portfolio-management` | `kt:stage-gate-process` |
 | `kt:product-service-system` | `kt:servitization` |
 | `kt:professional-services` | `kt:management-consulting` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
@@ -523,6 +524,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-b-wilson` | `kt:bengt-holmstrom` |
 | `kt:robert-burgelman` | `kt:strategic-renewal` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
+| `kt:robert-g-cooper` | `kt:stage-gate-process` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
@@ -563,7 +565,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:space-shuttle-challenger-disaster` | `kt:group-decision-making` |
 | `kt:special-purpose-entity` | `kt:enron-scandal` |
 | `kt:spotify` | `kt:freemium` |
-| `kt:stage-gate-process` | `kt:innovation-management` |
 | `kt:stakeholder-salience-model` | `kt:stakeholder-analysis` |
 | `kt:statement-of-changes-in-financial-position` | `kt:statement-of-cash-flows` |
 | `kt:statistical-process-control` | `kt:total-quality-management` |
