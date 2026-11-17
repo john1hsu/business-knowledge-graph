@@ -3355,6 +3355,30 @@
     ]
   },
   {
+    "id": "kt:open-source-business-model",
+    "title": "Open-Source Business Model: Monetizing Freely Licensed Software Through Services, Open Core and Hosting",
+    "aliases": [
+      "open source business model",
+      "commercial open source",
+      "commercial open source software",
+      "COSS",
+      "open core model"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/open-source-business-model.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://econpapers.repec.org/RePEc:bla:jindec:v:50:y:2002:i:2:p:197-234",
+      "https://hbswk.hbs.edu/item/the-simple-economics-of-open-source",
+      "https://aisel.aisnet.org/amcis2009/104",
+      "https://dirkriehle.com/?p=823",
+      "https://www.sec.gov/Archives/edgar/data/1087423/000108742319000012/rht-10kq4fy19.htm",
+      "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat",
+      "https://theregister.com/2023/08/11/hashicorp_bsl_licence/"
+    ]
+  },
+  {
     "id": "kt:operational-effectiveness",
     "title": "Operational Effectiveness: Performing Similar Activities Better Than Rivals",
     "aliases": [

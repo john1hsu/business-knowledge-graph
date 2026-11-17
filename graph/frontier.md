@@ -510,6 +510,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-service-system` | `kt:servitization` |
 | `kt:professional-services` | `kt:management-consulting` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
+| `kt:proprietary-software-licensing` | `kt:open-source-business-model` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
@@ -517,6 +518,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:rand-health-insurance-experiment` | `kt:moral-hazard` |
 | `kt:recommender-system` | `kt:long-tail` |
+| `kt:red-hat` | `kt:open-source-business-model` |
 | `kt:redbox` | `kt:blockbuster-decline` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:reference-class-forecasting` | `kt:overconfidence-bias` |
@@ -572,6 +574,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:social-science` | `kt:organizational-behavior` |
 | `kt:sol-price` | `kt:membership-warehouse-club` |
 | `kt:soldiering` | `kt:scientific-management` |
+| `kt:some-simple-economics-of-open-source-2002` | `kt:open-source-business-model` |
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
 | `kt:space-shuttle-challenger-disaster` | `kt:group-decision-making` |
 | `kt:special-purpose-entity` | `kt:enron-scandal` |

@@ -3984,6 +3984,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/user-innovation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation-the-new-imperative-2003> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2000/01/rdf-schema#label> "Open-Source Business Model: Monetizing Freely Licensed Software Through Services, Open Core and Hosting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "COSS" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "commercial open source software" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "commercial open source" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "open core model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#altLabel> "open source business model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#definition> "A business model in which a firm gives away software under an open source license, so anyone may use, modify and redistribute it, and earns revenue from complements such as support subscriptions, commercial licenses, proprietary add-on features or hosted services." .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#prefLabel> "Open-Source Business Model: Monetizing Freely Licensed Software Through Services, Open Core and Hosting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/freemium> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/razor-and-blades-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/subscription-business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/proprietary-software-licensing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/red-hat> .
+<https://github.com/john1hsu/business-knowledge-graph/id/open-source-business-model> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/some-simple-economics-of-open-source-2002> .
 <https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> <http://www.w3.org/2000/01/rdf-schema#label> "Operational Effectiveness: Performing Similar Activities Better Than Rivals" .
@@ -9590,6 +9617,41 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s6> <https://schema.org/url> "https://saylordotorg.github.io/text_international-business/s17-04-increasing-speed-and-effective.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s1> <http://purl.org/dc/terms/publisher> "Journal of Industrial Economics 50(2), 2002 (Lerner and Tirole; EconPapers/RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s1> <http://purl.org/dc/terms/title> "Some Simple Economics of Open Source" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s1> <https://schema.org/url> "https://econpapers.repec.org/RePEc:bla:jindec:v:50:y:2002:i:2:p:197-234" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s2> <http://purl.org/dc/terms/title> "The Simple Economics of Open Source" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s2> <https://schema.org/url> "https://hbswk.hbs.edu/item/the-simple-economics-of-open-source" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s3> <http://purl.org/dc/terms/publisher> "AMCIS 2009 Proceedings, paper 104 (Dirk Riehle; AIS eLibrary)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s3> <http://purl.org/dc/terms/title> "The Commercial Open Source Business Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s3> <https://schema.org/url> "https://aisel.aisnet.org/amcis2009/104" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s4> <http://purl.org/dc/terms/publisher> "Dirk Riehle (author website)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s4> <http://purl.org/dc/terms/title> "The Single-Vendor Commercial Open Source Business Model (author's article)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s4> <https://schema.org/url> "https://dirkriehle.com/?p=823" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s5> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s5> <http://purl.org/dc/terms/title> "Red Hat, Inc. Form 10-K for the fiscal year ended February 28, 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s5> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1087423/000108742319000012/rht-10kq4fy19.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s6> <http://purl.org/dc/terms/publisher> "IBM Investor Relations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s6> <http://purl.org/dc/terms/title> "IBM Completes Acquisition of Red Hat" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s6> <https://schema.org/url> "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s7> <http://purl.org/dc/terms/publisher> "The Register" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s7> <http://purl.org/dc/terms/title> "HashiCorp switches its products to the Business Source License (news report)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/open-source-business-model/s7> <https://schema.org/url> "https://theregister.com/2023/08/11/hashicorp_bsl_licence/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review 74(6), November-December 1996" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <http://purl.org/dc/terms/title> "What Is Strategy?" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/operational-effectiveness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

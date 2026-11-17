@@ -5575,6 +5575,105 @@
       ]
     },
     {
+      "@id": "kt:open-source-business-model",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Open-Source Business Model: Monetizing Freely Licensed Software Through Services, Open Core and Hosting",
+      "skos:definition": "A business model in which a firm gives away software under an open source license, so anyone may use, modify and redistribute it, and earns revenue from complements such as support subscriptions, commercial licenses, proprietary add-on features or hosted services.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Some Simple Economics of Open Source",
+          "dcterms:publisher": "Journal of Industrial Economics 50(2), 2002 (Lerner and Tirole; EconPapers/RePEc record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:bla:jindec:v:50:y:2002:i:2:p:197-234",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Simple Economics of Open Source",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://hbswk.hbs.edu/item/the-simple-economics-of-open-source",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Commercial Open Source Business Model",
+          "dcterms:publisher": "AMCIS 2009 Proceedings, paper 104 (Dirk Riehle; AIS eLibrary)",
+          "schema:url": "https://aisel.aisnet.org/amcis2009/104",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Single-Vendor Commercial Open Source Business Model (author's article)",
+          "dcterms:publisher": "Dirk Riehle (author website)",
+          "schema:url": "https://dirkriehle.com/?p=823",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Red Hat, Inc. Form 10-K for the fiscal year ended February 28, 2019",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1087423/000108742319000012/rht-10kq4fy19.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "IBM Completes Acquisition of Red Hat",
+          "dcterms:publisher": "IBM Investor Relations",
+          "schema:url": "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "HashiCorp switches its products to the Business Source License (news report)",
+          "dcterms:publisher": "The Register",
+          "schema:url": "https://theregister.com/2023/08/11/hashicorp_bsl_licence/",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/business-models/open-source-business-model.md",
+      "skos:altLabel": [
+        "open source business model",
+        "commercial open source",
+        "commercial open source software",
+        "COSS",
+        "open core model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:freemium"
+        },
+        {
+          "@id": "kt:subscription-business-model"
+        },
+        {
+          "@id": "kt:open-innovation"
+        },
+        {
+          "@id": "kt:razor-and-blades-model"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:red-hat"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:some-simple-economics-of-open-source-2002"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:proprietary-software-licensing"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:network-effect"
+        }
+      ]
+    },
+    {
       "@id": "kt:platform-business-model",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Platform Business Model: Value Creation by Orchestrating External Producers and Consumers",
