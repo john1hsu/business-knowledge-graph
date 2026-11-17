@@ -4091,6 +4091,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/a-group-process-model-for-problem-identification-and-program-planning-1971> .
 <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2000/01/rdf-schema#label> "Non-GAAP Financial Measures: Pro Forma and Adjusted Earnings Under Regulation G" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#altLabel> "adjusted earnings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#altLabel> "alternative performance measures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#altLabel> "non-GAAP earnings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#altLabel> "non-GAAP financial measures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#altLabel> "non-GAAP measures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#altLabel> "pro forma earnings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#altLabel> "street earnings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/financial-statement-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#definition> "Company-defined numerical measures of performance, financial position or cash flow that add or remove amounts relative to the most directly comparable GAAP figure, such as adjusted earnings or adjusted EBITDA; in the US their public use is governed by the SEC's Regulation G and Item 10(e) of Regulation S-K." .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#prefLabel> "Non-GAAP Financial Measures: Pro Forma and Adjusted Earnings Under Regulation G" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/earnings-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ebitda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/financial-reporting-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/gaap> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/ebitda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/regulation-g> .
+<https://github.com/john1hsu/business-knowledge-graph/id/non-gaap-financial-measures> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://purl.org/dc/terms/created> "2026-11-08" .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <http://www.w3.org/2000/01/rdf-schema#label> "Objectives and Key Results (OKRs)" .
@@ -9942,6 +9971,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/nominal-group-technique/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/nominal-group-technique/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/nominal-group-technique/s6> <https://schema.org/url> "https://www.health.mn.gov/communities/practice/resources/phqitoolbox/nominalgroup.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s1> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, Federal Register Vol. 68 No. 20" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s1> <http://purl.org/dc/terms/title> "Conditions for Use of Non-GAAP Financial Measures (Final Rule, Release No. 33-8176)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s1> <https://schema.org/url> "https://www.federalregister.gov/documents/2003/01/30/03-1977/conditions-for-use-of-non-gaap-financial-measures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, Division of Corporation Finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s2> <http://purl.org/dc/terms/title> "Non-GAAP Financial Measures: Compliance and Disclosure Interpretations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s2> <https://schema.org/url> "https://www.sec.gov/corpfin/non-gaap-financial-measures" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s3> <http://purl.org/dc/terms/publisher> "Journal of Accounting Research 40(1) (via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s3> <http://purl.org/dc/terms/title> "GAAP versus The Street: An Empirical Assessment of Two Alternative Definitions of Earnings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s3> <https://schema.org/url> "https://ideas.repec.org/a/bla/joares/v40y2002i1p41-66.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s4> <http://purl.org/dc/terms/publisher> "Review of Accounting Studies 8(2) (via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s4> <http://purl.org/dc/terms/title> "The Predictive Value of Expenses Excluded from Pro Forma Earnings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s4> <https://schema.org/url> "https://ideas.repec.org/a/spr/reaccs/v8y2003i2d10.1023_a1024472210359.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s5> <http://purl.org/dc/terms/publisher> "Journal of Accounting, Auditing and Finance (via University of Exeter repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s5> <http://purl.org/dc/terms/title> "Has the regulation of non-GAAP disclosures influenced managers' use of aggressive earnings exclusions?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s5> <https://schema.org/url> "https://ore.exeter.ac.uk/repository/handle/10871/18144" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, Press Release 2023-210" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s6> <http://purl.org/dc/terms/title> "SEC Charges Newell Brands and Former CEO for Misleading Investors About Sales Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/non-gaap-financial-measures/s6> <https://schema.org/url> "https://www.sec.gov/news/press-release/2023-210" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s1> <http://purl.org/dc/terms/publisher> "What Matters" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s1> <http://purl.org/dc/terms/title> "What is an OKR? Definition and Examples" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -1211,6 +1211,102 @@
       ]
     },
     {
+      "@id": "kt:non-gaap-financial-measures",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Non-GAAP Financial Measures: Pro Forma and Adjusted Earnings Under Regulation G",
+      "skos:definition": "Company-defined numerical measures of performance, financial position or cash flow that add or remove amounts relative to the most directly comparable GAAP figure, such as adjusted earnings or adjusted EBITDA; in the US their public use is governed by the SEC's Regulation G and Item 10(e) of Regulation S-K.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Conditions for Use of Non-GAAP Financial Measures (Final Rule, Release No. 33-8176)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Federal Register Vol. 68 No. 20",
+          "schema:url": "https://www.federalregister.gov/documents/2003/01/30/03-1977/conditions-for-use-of-non-gaap-financial-measures",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Non-GAAP Financial Measures: Compliance and Disclosure Interpretations",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Division of Corporation Finance",
+          "schema:url": "https://www.sec.gov/corpfin/non-gaap-financial-measures",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "GAAP versus The Street: An Empirical Assessment of Two Alternative Definitions of Earnings",
+          "dcterms:publisher": "Journal of Accounting Research 40(1) (via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/joares/v40y2002i1p41-66.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Predictive Value of Expenses Excluded from Pro Forma Earnings",
+          "dcterms:publisher": "Review of Accounting Studies 8(2) (via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/spr/reaccs/v8y2003i2d10.1023_a1024472210359.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Has the regulation of non-GAAP disclosures influenced managers' use of aggressive earnings exclusions?",
+          "dcterms:publisher": "Journal of Accounting, Auditing and Finance (via University of Exeter repository)",
+          "schema:url": "https://ore.exeter.ac.uk/repository/handle/10871/18144",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "SEC Charges Newell Brands and Former CEO for Misleading Investors About Sales Performance",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Press Release 2023-210",
+          "schema:url": "https://www.sec.gov/news/press-release/2023-210",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/non-gaap-financial-measures.md",
+      "skos:altLabel": [
+        "non-GAAP financial measures",
+        "non-GAAP measures",
+        "non-GAAP earnings",
+        "pro forma earnings",
+        "street earnings",
+        "adjusted earnings",
+        "alternative performance measures"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-statement-analysis"
+        },
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:ebitda"
+        },
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:earnings-management"
+        },
+        {
+          "@id": "kt:financial-reporting-quality"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:gaap"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:regulation-g"
+        },
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:ebitda"
+        }
+      ]
+    },
+    {
       "@id": "kt:revenue-recognition-asc-606",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Revenue from Contracts with Customers",

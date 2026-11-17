@@ -4,7 +4,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:revenue-recognition-asc-606` |
+| `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:non-gaap-financial-measures`, `kt:revenue-recognition-asc-606` |
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri`, `kt:six-sigma`, `kt:w-edwards-deming`, `kt:w-edwards-deming` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
-| `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:sole-source-contracting` | `kt:competition-in-contracting-act`, `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
@@ -122,6 +121,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:prospect-theory` | `kt:behavioral-finance`, `kt:decision-making` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
+| `kt:regulation-g` | `kt:ebitda`, `kt:non-gaap-financial-measures` |
 | `kt:resource-dependence-theory` | `kt:disruptive-innovation`, `kt:organization-theory` |
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:return-on-equity` | `kt:dupont-analysis`, `kt:financial-statement-analysis` |
@@ -278,6 +278,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
 | `kt:earned-growth-rate` | `kt:net-promoter-score` |
+| `kt:earnings-management` | `kt:non-gaap-financial-measures` |
 | `kt:economic-growth` | `kt:creative-destruction` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
@@ -317,6 +318,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
 | `kt:financial-distress` | `kt:corporate-turnaround` |
+| `kt:financial-reporting-quality` | `kt:non-gaap-financial-measures` |
 | `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:focused-factory` | `kt:operations-management` |
@@ -536,7 +538,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:redbox` | `kt:blockbuster-decline` |
 | `kt:reed-hastings` | `kt:netflix-business-model-shift` |
 | `kt:reference-class-forecasting` | `kt:overconfidence-bias` |
-| `kt:regulation-g` | `kt:ebitda` |
 | `kt:regulatory-reform` | `kt:revolutionary-far-overhaul` |
 | `kt:relational-coordination` | `kt:southwest-airlines` |
 | `kt:relative-performance-evaluation` | `kt:bengt-holmstrom` |

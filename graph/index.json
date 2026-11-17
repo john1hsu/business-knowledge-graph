@@ -3441,6 +3441,31 @@
     ]
   },
   {
+    "id": "kt:non-gaap-financial-measures",
+    "title": "Non-GAAP Financial Measures: Pro Forma and Adjusted Earnings Under Regulation G",
+    "aliases": [
+      "non-GAAP financial measures",
+      "non-GAAP measures",
+      "non-GAAP earnings",
+      "pro forma earnings",
+      "street earnings",
+      "adjusted earnings",
+      "alternative performance measures"
+    ],
+    "type": "Concept",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/non-gaap-financial-measures.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://www.federalregister.gov/documents/2003/01/30/03-1977/conditions-for-use-of-non-gaap-financial-measures",
+      "https://www.sec.gov/corpfin/non-gaap-financial-measures",
+      "https://ideas.repec.org/a/bla/joares/v40y2002i1p41-66.html",
+      "https://ideas.repec.org/a/spr/reaccs/v8y2003i2d10.1023_a1024472210359.html",
+      "https://ore.exeter.ac.uk/repository/handle/10871/18144",
+      "https://www.sec.gov/news/press-release/2023-210"
+    ]
+  },
+  {
     "id": "kt:okrs",
     "title": "Objectives and Key Results (OKRs)",
     "aliases": [
