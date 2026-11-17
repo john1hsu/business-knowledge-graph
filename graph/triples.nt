@@ -11535,6 +11535,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s6> <https://schema.org/url> "https://www.aeaweb.org/doi/10.1257/jep.34.3.237" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <http://purl.org/dc/terms/publisher> "W. Edwards Deming Center for Quality, Productivity, and Competitiveness, Columbia Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <http://purl.org/dc/terms/title> "About Dr. W. Edwards Deming" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <https://schema.org/url> "https://business.columbia.edu/demingcenter/about/deming-philosophy-and-principles" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s2> <http://purl.org/dc/terms/publisher> "The W. Edwards Deming Institute" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s2> <http://purl.org/dc/terms/title> "Humble Beginnings & A Big Influence (timeline)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s2> <https://schema.org/url> "https://deming.org/timeline/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s3> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s3> <http://purl.org/dc/terms/title> "Deming Prize" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s3> <https://schema.org/url> "https://www.britannica.com/topic/Deming-Prize" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s4> <http://purl.org/dc/terms/publisher> "Ronald Moen, Associates in Process Improvement (hosted by Business Wales)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s4> <http://purl.org/dc/terms/title> "Foundation and History of the PDSA Cycle" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s4> <https://schema.org/url> "https://businesswales.gov.wales/sites/main/files/documents/Foundation%20and%20the%20history%20of%20the%20PDSA%20cycle.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s5> <http://purl.org/dc/terms/publisher> "Decision Sciences 26(5), 1995 (Anderson, Rungtusanatham, Schroeder and Devaraj; via University of Minnesota Experts)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s5> <http://purl.org/dc/terms/title> "A Path Analytic Model of a Theory of Quality Management Underlying the Deming Management Method: Preliminary Empirical Findings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s5> <https://schema.org/url> "https://experts.umn.edu/en/publications/a-path-analytic-model-of-a-theory-of-quality-management-underlyin/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s6> <http://purl.org/dc/terms/publisher> "Total Quality Management and Business Excellence 16(3), 2005 (Fisher, Barfield, Li and Mehta; via NJIT Research)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s6> <http://purl.org/dc/terms/title> "Retesting a Model of the Deming Management Method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s6> <https://schema.org/url> "https://researchwith.njit.edu/en/publications/retesting-a-model-of-the-deming-management-method/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <http://purl.org/dc/terms/title> "Walmart" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/walmart/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -12252,6 +12282,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/american-research-and-development-corporation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2000/01/rdf-schema#label> "W. Edwards Deming: Statistician of Quality and the Fourteen Points" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#altLabel> "Dr. Deming" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#altLabel> "Edwards Deming" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#altLabel> "W. Edwards Deming" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#altLabel> "William Edwards Deming" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#definition> "American statistician and management thinker (1900-1993) who taught statistical quality methods to Japanese industry from 1950, gave his name to Japan's Deming Prize, and later urged Western managers to treat quality as a property of the system through his Fourteen Points and System of Profound Knowledge." .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#prefLabel> "W. Edwards Deming: Statistician of Quality and the Fourteen Points" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/peter-drucker> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/statistical-process-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/deming-prize> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/walter-shewhart> .
 <https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
 <https://github.com/john1hsu/business-knowledge-graph/id/walmart> <http://www.w3.org/2000/01/rdf-schema#label> "Walmart" .

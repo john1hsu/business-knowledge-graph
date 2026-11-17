@@ -4807,6 +4807,28 @@
     ]
   },
   {
+    "id": "kt:w-edwards-deming",
+    "title": "W. Edwards Deming: Statistician of Quality and the Fourteen Points",
+    "aliases": [
+      "W. Edwards Deming",
+      "William Edwards Deming",
+      "Edwards Deming",
+      "Dr. Deming"
+    ],
+    "type": "Person",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/w-edwards-deming.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://business.columbia.edu/demingcenter/about/deming-philosophy-and-principles",
+      "https://deming.org/timeline/",
+      "https://www.britannica.com/topic/Deming-Prize",
+      "https://businesswales.gov.wales/sites/main/files/documents/Foundation%20and%20the%20history%20of%20the%20PDSA%20cycle.pdf",
+      "https://experts.umn.edu/en/publications/a-path-analytic-model-of-a-theory-of-quality-management-underlyin/",
+      "https://researchwith.njit.edu/en/publications/retesting-a-model-of-the-deming-management-method/"
+    ]
+  },
+  {
     "id": "kt:walmart",
     "title": "Walmart",
     "aliases": [

@@ -6,9 +6,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:revenue-recognition-asc-606` |
 | `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
+| `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri`, `kt:six-sigma`, `kt:w-edwards-deming`, `kt:w-edwards-deming` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
+| `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:corporate-turnaround` | `kt:ibm-turnaround`, `kt:corporate-decline`, `kt:strategic-renewal` |
 | `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
@@ -18,7 +20,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing` | `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
@@ -26,15 +27,14 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:non-gaap-financial-measures` | `kt:ebitda`, `kt:free-cash-flow`, `kt:gaap` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
-| `kt:pdca-cycle` | `kt:five-whys`, `kt:hoshin-kanri`, `kt:six-sigma` |
 | `kt:price-discrimination` | `kt:razor-and-blades-model`, `kt:price-elasticity`, `kt:pricing-strategy` |
 | `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
+| `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
-| `kt:w-edwards-deming` | `kt:peter-drucker`, `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal` |
 | `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
@@ -134,7 +134,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
 | `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:sole-source-contracting` | `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
-| `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
@@ -257,6 +256,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
 | `kt:demand-forecasting` | `kt:inventory-management` |
+| `kt:deming-prize` | `kt:w-edwards-deming` |
 | `kt:deontology` | `kt:business-ethics` |
 | `kt:dfars-procedures-guidance-and-information` | `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
@@ -641,6 +641,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:volkswagen-group` | `kt:toyota-motor-corporation` |
 | `kt:vrio-framework` | `kt:resource-based-view` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
+| `kt:walter-shewhart` | `kt:w-edwards-deming` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
 | `kt:what-is-strategy-1996` | `kt:operational-effectiveness` |
 | `kt:who-cares-wins-report` | `kt:esg` |
