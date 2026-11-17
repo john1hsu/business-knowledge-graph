@@ -3661,6 +3661,26 @@
     ]
   },
   {
+    "id": "kt:premortem",
+    "title": "Premortem: Prospective Hindsight for Anticipating Project Failure",
+    "aliases": [
+      "pre-mortem",
+      "project premortem",
+      "premortem technique",
+      "pre-mortem analysis"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/premortem.md",
+    "created": "2026-11-17",
+    "source_urls": [
+      "https://wiki.duraspace.org/download/attachments/104563925/ProjectPremortem.pdf?api=v2",
+      "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategic-decisions-when-can-you-trust-your-gut",
+      "https://par.nsf.gov/servlets/purl/10435109",
+      "https://dlab.sauder.ubc.ca/sjdm/presentations/2021-Poster-Gandhi-Linnea-debiasing-premortem-selfserving~.pdf"
+    ]
+  },
+  {
     "id": "kt:price-elasticity",
     "title": "Price Elasticity",
     "aliases": [

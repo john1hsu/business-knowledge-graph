@@ -7491,6 +7491,97 @@
       ]
     },
     {
+      "@id": "kt:premortem",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Premortem: Prospective Hindsight for Anticipating Project Failure",
+      "skos:definition": "A short team exercise, popularized by psychologist Gary Klein in a 2007 Harvard Business Review article, in which participants assume a plan has already failed and independently write down why, so that risks, hidden doubts and overconfidence surface before the project starts.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-17",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Performing a Project Premortem (Harvard Business Review, September 2007; reprint)",
+          "dcterms:publisher": "Harvard Business Review (reprint hosted by DuraSpace wiki)",
+          "schema:url": "https://wiki.duraspace.org/download/attachments/104563925/ProjectPremortem.pdf?api=v2",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Strategic decisions: When can you trust your gut? (interview with Daniel Kahneman and Gary Klein)",
+          "dcterms:publisher": "McKinsey Quarterly",
+          "schema:url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategic-decisions-when-can-you-trust-your-gut",
+          "kto:sourceType": "consultancy"
+        },
+        {
+          "dcterms:title": "Identifying and Addressing Risks in the Early Design of a Sociotechnical System through Premortem (Bettin, Steelman, Wallace, Pontious & Veinott, HFES 2022)",
+          "dcterms:publisher": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting (via NSF Public Access Repository)",
+          "schema:url": "https://par.nsf.gov/servlets/purl/10435109",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Self-serving attribution bias in a popular debiasing strategy (Gandhi, Duke & Schweitzer, SJDM poster, 2021)",
+          "dcterms:publisher": "UBC Sauder School of Business Decision Lab",
+          "schema:url": "https://dlab.sauder.ubc.ca/sjdm/presentations/2021-Poster-Gandhi-Linnea-debiasing-premortem-selfserving~.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/premortem.md",
+      "skos:altLabel": [
+        "pre-mortem",
+        "project premortem",
+        "premortem technique",
+        "pre-mortem analysis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:group-decision-making"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:devils-advocacy"
+        },
+        {
+          "@id": "kt:nominal-group-technique"
+        },
+        {
+          "@id": "kt:fault-tree-analysis"
+        },
+        {
+          "@id": "kt:psychological-safety"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:gary-klein"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:performing-a-project-premortem-2007"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:prospective-hindsight"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:overconfidence-bias"
+        },
+        {
+          "@id": "kt:groupthink"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:root-cause-analysis"
+        }
+      ]
+    },
+    {
       "@id": "kt:pyramid-principle",
       "@type": "kto:Framework",
       "skos:prefLabel": "Pyramid Principle: Top-Down Structured Communication",

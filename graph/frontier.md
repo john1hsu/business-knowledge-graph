@@ -329,6 +329,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:gantt-chart` | `kt:scientific-management` |
 | `kt:gardiner-means` | `kt:separation-of-ownership-and-control` |
+| `kt:gary-klein` | `kt:premortem` |
 | `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
 | `kt:general-electric` | `kt:six-sigma` |
@@ -484,6 +485,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:performance-appraisal` | `kt:performance-management` |
 | `kt:performance-measurement` | `kt:marketing-metrics` |
+| `kt:performing-a-project-premortem-2007` | `kt:premortem` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
 | `kt:pierre-wack` | `kt:scenario-planning` |
@@ -512,6 +514,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:professional-services` | `kt:management-consulting` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:proprietary-software-licensing` | `kt:open-source-business-model` |
+| `kt:prospective-hindsight` | `kt:premortem` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |

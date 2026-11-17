@@ -4343,6 +4343,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/structure-conduct-performance-paradigm> .
 <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/how-competitive-forces-shape-strategy-1979> .
 <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://purl.org/dc/terms/created> "2026-11-17" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2000/01/rdf-schema#label> "Premortem: Prospective Hindsight for Anticipating Project Failure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#altLabel> "pre-mortem analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#altLabel> "pre-mortem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#altLabel> "premortem technique" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#altLabel> "project premortem" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#definition> "A short team exercise, popularized by psychologist Gary Klein in a 2007 Harvard Business Review article, in which participants assume a plan has already failed and independently write down why, so that risks, hidden doubts and overconfidence surface before the project starts." .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#prefLabel> "Premortem: Prospective Hindsight for Anticipating Project Failure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/fault-tree-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/gary-klein> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/prospective-hindsight> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/performing-a-project-premortem-2007> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/premortem> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
 <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> <http://www.w3.org/2000/01/rdf-schema#label> "Price Elasticity" .
@@ -10053,6 +10079,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/porters-five-forces/s6> <https://schema.org/url> "https://ideas.repec.org/a/bla/stratm/v18y1997is1p15-30.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (reprint hosted by DuraSpace wiki)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s1> <http://purl.org/dc/terms/title> "Performing a Project Premortem (Harvard Business Review, September 2007; reprint)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s1> <https://schema.org/url> "https://wiki.duraspace.org/download/attachments/104563925/ProjectPremortem.pdf?api=v2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s2> <http://purl.org/dc/terms/publisher> "McKinsey Quarterly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s2> <http://purl.org/dc/terms/title> "Strategic decisions: When can you trust your gut? (interview with Daniel Kahneman and Gary Klein)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s2> <https://schema.org/url> "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/strategic-decisions-when-can-you-trust-your-gut" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s3> <http://purl.org/dc/terms/publisher> "Proceedings of the Human Factors and Ergonomics Society Annual Meeting (via NSF Public Access Repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s3> <http://purl.org/dc/terms/title> "Identifying and Addressing Risks in the Early Design of a Sociotechnical System through Premortem (Bettin, Steelman, Wallace, Pontious & Veinott, HFES 2022)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s3> <https://schema.org/url> "https://par.nsf.gov/servlets/purl/10435109" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <http://purl.org/dc/terms/publisher> "UBC Sauder School of Business Decision Lab" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <http://purl.org/dc/terms/title> "Self-serving attribution bias in a popular debiasing strategy (Gandhi, Duke & Schweitzer, SJDM poster, 2021)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/premortem/s4> <https://schema.org/url> "https://dlab.sauder.ubc.ca/sjdm/presentations/2021-Poster-Gandhi-Linnea-debiasing-premortem-selfserving~.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/publisher> "Library of Economics and Liberty (Liberty Fund)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://purl.org/dc/terms/title> "Principles of Economics, Book III, Chapter IV: The Elasticity of Wants (8th ed., 1920)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/price-elasticity/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
