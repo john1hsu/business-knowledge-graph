@@ -167,6 +167,28 @@
     ]
   },
   {
+    "id": "kt:agile-software-development",
+    "title": "Agile Software Development: Iterative Delivery and the Agile Manifesto",
+    "aliases": [
+      "agile development",
+      "agile methods",
+      "agile methodology",
+      "agile"
+    ],
+    "type": "Practice",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/agile-software-development.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://agilemanifesto.org/",
+      "https://agilemanifesto.org/principles",
+      "https://www.bain.com/insights/the-secret-history-of-agile-innovation-hbr/",
+      "https://www.bain.com/insights/embracing-agile-hbr/",
+      "https://ntnu.no/wiki/download/attachments/78978214/TorgeirDings%C3%B8yr_EmpiricalStudiesOfAgileSoftwareDevelopment.pdf?api=v2",
+      "https://www.sintef.no/en/publications/publication/919701"
+    ]
+  },
+  {
     "id": "kt:airline-industry",
     "title": "Airline Industry",
     "aliases": [

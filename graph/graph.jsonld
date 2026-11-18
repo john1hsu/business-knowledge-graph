@@ -12561,6 +12561,107 @@
       ]
     },
     {
+      "@id": "kt:agile-software-development",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Agile Software Development: Iterative Delivery and the Agile Manifesto",
+      "skos:definition": "A family of iterative, team-based approaches to building software (Scrum, Extreme Programming, Kanban and others), united since 2001 by the Agile Manifesto's four values and twelve principles, that deliver working increments in short cycles and adapt to changing requirements instead of following a fixed up-front plan.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Manifesto for Agile Software Development",
+          "dcterms:publisher": "Agile Manifesto authors (agilemanifesto.org), 2001",
+          "schema:url": "https://agilemanifesto.org/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Principles behind the Agile Manifesto",
+          "dcterms:publisher": "Agile Manifesto authors (agilemanifesto.org), 2001",
+          "schema:url": "https://agilemanifesto.org/principles",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Secret History of Agile Innovation",
+          "dcterms:publisher": "Harvard Business Review, April 2016 (Darrell K. Rigby, Jeff Sutherland, Hirotaka Takeuchi; republished by Bain & Company)",
+          "schema:url": "https://www.bain.com/insights/the-secret-history-of-agile-innovation-hbr/",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Embracing Agile",
+          "dcterms:publisher": "Harvard Business Review, May 2016 (Darrell K. Rigby, Jeff Sutherland, Hirotaka Takeuchi; republished by Bain & Company)",
+          "schema:url": "https://www.bain.com/insights/embracing-agile-hbr/",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Empirical studies of agile software development: A systematic review",
+          "dcterms:publisher": "Information and Software Technology 50(9-10):833-859, 2008 (Tore Dybå, Torgeir Dingsøyr; NTNU author copy)",
+          "schema:url": "https://ntnu.no/wiki/download/attachments/78978214/TorgeirDings%C3%B8yr_EmpiricalStudiesOfAgileSoftwareDevelopment.pdf?api=v2",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "A decade of agile methodologies: Towards explaining agile software development",
+          "dcterms:publisher": "Journal of Systems and Software 85(6):1213-1221, 2012 (Dingsøyr, Nerur, Balijepally, Moe; SINTEF record)",
+          "schema:url": "https://www.sintef.no/en/publications/publication/919701",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/agile-software-development.md",
+      "skos:altLabel": [
+        "agile development",
+        "agile methods",
+        "agile methodology",
+        "agile"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:new-product-development"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:kanban"
+        },
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:design-thinking"
+        },
+        {
+          "@id": "kt:high-performance-teams"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:manifesto-for-agile-software-development"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:the-new-new-product-development-game-1986"
+        },
+        {
+          "@id": "kt:pdca-cycle"
+        },
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:scrum"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:stage-gate-process"
+        }
+      ]
+    },
+    {
       "@id": "kt:andrew-van-de-ven",
       "@type": "kto:Person",
       "skos:prefLabel": "Andrew Van de Ven",

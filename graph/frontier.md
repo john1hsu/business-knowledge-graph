@@ -13,7 +13,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
-| `kt:agile-software-development` | `kt:design-thinking`, `kt:stage-gate-process`, `kt:kanban` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
@@ -22,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
+| `kt:new-product-development` | `kt:agile-software-development`, `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
@@ -109,7 +109,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:motivation-hygiene-theory` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:motorola` | `kt:malcolm-baldrige-national-quality-award`, `kt:six-sigma` |
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
-| `kt:new-product-development` | `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:new-public-management` | `kt:public-administration`, `kt:public-value` |
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors`, `kt:independent-director` |
 | `kt:office-equipment-industry` | `kt:xerox`, `kt:xerox` |
@@ -451,6 +450,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:management-by-walking-around` | `kt:hewlett-packard` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
+| `kt:manifesto-for-agile-software-development` | `kt:agile-software-development` |
 | `kt:mark-h-moore` | `kt:public-value` |
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
 | `kt:market-power` | `kt:price-discrimination` |
@@ -590,6 +590,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:scenarios-uncharted-waters-ahead-1985` | `kt:scenario-planning` |
 | `kt:scientific-method` | `kt:hypothesis-driven-problem-solving` |
 | `kt:scqa-framework` | `kt:pyramid-principle` |
+| `kt:scrum` | `kt:agile-software-development` |
 | `kt:sean-ellis-test` | `kt:product-market-fit` |
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
@@ -651,6 +652,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
 | `kt:the-modern-corporation-and-private-property` | `kt:separation-of-ownership-and-control` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
+| `kt:the-new-new-product-development-game-1986` | `kt:agile-software-development` |
 | `kt:the-one-number-you-need-to-grow-2003` | `kt:net-promoter-score` |
 | `kt:the-only-thing-that-matters-2007` | `kt:product-market-fit` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |
