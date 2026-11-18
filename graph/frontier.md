@@ -318,6 +318,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:executive-order-14402` | `kt:government-contract-types` |
 | `kt:fair-value-measurement` | `kt:goodwill` |
 | `kt:fast-follower-strategy` | `kt:first-mover-advantage` |
+| `kt:fcc-spectrum-auctions` | `kt:game-theory-in-business` |
 | `kt:federal-acquisition-certification-in-contracting` | `kt:contracting-officer` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
@@ -339,7 +340,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ftc-negative-option-rule` | `kt:subscription-business-model` |
 | `kt:fujifilm` | `kt:kodak-decline` |
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
-| `kt:game-theory-in-business` | `kt:industrial-organization` |
 | `kt:gantt-chart` | `kt:scientific-management` |
 | `kt:gardiner-means` | `kt:separation-of-ownership-and-control` |
 | `kt:gary-klein` | `kt:premortem` |
@@ -413,6 +413,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joel-dean` | `kt:capital-budgeting` |
 | `kt:john-burr-williams` | `kt:discounted-cash-flow` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
+| `kt:john-von-neumann` | `kt:game-theory-in-business` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:joseph-mcgrath` | `kt:team-effectiveness` |
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
@@ -475,6 +476,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:multidivisional-form` | `kt:general-motors` |
 | `kt:multifactor-leadership-questionnaire` | `kt:transformational-leadership` |
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
+| `kt:nash-equilibrium` | `kt:game-theory-in-business` |
 | `kt:neil-borden` | `kt:marketing-mix` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
@@ -490,6 +492,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:office-of-inspector-general` | `kt:government-accountability-office` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:olaf-helmer` | `kt:delphi-method` |
+| `kt:oligopoly` | `kt:game-theory-in-business` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:operating-leverage` | `kt:cost-structure` |
@@ -498,6 +501,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-culture-profile` | `kt:organizational-culture` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
 | `kt:organizational-structure` | `kt:span-of-control` |
+| `kt:oskar-morgenstern` | `kt:game-theory-in-business` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
@@ -520,6 +524,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:price-skimming` | `kt:pricing-strategy` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:prison-privatization` | `kt:contract-theory` |
+| `kt:prisoners-dilemma` | `kt:game-theory-in-business` |
 | `kt:probabilistic-risk-assessment` | `kt:fault-tree-analysis` |
 | `kt:problem-formulation` | `kt:structured-problem-solving` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
@@ -648,6 +653,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-pyramid-principle-logic-in-writing-and-thinking` | `kt:pyramid-principle` |
 | `kt:the-rational-manager-1965` | `kt:kepner-tregoe-method` |
 | `kt:the-study-of-administration-1887` | `kt:public-administration` |
+| `kt:the-theory-of-games-and-economic-behavior-1944` | `kt:game-theory-in-business` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |

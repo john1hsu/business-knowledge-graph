@@ -2221,6 +2221,27 @@
     ]
   },
   {
+    "id": "kt:game-theory-in-business",
+    "title": "Game Theory: Strategic Interdependence Among Rival Firms",
+    "aliases": [
+      "game theory in business",
+      "business game theory",
+      "competitive game theory",
+      "strategic interaction analysis"
+    ],
+    "type": "Theory",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/game-theory-in-business.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.britannica.com/science/game-theory",
+      "https://www.nobelprize.org/prizes/economic-sciences/1994/press-release/",
+      "https://openstax.org/books/principles-economics-3e/pages/10-2-oligopoly",
+      "https://store.hbr.org/product/right-game-use-game-theory-to-shape-strategy/95402",
+      "https://www.nobelprize.org/prizes/economic-sciences/2020/press-release/"
+    ]
+  },
+  {
     "id": "kt:gaps-model-of-service-quality",
     "title": "Gaps Model of Service Quality",
     "aliases": [
