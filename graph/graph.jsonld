@@ -11814,6 +11814,106 @@
       ]
     },
     {
+      "@id": "kt:planning-programming-budgeting-and-execution",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Planning, Programming, Budgeting and Execution (PPBE): The Pentagon's Resource Allocation Process",
+      "skos:definition": "The U.S. Department of Defense's cyclical, four-phase process for turning strategic guidance into multiyear resource plans and the annual defense budget request; introduced as PPBS by Robert McNamara and Charles Hitch in 1961 and renamed PPBE in 2003.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Defense Primer: Planning, Programming, Budgeting, and Execution (PPBE) Process (IF10429)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/files/2024-07-18_IF10429_5ba14e2113fab85be96d0918ca75f4eb3384ea1c.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "DOD Planning, Programming, Budgeting, and Execution (PPBE): Overview and Selected Issues for Congress (R47178)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/reports/R47178.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "PPBE Reform Commission Final Report Recommendations: Issues for Congress (IN12372)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/reports/IN12372.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Economics of Defense in the Nuclear Age (R-346)",
+          "dcterms:publisher": "RAND Corporation",
+          "schema:url": "https://www.rand.org/pubs/reports/R346.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Foreign Relations of the United States, 1964–1968, Volume XXXIII, Document 45: Editorial Note",
+          "dcterms:publisher": "U.S. Department of State, Office of the Historian",
+          "schema:url": "https://history.state.gov/historicaldocuments/frus1964-68v33/d45",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Financing the Fight: A History and Assessment of Department of Defense Budget Formulation Processes",
+          "dcterms:publisher": "Brookings Institution",
+          "schema:url": "https://www.brookings.edu/articles/financing-the-fight-a-history-and-assessment-of-department-of-defense-budget-formulation-processes/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/planning-programming-budgeting-and-execution.md",
+      "skos:altLabel": [
+        "PPBE",
+        "PPBE process",
+        "Planning-Programming-Budgeting System",
+        "PPBS",
+        "PPBES",
+        "DoD resource allocation process"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-budgeting"
+        },
+        {
+          "@id": "kt:public-administration"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:public-procurement"
+        },
+        {
+          "@id": "kt:capital-budgeting"
+        },
+        {
+          "@id": "kt:management-by-objectives"
+        },
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:robert-mcnamara"
+        },
+        {
+          "@id": "kt:charles-hitch"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:the-economics-of-defense-in-the-nuclear-age-1960"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:cost-benefit-analysis"
+        }
+      ],
+      "kto:followedBy": [
+        {
+          "@id": "kt:defense-resourcing-system"
+        }
+      ]
+    },
+    {
       "@id": "kt:public-administration",
       "@type": "kto:Field",
       "skos:prefLabel": "Public Administration: Implementing Public Policy Through Government Agencies",

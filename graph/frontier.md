@@ -218,6 +218,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:charles-coolidge-parlin` | `kt:market-research` |
+| `kt:charles-hitch` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:charles-kepner` | `kt:kepner-tregoe-method` |
 | `kt:chris-anderson` | `kt:long-tail` |
 | `kt:christian-gronroos` | `kt:service-quality` |
@@ -242,6 +243,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-spin-off` | `kt:hewlett-packard` |
 | `kt:cost-accounting` | `kt:activity-based-costing` |
+| `kt:cost-benefit-analysis` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
@@ -260,6 +262,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:debt-covenant` | `kt:ebitda` |
 | `kt:decision-rights` | `kt:span-of-control` |
 | `kt:defense-industrial-base` | `kt:cybersecurity-maturity-model-certification` |
+| `kt:defense-resourcing-system` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:degree-of-operating-leverage` | `kt:cost-structure` |
 | `kt:delegation` | `kt:span-of-control` |
 | `kt:dell-technologies` | `kt:working-capital` |
@@ -546,6 +549,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:prospective-hindsight` | `kt:premortem` |
 | `kt:prototyping` | `kt:design-thinking` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
+| `kt:public-budgeting` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
@@ -574,6 +578,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-burgelman` | `kt:strategic-renewal` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-g-cooper` | `kt:stage-gate-process` |
+| `kt:robert-mcnamara` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |
 | `kt:robinson-patman-act` | `kt:price-discrimination` |
@@ -645,6 +650,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technology-readiness-index` | `kt:a-parasuraman` |
 | `kt:the-concept-of-the-marketing-mix-1964` | `kt:marketing-mix` |
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
+| `kt:the-economics-of-defense-in-the-nuclear-age-1960` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:the-economics-of-welfare` | `kt:price-discrimination` |
 | `kt:the-four-steps-to-the-epiphany` | `kt:customer-development` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |

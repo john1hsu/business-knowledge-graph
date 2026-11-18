@@ -4121,6 +4121,30 @@
     ]
   },
   {
+    "id": "kt:planning-programming-budgeting-and-execution",
+    "title": "Planning, Programming, Budgeting and Execution (PPBE): The Pentagon's Resource Allocation Process",
+    "aliases": [
+      "PPBE",
+      "PPBE process",
+      "Planning-Programming-Budgeting System",
+      "PPBS",
+      "PPBES",
+      "DoD resource allocation process"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/planning-programming-budgeting-and-execution.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.everycrsreport.com/files/2024-07-18_IF10429_5ba14e2113fab85be96d0918ca75f4eb3384ea1c.html",
+      "https://www.everycrsreport.com/reports/R47178.html",
+      "https://www.everycrsreport.com/reports/IN12372.html",
+      "https://www.rand.org/pubs/reports/R346.html",
+      "https://history.state.gov/historicaldocuments/frus1964-68v33/d45",
+      "https://www.brookings.edu/articles/financing-the-fight-a-history-and-assessment-of-department-of-defense-budget-formulation-processes/"
+    ]
+  },
+  {
     "id": "kt:platform-business-model",
     "title": "Platform Business Model: Value Creation by Orchestrating External Producers and Consumers",
     "aliases": [
