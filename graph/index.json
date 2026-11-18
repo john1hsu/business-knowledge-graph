@@ -3082,6 +3082,28 @@
     ]
   },
   {
+    "id": "kt:management",
+    "title": "The Work of Managers: Functions, Roles and Skills",
+    "aliases": [
+      "management",
+      "managing",
+      "business management",
+      "functions of management"
+    ],
+    "type": "Field",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/management.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://openstax.org/books/introduction-business-2e/pages/6-1-the-role-of-management",
+      "https://openstax.org/books/principles-management/pages/1-2-the-roles-managers-play",
+      "https://openstax.org/books/introduction-business-2e/pages/6-7-managerial-skills",
+      "https://store.hbr.org/product/manager-s-job-folklore-and-fact-hbr-classic/90210",
+      "https://www.nber.org/papers/w12216",
+      "https://www.library.hbs.edu/working-knowledge/certain-management-practices-like-certain-technologies-boost-company-performance"
+    ]
+  },
+  {
     "id": "kt:management-by-objectives",
     "title": "Management by Objectives: Goal-Setting Through Superior-Subordinate Agreement",
     "aliases": [

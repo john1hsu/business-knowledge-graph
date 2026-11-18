@@ -13876,6 +13876,101 @@
       ]
     },
     {
+      "@id": "kt:management",
+      "@type": "kto:Field",
+      "skos:prefLabel": "The Work of Managers: Functions, Roles and Skills",
+      "skos:definition": "The practice and discipline of directing an organization's resources toward its goals, classically described through the functions of planning, organizing, leading and controlling, and empirically through the interpersonal, informational and decisional roles managers play and the technical, human and conceptual skills they need at different levels.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "6.1 The Role of Management",
+          "dcterms:publisher": "OpenStax, Introduction to Business 2e",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/6-1-the-role-of-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "1.2 The Roles Managers Play",
+          "dcterms:publisher": "OpenStax, Principles of Management",
+          "schema:url": "https://openstax.org/books/principles-management/pages/1-2-the-roles-managers-play",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "6.7 Managerial Skills",
+          "dcterms:publisher": "OpenStax, Introduction to Business 2e",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/6-7-managerial-skills",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Manager's Job: Folklore and Fact (HBR Classic)",
+          "dcterms:publisher": "Harvard Business Review (Henry Mintzberg; 1975, reprinted March-April 1990)",
+          "schema:url": "https://store.hbr.org/product/manager-s-job-folklore-and-fact-hbr-classic/90210",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Measuring and Explaining Management Practices Across Firms and Countries",
+          "dcterms:publisher": "NBER Working Paper 12216 (Nicholas Bloom and John Van Reenen, 2006)",
+          "schema:url": "https://www.nber.org/papers/w12216",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Certain Management Practices, Like Certain Technologies, Boost Company Performance",
+          "dcterms:publisher": "HBS Working Knowledge (Michael Blanding, 2016)",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/certain-management-practices-like-certain-technologies-boost-company-performance",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/management.md",
+      "skos:altLabel": [
+        "management",
+        "managing",
+        "business management",
+        "functions of management"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-administration"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:management-theory"
+        },
+        {
+          "@id": "kt:span-of-control"
+        },
+        {
+          "@id": "kt:decision-making"
+        },
+        {
+          "@id": "kt:organizational-behavior"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:henri-fayol"
+        },
+        {
+          "@id": "kt:henry-mintzberg"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:leadership"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:world-management-survey"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:operations-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:max-weber",
       "@type": "kto:Person",
       "skos:prefLabel": "Max Weber",

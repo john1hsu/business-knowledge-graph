@@ -3736,6 +3736,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/human-relations-movement> .
 <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/scientific-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2000/01/rdf-schema#label> "The Work of Managers: Functions, Roles and Skills" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#altLabel> "business management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#altLabel> "functions of management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#altLabel> "management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#altLabel> "managing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-administration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#definition> "The practice and discipline of directing an organization's resources toward its goals, classically described through the functions of planning, organizing, leading and controlling, and empirically through the interpersonal, informational and decisional roles managers play and the technical, human and conceptual skills they need at different levels." .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#prefLabel> "The Work of Managers: Functions, Roles and Skills" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/management-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-mintzberg> .
+<https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/world-management-survey> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/2000/01/rdf-schema#label> "Marketing Metrics: Measuring Marketing Performance and Productivity" .
@@ -9708,6 +9734,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management-theory/s7> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/3-introduction" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Introduction to Business 2e" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s1> <http://purl.org/dc/terms/title> "6.1 The Role of Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s1> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/6-1-the-role-of-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Principles of Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s2> <http://purl.org/dc/terms/title> "1.2 The Roles Managers Play" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s2> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/1-2-the-roles-managers-play" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Introduction to Business 2e" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s3> <http://purl.org/dc/terms/title> "6.7 Managerial Skills" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s3> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/6-7-managerial-skills" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Henry Mintzberg; 1975, reprinted March-April 1990)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s4> <http://purl.org/dc/terms/title> "The Manager's Job: Folklore and Fact (HBR Classic)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s4> <https://schema.org/url> "https://store.hbr.org/product/manager-s-job-folklore-and-fact-hbr-classic/90210" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s5> <http://purl.org/dc/terms/publisher> "NBER Working Paper 12216 (Nicholas Bloom and John Van Reenen, 2006)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s5> <http://purl.org/dc/terms/title> "Measuring and Explaining Management Practices Across Firms and Countries" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s5> <https://schema.org/url> "https://www.nber.org/papers/w12216" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <http://purl.org/dc/terms/publisher> "HBS Working Knowledge (Michael Blanding, 2016)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <http://purl.org/dc/terms/title> "Certain Management Practices, Like Certain Technologies, Boost Company Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/certain-management-practices-like-certain-technologies-boost-company-performance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s1> <http://purl.org/dc/terms/publisher> "Journal of Marketing 68(4), American Marketing Association (open copy via CORE)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s1> <http://purl.org/dc/terms/title> "Measuring Marketing Productivity: Current Knowledge and Future Directions" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -5,7 +5,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:financial-accounting` | `kt:accrual-accounting`, `kt:deferred-revenue`, `kt:double-entry-bookkeeping`, `kt:fasb-conceptual-framework`, `kt:financial-statement-analysis`, `kt:gaap`, `kt:goodwill`, `kt:ifrs`, `kt:inventory-costing-methods`, `kt:non-gaap-financial-measures`, `kt:revenue-recognition-asc-606` |
-| `kt:management` | `kt:public-administration`, `kt:leadership`, `kt:management-theory`, `kt:operations-management`, `kt:decision-making`, `kt:organization-theory`, `kt:organizational-behavior` |
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
@@ -77,6 +76,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
+| `kt:henry-mintzberg` | `kt:henri-fayol`, `kt:management` |
 | `kt:heuristics-and-biases` | `kt:decision-making`, `kt:overconfidence-bias` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
 | `kt:human-relations-movement` | `kt:hawthorne-studies`, `kt:management-theory` |
@@ -201,6 +201,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
 | `kt:bundling` | `kt:price-discrimination` |
 | `kt:bureaucracy` | `kt:max-weber` |
+| `kt:business-administration` | `kt:management` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-plan` | `kt:effectuation` |
@@ -358,7 +359,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hawthorne-effect` | `kt:hawthorne-studies` |
 | `kt:henry-chesbrough` | `kt:open-innovation` |
 | `kt:henry-hansmann` | `kt:cooperative` |
-| `kt:henry-mintzberg` | `kt:henri-fayol` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:herbert-a-simon` | `kt:decision-making` |
@@ -681,5 +681,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
 | `kt:william-t-allen` | `kt:caremark-oversight-duty` |
 | `kt:word-of-mouth-marketing` | `kt:net-promoter-score` |
+| `kt:world-management-survey` | `kt:management` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |
 | `kt:yves-pigneur` | `kt:business-model-canvas` |
