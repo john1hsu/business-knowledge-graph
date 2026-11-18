@@ -910,6 +910,27 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-generation-2010> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2000/01/rdf-schema#label> "Business Model Innovation: Reinventing How Companies Make Money" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "BMI" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "business model reinvention" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#altLabel> "business model renewal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#definition> "Designed, novel and nontrivial change to the key elements of a firm's business model, or to the architecture linking them, as distinct from innovating only a product, service or process." .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Business Model Innovation: Reinventing How Companies Make Money" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-model-canvas> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/effectuation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/servitization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/business-model-innovation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-chesbrough> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/business-model> <http://www.w3.org/2000/01/rdf-schema#label> "Business Model: How a Firm Creates, Delivers and Captures Value" .
@@ -6796,6 +6817,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-canvas/s5> <https://schema.org/url> "https://www.strategyzer.com/expertise/business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s1> <http://purl.org/dc/terms/publisher> "Journal of Management 43(1), 2017, pp. 200–227 (accepted version, Warwick Research Archive)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s1> <http://purl.org/dc/terms/title> "Fifteen Years of Research on Business Model Innovation: How Far Have We Come, and Where Should We Go?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s1> <https://schema.org/url> "https://wrap.warwick.ac.uk/id/eprint/98514/1/WRAP-fifteen-years-business-innovation-Foss-2017.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s2> <http://purl.org/dc/terms/publisher> "Long Range Planning 43(2–3), 2010, pp. 354–363 (Ramon Llull University research record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s2> <http://purl.org/dc/terms/title> "Business Model Innovation: Opportunities and Barriers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s2> <https://schema.org/url> "https://merit.url.edu/ca/publications/business-model-innovation-opportunities-and-barriers/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review, December 2008 (course copy hosted by Nova SBE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s3> <http://purl.org/dc/terms/title> "Reinventing Your Business Model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s3> <https://schema.org/url> "https://moodle.novasbe.pt/pluginfile.php/681283/mod_resource/content/1/JohnsonChristensenKagermannHBR2008%20Reinventing%20your%20business%20model.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s4> <http://purl.org/dc/terms/publisher> "IESE Business School Working Paper WP-870, July 2010" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s4> <http://purl.org/dc/terms/title> "Business Model Innovation: Creating Value in Times of Change" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/business-model-innovation/s4> <https://schema.org/url> "https://iese.edu/media/research/pdfs/DI-0870-E.pdf" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model/s1> <http://purl.org/dc/terms/publisher> "Long Range Planning 43 (2010), pp. 172–194 (author copy hosted by KTH)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model/s1> <http://purl.org/dc/terms/title> "Business Models, Business Strategy and Innovation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/business-model/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

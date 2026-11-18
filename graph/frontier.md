@@ -6,7 +6,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:financial-accounting`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:marketing` | `kt:customer-loyalty`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
@@ -73,6 +72,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
+| `kt:henry-chesbrough` | `kt:business-model-innovation`, `kt:open-innovation` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
 | `kt:henry-mintzberg` | `kt:henri-fayol`, `kt:management` |
 | `kt:heuristics-and-biases` | `kt:decision-making`, `kt:overconfidence-bias` |
@@ -358,7 +358,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hart-scott-rodino-act` | `kt:mergers-and-acquisitions` |
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
 | `kt:hawthorne-effect` | `kt:hawthorne-studies` |
-| `kt:henry-chesbrough` | `kt:open-innovation` |
 | `kt:henry-hansmann` | `kt:cooperative` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |

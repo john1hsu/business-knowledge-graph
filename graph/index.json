@@ -783,6 +783,25 @@
     ]
   },
   {
+    "id": "kt:business-model-innovation",
+    "title": "Business Model Innovation: Reinventing How Companies Make Money",
+    "aliases": [
+      "BMI",
+      "business model reinvention",
+      "business model renewal"
+    ],
+    "type": "Concept",
+    "domain": "business-models",
+    "file": "articles/business-models/business-model-innovation.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://wrap.warwick.ac.uk/id/eprint/98514/1/WRAP-fifteen-years-business-innovation-Foss-2017.pdf",
+      "https://merit.url.edu/ca/publications/business-model-innovation-opportunities-and-barriers/",
+      "https://moodle.novasbe.pt/pluginfile.php/681283/mod_resource/content/1/JohnsonChristensenKagermannHBR2008%20Reinventing%20your%20business%20model.pdf",
+      "https://iese.edu/media/research/pdfs/DI-0870-E.pdf"
+    ]
+  },
+  {
     "id": "kt:business-roundtable-statement-on-corporate-purpose",
     "title": "Business Roundtable Statement on the Purpose of a Corporation",
     "aliases": [

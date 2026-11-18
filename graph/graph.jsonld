@@ -5609,6 +5609,78 @@
       ]
     },
     {
+      "@id": "kt:business-model-innovation",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Business Model Innovation: Reinventing How Companies Make Money",
+      "skos:definition": "Designed, novel and nontrivial change to the key elements of a firm's business model, or to the architecture linking them, as distinct from innovating only a product, service or process.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Fifteen Years of Research on Business Model Innovation: How Far Have We Come, and Where Should We Go?",
+          "dcterms:publisher": "Journal of Management 43(1), 2017, pp. 200–227 (accepted version, Warwick Research Archive)",
+          "schema:url": "https://wrap.warwick.ac.uk/id/eprint/98514/1/WRAP-fifteen-years-business-innovation-Foss-2017.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Business Model Innovation: Opportunities and Barriers",
+          "dcterms:publisher": "Long Range Planning 43(2–3), 2010, pp. 354–363 (Ramon Llull University research record)",
+          "schema:url": "https://merit.url.edu/ca/publications/business-model-innovation-opportunities-and-barriers/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Reinventing Your Business Model",
+          "dcterms:publisher": "Harvard Business Review, December 2008 (course copy hosted by Nova SBE)",
+          "schema:url": "https://moodle.novasbe.pt/pluginfile.php/681283/mod_resource/content/1/JohnsonChristensenKagermannHBR2008%20Reinventing%20your%20business%20model.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Business Model Innovation: Creating Value in Times of Change",
+          "dcterms:publisher": "IESE Business School Working Paper WP-870, July 2010",
+          "schema:url": "https://iese.edu/media/research/pdfs/DI-0870-E.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-models/business-model-innovation.md",
+      "skos:altLabel": [
+        "BMI",
+        "business model reinvention",
+        "business model renewal"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:business-model-canvas"
+        },
+        {
+          "@id": "kt:servitization"
+        },
+        {
+          "@id": "kt:effectuation"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:henry-chesbrough"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:apple-inc"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-model",
       "@type": "kto:Concept",
       "skos:prefLabel": "Business Model: How a Firm Creates, Delivers and Captures Value",
