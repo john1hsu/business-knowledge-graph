@@ -42,6 +42,27 @@
     ]
   },
   {
+    "id": "kt:absorptive-capacity",
+    "title": "Absorptive Capacity: A Firm's Ability to Recognize, Assimilate and Apply External Knowledge",
+    "aliases": [
+      "absorptive capacity",
+      "ACAP",
+      "potential and realized absorptive capacity"
+    ],
+    "type": "Concept",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/absorptive-capacity.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://scispace.com/pdf/absorptive-capacity-a-new-perspective-on-learning-and-1n1c9gg9x0.pdf",
+      "https://ideas.repec.org/a/ecj/econjl/v99y1989i397p569-96.html",
+      "https://experts.umn.edu/en/publications/absorptive-capacity-a-review-reconceptualization-and-extension/",
+      "https://profiles.umsl.edu/en/publications/the-reification-of-absorptive-capacity-a-critical-review-and-reju/",
+      "https://core.ac.uk/download/18507067.pdf",
+      "https://www.oecd.org/en/publications/laggard-firms-technology-diffusion-and-its-structural-and-policy-determinants_281bd7a9-en.html"
+    ]
+  },
+  {
     "id": "kt:accrual-accounting",
     "title": "Accrual Accounting",
     "aliases": [

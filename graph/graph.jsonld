@@ -11877,6 +11877,103 @@
       ]
     },
     {
+      "@id": "kt:absorptive-capacity",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Absorptive Capacity: A Firm's Ability to Recognize, Assimilate and Apply External Knowledge",
+      "skos:definition": "A firm's ability to recognize the value of new external knowledge, assimilate it and apply it to commercial ends, introduced by Wesley Cohen and Daniel Levinthal (1989, 1990); it depends on prior related knowledge, is built largely as a by-product of R&D and is cumulative and path-dependent.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Absorptive Capacity: A New Perspective on Learning and Innovation",
+          "dcterms:publisher": "Administrative Science Quarterly 35(1):128-152, 1990 (full text hosted by SciSpace)",
+          "schema:url": "https://scispace.com/pdf/absorptive-capacity-a-new-perspective-on-learning-and-1n1c9gg9x0.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Innovation and Learning: The Two Faces of R&D",
+          "dcterms:publisher": "Economic Journal 99(397):569-596, 1989 (RePEc/IDEAS record)",
+          "schema:url": "https://ideas.repec.org/a/ecj/econjl/v99y1989i397p569-96.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Absorptive capacity: A review, reconceptualization, and extension",
+          "dcterms:publisher": "Academy of Management Review 27(2):185-203, 2002 (University of Minnesota Experts record)",
+          "schema:url": "https://experts.umn.edu/en/publications/absorptive-capacity-a-review-reconceptualization-and-extension/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Reification of Absorptive Capacity: A Critical Review and Rejuvenation of the Construct",
+          "dcterms:publisher": "Academy of Management Review 31, 2006 (University of Missouri-St. Louis profiles record)",
+          "schema:url": "https://profiles.umsl.edu/en/publications/the-reification-of-absorptive-capacity-a-critical-review-and-reju/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Managing Potential and Realized Absorptive Capacity: How do Organizational Antecedents Matter?",
+          "dcterms:publisher": "ERIM Report ERS-2005-025-STR, RSM Erasmus University, 2005 (accepted at Academy of Management Journal)",
+          "schema:url": "https://core.ac.uk/download/18507067.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Laggard firms, technology diffusion and its structural and policy determinants",
+          "dcterms:publisher": "OECD Science, Technology and Industry Policy Papers, OECD Publishing, 2020",
+          "schema:url": "https://www.oecd.org/en/publications/laggard-firms-technology-diffusion-and-its-structural-and-policy-determinants_281bd7a9-en.html",
+          "kto:sourceType": "intergovernmental"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/absorptive-capacity.md",
+      "skos:altLabel": [
+        "absorptive capacity",
+        "ACAP",
+        "potential and realized absorptive capacity"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:open-innovation"
+        },
+        {
+          "@id": "kt:dynamic-capabilities"
+        },
+        {
+          "@id": "kt:knowledge-transfer"
+        },
+        {
+          "@id": "kt:resource-based-view"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:wesley-cohen"
+        },
+        {
+          "@id": "kt:daniel-levinthal"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:absorptive-capacity-a-new-perspective-on-learning-and-innovation-1990"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:research-and-development"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:not-invented-here-syndrome"
+        }
+      ]
+    },
+    {
       "@id": "kt:andrew-van-de-ven",
       "@type": "kto:Person",
       "skos:prefLabel": "Andrew Van de Ven",
@@ -12899,6 +12996,9 @@
         },
         {
           "@id": "kt:venture-capital"
+        },
+        {
+          "@id": "kt:absorptive-capacity"
         }
       ],
       "kto:createdBy": [

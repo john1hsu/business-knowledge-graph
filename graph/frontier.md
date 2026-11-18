@@ -92,6 +92,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:job-enrichment` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:kaizen` | `kt:five-whys`, `kt:pdca-cycle` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
+| `kt:knowledge-transfer` | `kt:absorptive-capacity`, `kt:organizational-learning` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:loyalty-program` | `kt:customer-loyalty`, `kt:customer-relationship-management` |
 | `kt:luther-gulick` | `kt:lyndall-urwick`, `kt:span-of-control` |
@@ -151,6 +152,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
 | `kt:a-resource-based-view-of-the-firm-1984` | `kt:resource-based-view` |
+| `kt:absorptive-capacity-a-new-perspective-on-learning-and-innovation-1990` | `kt:absorptive-capacity` |
 | `kt:access-based-consumption` | `kt:sharing-economy` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
 | `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
@@ -251,6 +253,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
 | `kt:dan-schendel` | `kt:strategic-management` |
+| `kt:daniel-levinthal` | `kt:absorptive-capacity` |
 | `kt:david-aaker` | `kt:brand-equity` |
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:david-packard` | `kt:hewlett-packard` |
@@ -419,7 +422,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ken-blanchard` | `kt:situational-leadership` |
 | `kt:kevin-lane-keller` | `kt:brand-equity` |
 | `kt:kingdomware-technologies-v-united-states` | `kt:small-business-set-asides` |
-| `kt:knowledge-transfer` | `kt:organizational-learning` |
 | `kt:knowledge-worker` | `kt:peter-drucker` |
 | `kt:kotters-eight-step-model` | `kt:change-management` |
 | `kt:kraft-heinz` | `kt:goodwill` |
@@ -480,6 +482,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:new-market-entry` | `kt:apple-iphone-launch` |
 | `kt:nist-sp-800-171` | `kt:cybersecurity-maturity-model-certification` |
 | `kt:norman-dalkey` | `kt:delphi-method` |
+| `kt:not-invented-here-syndrome` | `kt:absorptive-capacity` |
 | `kt:nsf-innovation-corps` | `kt:customer-development` |
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
@@ -549,6 +552,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relative-valuation` | `kt:discounted-cash-flow` |
 | `kt:reputation-system` | `kt:sharing-economy` |
 | `kt:requirements-contract` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:research-and-development` | `kt:absorptive-capacity` |
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
 | `kt:resistance-to-change` | `kt:change-management` |
 | `kt:return-on-marketing-investment` | `kt:marketing-metrics` |
@@ -675,6 +679,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vrio-framework` | `kt:resource-based-view` |
 | `kt:vroom-yetton-decision-model` | `kt:contingency-theory-of-leadership` |
 | `kt:wells-fargo-cross-selling-scandal` | `kt:principal-agent-problem` |
+| `kt:wesley-cohen` | `kt:absorptive-capacity` |
 | `kt:what-is-strategy-1996` | `kt:operational-effectiveness` |
 | `kt:who-cares-wins-report` | `kt:esg` |
 | `kt:william-c-durant` | `kt:general-motors` |

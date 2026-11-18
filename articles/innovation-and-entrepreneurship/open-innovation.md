@@ -9,7 +9,7 @@ summary: >-
   brings outside ideas and technologies into its innovation process and sends unused internal ideas
   out to the market through others, instead of relying only on its own R&D and its own paths to market.
 broader: [kt:innovation-management]
-related: [kt:dynamic-capabilities, kt:business-model, kt:organizational-learning, kt:venture-capital]
+related: [kt:dynamic-capabilities, kt:business-model, kt:organizational-learning, kt:venture-capital, kt:absorptive-capacity]
 relations:
   - {predicate: createdBy, object: kt:henry-chesbrough}
   - {predicate: introducedIn, object: kt:open-innovation-the-new-imperative-2003}
