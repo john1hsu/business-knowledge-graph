@@ -251,6 +251,27 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/southwest-airlines> .
 <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/airline-deregulation-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2000/01/rdf-schema#label> "Alfred Marshall: Cambridge Economist Who Built Modern Supply-and-Demand Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#altLabel> "Alfred Marshall" .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#altLabel> "Marshall (economist)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/neoclassical-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#definition> "English economist (1842–1924), professor of political economy at Cambridge, whose Principles of Economics (1890) gave neoclassical economics its supply-and-demand \"scissors\", price elasticity of demand, consumer surplus, short- and long-period analysis, and the distinction between internal and external economies of scale." .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#prefLabel> "Alfred Marshall: Cambridge Economist Who Built Modern Supply-and-Demand Analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industry-clusters> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/arthur-cecil-pigou> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/consumer-surplus> .
+<https://github.com/john1hsu/business-knowledge-graph/id/alfred-marshall> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/price-elasticity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://purl.org/dc/terms/created> "2026-11-09" .
 <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/amy-edmondson> <http://www.w3.org/2000/01/rdf-schema#label> "Amy Edmondson" .
@@ -6267,6 +6288,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/airline-industry/s6> <https://schema.org/url> "https://airlines.iata.org/2025/12/10/industry-set-record-net-profit-2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s1> <http://purl.org/dc/terms/publisher> "Britannica Money (Encyclopaedia Britannica)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s1> <http://purl.org/dc/terms/title> "Alfred Marshall" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s1> <https://schema.org/url> "https://www.britannica.com/money/Alfred-Marshall" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s2> <http://purl.org/dc/terms/publisher> "Econlib, Liberty Fund" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s2> <http://purl.org/dc/terms/title> "Alfred Marshall (1842–1924), The Concise Encyclopedia of Economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s2> <https://schema.org/url> "https://www.econlib.org/library/Enc/bios/Marshall.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s3> <http://purl.org/dc/terms/publisher> "History of Economic Thought Website (Gonçalo L. Fonseca)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s3> <http://purl.org/dc/terms/title> "Alfred Marshall, 1842-1924 (profile)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s3> <https://schema.org/url> "https://hetwebsite.net/het/profiles/marshall.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s4> <http://purl.org/dc/terms/publisher> "Alfred Marshall, via Econlib (Liberty Fund)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s4> <http://purl.org/dc/terms/title> "Principles of Economics, 8th ed. (1920), Book IV, Ch. IX: Industrial Organization, Continued" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s4> <https://schema.org/url> "https://www.econlib.org/library/Marshall/marP23.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s5> <http://purl.org/dc/terms/publisher> "The European Journal of the History of Economic Thought, 8(2), 230–250 (Rodolfo Signorino, 2001)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s5> <http://purl.org/dc/terms/title> "An appraisal of Piero Sraffa's 'The Laws of Returns under Competitive Conditions'" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/alfred-marshall/s5> <https://schema.org/url> "https://econpapers.repec.org/RePEc:taf:eujhet:v:8:y:2001:i:2:p:230-250" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://purl.org/dc/terms/publisher> "Harvard Graduate School of Design" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://purl.org/dc/terms/title> "Amy C. Edmondson (AB '81, AM '95, PhD '96)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/amy-edmondson/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

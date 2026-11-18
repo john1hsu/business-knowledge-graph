@@ -210,6 +210,25 @@
     ]
   },
   {
+    "id": "kt:alfred-marshall",
+    "title": "Alfred Marshall: Cambridge Economist Who Built Modern Supply-and-Demand Analysis",
+    "aliases": [
+      "Alfred Marshall",
+      "Marshall (economist)"
+    ],
+    "type": "Person",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/alfred-marshall.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.britannica.com/money/Alfred-Marshall",
+      "https://www.econlib.org/library/Enc/bios/Marshall.html",
+      "https://hetwebsite.net/het/profiles/marshall.htm",
+      "https://www.econlib.org/library/Marshall/marP23.html",
+      "https://econpapers.repec.org/RePEc:taf:eujhet:v:8:y:2001:i:2:p:230-250"
+    ]
+  },
+  {
     "id": "kt:amy-edmondson",
     "title": "Amy Edmondson",
     "aliases": [

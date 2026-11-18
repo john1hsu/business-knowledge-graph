@@ -28,10 +28,10 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
-| `kt:alfred-marshall` | `kt:microeconomics`, `kt:price-elasticity` |
 | `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction`, `kt:net-promoter-score` |
 | `kt:andre-delbecq` | `kt:nominal-group-technique`, `kt:andrew-van-de-ven` |
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
+| `kt:arthur-cecil-pigou` | `kt:alfred-marshall`, `kt:price-discrimination` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
 | `kt:bounded-rationality` | `kt:effectuation`, `kt:decision-making` |
@@ -87,6 +87,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
 | `kt:industrial-dynamics` | `kt:bullwhip-effect`, `kt:supply-chain-management` |
+| `kt:industry-clusters` | `kt:alfred-marshall`, `kt:michael-porter` |
 | `kt:information-economics` | `kt:contract-theory`, `kt:information-asymmetry` |
 | `kt:informativeness-principle` | `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:institutional-theory` | `kt:max-weber`, `kt:organization-theory` |
@@ -180,7 +181,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:applied-ethics` | `kt:business-ethics` |
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:arthur-andersen` | `kt:enron-scandal` |
-| `kt:arthur-cecil-pigou` | `kt:price-discrimination` |
 | `kt:assembly-line` | `kt:mass-production` |
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
@@ -238,6 +238,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:conceptual-model-of-service-quality-1985` | `kt:gaps-model-of-service-quality` |
 | `kt:congressional-oversight` | `kt:government-accountability-office` |
 | `kt:conservation-of-attractive-profits` | `kt:aggregation-theory` |
+| `kt:consumer-surplus` | `kt:alfred-marshall` |
 | `kt:contestable-markets` | `kt:barriers-to-entry` |
 | `kt:continuous-improvement` | `kt:pdca-cycle` |
 | `kt:contracting-officers-representative` | `kt:contracting-officer` |
@@ -390,7 +391,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-engineering` | `kt:frederick-winslow-taylor` |
 | `kt:industry-analysis` | `kt:porters-five-forces` |
-| `kt:industry-clusters` | `kt:michael-porter` |
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
@@ -488,6 +488,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mutually-exclusive-events` | `kt:mece-principle` |
 | `kt:nash-equilibrium` | `kt:game-theory-in-business` |
 | `kt:neil-borden` | `kt:marketing-mix` |
+| `kt:neoclassical-economics` | `kt:alfred-marshall` |
 | `kt:network-externalities-competition-and-compatibility-1985` | `kt:network-effect` |
 | `kt:new-empirical-industrial-organization` | `kt:industrial-organization` |
 | `kt:new-institutional-economics` | `kt:transaction-cost-economics` |

@@ -16132,6 +16132,81 @@
       ]
     },
     {
+      "@id": "kt:alfred-marshall",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Alfred Marshall: Cambridge Economist Who Built Modern Supply-and-Demand Analysis",
+      "skos:definition": "English economist (1842–1924), professor of political economy at Cambridge, whose Principles of Economics (1890) gave neoclassical economics its supply-and-demand \"scissors\", price elasticity of demand, consumer surplus, short- and long-period analysis, and the distinction between internal and external economies of scale.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Alfred Marshall",
+          "dcterms:publisher": "Britannica Money (Encyclopaedia Britannica)",
+          "schema:url": "https://www.britannica.com/money/Alfred-Marshall",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Alfred Marshall (1842–1924), The Concise Encyclopedia of Economics",
+          "dcterms:publisher": "Econlib, Liberty Fund",
+          "schema:url": "https://www.econlib.org/library/Enc/bios/Marshall.html",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Alfred Marshall, 1842-1924 (profile)",
+          "dcterms:publisher": "History of Economic Thought Website (Gonçalo L. Fonseca)",
+          "schema:url": "https://hetwebsite.net/het/profiles/marshall.htm",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Principles of Economics, 8th ed. (1920), Book IV, Ch. IX: Industrial Organization, Continued",
+          "dcterms:publisher": "Alfred Marshall, via Econlib (Liberty Fund)",
+          "schema:url": "https://www.econlib.org/library/Marshall/marP23.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "An appraisal of Piero Sraffa's 'The Laws of Returns under Competitive Conditions'",
+          "dcterms:publisher": "The European Journal of the History of Economic Thought, 8(2), 230–250 (Rodolfo Signorino, 2001)",
+          "schema:url": "https://econpapers.repec.org/RePEc:taf:eujhet:v:8:y:2001:i:2:p:230-250",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/alfred-marshall.md",
+      "skos:altLabel": [
+        "Alfred Marshall",
+        "Marshall (economist)"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:microeconomics"
+        },
+        {
+          "@id": "kt:neoclassical-economics"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:industry-clusters"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:price-elasticity"
+        },
+        {
+          "@id": "kt:consumer-surplus"
+        },
+        {
+          "@id": "kt:arthur-cecil-pigou"
+        }
+      ]
+    },
+    {
       "@id": "kt:antitrust-law",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Antitrust Law",
