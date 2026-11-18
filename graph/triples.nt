@@ -2400,6 +2400,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
 <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/dodd-frank-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2000/01/rdf-schema#label> "Expectancy Theory: Vroom's Valence-Instrumentality-Expectancy Model of Work Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "VIE theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "Vroom's expectancy theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "expectancy model of motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#altLabel> "valence-instrumentality-expectancy theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#definition> "A process theory of work motivation, introduced by Victor Vroom in 1964, holding that people choose how much effort to exert based on their expectancy that effort leads to performance, the instrumentality of performance for obtaining outcomes, and the valence (desirability) of those outcomes." .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#prefLabel> "Expectancy Theory: Vroom's Valence-Instrumentality-Expectancy Model of Work Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/goal-setting-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/performance-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/victor-vroom> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/equity-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/self-efficacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/pay-for-performance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/expectancy-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/work-and-motivation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://purl.org/dc/terms/created> "2026-11-10" .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/experience-curve> <http://www.w3.org/2000/01/rdf-schema#label> "Experience Curve" .
@@ -8678,6 +8703,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/executive-compensation/s6> <https://schema.org/url> "https://www.mprnews.org/story/2012/04/18/daily-circuit-citigroup-ceo-pay" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Rice University), David S. Bright, Anastasia H. Cortes et al., 2019" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s1> <http://purl.org/dc/terms/title> "Principles of Management, 14.3 Process Theories of Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s1> <https://schema.org/url> "https://openstax.org/books/principles-management/pages/14-3-process-theories-of-motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s2> <http://purl.org/dc/terms/publisher> "OpenStax (Rice University), Lawrence J. Gitman, Carl McDaniel, Amit Shah et al." .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s2> <http://purl.org/dc/terms/title> "Introduction to Business 2e, 9.6 Contemporary Views on Motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s2> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/9-6-contemporary-views-on-motivation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s3> <http://purl.org/dc/terms/publisher> "Yale School of Management, 2023" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s3> <http://purl.org/dc/terms/title> "Remembering Professor Victor H. Vroom, 1932-2023" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s3> <https://schema.org/url> "https://som.yale.edu/story/2023/remembering-professor-victor-h-vroom-1932-2023" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s4> <http://purl.org/dc/terms/publisher> "Institute for Manufacturing, University of Cambridge (Decision Support Tools)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s4> <http://purl.org/dc/terms/title> "Vroom's expectancy theory" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s4> <https://schema.org/url> "https://www.ifm.eng.cam.ac.uk/research/dstools/vrooms-expectancy-theory/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s5> <http://purl.org/dc/terms/publisher> "Journal of Applied Psychology 81(5), 575-586, 1996 (abstract via Shanghai University of Finance and Economics academic newsletter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s5> <http://purl.org/dc/terms/title> "Vroom's expectancy models and work-related criteria: A meta-analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/expectancy-theory/s5> <https://schema.org/url> "https://academicnewsletter.sufe.edu.cn/info/372928" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://purl.org/dc/terms/publisher> "Boston Consulting Group" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://purl.org/dc/terms/title> "BCG Classics Revisited: The Experience Curve" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/experience-curve/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

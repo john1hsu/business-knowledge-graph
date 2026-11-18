@@ -21693,6 +21693,95 @@
       ]
     },
     {
+      "@id": "kt:expectancy-theory",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Expectancy Theory: Vroom's Valence-Instrumentality-Expectancy Model of Work Motivation",
+      "skos:definition": "A process theory of work motivation, introduced by Victor Vroom in 1964, holding that people choose how much effort to exert based on their expectancy that effort leads to performance, the instrumentality of performance for obtaining outcomes, and the valence (desirability) of those outcomes.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Management, 14.3 Process Theories of Motivation",
+          "dcterms:publisher": "OpenStax (Rice University), David S. Bright, Anastasia H. Cortes et al., 2019",
+          "schema:url": "https://openstax.org/books/principles-management/pages/14-3-process-theories-of-motivation",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Introduction to Business 2e, 9.6 Contemporary Views on Motivation",
+          "dcterms:publisher": "OpenStax (Rice University), Lawrence J. Gitman, Carl McDaniel, Amit Shah et al.",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/9-6-contemporary-views-on-motivation",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Remembering Professor Victor H. Vroom, 1932-2023",
+          "dcterms:publisher": "Yale School of Management, 2023",
+          "schema:url": "https://som.yale.edu/story/2023/remembering-professor-victor-h-vroom-1932-2023",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Vroom's expectancy theory",
+          "dcterms:publisher": "Institute for Manufacturing, University of Cambridge (Decision Support Tools)",
+          "schema:url": "https://www.ifm.eng.cam.ac.uk/research/dstools/vrooms-expectancy-theory/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Vroom's expectancy models and work-related criteria: A meta-analysis",
+          "dcterms:publisher": "Journal of Applied Psychology 81(5), 575-586, 1996 (abstract via Shanghai University of Finance and Economics academic newsletter)",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/372928",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/expectancy-theory.md",
+      "skos:altLabel": [
+        "Vroom's expectancy theory",
+        "VIE theory",
+        "valence-instrumentality-expectancy theory",
+        "expectancy model of motivation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:employee-motivation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:goal-setting-theory"
+        },
+        {
+          "@id": "kt:performance-management"
+        },
+        {
+          "@id": "kt:executive-compensation"
+        },
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:victor-vroom"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:work-and-motivation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:self-efficacy"
+        },
+        {
+          "@id": "kt:equity-theory"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:pay-for-performance"
+        }
+      ]
+    },
+    {
       "@id": "kt:goal-setting-theory",
       "@type": "kto:Theory",
       "skos:prefLabel": "Goal-Setting Theory: Specific, Difficult Goals and Performance",

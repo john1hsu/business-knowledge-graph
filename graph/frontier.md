@@ -63,8 +63,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:elton-mayo` | `kt:hawthorne-studies`, `kt:organizational-behavior` |
 | `kt:emergent-strategy` | `kt:strategic-management`, `kt:strategic-planning` |
+| `kt:equity-theory` | `kt:employee-motivation`, `kt:expectancy-theory` |
 | `kt:evidence-based-management` | `kt:decision-making`, `kt:organizational-behavior` |
-| `kt:expectancy-theory` | `kt:employee-motivation`, `kt:goal-setting-theory` |
 | `kt:failure-mode-and-effects-analysis` | `kt:fault-tree-analysis`, `kt:root-cause-analysis` |
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
@@ -134,6 +134,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:say-on-pay` | `kt:executive-compensation`, `kt:proxy-advisory-firm` |
 | `kt:screening-theory` | `kt:adverse-selection`, `kt:information-asymmetry` |
+| `kt:self-efficacy` | `kt:expectancy-theory`, `kt:goal-setting-theory` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
 | `kt:servperf` | `kt:service-quality`, `kt:servqual` |
@@ -311,7 +312,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:entrenchment-index` | `kt:corporate-governance` |
 | `kt:entrepreneurial-finance` | `kt:venture-capital` |
 | `kt:entrepreneurship` | `kt:effectuation` |
-| `kt:equity-theory` | `kt:employee-motivation` |
 | `kt:eric-ries` | `kt:lean-startup` |
 | `kt:escalation-of-commitment` | `kt:decision-making` |
 | `kt:esg-ratings` | `kt:esg` |
@@ -515,6 +515,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
+| `kt:pay-for-performance` | `kt:expectancy-theory` |
 | `kt:penetration-pricing` | `kt:pricing-strategy` |
 | `kt:people-analytics` | `kt:google-project-aristotle` |
 | `kt:performance-appraisal` | `kt:performance-management` |
@@ -603,7 +604,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:securities-exchange-act-of-1934` | `kt:proxy-advisory-firm` |
 | `kt:securities-regulation` | `kt:sarbanes-oxley-act` |
 | `kt:self-determination-theory` | `kt:employee-motivation` |
-| `kt:self-efficacy` | `kt:goal-setting-theory` |
 | `kt:sergey-brin` | `kt:google` |
 | `kt:servicescape` | `kt:services-marketing` |
 | `kt:servitization-of-business-1988` | `kt:servitization` |
@@ -700,6 +700,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:value-chain` | `kt:michael-porter` |
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
+| `kt:victor-vroom` | `kt:expectancy-theory` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
 | `kt:volkswagen-group` | `kt:toyota-motor-corporation` |
 | `kt:vrio-framework` | `kt:resource-based-view` |
@@ -714,6 +715,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |
 | `kt:william-t-allen` | `kt:caremark-oversight-duty` |
 | `kt:word-of-mouth-marketing` | `kt:net-promoter-score` |
+| `kt:work-and-motivation` | `kt:expectancy-theory` |
 | `kt:world-management-survey` | `kt:management` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |
 | `kt:yves-pigneur` | `kt:business-model-canvas` |

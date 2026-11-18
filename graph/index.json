@@ -2003,6 +2003,27 @@
     ]
   },
   {
+    "id": "kt:expectancy-theory",
+    "title": "Expectancy Theory: Vroom's Valence-Instrumentality-Expectancy Model of Work Motivation",
+    "aliases": [
+      "Vroom's expectancy theory",
+      "VIE theory",
+      "valence-instrumentality-expectancy theory",
+      "expectancy model of motivation"
+    ],
+    "type": "Theory",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/expectancy-theory.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://openstax.org/books/principles-management/pages/14-3-process-theories-of-motivation",
+      "https://openstax.org/books/introduction-business-2e/pages/9-6-contemporary-views-on-motivation",
+      "https://som.yale.edu/story/2023/remembering-professor-victor-h-vroom-1932-2023",
+      "https://www.ifm.eng.cam.ac.uk/research/dstools/vrooms-expectancy-theory/",
+      "https://academicnewsletter.sufe.edu.cn/info/372928"
+    ]
+  },
+  {
     "id": "kt:experience-curve",
     "title": "Experience Curve",
     "aliases": [
