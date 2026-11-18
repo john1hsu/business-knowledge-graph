@@ -20,6 +20,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/e-s-qual> .
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
 <https://github.com/john1hsu/business-knowledge-graph/id/a-parasuraman> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/technology-readiness-index> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2000/01/rdf-schema#label> "A3 Report: Toyota's Single-Sheet Format for Proposals, Status and Learning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#altLabel> "A3 problem solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#altLabel> "A3 problem-solving report" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#altLabel> "A3 report" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#altLabel> "A3 thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#definition> "A Toyota management practice in which a problem, proposal or project status is worked through and communicated on a single A3-size sheet (roughly 11 x 17 inches) that follows the Plan-Do-Check-Act logic; it serves both as a report and as a mentoring process that teaches disciplined, fact-based problem solving." .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#prefLabel> "A3 Report: Toyota's Single-Sheet Format for Proposals, Status and Learning" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/five-whys> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hoshin-kanri> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-learning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/root-cause-analysis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <https://github.com/john1hsu/business-knowledge-graph/ontology#appliesTo> <https://github.com/john1hsu/business-knowledge-graph/id/patient-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-motor-corporation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/a3-report> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://purl.org/dc/terms/created> "2026-10-30" .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> <http://www.w3.org/2000/01/rdf-schema#label> "Accrual Accounting" .
@@ -5544,6 +5572,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s6> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1108/03090569610105762/full/html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s1> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute (repost of John Shook, MIT Sloan Management Review, Summer 2009)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s1> <http://purl.org/dc/terms/title> "Toyota's Secret: The A3 Report" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s1> <https://schema.org/url> "https://www.lean.org/the-lean-post/articles/toyotas-secret-the-a3-report/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s2> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s2> <http://purl.org/dc/terms/title> "Problem Solving By Design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s2> <https://schema.org/url> "https://sloanreview.mit.edu/article/problem-solving-by-design" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s3> <http://purl.org/dc/terms/publisher> "Productivity Press / Routledge (Durward K. Sobek II and Art Smalley, 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s3> <http://purl.org/dc/terms/title> "Understanding A3 Thinking: A Critical Component of Toyota's PDCA Management System" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s3> <https://schema.org/url> "https://www.routledge.com/Understanding-A3-Thinking-A-Critical-Component-of-Toyotas-PDCA-Management/Sobek-II-Smalley/p/book/9781563273605" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s4> <http://purl.org/dc/terms/publisher> "Montana State University (Durward K. Sobek II and Cindy Jimmerson, Industrial Engineering Research Conference paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s4> <http://purl.org/dc/terms/title> "A3 Reports: Tool for Organizational Transformation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s4> <https://schema.org/url> "https://fdn.montana.edu/dsobek/a3/ioc-grant/documents/IERC_2006.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s5> <http://purl.org/dc/terms/publisher> "PLOS ONE 8(10), 2013 (James A. Bassuk and Ida M. Washington), doi:10.1371/journal.pone.0076833" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s5> <http://purl.org/dc/terms/title> "The A3 Problem Solving Report: A 10-Step Scientific Method to Execute Performance Improvements in an Academic Research Vivarium" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s5> <https://schema.org/url> "https://econpapers.repec.org/RePEc:plo:pone00:0076833" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s6> <http://purl.org/dc/terms/publisher> "Lean Enterprise Institute, The Lean Post (John Shook with Isao Yoshino, 2020)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s6> <http://purl.org/dc/terms/title> "How the A3 Process Developed to Help Build Better Managers (Part Two)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/a3-report/s6> <https://schema.org/url> "https://www.lean.org/the-lean-post/articles/how-the-a3-process-developed-to-help-build-better-managers-part-two/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/publisher> "Financial Accounting Standards Board" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://purl.org/dc/terms/title> "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/accrual-accounting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

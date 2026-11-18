@@ -6802,6 +6802,109 @@
       ]
     },
     {
+      "@id": "kt:a3-report",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "A3 Report: Toyota's Single-Sheet Format for Proposals, Status and Learning",
+      "skos:definition": "A Toyota management practice in which a problem, proposal or project status is worked through and communicated on a single A3-size sheet (roughly 11 x 17 inches) that follows the Plan-Do-Check-Act logic; it serves both as a report and as a mentoring process that teaches disciplined, fact-based problem solving.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Toyota's Secret: The A3 Report",
+          "dcterms:publisher": "Lean Enterprise Institute (repost of John Shook, MIT Sloan Management Review, Summer 2009)",
+          "schema:url": "https://www.lean.org/the-lean-post/articles/toyotas-secret-the-a3-report/",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Problem Solving By Design",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/problem-solving-by-design",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Understanding A3 Thinking: A Critical Component of Toyota's PDCA Management System",
+          "dcterms:publisher": "Productivity Press / Routledge (Durward K. Sobek II and Art Smalley, 2008)",
+          "schema:url": "https://www.routledge.com/Understanding-A3-Thinking-A-Critical-Component-of-Toyotas-PDCA-Management/Sobek-II-Smalley/p/book/9781563273605",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "A3 Reports: Tool for Organizational Transformation",
+          "dcterms:publisher": "Montana State University (Durward K. Sobek II and Cindy Jimmerson, Industrial Engineering Research Conference paper)",
+          "schema:url": "https://fdn.montana.edu/dsobek/a3/ioc-grant/documents/IERC_2006.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The A3 Problem Solving Report: A 10-Step Scientific Method to Execute Performance Improvements in an Academic Research Vivarium",
+          "dcterms:publisher": "PLOS ONE 8(10), 2013 (James A. Bassuk and Ida M. Washington), doi:10.1371/journal.pone.0076833",
+          "schema:url": "https://econpapers.repec.org/RePEc:plo:pone00:0076833",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How the A3 Process Developed to Help Build Better Managers (Part Two)",
+          "dcterms:publisher": "Lean Enterprise Institute, The Lean Post (John Shook with Isao Yoshino, 2020)",
+          "schema:url": "https://www.lean.org/the-lean-post/articles/how-the-a3-process-developed-to-help-build-better-managers-part-two/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/a3-report.md",
+      "skos:altLabel": [
+        "A3 report",
+        "A3 problem solving",
+        "A3 thinking",
+        "A3 problem-solving report"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:toyota-production-system"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:pdca-cycle"
+        },
+        {
+          "@id": "kt:five-whys"
+        },
+        {
+          "@id": "kt:root-cause-analysis"
+        },
+        {
+          "@id": "kt:hoshin-kanri"
+        },
+        {
+          "@id": "kt:organizational-learning"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:pdca-cycle"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:management-by-objectives"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:toyota-motor-corporation"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:patient-safety"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:benchmarking",
       "@type": "kto:Practice",
       "skos:prefLabel": "Benchmarking",

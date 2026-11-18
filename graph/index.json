@@ -20,6 +20,28 @@
     ]
   },
   {
+    "id": "kt:a3-report",
+    "title": "A3 Report: Toyota's Single-Sheet Format for Proposals, Status and Learning",
+    "aliases": [
+      "A3 report",
+      "A3 problem solving",
+      "A3 thinking",
+      "A3 problem-solving report"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/a3-report.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.lean.org/the-lean-post/articles/toyotas-secret-the-a3-report/",
+      "https://sloanreview.mit.edu/article/problem-solving-by-design",
+      "https://www.routledge.com/Understanding-A3-Thinking-A-Critical-Component-of-Toyotas-PDCA-Management/Sobek-II-Smalley/p/book/9781563273605",
+      "https://fdn.montana.edu/dsobek/a3/ioc-grant/documents/IERC_2006.pdf",
+      "https://econpapers.repec.org/RePEc:plo:pone00:0076833",
+      "https://www.lean.org/the-lean-post/articles/how-the-a3-process-developed-to-help-build-better-managers-part-two/"
+    ]
+  },
+  {
     "id": "kt:accrual-accounting",
     "title": "Accrual Accounting",
     "aliases": [
