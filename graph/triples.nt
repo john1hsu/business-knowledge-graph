@@ -3197,6 +3197,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-streamlining-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/indefinite-delivery-indefinite-quantity> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2000/01/rdf-schema#label> "Independent Director: Board Members Free of Material Ties to Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#altLabel> "director independence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#altLabel> "independent non-executive director" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#altLabel> "outside director" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#altLabel> "unaffiliated director" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#definition> "A member of a company's board who is neither an executive nor tied to the company or its management by employment, fees, family, business dealings or control, so that he or she can monitor managers on shareholders' behalf; listing rules and governance codes define the tests." .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#prefLabel> "Independent Director: Board Members Free of Material Ties to Management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/audit-committee> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-judgment-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cadbury-report> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s7> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s8> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/inside-director> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/nyse-corporate-governance-listing-standards> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sarbanes-oxley-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/independent-director> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/uk-corporate-governance-code> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://purl.org/dc/terms/created> "2026-10-31" .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> <http://www.w3.org/2000/01/rdf-schema#label> "Industrial Organization" .
@@ -9306,6 +9336,46 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/indefinite-delivery-indefinite-quantity/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/indefinite-delivery-indefinite-quantity/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/indefinite-delivery-indefinite-quantity/s5> <https://schema.org/url> "https://www.acquisition.gov/node/63942" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s1> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, Federal Register, August 25, 2008" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s1> <http://purl.org/dc/terms/title> "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Approving Proposed Rule Change to Amend Sections 303A.02(b)(ii) and (iii) of the Listed Company Manual (Federal Register Vol. 73, No. 165)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s1> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-2008-08-25/html/E8-19591.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s2> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, 2013" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s2> <http://purl.org/dc/terms/title> "NYSE Listed Company Manual Section 303A.02, Exhibit 5 to Release No. 34-68639" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s2> <https://schema.org/url> "https://www.sec.gov/files/rules/sro/nyse/2013/34-68639-ex5.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s3> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission, April 2003" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s3> <http://purl.org/dc/terms/title> "Standards Relating to Listed Company Audit Committees" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s3> <https://schema.org/url> "https://www.sec.gov/rules/interp/33-8173.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s4> <http://purl.org/dc/terms/publisher> "Bang Dang Nguyen and Kasper Meisner Nielsen, Journal of Financial Economics 98(3), 2010, pp. 550-567" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s4> <http://purl.org/dc/terms/title> "The value of independent directors: Evidence from sudden deaths" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s4> <https://schema.org/url> "https://econpapers.repec.org/RePEc:eee:jfinec:v:98:y:2010:i:3:p:550-567" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s5> <http://purl.org/dc/terms/publisher> "HKUST Business School, BizInsight, October 2011" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s5> <http://purl.org/dc/terms/title> "The Value of Independent Directors: Evidence from Sudden Deaths (research summary)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s5> <https://schema.org/url> "https://bm.hkust.edu.hk/bizinsight/2011/10/value-independent-directors-evidence-sudden-deaths" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s6> <http://purl.org/dc/terms/publisher> "Sanjai Bhagat and Bernard S. Black, Journal of Corporation Law (SSRN 133808)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s6> <http://purl.org/dc/terms/title> "The Non-Correlation between Board Independence and Long-Term Firm Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s6> <https://schema.org/url> "https://papers.ssrn.com/abstract=133808" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s7> <http://purl.org/dc/terms/publisher> "Jeffrey L. Coles, Naveen D. Daniel and Lalitha Naveen, Review of Financial Studies 27(6), 2014, pp. 1751-1796" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s7> <http://purl.org/dc/terms/title> "Co-opted Boards" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s7> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s7> <https://schema.org/url> "https://ideas.repec.org/a/oup/rfinst/v27y2014i6p1751-1796..html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s8> <http://purl.org/dc/terms/publisher> "Institute of Directors (UK)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s8> <http://purl.org/dc/terms/title> "Governance explainer: director independence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s8> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/independent-director/s8> <https://schema.org/url> "https://www.iod.com/resources/governance/governance-explainer-director-independence/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://purl.org/dc/terms/publisher> "Department of Economics, University of Michigan" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://purl.org/dc/terms/title> "Industrial Organization (subfield page)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/industrial-organization/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

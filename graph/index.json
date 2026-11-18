@@ -2675,6 +2675,30 @@
     ]
   },
   {
+    "id": "kt:independent-director",
+    "title": "Independent Director: Board Members Free of Material Ties to Management",
+    "aliases": [
+      "outside director",
+      "independent non-executive director",
+      "unaffiliated director",
+      "director independence"
+    ],
+    "type": "Concept",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/independent-director.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.govinfo.gov/content/pkg/FR-2008-08-25/html/E8-19591.htm",
+      "https://www.sec.gov/files/rules/sro/nyse/2013/34-68639-ex5.pdf",
+      "https://www.sec.gov/rules/interp/33-8173.htm",
+      "https://econpapers.repec.org/RePEc:eee:jfinec:v:98:y:2010:i:3:p:550-567",
+      "https://bm.hkust.edu.hk/bizinsight/2011/10/value-independent-directors-evidence-sudden-deaths",
+      "https://papers.ssrn.com/abstract=133808",
+      "https://ideas.repec.org/a/oup/rfinst/v27y2014i6p1751-1796..html",
+      "https://www.iod.com/resources/governance/governance-explainer-director-independence/"
+    ]
+  },
+  {
     "id": "kt:industrial-organization",
     "title": "Industrial Organization",
     "aliases": [

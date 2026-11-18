@@ -14,7 +14,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
-| `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
@@ -26,6 +25,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
+| `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
@@ -108,6 +108,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:netflix` | `kt:blockbuster-decline`, `kt:aggregation-theory` |
 | `kt:new-product-development` | `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:new-public-management` | `kt:public-administration`, `kt:public-value` |
+| `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors`, `kt:independent-director` |
 | `kt:office-equipment-industry` | `kt:xerox`, `kt:xerox` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
@@ -142,7 +143,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
-| `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:walter-shewhart` | `kt:pdca-cycle`, `kt:w-edwards-deming` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
@@ -390,6 +390,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
+| `kt:inside-director` | `kt:independent-director` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
 | `kt:insurance-death-spiral` | `kt:adverse-selection` |
 | `kt:insurance-industry` | `kt:adverse-selection` |
@@ -486,7 +487,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:norman-dalkey` | `kt:delphi-method` |
 | `kt:not-invented-here-syndrome` | `kt:absorptive-capacity` |
 | `kt:nsf-innovation-corps` | `kt:customer-development` |
-| `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors` |
 | `kt:oecd-recommendation-on-public-procurement` | `kt:public-procurement` |
 | `kt:office-of-federal-procurement-policy` | `kt:revolutionary-far-overhaul` |
 | `kt:office-of-inspector-general` | `kt:government-accountability-office` |

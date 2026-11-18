@@ -3024,6 +3024,117 @@
       ]
     },
     {
+      "@id": "kt:independent-director",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Independent Director: Board Members Free of Material Ties to Management",
+      "skos:definition": "A member of a company's board who is neither an executive nor tied to the company or its management by employment, fees, family, business dealings or control, so that he or she can monitor managers on shareholders' behalf; listing rules and governance codes define the tests.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Self-Regulatory Organizations; New York Stock Exchange LLC; Order Approving Proposed Rule Change to Amend Sections 303A.02(b)(ii) and (iii) of the Listed Company Manual (Federal Register Vol. 73, No. 165)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Federal Register, August 25, 2008",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-2008-08-25/html/E8-19591.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "NYSE Listed Company Manual Section 303A.02, Exhibit 5 to Release No. 34-68639",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, 2013",
+          "schema:url": "https://www.sec.gov/files/rules/sro/nyse/2013/34-68639-ex5.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Standards Relating to Listed Company Audit Committees",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, April 2003",
+          "schema:url": "https://www.sec.gov/rules/interp/33-8173.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The value of independent directors: Evidence from sudden deaths",
+          "dcterms:publisher": "Bang Dang Nguyen and Kasper Meisner Nielsen, Journal of Financial Economics 98(3), 2010, pp. 550-567",
+          "schema:url": "https://econpapers.repec.org/RePEc:eee:jfinec:v:98:y:2010:i:3:p:550-567",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Value of Independent Directors: Evidence from Sudden Deaths (research summary)",
+          "dcterms:publisher": "HKUST Business School, BizInsight, October 2011",
+          "schema:url": "https://bm.hkust.edu.hk/bizinsight/2011/10/value-independent-directors-evidence-sudden-deaths",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Non-Correlation between Board Independence and Long-Term Firm Performance",
+          "dcterms:publisher": "Sanjai Bhagat and Bernard S. Black, Journal of Corporation Law (SSRN 133808)",
+          "schema:url": "https://papers.ssrn.com/abstract=133808",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Co-opted Boards",
+          "dcterms:publisher": "Jeffrey L. Coles, Naveen D. Daniel and Lalitha Naveen, Review of Financial Studies 27(6), 2014, pp. 1751-1796",
+          "schema:url": "https://ideas.repec.org/a/oup/rfinst/v27y2014i6p1751-1796..html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Governance explainer: director independence",
+          "dcterms:publisher": "Institute of Directors (UK)",
+          "schema:url": "https://www.iod.com/resources/governance/governance-explainer-director-independence/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/independent-director.md",
+      "skos:altLabel": [
+        "outside director",
+        "independent non-executive director",
+        "unaffiliated director",
+        "director independence"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:corporate-governance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:audit-committee"
+        },
+        {
+          "@id": "kt:cadbury-report"
+        },
+        {
+          "@id": "kt:business-judgment-rule"
+        },
+        {
+          "@id": "kt:executive-compensation"
+        },
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:nyse-corporate-governance-listing-standards"
+        },
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        },
+        {
+          "@id": "kt:uk-corporate-governance-code"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:inside-director"
+        }
+      ]
+    },
+    {
       "@id": "kt:proxy-advisory-firm",
       "@type": "kto:Concept",
       "skos:prefLabel": "Proxy Advisory Firm",
