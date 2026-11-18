@@ -4699,6 +4699,27 @@
     ]
   },
   {
+    "id": "kt:sole-source-contracting",
+    "title": "Sole-Source Contracting: Noncompetitive Awards and Justification and Approval",
+    "aliases": [
+      "sole-source contract",
+      "sole-source award",
+      "noncompetitive contracting",
+      "other than full and open competition",
+      "single-source procurement"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/sole-source-contracting.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.acquisition.gov/far/subpart-6.3",
+      "https://www.everycrsreport.com/files/2026-09-08_IF12853_1e52e52e6b1bbb89888dc2346415d62257b05b95.html",
+      "https://www.gao.gov/products/gao-13-325",
+      "https://nber.org/papers/w9757"
+    ]
+  },
+  {
     "id": "kt:southwest-airlines",
     "title": "Southwest Airlines",
     "aliases": [

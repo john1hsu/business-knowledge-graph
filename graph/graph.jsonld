@@ -11693,6 +11693,98 @@
       ]
     },
     {
+      "@id": "kt:sole-source-contracting",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Sole-Source Contracting: Noncompetitive Awards and Justification and Approval",
+      "skos:definition": "The award of a government contract to one firm without competition from others. In US federal procurement it is permitted only under statutory exceptions to full and open competition, each documented in a written justification and approval, or under small business programs that authorize sole-source awards up to set dollar limits.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FAR Subpart 6.3 - Other Than Full and Open Competition",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA), FAC 2026-01",
+          "schema:url": "https://www.acquisition.gov/far/subpart-6.3",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Sole-Source Contracts for Small Businesses (IF12853)",
+          "dcterms:publisher": "Congressional Research Service (via EveryCRSReport)",
+          "schema:url": "https://www.everycrsreport.com/files/2026-09-08_IF12853_1e52e52e6b1bbb89888dc2346415d62257b05b95.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Contracting: Actions Needed to Increase Competition (GAO-13-325)",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/gao-13-325",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Auctions Versus Negotiations in Procurement: An Empirical Analysis (NBER Working Paper 9757)",
+          "dcterms:publisher": "National Bureau of Economic Research; later Journal of Law, Economics and Organization 25(2), 2009",
+          "schema:url": "https://nber.org/papers/w9757",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/sole-source-contracting.md",
+      "skos:altLabel": [
+        "sole-source contract",
+        "sole-source award",
+        "noncompetitive contracting",
+        "other than full and open competition",
+        "single-source procurement"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:public-procurement"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:competition-in-contracting-act"
+        },
+        {
+          "@id": "kt:small-business-set-asides"
+        },
+        {
+          "@id": "kt:truth-in-negotiations-act"
+        },
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:bid-protest"
+        },
+        {
+          "@id": "kt:government-accountability-office"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:market-research"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:switching-costs"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:competitive-bidding"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:best-value-tradeoff"
+        }
+      ]
+    },
+    {
       "@id": "kt:truth-in-negotiations-act",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Truth in Negotiations Act",

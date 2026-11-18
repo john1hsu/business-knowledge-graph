@@ -5596,6 +5596,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kingdomware-technologies-v-united-states> .
 <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/small-business-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2000/01/rdf-schema#label> "Sole-Source Contracting: Noncompetitive Awards and Justification and Approval" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#altLabel> "noncompetitive contracting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#altLabel> "other than full and open competition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#altLabel> "single-source procurement" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#altLabel> "sole-source award" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#altLabel> "sole-source contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/public-procurement> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#definition> "The award of a government contract to one firm without competition from others. In US federal procurement it is permitted only under statutory exceptions to full and open competition, each documented in a written justification and approval, or under small business programs that authorize sole-source awards up to set dollar limits." .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sole-Source Contracting: Noncompetitive Awards and Justification and Approval" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/bid-protest> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/competition-in-contracting-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/government-accountability-office> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/small-business-set-asides> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/best-value-tradeoff> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/switching-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/competitive-bidding> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/market-research> .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/sole-source-contracting> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/publisher> "Miami Herbert Business School, University of Miami" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://purl.org/dc/terms/title> "Curriculum Vitae: A. Parasuraman" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/a-parasuraman/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -11886,6 +11913,26 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/small-business-set-asides/s6> <https://schema.org/url> "https://econpapers.repec.org/RePEc:eee:pubeco:v:100:y:2013:i:c:p:28-44" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA), FAC 2026-01" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s1> <http://purl.org/dc/terms/title> "FAR Subpart 6.3 - Other Than Full and Open Competition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s1> <https://schema.org/url> "https://www.acquisition.gov/far/subpart-6.3" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s2> <http://purl.org/dc/terms/publisher> "Congressional Research Service (via EveryCRSReport)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s2> <http://purl.org/dc/terms/title> "Sole-Source Contracts for Small Businesses (IF12853)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s2> <https://schema.org/url> "https://www.everycrsreport.com/files/2026-09-08_IF12853_1e52e52e6b1bbb89888dc2346415d62257b05b95.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s3> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s3> <http://purl.org/dc/terms/title> "Defense Contracting: Actions Needed to Increase Competition (GAO-13-325)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s3> <https://schema.org/url> "https://www.gao.gov/products/gao-13-325" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s4> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research; later Journal of Law, Economics and Organization 25(2), 2009" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s4> <http://purl.org/dc/terms/title> "Auctions Versus Negotiations in Procurement: An Empirical Analysis (NBER Working Paper 9757)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/sole-source-contracting/s4> <https://schema.org/url> "https://nber.org/papers/w9757" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (Michael E. Porter, November–December 1996)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://purl.org/dc/terms/title> "What Is Strategy?" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/southwest-airlines/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

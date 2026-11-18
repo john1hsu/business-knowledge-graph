@@ -19,9 +19,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
+| `kt:market-research` | `kt:competition-in-contracting-act`, `kt:sole-source-contracting`, `kt:customer-development` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
-| `kt:sole-source-contracting` | `kt:competition-in-contracting-act`, `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
@@ -100,7 +100,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marchand-v-barnhill` | `kt:caremark-oversight-duty`, `kt:fiduciary-duty` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
-| `kt:market-research` | `kt:competition-in-contracting-act`, `kt:customer-development` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
@@ -228,6 +227,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:competing-values-framework` | `kt:organizational-culture` |
 | `kt:competition-policy` | `kt:antitrust-law` |
+| `kt:competitive-bidding` | `kt:sole-source-contracting` |
 | `kt:competitive-strategy` | `kt:business-model` |
 | `kt:compstat` | `kt:public-value` |
 | `kt:comptroller-general-of-the-united-states` | `kt:government-accountability-office` |
