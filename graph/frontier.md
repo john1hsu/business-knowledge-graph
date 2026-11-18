@@ -437,6 +437,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kurt-lewin` | `kt:change-management` |
 | `kt:larry-page` | `kt:google` |
 | `kt:law-of-one-price` | `kt:arbitrage` |
+| `kt:leader-member-exchange` | `kt:servant-leadership` |
 | `kt:learning-curve` | `kt:experience-curve` |
 | `kt:learning-organization` | `kt:organizational-learning` |
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
@@ -579,6 +580,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-burgelman` | `kt:strategic-renewal` |
 | `kt:robert-c-camp` | `kt:benchmarking` |
 | `kt:robert-g-cooper` | `kt:stage-gate-process` |
+| `kt:robert-k-greenleaf` | `kt:servant-leadership` |
 | `kt:robert-mcnamara` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |
@@ -665,6 +667,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-product-portfolio-1970` | `kt:bcg-growth-share-matrix` |
 | `kt:the-pyramid-principle-logic-in-writing-and-thinking` | `kt:pyramid-principle` |
 | `kt:the-rational-manager-1965` | `kt:kepner-tregoe-method` |
+| `kt:the-servant-as-leader-1970` | `kt:servant-leadership` |
 | `kt:the-study-of-administration-1887` | `kt:public-administration` |
 | `kt:the-theory-of-games-and-economic-behavior-1944` | `kt:game-theory-in-business` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |

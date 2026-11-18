@@ -4737,6 +4737,27 @@
     ]
   },
   {
+    "id": "kt:servant-leadership",
+    "title": "Servant Leadership: Greenleaf's Serve-First Model of Leading",
+    "aliases": [
+      "servant-leadership",
+      "servant leader",
+      "serve-first leadership"
+    ],
+    "type": "Theory",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/servant-leadership.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://archive.org/stream/20200601-the-servant-as-leader/20200601_THE%20SERVANT%20AS%20LEADER_djvu.txt",
+      "https://www.gonzaga.edu/news-events/stories/robert-greenleaf-servant-leadership",
+      "https://pure.eur.nl/en/publications/servant-leadership-a-systematic-review-and-call-for-future-resear/",
+      "https://ore.exeter.ac.uk/repository/handle/10871/36336",
+      "https://ore.exeter.ac.uk/repository/bitstream/handle/10871/36336/SL%20MA%20JOOP%20r2%20final.pdf?sequence=2",
+      "https://www.eurekalert.org/news-releases/891050"
+    ]
+  },
+  {
     "id": "kt:service-quality",
     "title": "Service Quality: Customer Perceptions of Technical, Functional and Environmental Excellence",
     "aliases": [

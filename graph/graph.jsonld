@@ -14782,6 +14782,9 @@
           "@id": "kt:transformational-leadership"
         },
         {
+          "@id": "kt:servant-leadership"
+        },
+        {
           "@id": "kt:ohio-state-leadership-studies"
         },
         {
@@ -15498,6 +15501,92 @@
         },
         {
           "@id": "kt:theory-of-the-business"
+        }
+      ]
+    },
+    {
+      "@id": "kt:servant-leadership",
+      "@type": "kto:Theory",
+      "skos:prefLabel": "Servant Leadership: Greenleaf's Serve-First Model of Leading",
+      "skos:definition": "A value-based leadership approach, named by Robert K. Greenleaf in his 1970 essay \"The Servant as Leader\", in which the leader is motivated first by a desire to serve and judges success by whether followers grow, become more autonomous and are themselves more likely to serve.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Servant as Leader",
+          "dcterms:publisher": "Robert K. Greenleaf (essay, copyright 1970, 1973; distributed by the Robert K. Greenleaf Center), Internet Archive text",
+          "schema:url": "https://archive.org/stream/20200601-the-servant-as-leader/20200601_THE%20SERVANT%20AS%20LEADER_djvu.txt",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Robert Greenleaf on Servant-Leadership",
+          "dcterms:publisher": "Gonzaga University",
+          "schema:url": "https://www.gonzaga.edu/news-events/stories/robert-greenleaf-servant-leadership",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Servant leadership: A systematic review and call for future research",
+          "dcterms:publisher": "The Leadership Quarterly 30(1), 111–132 (Eva, Robin, Sendjaya, van Dierendonck & Liden, 2019), Erasmus University research portal",
+          "schema:url": "https://pure.eur.nl/en/publications/servant-leadership-a-systematic-review-and-call-for-future-resear/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Servant Leadership: A Meta-Analytic Examination of Incremental Contribution, Moderation and Mediation",
+          "dcterms:publisher": "Journal of Occupational and Organizational Psychology (Lee, Lyubovnikova, Tian & Knight, 2019), University of Exeter repository",
+          "schema:url": "https://ore.exeter.ac.uk/repository/handle/10871/36336",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Servant Leadership: A Meta-Analytic Examination of Incremental Contribution, Moderation and Mediation (accepted manuscript)",
+          "dcterms:publisher": "University of Exeter repository (full text)",
+          "schema:url": "https://ore.exeter.ac.uk/repository/bitstream/handle/10871/36336/SL%20MA%20JOOP%20r2%20final.pdf?sequence=2",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "News release on servant leadership and serving culture at Jason's Deli",
+          "dcterms:publisher": "EurekAlert! (news release on Liden, Wayne, Liao & Meuser, Academy of Management Journal)",
+          "schema:url": "https://www.eurekalert.org/news-releases/891050",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/servant-leadership.md",
+      "skos:altLabel": [
+        "servant-leadership",
+        "servant leader",
+        "serve-first leadership"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:leadership"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:organizational-culture"
+        },
+        {
+          "@id": "kt:psychological-safety"
+        },
+        {
+          "@id": "kt:employee-motivation"
+        },
+        {
+          "@id": "kt:leader-member-exchange"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:robert-k-greenleaf"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-servant-as-leader-1970"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:transformational-leadership"
         }
       ]
     },

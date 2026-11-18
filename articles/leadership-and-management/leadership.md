@@ -9,7 +9,7 @@ summary: >-
   in management scholarship it is studied through trait, behavioral, contingency and relational approaches and is
   commonly distinguished from, but complementary to, management.
 broader: [kt:organizational-behavior, kt:management-theory]
-related: [kt:situational-leadership, kt:contingency-theory-of-leadership, kt:transformational-leadership, kt:ohio-state-leadership-studies, kt:change-management]
+related: [kt:situational-leadership, kt:contingency-theory-of-leadership, kt:transformational-leadership, kt:servant-leadership, kt:ohio-state-leadership-studies, kt:change-management]
 relations:
   - {predicate: contrastsWith, object: kt:management}
 sources:

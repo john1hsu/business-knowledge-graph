@@ -3750,6 +3750,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/change-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contingency-theory-of-leadership> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/ohio-state-leadership-studies> .
+<https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/situational-leadership> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transformational-leadership> .
 <https://github.com/john1hsu/business-knowledge-graph/id/leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/leadership/s1> .
@@ -5652,6 +5653,29 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/gardiner-means> .
 <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-modern-corporation-and-private-property> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2000/01/rdf-schema#label> "Servant Leadership: Greenleaf's Serve-First Model of Leading" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "servant leader" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "servant-leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#altLabel> "serve-first leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#definition> "A value-based leadership approach, named by Robert K. Greenleaf in his 1970 essay \"The Servant as Leader\", in which the leader is motivated first by a desire to serve and judges success by whether followers grow, become more autonomous and are themselves more likely to serve." .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#prefLabel> "Servant Leadership: Greenleaf's Serve-First Model of Leading" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/employee-motivation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leader-member-exchange> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-culture> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/transformational-leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/robert-k-greenleaf> .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/servant-leadership> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-servant-as-leader-1970> .
 <https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/service-quality> <http://www.w3.org/2000/01/rdf-schema#label> "Service Quality: Customer Perceptions of Technical, Functional and Environmental Excellence" .
@@ -12278,6 +12302,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/separation-of-ownership-and-control/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/separation-of-ownership-and-control/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/separation-of-ownership-and-control/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s1> <http://purl.org/dc/terms/publisher> "Robert K. Greenleaf (essay, copyright 1970, 1973; distributed by the Robert K. Greenleaf Center), Internet Archive text" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s1> <http://purl.org/dc/terms/title> "The Servant as Leader" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s1> <https://schema.org/url> "https://archive.org/stream/20200601-the-servant-as-leader/20200601_THE%20SERVANT%20AS%20LEADER_djvu.txt" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s2> <http://purl.org/dc/terms/publisher> "Gonzaga University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s2> <http://purl.org/dc/terms/title> "Robert Greenleaf on Servant-Leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s2> <https://schema.org/url> "https://www.gonzaga.edu/news-events/stories/robert-greenleaf-servant-leadership" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s3> <http://purl.org/dc/terms/publisher> "The Leadership Quarterly 30(1), 111–132 (Eva, Robin, Sendjaya, van Dierendonck & Liden, 2019), Erasmus University research portal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s3> <http://purl.org/dc/terms/title> "Servant leadership: A systematic review and call for future research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s3> <https://schema.org/url> "https://pure.eur.nl/en/publications/servant-leadership-a-systematic-review-and-call-for-future-resear/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s4> <http://purl.org/dc/terms/publisher> "Journal of Occupational and Organizational Psychology (Lee, Lyubovnikova, Tian & Knight, 2019), University of Exeter repository" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s4> <http://purl.org/dc/terms/title> "Servant Leadership: A Meta-Analytic Examination of Incremental Contribution, Moderation and Mediation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s4> <https://schema.org/url> "https://ore.exeter.ac.uk/repository/handle/10871/36336" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s5> <http://purl.org/dc/terms/publisher> "University of Exeter repository (full text)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s5> <http://purl.org/dc/terms/title> "Servant Leadership: A Meta-Analytic Examination of Incremental Contribution, Moderation and Mediation (accepted manuscript)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s5> <https://schema.org/url> "https://ore.exeter.ac.uk/repository/bitstream/handle/10871/36336/SL%20MA%20JOOP%20r2%20final.pdf?sequence=2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s6> <http://purl.org/dc/terms/publisher> "EurekAlert! (news release on Liden, Wayne, Liao & Meuser, Academy of Management Journal)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s6> <http://purl.org/dc/terms/title> "News release on servant leadership and serving culture at Jason's Deli" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/servant-leadership/s6> <https://schema.org/url> "https://www.eurekalert.org/news-releases/891050" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <http://purl.org/dc/terms/publisher> "European Journal of Marketing (record on Scilit)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <http://purl.org/dc/terms/title> "A Service Quality Model and its Marketing Implications" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/service-quality/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
