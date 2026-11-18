@@ -12375,6 +12375,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "intergovernmental" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/taiichi-ohno/s5> <https://schema.org/url> "https://www.apo-tokyo.org/?p=1983" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s1> <http://purl.org/dc/terms/publisher> "Journal of Management 34(3), 2008 (Mathieu, Maynard, Rapp and Gilson; copy hosted by UC San Diego)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s1> <http://purl.org/dc/terms/title> "Team Effectiveness 1997-2007: A Review of Recent Advancements and a Glimpse Into the Future" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s1> <https://schema.org/url> "https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/Mathieu-et-al._2008_highlighted.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s2> <http://purl.org/dc/terms/publisher> "National Research Council, National Academies Press, 2015 (NCBI Bookshelf)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s2> <http://purl.org/dc/terms/title> "Overview of the Research on Team Effectiveness (Chapter 3 of Enhancing the Effectiveness of Team Science)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s2> <https://schema.org/url> "https://www.ncbi.nlm.nih.gov/books/NBK310384/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University (Black and Bright, 2019)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s3> <http://purl.org/dc/terms/title> "Organizational Behavior, Section 9.3: Managing Effective Work Groups" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s3> <https://schema.org/url> "https://openstax.org/books/organizational-behavior/pages/9-3-managing-effective-work-groups" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s4> <http://purl.org/dc/terms/publisher> "Encyclopedia of Group Processes and Intergroup Relations, SAGE, 2010 (Bell and Kozlowski; Cornell DigitalCommons@ILR via CORE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s4> <http://purl.org/dc/terms/title> "Work Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s4> <https://schema.org/url> "https://core.ac.uk/download/5130848.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s5> <http://purl.org/dc/terms/publisher> "Psychological Science in the Public Interest (Association for Psychological Science)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s5> <http://purl.org/dc/terms/title> "Enhancing the Effectiveness of Work Groups and Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s5> <https://schema.org/url> "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2006.00030.x/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s6> <http://purl.org/dc/terms/publisher> "Google re:Work" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s6> <http://purl.org/dc/terms/title> "Guide: Understand team effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s6> <https://schema.org/url> "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <http://purl.org/dc/terms/publisher> "Agricultural Extension Service, Iowa State College, 1957" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <http://purl.org/dc/terms/title> "The Diffusion Process (Special Report No. 18)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/technology-adoption-life-cycle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -13170,6 +13200,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/toyota-production-system> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-ford> .
 <https://github.com/john1hsu/business-knowledge-graph/id/taiichi-ohno> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/kiichiro-toyoda> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2000/01/rdf-schema#label> "Team Effectiveness: Inputs, Mediators and Outcomes of Work Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#altLabel> "IMOI model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#altLabel> "IPO model of team effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#altLabel> "input-mediator-output-input model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#altLabel> "input-process-output model of teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#altLabel> "work team effectiveness" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-behavior> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#definition> "The degree to which a work team achieves outcomes valued by its stakeholders (task performance, member satisfaction and the capacity to keep working together), and the research tradition that explains it through models running from inputs via team processes and emergent states to outcomes." .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#prefLabel> "Team Effectiveness: Inputs, Mediators and Outcomes of Work Teams" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/group-decision-making> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/high-performance-teams> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leadership> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/team-effectiveness/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/shared-mental-models> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google-project-aristotle> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/j-richard-hackman> .
+<https://github.com/john1hsu/business-knowledge-graph/id/team-effectiveness> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/joseph-mcgrath> .
 <https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/technology-adoption-life-cycle> <http://www.w3.org/2000/01/rdf-schema#label> "Technology Adoption Life Cycle: Adopter Segments and the Chasm" .

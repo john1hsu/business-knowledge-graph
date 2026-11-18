@@ -21549,6 +21549,100 @@
       ]
     },
     {
+      "@id": "kt:team-effectiveness",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Team Effectiveness: Inputs, Mediators and Outcomes of Work Teams",
+      "skos:definition": "The degree to which a work team achieves outcomes valued by its stakeholders (task performance, member satisfaction and the capacity to keep working together), and the research tradition that explains it through models running from inputs via team processes and emergent states to outcomes.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Team Effectiveness 1997-2007: A Review of Recent Advancements and a Glimpse Into the Future",
+          "dcterms:publisher": "Journal of Management 34(3), 2008 (Mathieu, Maynard, Rapp and Gilson; copy hosted by UC San Diego)",
+          "schema:url": "https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/Mathieu-et-al._2008_highlighted.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Overview of the Research on Team Effectiveness (Chapter 3 of Enhancing the Effectiveness of Team Science)",
+          "dcterms:publisher": "National Research Council, National Academies Press, 2015 (NCBI Bookshelf)",
+          "schema:url": "https://www.ncbi.nlm.nih.gov/books/NBK310384/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Organizational Behavior, Section 9.3: Managing Effective Work Groups",
+          "dcterms:publisher": "OpenStax, Rice University (Black and Bright, 2019)",
+          "schema:url": "https://openstax.org/books/organizational-behavior/pages/9-3-managing-effective-work-groups",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Work Teams",
+          "dcterms:publisher": "Encyclopedia of Group Processes and Intergroup Relations, SAGE, 2010 (Bell and Kozlowski; Cornell DigitalCommons@ILR via CORE)",
+          "schema:url": "https://core.ac.uk/download/5130848.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Enhancing the Effectiveness of Work Groups and Teams",
+          "dcterms:publisher": "Psychological Science in the Public Interest (Association for Psychological Science)",
+          "schema:url": "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2006.00030.x/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Guide: Understand team effectiveness",
+          "dcterms:publisher": "Google re:Work",
+          "schema:url": "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/team-effectiveness.md",
+      "skos:altLabel": [
+        "work team effectiveness",
+        "input-process-output model of teams",
+        "IPO model of team effectiveness",
+        "IMOI model",
+        "input-mediator-output-input model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-behavior"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:high-performance-teams"
+        },
+        {
+          "@id": "kt:group-decision-making"
+        },
+        {
+          "@id": "kt:groupthink"
+        },
+        {
+          "@id": "kt:leadership"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:joseph-mcgrath"
+        },
+        {
+          "@id": "kt:j-richard-hackman"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:psychological-safety"
+        },
+        {
+          "@id": "kt:shared-mental-models"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:google-project-aristotle"
+        }
+      ]
+    },
+    {
       "@id": "kt:barriers-to-entry",
       "@type": "kto:Concept",
       "skos:prefLabel": "Barriers to Entry",

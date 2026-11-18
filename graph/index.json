@@ -5039,6 +5039,29 @@
     ]
   },
   {
+    "id": "kt:team-effectiveness",
+    "title": "Team Effectiveness: Inputs, Mediators and Outcomes of Work Teams",
+    "aliases": [
+      "work team effectiveness",
+      "input-process-output model of teams",
+      "IPO model of team effectiveness",
+      "IMOI model",
+      "input-mediator-output-input model"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/team-effectiveness.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/Mathieu-et-al._2008_highlighted.pdf",
+      "https://www.ncbi.nlm.nih.gov/books/NBK310384/",
+      "https://openstax.org/books/organizational-behavior/pages/9-3-managing-effective-work-groups",
+      "https://core.ac.uk/download/5130848.pdf",
+      "https://www.psychologicalscience.org/journals/pspi/j.1529-1006.2006.00030.x/",
+      "https://rework.withgoogle.com/intl/en/guides/understand-team-effectiveness"
+    ]
+  },
+  {
     "id": "kt:technology-adoption-life-cycle",
     "title": "Technology Adoption Life Cycle: Adopter Segments and the Chasm",
     "aliases": [

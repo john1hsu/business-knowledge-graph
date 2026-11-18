@@ -25,7 +25,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
-| `kt:team-effectiveness` | `kt:google-project-aristotle`, `kt:high-performance-teams`, `kt:j-richard-hackman` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
@@ -415,6 +414,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-burr-williams` | `kt:discounted-cash-flow` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
+| `kt:joseph-mcgrath` | `kt:team-effectiveness` |
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:kc-x-tanker-competition` | `kt:bid-protest` |
@@ -590,6 +590,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:servqual-multiple-item-scale-1988` | `kt:servqual` |
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
 | `kt:seven-wastes` | `kt:taiichi-ohno` |
+| `kt:shared-mental-models` | `kt:team-effectiveness` |
 | `kt:shareholder-activism` | `kt:blockbuster-decline` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:short-term-rental-regulation` | `kt:sharing-economy` |
