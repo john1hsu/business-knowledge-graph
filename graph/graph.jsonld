@@ -19169,6 +19169,101 @@
       ]
     },
     {
+      "@id": "kt:joseph-juran",
+      "@type": "kto:Person",
+      "skos:prefLabel": "Joseph M. Juran: Quality Trilogy and the Vital Few",
+      "skos:definition": "Romanian-born American engineer and management consultant (1904-2008) who framed quality as a management responsibility, wrote the Quality Control Handbook, lectured Japanese managers in 1954, popularised the \"vital few\" (Pareto) principle and organised quality work into the Juran Trilogy of planning, control and improvement.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Joseph M. Juran (1904-2008)",
+          "dcterms:publisher": "National Academy of Engineering, Memorial Tributes: Volume 14 (National Academies Press, 2011); tribute by Kenneth E. Case",
+          "schema:url": "https://www.nationalacademies.org/read/12884/chapter/29",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Quality Trilogy",
+          "dcterms:publisher": "J. M. Juran, Quality Progress 19(8), August 1986 (American Society for Quality)",
+          "schema:url": "https://asq.org/-/media/ASQ-Supplemental-Media-Import/E/F/7/9/D/7188.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "A History of Managing for Quality in the United States, Part 2",
+          "dcterms:publisher": "J. M. Juran, excerpted from A History of Managing for Quality (Juran Foundation, 1995), Quality Digest",
+          "schema:url": "https://www.qualitydigest.com/dec/juran-2.html",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Quality Trilogy",
+          "dcterms:publisher": "Christian N. Madu, Encyclopedia of Management Theory (SAGE, 2013)",
+          "schema:url": "https://sk.sagepub.com/ency/edvol/embed/encyclopedia-of-management-theory/chpt/quality-trilogy",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Prof. Ishikawa and Quality Control (Chapter 8)",
+          "dcterms:publisher": "Union of Japanese Scientists and Engineers (JUSE)",
+          "schema:url": "https://www.juse.jp/ishikawa/e/man/Ch08_Ver2b_160531.pdf",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "What is the Pareto Principle (80/20 Rule)?",
+          "dcterms:publisher": "Juran Institute (Maureen Goldman, 2019, updated 2024)",
+          "schema:url": "https://www.juran.com/blog/a-guide-to-the-pareto-principle-80-20-rule-pareto-analysis/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/joseph-juran.md",
+      "skos:altLabel": [
+        "Joseph M. Juran",
+        "Joseph Juran",
+        "J. M. Juran",
+        "Joseph Moses Juran",
+        "Dr. Juran"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:w-edwards-deming"
+        },
+        {
+          "@id": "kt:kaoru-ishikawa"
+        },
+        {
+          "@id": "kt:statistical-process-control"
+        },
+        {
+          "@id": "kt:cost-of-poor-quality"
+        },
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:total-quality-management"
+        },
+        {
+          "@id": "kt:six-sigma"
+        },
+        {
+          "@id": "kt:eighty-twenty-rule"
+        },
+        {
+          "@id": "kt:juran-trilogy"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:w-edwards-deming"
+        }
+      ]
+    },
+    {
       "@id": "kt:just-in-time",
       "@type": "kto:Practice",
       "skos:prefLabel": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",

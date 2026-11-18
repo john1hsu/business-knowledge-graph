@@ -6,21 +6,21 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:financial-accounting`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:market-research` | `kt:procter-and-gamble`, `kt:competition-in-contracting-act`, `kt:sole-source-contracting`, `kt:customer-development` |
 | `kt:marketing` | `kt:customer-loyalty`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
+| `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
-| `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
@@ -94,7 +94,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:job-enrichment` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:kaizen` | `kt:five-whys`, `kt:pdca-cycle` |
-| `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:knowledge-transfer` | `kt:absorptive-capacity`, `kt:organizational-learning` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:loyalty-program` | `kt:customer-loyalty`, `kt:customer-relationship-management` |
@@ -247,6 +246,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
+| `kt:cost-of-poor-quality` | `kt:joseph-juran` |
 | `kt:cost-plus-contract` | `kt:government-contract-types` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:cost-volume-profit-analysis` | `kt:cost-structure` |
@@ -418,6 +418,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:joseph-mcgrath` | `kt:team-effectiveness` |
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
+| `kt:juran-trilogy` | `kt:joseph-juran` |
 | `kt:kanban-method` | `kt:kanban` |
 | `kt:kc-x-tanker-competition` | `kt:bid-protest` |
 | `kt:keith-oliver` | `kt:supply-chain-management` |

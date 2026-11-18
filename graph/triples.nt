@@ -3521,6 +3521,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/clayton-christensen> .
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
 <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/theodore-levitt> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2000/01/rdf-schema#label> "Joseph M. Juran: Quality Trilogy and the Vital Few" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#altLabel> "Dr. Juran" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#altLabel> "J. M. Juran" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#altLabel> "Joseph Juran" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#altLabel> "Joseph M. Juran" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#altLabel> "Joseph Moses Juran" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#definition> "Romanian-born American engineer and management consultant (1904-2008) who framed quality as a management responsibility, wrote the Quality Control Handbook, lectured Japanese managers in 1954, popularised the \"vital few\" (Pareto) principle and organised quality work into the Juran Trilogy of planning, control and improvement." .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#prefLabel> "Joseph M. Juran: Quality Trilogy and the Vital Few" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cost-of-poor-quality> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/kaoru-ishikawa> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/operations-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/statistical-process-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "operations-and-supply-chain" .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/eighty-twenty-rule> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/juran-trilogy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/six-sigma> .
+<https://github.com/john1hsu/business-knowledge-graph/id/joseph-juran> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/total-quality-management> .
 <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://purl.org/dc/terms/created> "2026-11-14" .
 <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/just-in-time> <http://www.w3.org/2000/01/rdf-schema#label> "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory" .
@@ -9750,6 +9778,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/jobs-to-be-done/s6> <https://schema.org/url> "https://archive.researchworld.com/the-potential-and-perils-of-job-to-be-done" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s1> <http://purl.org/dc/terms/publisher> "National Academy of Engineering, Memorial Tributes: Volume 14 (National Academies Press, 2011); tribute by Kenneth E. Case" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s1> <http://purl.org/dc/terms/title> "Joseph M. Juran (1904-2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s1> <https://schema.org/url> "https://www.nationalacademies.org/read/12884/chapter/29" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s2> <http://purl.org/dc/terms/publisher> "J. M. Juran, Quality Progress 19(8), August 1986 (American Society for Quality)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s2> <http://purl.org/dc/terms/title> "The Quality Trilogy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s2> <https://schema.org/url> "https://asq.org/-/media/ASQ-Supplemental-Media-Import/E/F/7/9/D/7188.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s3> <http://purl.org/dc/terms/publisher> "J. M. Juran, excerpted from A History of Managing for Quality (Juran Foundation, 1995), Quality Digest" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s3> <http://purl.org/dc/terms/title> "A History of Managing for Quality in the United States, Part 2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s3> <https://schema.org/url> "https://www.qualitydigest.com/dec/juran-2.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s4> <http://purl.org/dc/terms/publisher> "Christian N. Madu, Encyclopedia of Management Theory (SAGE, 2013)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s4> <http://purl.org/dc/terms/title> "Quality Trilogy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s4> <https://schema.org/url> "https://sk.sagepub.com/ency/edvol/embed/encyclopedia-of-management-theory/chpt/quality-trilogy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s5> <http://purl.org/dc/terms/publisher> "Union of Japanese Scientists and Engineers (JUSE)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s5> <http://purl.org/dc/terms/title> "Prof. Ishikawa and Quality Control (Chapter 8)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s5> <https://schema.org/url> "https://www.juse.jp/ishikawa/e/man/Ch08_Ver2b_160531.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s6> <http://purl.org/dc/terms/publisher> "Juran Institute (Maureen Goldman, 2019, updated 2024)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s6> <http://purl.org/dc/terms/title> "What is the Pareto Principle (80/20 Rule)?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/joseph-juran/s6> <https://schema.org/url> "https://www.juran.com/blog/a-guide-to-the-pareto-principle-80-20-rule-pareto-analysis/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <http://purl.org/dc/terms/publisher> "Toyota Motor Corporation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <http://purl.org/dc/terms/title> "Toyota Production System" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/just-in-time/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

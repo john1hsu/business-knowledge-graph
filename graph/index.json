@@ -2953,6 +2953,29 @@
     ]
   },
   {
+    "id": "kt:joseph-juran",
+    "title": "Joseph M. Juran: Quality Trilogy and the Vital Few",
+    "aliases": [
+      "Joseph M. Juran",
+      "Joseph Juran",
+      "J. M. Juran",
+      "Joseph Moses Juran",
+      "Dr. Juran"
+    ],
+    "type": "Person",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/joseph-juran.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.nationalacademies.org/read/12884/chapter/29",
+      "https://asq.org/-/media/ASQ-Supplemental-Media-Import/E/F/7/9/D/7188.pdf",
+      "https://www.qualitydigest.com/dec/juran-2.html",
+      "https://sk.sagepub.com/ency/edvol/embed/encyclopedia-of-management-theory/chpt/quality-trilogy",
+      "https://www.juse.jp/ishikawa/e/man/Ch08_Ver2b_160531.pdf",
+      "https://www.juran.com/blog/a-guide-to-the-pareto-principle-80-20-rule-pareto-analysis/"
+    ]
+  },
+  {
     "id": "kt:just-in-time",
     "title": "Just-in-Time (JIT): Synchronizing Supply with Demand to Minimize Inventory",
     "aliases": [
