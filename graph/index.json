@@ -4562,6 +4562,29 @@
     ]
   },
   {
+    "id": "kt:share-repurchase",
+    "title": "Share Repurchases: Returning Cash by Buying Back Stock",
+    "aliases": [
+      "share repurchase",
+      "stock buyback",
+      "share buyback",
+      "buyback",
+      "stock repurchase"
+    ],
+    "type": "Practice",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/share-repurchase.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.sec.gov/files/divisions/marketreg/r10b18faq0504.htm",
+      "https://www.nber.org/papers/w4965",
+      "https://ideas.repec.org/a/bla/jfinan/v46y1991i4p1243-71.html",
+      "https://ineteconomics.org/uploads/papers/LAZONICK_William_Profits-without-Prosperity-20140406.pdf",
+      "https://corpgov.law.harvard.edu/2018/03/19/are-buybacks-really-shortchanging-investment",
+      "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
+    ]
+  },
+  {
     "id": "kt:shareholder-primacy",
     "title": "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value",
     "aliases": [

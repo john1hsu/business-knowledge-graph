@@ -135,7 +135,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
 | `kt:servperf` | `kt:service-quality`, `kt:servqual` |
-| `kt:share-repurchase` | `kt:dividend-policy`, `kt:dividend-policy` |
+| `kt:signaling-theory` | `kt:share-repurchase`, `kt:information-asymmetry` |
 | `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
@@ -213,6 +213,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:carl-shapiro` | `kt:network-effect` |
 | `kt:cash-basis-accounting` | `kt:accrual-accounting` |
 | `kt:cash-conversion-cycle` | `kt:working-capital` |
+| `kt:cash-dividend` | `kt:share-repurchase` |
 | `kt:causation-and-effectuation-2001` | `kt:effectuation` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:centralization-and-decentralization` | `kt:span-of-control` |
@@ -566,6 +567,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rolls-royce` | `kt:servitization` |
 | `kt:ronald-coase` | `kt:transaction-cost-economics` |
 | `kt:royal-dutch-shell` | `kt:scenario-planning` |
+| `kt:rule-10b-18` | `kt:share-repurchase` |
 | `kt:sam-walton` | `kt:walmart` |
 | `kt:sandra-vandermerwe` | `kt:servitization` |
 | `kt:sap` | `kt:enterprise-resource-planning` |
@@ -587,7 +589,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:shareholder-activism` | `kt:blockbuster-decline` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:short-term-rental-regulation` | `kt:sharing-economy` |
-| `kt:signaling-theory` | `kt:information-asymmetry` |
 | `kt:single-entry-bookkeeping` | `kt:double-entry-bookkeeping` |
 | `kt:small-business-act` | `kt:small-business-set-asides` |
 | `kt:small-business-administration` | `kt:small-business-set-asides` |

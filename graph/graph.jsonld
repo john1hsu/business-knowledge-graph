@@ -9980,6 +9980,115 @@
       ]
     },
     {
+      "@id": "kt:share-repurchase",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Share Repurchases: Returning Cash by Buying Back Stock",
+      "skos:definition": "A share repurchase (buyback) is a company's purchase of its own outstanding shares, through the open market, a tender offer or a negotiated deal, as a way to return cash to shareholders that is more flexible than a cash dividend; it is praised as a signal of undervaluation and a check on wasteful spending, and criticised as a tool for propping up earnings per share and executive pay.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Division of Market Regulation: Answers to Frequently Asked Questions Concerning Rule 10b-18",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/files/divisions/marketreg/r10b18faq0504.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Market Underreaction to Open Market Share Repurchases",
+          "dcterms:publisher": "National Bureau of Economic Research, Working Paper 4965 (published in Journal of Financial Economics 39, 1995)",
+          "schema:url": "https://www.nber.org/papers/w4965",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Relative Signalling Power of Dutch-Auction and Fixed-Price Self-Tender Offers and Open-Market Share Repurchases",
+          "dcterms:publisher": "Journal of Finance 46(4), 1243-1271 (via RePEc/IDEAS)",
+          "schema:url": "https://ideas.repec.org/a/bla/jfinan/v46y1991i4p1243-71.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Profits Without Prosperity: How Stock Buybacks Manipulate the Market, and Leave Most Americans Worse Off",
+          "dcterms:publisher": "Institute for New Economic Thinking (William Lazonick, conference paper)",
+          "schema:url": "https://ineteconomics.org/uploads/papers/LAZONICK_William_Profits-without-Prosperity-20140406.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Are Buybacks Really Shortchanging Investment?",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance (summary of Harvard Business Review article)",
+          "schema:url": "https://corpgov.law.harvard.edu/2018/03/19/are-buybacks-really-shortchanging-investment",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Apple Inc. Form 10-K for the fiscal year ended September 27, 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/share-repurchase.md",
+      "skos:altLabel": [
+        "share repurchase",
+        "stock buyback",
+        "share buyback",
+        "buyback",
+        "stock repurchase"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:dividend-policy"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:capital-structure"
+        },
+        {
+          "@id": "kt:executive-compensation"
+        },
+        {
+          "@id": "kt:efficient-market-hypothesis"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:rule-10b-18"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:signaling-theory"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:apple-inc"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:cash-dividend"
+        }
+      ]
+    },
+    {
       "@id": "kt:weighted-average-cost-of-capital",
       "@type": "kto:Metric",
       "skos:prefLabel": "Weighted Average Cost of Capital",

@@ -5425,6 +5425,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/gaps-model-of-service-quality> .
 <https://github.com/john1hsu/business-knowledge-graph/id/servqual> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/servqual-multiple-item-scale-1988> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2000/01/rdf-schema#label> "Share Repurchases: Returning Cash by Buying Back Stock" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#altLabel> "buyback" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#altLabel> "share buyback" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#altLabel> "share repurchase" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#altLabel> "stock buyback" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#altLabel> "stock repurchase" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/dividend-policy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#definition> "A share repurchase (buyback) is a company's purchase of its own outstanding shares, through the open market, a tender offer or a negotiated deal, as a way to return cash to shareholders that is more flexible than a cash dividend; it is praised as a signal of undervaluation and a check on wasteful spending, and criticised as a tool for propping up earnings per share and executive pay." .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#prefLabel> "Share Repurchases: Returning Cash by Buying Back Stock" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/capital-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/efficient-market-hypothesis> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/cash-dividend> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/signaling-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/share-repurchase> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/rule-10b-18> .
 <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Theory> .
 <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> <http://www.w3.org/2000/01/rdf-schema#label> "Shareholder Primacy: The Corporate Objective of Maximizing Shareholder Value" .
@@ -11671,6 +11701,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/servqual/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4852020" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s1> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s1> <http://purl.org/dc/terms/title> "Division of Market Regulation: Answers to Frequently Asked Questions Concerning Rule 10b-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s1> <https://schema.org/url> "https://www.sec.gov/files/divisions/marketreg/r10b18faq0504.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s2> <http://purl.org/dc/terms/publisher> "National Bureau of Economic Research, Working Paper 4965 (published in Journal of Financial Economics 39, 1995)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s2> <http://purl.org/dc/terms/title> "Market Underreaction to Open Market Share Repurchases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s2> <https://schema.org/url> "https://www.nber.org/papers/w4965" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s3> <http://purl.org/dc/terms/publisher> "Journal of Finance 46(4), 1243-1271 (via RePEc/IDEAS)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s3> <http://purl.org/dc/terms/title> "The Relative Signalling Power of Dutch-Auction and Fixed-Price Self-Tender Offers and Open-Market Share Repurchases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s3> <https://schema.org/url> "https://ideas.repec.org/a/bla/jfinan/v46y1991i4p1243-71.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s4> <http://purl.org/dc/terms/publisher> "Institute for New Economic Thinking (William Lazonick, conference paper)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s4> <http://purl.org/dc/terms/title> "Profits Without Prosperity: How Stock Buybacks Manipulate the Market, and Leave Most Americans Worse Off" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s4> <https://schema.org/url> "https://ineteconomics.org/uploads/papers/LAZONICK_William_Profits-without-Prosperity-20140406.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s5> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance (summary of Harvard Business Review article)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s5> <http://purl.org/dc/terms/title> "Are Buybacks Really Shortchanging Investment?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s5> <https://schema.org/url> "https://corpgov.law.harvard.edu/2018/03/19/are-buybacks-really-shortchanging-investment" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s6> <http://purl.org/dc/terms/title> "Apple Inc. Form 10-K for the fiscal year ended September 27, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/share-repurchase/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <http://purl.org/dc/terms/publisher> "The New York Times Magazine, September 13, 1970 (copy hosted by University of Pittsburgh)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <http://purl.org/dc/terms/title> "A Friedman Doctrine: The Social Responsibility of Business Is to Increase Its Profits" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/shareholder-primacy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
