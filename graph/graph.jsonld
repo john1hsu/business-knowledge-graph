@@ -24182,6 +24182,99 @@
       ]
     },
     {
+      "@id": "kt:strategic-planning",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Strategic Planning: The Periodic, Formalized Process for Charting Organizational Direction",
+      "skos:definition": "A periodic, more or less formalized organizational process that sets long-term direction by stating a vision and mission, assessing the gap between the current and desired position, setting goals and objectives and monitoring progress; it rose to prominence in the 1960s, was sharply critiqued by Henry Mintzberg in 1994 and survives today mainly as a system for coordinating, communicating and controlling strategy rather than inventing it.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Marketing, 2.1 Developing a Strategic Plan",
+          "dcterms:publisher": "OpenStax (Rice University)",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/2-1-developing-a-strategic-plan",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Rethinking Strategic Planning Part I: Pitfalls and Fallacies",
+          "dcterms:publisher": "Long Range Planning 27(3), 1994 (author's copy at mintzberg.org)",
+          "schema:url": "https://mintzberg.org/sites/default/files/article/download/rethinking_strategic_planning_1.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Rethinking Strategic Planning Part II: New Roles for Planners",
+          "dcterms:publisher": "Long Range Planning, 1994 (author's copy at mintzberg.org)",
+          "schema:url": "https://mintzberg.org/sites/default/files/article/download/rethinking_strategic_planning_2.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Strategic Planning and Firm Performance: A Synthesis of More Than Two Decades of Research",
+          "dcterms:publisher": "Academy of Management Journal, 1994 (record at SUFE Academic Newsletter)",
+          "schema:url": "https://academicnewsletter.sufe.edu.cn/info/363918",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategic Planning Research: Toward a Theory-Driven Agenda",
+          "dcterms:publisher": "Journal of Management (Aston University research repository)",
+          "schema:url": "https://publications.aston.ac.uk/id/eprint/27155/1/Strategic_planning_research_theory_driven_agenda.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Strategic planning in a turbulent environment: evidence from the oil majors",
+          "dcterms:publisher": "Strategic Management Journal 24(6), 2003 (record at IDEAS/RePEc)",
+          "schema:url": "https://ideas.repec.org/a/bla/stratm/v24y2003i6p491-517.html",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/strategy/strategic-planning.md",
+      "skos:altLabel": [
+        "strategic planning",
+        "corporate planning",
+        "formal strategic planning",
+        "strategic plan"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:scenario-planning"
+        },
+        {
+          "@id": "kt:hoshin-kanri"
+        },
+        {
+          "@id": "kt:strategy-execution"
+        },
+        {
+          "@id": "kt:stakeholder-analysis"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:igor-ansoff"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:emergent-strategy"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:general-electric"
+        },
+        {
+          "@id": "kt:royal-dutch-shell"
+        }
+      ]
+    },
+    {
       "@id": "kt:strategic-renewal",
       "@type": "kto:Concept",
       "skos:prefLabel": "Strategic Renewal: Refreshing or Replacing a Firm's Attributes to Sustain Long-Term Prospects",

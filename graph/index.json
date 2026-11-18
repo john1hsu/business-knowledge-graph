@@ -5130,6 +5130,28 @@
     ]
   },
   {
+    "id": "kt:strategic-planning",
+    "title": "Strategic Planning: The Periodic, Formalized Process for Charting Organizational Direction",
+    "aliases": [
+      "strategic planning",
+      "corporate planning",
+      "formal strategic planning",
+      "strategic plan"
+    ],
+    "type": "Practice",
+    "domain": "strategy",
+    "file": "articles/strategy/strategic-planning.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://openstax.org/books/principles-marketing/pages/2-1-developing-a-strategic-plan",
+      "https://mintzberg.org/sites/default/files/article/download/rethinking_strategic_planning_1.pdf",
+      "https://mintzberg.org/sites/default/files/article/download/rethinking_strategic_planning_2.pdf",
+      "https://academicnewsletter.sufe.edu.cn/info/363918",
+      "https://publications.aston.ac.uk/id/eprint/27155/1/Strategic_planning_research_theory_driven_agenda.pdf",
+      "https://ideas.repec.org/a/bla/stratm/v24y2003i6p491-517.html"
+    ]
+  },
+  {
     "id": "kt:strategic-renewal",
     "title": "Strategic Renewal: Refreshing or Replacing a Firm's Attributes to Sustain Long-Term Prospects",
     "aliases": [

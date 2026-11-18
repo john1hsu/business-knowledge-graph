@@ -22,7 +22,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:new-product-development` | `kt:agile-software-development`, `kt:stage-gate-process`, `kt:cannibalization` |
-| `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
@@ -63,6 +62,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
 | `kt:elton-mayo` | `kt:hawthorne-studies`, `kt:organizational-behavior` |
+| `kt:emergent-strategy` | `kt:strategic-management`, `kt:strategic-planning` |
 | `kt:evidence-based-management` | `kt:decision-making`, `kt:organizational-behavior` |
 | `kt:expectancy-theory` | `kt:employee-motivation`, `kt:goal-setting-theory` |
 | `kt:failure-mode-and-effects-analysis` | `kt:fault-tree-analysis`, `kt:root-cause-analysis` |
@@ -73,6 +73,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
+| `kt:general-electric` | `kt:six-sigma`, `kt:strategic-planning` |
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:gillette` | `kt:procter-and-gamble`, `kt:razor-and-blades-model` |
@@ -126,6 +127,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:retail-industry` | `kt:walmart`, `kt:walmart` |
 | `kt:return-on-equity` | `kt:dupont-analysis`, `kt:financial-statement-analysis` |
 | `kt:robert-s-kaplan` | `kt:activity-based-costing`, `kt:balanced-scorecard` |
+| `kt:royal-dutch-shell` | `kt:scenario-planning`, `kt:strategic-planning` |
 | `kt:royal-dutch-shell-twin-shares` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:salesforce` | `kt:deferred-revenue`, `kt:saas-business-model` |
 | `kt:sams-club` | `kt:walmart`, `kt:membership-warehouse-club` |
@@ -301,7 +303,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:efficiency-wages` | `kt:ford-model-t` |
 | `kt:efficient-capital-markets-review-1970` | `kt:efficient-market-hypothesis` |
 | `kt:electric-vehicle` | `kt:automotive-industry` |
-| `kt:emergent-strategy` | `kt:strategic-management` |
 | `kt:employee-voice` | `kt:psychological-safety` |
 | `kt:engaged-scholarship` | `kt:andrew-van-de-ven` |
 | `kt:enterprise-value-multiples` | `kt:ebitda` |
@@ -350,7 +351,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:gary-klein` | `kt:premortem` |
 | `kt:gary-latham` | `kt:goal-setting-theory` |
 | `kt:ge-mckinsey-matrix` | `kt:bcg-growth-share-matrix` |
-| `kt:general-electric` | `kt:six-sigma` |
 | `kt:george-m-beal` | `kt:technology-adoption-life-cycle` |
 | `kt:gig-economy` | `kt:sharing-economy` |
 | `kt:glass-lewis` | `kt:proxy-advisory-firm` |
@@ -386,6 +386,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ideo` | `kt:design-thinking` |
 | `kt:ifrs-18` | `kt:ifrs` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
+| `kt:igor-ansoff` | `kt:strategic-planning` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-engineering` | `kt:frederick-winslow-taylor` |
 | `kt:industry-analysis` | `kt:porters-five-forces` |
@@ -586,7 +587,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:rolls-royce` | `kt:servitization` |
 | `kt:ronald-coase` | `kt:transaction-cost-economics` |
-| `kt:royal-dutch-shell` | `kt:scenario-planning` |
 | `kt:rule-10b-18` | `kt:share-repurchase` |
 | `kt:sam-walton` | `kt:walmart` |
 | `kt:sandra-vandermerwe` | `kt:servitization` |
