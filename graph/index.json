@@ -3341,6 +3341,27 @@
     ]
   },
   {
+    "id": "kt:market-research",
+    "title": "Market Research: Primary and Secondary Data for Business Decisions",
+    "aliases": [
+      "marketing research",
+      "commercial research",
+      "consumer research"
+    ],
+    "type": "Practice",
+    "domain": "marketing",
+    "file": "articles/marketing/market-research.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://openstax.org/books/principles-marketing/pages/6-1-marketing-research-and-big-data",
+      "https://openstax.org/books/principles-marketing/pages/6-3-steps-in-a-successful-marketing-research-plan",
+      "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.51",
+      "https://advertisinghalloffame.org/inductee/charles-coolidge-parlin/",
+      "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+      "https://www.library.hbs.edu/working-knowledge/what-customers-want-from-your-products"
+    ]
+  },
+  {
     "id": "kt:marketing-metrics",
     "title": "Marketing Metrics: Measuring Marketing Performance and Productivity",
     "aliases": [

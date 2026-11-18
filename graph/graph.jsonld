@@ -18067,6 +18067,87 @@
       ]
     },
     {
+      "@id": "kt:market-research",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Market Research: Primary and Secondary Data for Business Decisions",
+      "skos:definition": "The systematic gathering, analysis and reporting of information about customers, competitors and market conditions so that managers can base marketing decisions on evidence rather than assumption, using existing (secondary) data and newly collected (primary) data from surveys, interviews, focus groups, observation and experiments.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "6.1 Marketing Research and Big Data (Principles of Marketing)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/6-1-marketing-research-and-big-data",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "6.3 Steps in a Successful Marketing Research Plan (Principles of Marketing)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/6-3-steps-in-a-successful-marketing-research-plan",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Curtis Publishing Company records (finding aid)",
+          "dcterms:publisher": "University of Pennsylvania Libraries, Kislak Center",
+          "schema:url": "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.51",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Charles Coolidge Parlin (inductee profile)",
+          "dcterms:publisher": "Advertising Hall of Fame",
+          "schema:url": "https://advertisinghalloffame.org/inductee/charles-coolidge-parlin/",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Market Research Analysts (Occupational Outlook Handbook)",
+          "dcterms:publisher": "U.S. Bureau of Labor Statistics",
+          "schema:url": "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "What Customers Want from Your Products",
+          "dcterms:publisher": "HBS Working Knowledge (excerpt of Christensen, Cook and Hall, Harvard Business Review)",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/what-customers-want-from-your-products",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/marketing/market-research.md",
+      "skos:altLabel": [
+        "marketing research",
+        "commercial research",
+        "consumer research"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        },
+        {
+          "@id": "kt:marketing-metrics"
+        },
+        {
+          "@id": "kt:procter-and-gamble"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:charles-coolidge-parlin"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:focus-group"
+        }
+      ]
+    },
+    {
       "@id": "kt:marketing-metrics",
       "@type": "kto:Practice",
       "skos:prefLabel": "Marketing Metrics: Measuring Marketing Performance and Productivity",

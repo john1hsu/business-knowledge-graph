@@ -6,8 +6,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 |---|---|
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:financial-accounting`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
-| `kt:market-research` | `kt:procter-and-gamble`, `kt:competition-in-contracting-act`, `kt:sole-source-contracting`, `kt:customer-development` |
-| `kt:marketing` | `kt:customer-loyalty`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
+| `kt:marketing` | `kt:customer-loyalty`, `kt:market-research`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
@@ -220,6 +219,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:causation-and-effectuation-2001` | `kt:effectuation` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
+| `kt:charles-coolidge-parlin` | `kt:market-research` |
 | `kt:charles-kepner` | `kt:kepner-tregoe-method` |
 | `kt:chris-anderson` | `kt:long-tail` |
 | `kt:christian-gronroos` | `kt:service-quality` |
@@ -331,6 +331,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-reporting-quality` | `kt:non-gaap-financial-measures` |
 | `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
+| `kt:focus-group` | `kt:market-research` |
 | `kt:focused-factory` | `kt:operations-management` |
 | `kt:ford-model-a` | `kt:ford-model-t` |
 | `kt:ford-pinto` | `kt:goal-setting-theory` |

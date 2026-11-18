@@ -3981,6 +3981,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henri-fayol> .
 <https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-mintzberg> .
 <https://github.com/john1hsu/business-knowledge-graph/id/management> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/world-management-survey> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2000/01/rdf-schema#label> "Market Research: Primary and Secondary Data for Business Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#altLabel> "commercial research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#altLabel> "consumer research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#altLabel> "marketing research" .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#definition> "The systematic gathering, analysis and reporting of information about customers, competitors and market conditions so that managers can base marketing decisions on evidence rather than assumption, using existing (secondary) data and newly collected (primary) data from surveys, interviews, focus groups, observation and experiments." .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#prefLabel> "Market Research: Primary and Secondary Data for Business Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/segmentation-targeting-positioning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/charles-coolidge-parlin> .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/market-research> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/focus-group> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-metrics> <http://www.w3.org/2000/01/rdf-schema#label> "Marketing Metrics: Measuring Marketing Performance and Productivity" .
@@ -10323,6 +10345,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/management/s6> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/certain-management-practices-like-certain-technologies-boost-company-performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s1> <http://purl.org/dc/terms/title> "6.1 Marketing Research and Big Data (Principles of Marketing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s1> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/6-1-marketing-research-and-big-data" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s2> <http://purl.org/dc/terms/title> "6.3 Steps in a Successful Marketing Research Plan (Principles of Marketing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s2> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/6-3-steps-in-a-successful-marketing-research-plan" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s3> <http://purl.org/dc/terms/publisher> "University of Pennsylvania Libraries, Kislak Center" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s3> <http://purl.org/dc/terms/title> "Curtis Publishing Company records (finding aid)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s3> <https://schema.org/url> "https://findingaids.library.upenn.edu/records/UPENN_RBML_PUSP.MS.COLL.51" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s4> <http://purl.org/dc/terms/publisher> "Advertising Hall of Fame" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s4> <http://purl.org/dc/terms/title> "Charles Coolidge Parlin (inductee profile)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s4> <https://schema.org/url> "https://advertisinghalloffame.org/inductee/charles-coolidge-parlin/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s5> <http://purl.org/dc/terms/publisher> "U.S. Bureau of Labor Statistics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s5> <http://purl.org/dc/terms/title> "Market Research Analysts (Occupational Outlook Handbook)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s5> <https://schema.org/url> "https://www.bls.gov/ooh/business-and-financial/market-research-analysts.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s6> <http://purl.org/dc/terms/publisher> "HBS Working Knowledge (excerpt of Christensen, Cook and Hall, Harvard Business Review)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s6> <http://purl.org/dc/terms/title> "What Customers Want from Your Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/market-research/s6> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/what-customers-want-from-your-products" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s1> <http://purl.org/dc/terms/publisher> "Journal of Marketing 68(4), American Marketing Association (open copy via CORE)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s1> <http://purl.org/dc/terms/title> "Measuring Marketing Productivity: Current Knowledge and Future Directions" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-metrics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
