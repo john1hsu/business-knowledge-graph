@@ -4867,6 +4867,109 @@
       ]
     },
     {
+      "@id": "kt:procter-and-gamble",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Procter & Gamble: From Cincinnati Soap and Candles to Global Brand Portfolio",
+      "skos:definition": "The Cincinnati consumer-goods company founded in 1837 by William Procter and James Gamble, where Neil McElroy's 1931 memo created the modern brand-management system and where Connect + Develop became a reference case of open innovation; it reported $87.0 billion in net sales in fiscal 2026.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Procter & Gamble Company",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Procter-and-Gamble-Company",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "American Business, 1920-2000: How It Worked—P&G: Changing the Face of Consumer Marketing",
+          "dcterms:publisher": "Harvard Business School Working Knowledge (excerpt from Thomas K. McCraw, Harlan Davidson)",
+          "schema:url": "https://hbswk.hbs.edu/archive/american-business-1920-2000-how-it-worked-pg-changing-the-face-of-consumer-marketing",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Connect and Develop: Inside Procter & Gamble's New Model for Innovation (HBR, March 2006, excerpt)",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://hbswk.hbs.edu/archive/5258.html",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Procter & Gamble Company Form 10-K for the fiscal year ended June 30, 2026",
+          "dcterms:publisher": "The Procter & Gamble Company (SEC filing, hosted by P&G Investor Relations)",
+          "schema:url": "https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_form_10k.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "P&G to acquire The Gillette Company (Form 8-K, Exhibit 99.1, January 2005)",
+          "dcterms:publisher": "The Procter & Gamble Company (SEC EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/0000080424/000091412105000257/pr705153-ex99_1.txt",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "P&G to focus on core brands",
+          "dcterms:publisher": "Chain Store Age",
+          "schema:url": "https://chainstoreage.com/news/pg-focus-core-brands",
+          "kto:sourceType": "news"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/procter-and-gamble.md",
+      "skos:altLabel": [
+        "Procter & Gamble",
+        "P&G",
+        "The Procter & Gamble Company",
+        "Procter and Gamble"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:consumer-packaged-goods-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:brand-equity"
+        },
+        {
+          "@id": "kt:market-research"
+        },
+        {
+          "@id": "kt:centralization-and-decentralization"
+        },
+        {
+          "@id": "kt:mergers-and-acquisitions"
+        },
+        {
+          "@id": "kt:shareholder-activism"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:consumer-packaged-goods-industry"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:brand-management"
+        },
+        {
+          "@id": "kt:open-innovation"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:gillette"
+        }
+      ],
+      "kto:competesWith": [
+        {
+          "@id": "kt:unilever"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:walmart"
+        }
+      ]
+    },
+    {
       "@id": "kt:scientific-management",
       "@type": "kto:Practice",
       "skos:prefLabel": "Scientific Management: Taylor's System of Task Study and Standardized Work",

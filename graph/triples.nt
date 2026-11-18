@@ -4966,6 +4966,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/wells-fargo-cross-selling-scandal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
 <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/economic-theory-of-agency-ross-1973> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2000/01/rdf-schema#label> "Procter & Gamble: From Cincinnati Soap and Candles to Global Brand Portfolio" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#altLabel> "P&G" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#altLabel> "Procter & Gamble" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#altLabel> "Procter and Gamble" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#altLabel> "The Procter & Gamble Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/consumer-packaged-goods-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#definition> "The Cincinnati consumer-goods company founded in 1837 by William Procter and James Gamble, where Neil McElroy's 1931 memo created the modern brand-management system and where Connect + Develop became a reference case of open innovation; it reported $87.0 billion in net sales in fiscal 2026." .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#prefLabel> "Procter & Gamble: From Cincinnati Soap and Candles to Global Brand Portfolio" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/centralization-and-decentralization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/market-research> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-activism> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <https://github.com/john1hsu/business-knowledge-graph/ontology#competesWith> <https://github.com/john1hsu/business-knowledge-graph/id/unilever> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/walmart> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/brand-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/gillette> .
+<https://github.com/john1hsu/business-knowledge-graph/id/procter-and-gamble> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/consumer-packaged-goods-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/product-market-fit> <http://www.w3.org/2000/01/rdf-schema#label> "Product-Market Fit: When Customer Demand Pulls a Startup Forward" .
@@ -11322,6 +11350,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/principal-agent-problem/s6> <https://schema.org/url> "https://www.consumerfinance.gov/enforcement/actions/wells-fargo-bank-2016/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s1> <http://purl.org/dc/terms/title> "Procter & Gamble Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s1> <https://schema.org/url> "https://www.britannica.com/topic/Procter-and-Gamble-Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s2> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge (excerpt from Thomas K. McCraw, Harlan Davidson)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s2> <http://purl.org/dc/terms/title> "American Business, 1920-2000: How It Worked—P&G: Changing the Face of Consumer Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s2> <https://schema.org/url> "https://hbswk.hbs.edu/archive/american-business-1920-2000-how-it-worked-pg-changing-the-face-of-consumer-marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s3> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s3> <http://purl.org/dc/terms/title> "Connect and Develop: Inside Procter & Gamble's New Model for Innovation (HBR, March 2006, excerpt)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s3> <https://schema.org/url> "https://hbswk.hbs.edu/archive/5258.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s4> <http://purl.org/dc/terms/publisher> "The Procter & Gamble Company (SEC filing, hosted by P&G Investor Relations)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s4> <http://purl.org/dc/terms/title> "The Procter & Gamble Company Form 10-K for the fiscal year ended June 30, 2026" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s4> <https://schema.org/url> "https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_form_10k.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s5> <http://purl.org/dc/terms/publisher> "The Procter & Gamble Company (SEC EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s5> <http://purl.org/dc/terms/title> "P&G to acquire The Gillette Company (Form 8-K, Exhibit 99.1, January 2005)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s5> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/0000080424/000091412105000257/pr705153-ex99_1.txt" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s6> <http://purl.org/dc/terms/publisher> "Chain Store Age" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s6> <http://purl.org/dc/terms/title> "P&G to focus on core brands" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/procter-and-gamble/s6> <https://schema.org/url> "https://chainstoreage.com/news/pg-focus-core-brands" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <http://purl.org/dc/terms/publisher> "Marc Andreessen, June 25, 2007 (reposted by Stanford EE204)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <http://purl.org/dc/terms/title> "The Only Thing That Matters (Part 4 of The Pmarca Guide to Startups)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/product-market-fit/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

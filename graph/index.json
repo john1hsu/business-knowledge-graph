@@ -4168,6 +4168,28 @@
     ]
   },
   {
+    "id": "kt:procter-and-gamble",
+    "title": "Procter & Gamble: From Cincinnati Soap and Candles to Global Brand Portfolio",
+    "aliases": [
+      "Procter & Gamble",
+      "P&G",
+      "The Procter & Gamble Company",
+      "Procter and Gamble"
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/procter-and-gamble.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.britannica.com/topic/Procter-and-Gamble-Company",
+      "https://hbswk.hbs.edu/archive/american-business-1920-2000-how-it-worked-pg-changing-the-face-of-consumer-marketing",
+      "https://hbswk.hbs.edu/archive/5258.html",
+      "https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_form_10k.pdf",
+      "https://www.sec.gov/Archives/edgar/data/0000080424/000091412105000257/pr705153-ex99_1.txt",
+      "https://chainstoreage.com/news/pg-focus-core-brands"
+    ]
+  },
+  {
     "id": "kt:product-market-fit",
     "title": "Product-Market Fit: When Customer Demand Pulls a Startup Forward",
     "aliases": [

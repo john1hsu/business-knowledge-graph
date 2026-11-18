@@ -7,6 +7,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:financial-accounting`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
+| `kt:market-research` | `kt:procter-and-gamble`, `kt:competition-in-contracting-act`, `kt:sole-source-contracting`, `kt:customer-development` |
 | `kt:marketing` | `kt:customer-loyalty`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
@@ -17,7 +18,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
-| `kt:market-research` | `kt:competition-in-contracting-act`, `kt:sole-source-contracting`, `kt:customer-development` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
@@ -36,14 +36,17 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
 | `kt:bounded-rationality` | `kt:effectuation`, `kt:decision-making` |
+| `kt:brand-management` | `kt:procter-and-gamble`, `kt:brand-equity` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:business-valuation` | `kt:discounted-cash-flow`, `kt:mergers-and-acquisitions` |
+| `kt:centralization-and-decentralization` | `kt:procter-and-gamble`, `kt:span-of-control` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:cisco-systems` | `kt:bill-of-materials`, `kt:inventory-management` |
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
+| `kt:consumer-packaged-goods-industry` | `kt:procter-and-gamble`, `kt:procter-and-gamble` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix` |
@@ -71,6 +74,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
+| `kt:gillette` | `kt:procter-and-gamble`, `kt:razor-and-blades-model` |
 | `kt:hard-disk-drive-industry` | `kt:cannibalization`, `kt:experience-curve` |
 | `kt:henry-chesbrough` | `kt:business-model-innovation`, `kt:open-innovation` |
 | `kt:henry-ford` | `kt:ford-model-t`, `kt:taiichi-ohno` |
@@ -118,7 +122,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:payback-period` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:private-equity` | `kt:leveraged-buyout`, `kt:venture-capital` |
-| `kt:procter-and-gamble` | `kt:open-innovation`, `kt:bullwhip-effect` |
 | `kt:prospect-theory` | `kt:behavioral-finance`, `kt:decision-making` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:regulation-g` | `kt:ebitda`, `kt:non-gaap-financial-measures` |
@@ -134,6 +137,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
 | `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
 | `kt:servperf` | `kt:service-quality`, `kt:servqual` |
+| `kt:shareholder-activism` | `kt:blockbuster-decline`, `kt:procter-and-gamble` |
 | `kt:signaling-theory` | `kt:share-repurchase`, `kt:information-asymmetry` |
 | `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
@@ -196,7 +200,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:brainstorming` | `kt:nominal-group-technique` |
-| `kt:brand-management` | `kt:brand-equity` |
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
 | `kt:bundling` | `kt:price-discrimination` |
 | `kt:bureaucracy` | `kt:max-weber` |
@@ -216,7 +219,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-dividend` | `kt:share-repurchase` |
 | `kt:causation-and-effectuation-2001` | `kt:effectuation` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
-| `kt:centralization-and-decentralization` | `kt:span-of-control` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:charles-kepner` | `kt:kepner-tregoe-method` |
 | `kt:chris-anderson` | `kt:long-tail` |
@@ -348,7 +350,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:general-electric` | `kt:six-sigma` |
 | `kt:george-m-beal` | `kt:technology-adoption-life-cycle` |
 | `kt:gig-economy` | `kt:sharing-economy` |
-| `kt:gillette` | `kt:razor-and-blades-model` |
 | `kt:glass-lewis` | `kt:proxy-advisory-firm` |
 | `kt:google-project-oxygen` | `kt:google-project-aristotle` |
 | `kt:gordon-moore` | `kt:intel` |
@@ -595,7 +596,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
 | `kt:seven-wastes` | `kt:taiichi-ohno` |
 | `kt:shared-mental-models` | `kt:team-effectiveness` |
-| `kt:shareholder-activism` | `kt:blockbuster-decline` |
 | `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:short-term-rental-regulation` | `kt:sharing-economy` |
 | `kt:single-entry-bookkeeping` | `kt:double-entry-bookkeeping` |
@@ -671,6 +671,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:two-part-tariff` | `kt:membership-warehouse-club` |
 | `kt:uber` | `kt:sharing-economy` |
 | `kt:uncertainty-and-the-welfare-economics-of-medical-care-1963` | `kt:moral-hazard` |
+| `kt:unilever` | `kt:procter-and-gamble` |
 | `kt:united-states-v-google` | `kt:antitrust-law` |
 | `kt:unity-of-command` | `kt:henri-fayol` |
 | `kt:user-innovation` | `kt:open-innovation` |
