@@ -1853,6 +1853,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/an-experimental-application-of-the-delphi-method-to-the-use-of-experts-1963> .
 <https://github.com/john1hsu/business-knowledge-graph/id/delphi-method> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/groupthink> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2000/01/rdf-schema#label> "Design Thinking: Human-Centered Innovation Through Empathy, Ideation and Prototyping" .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#altLabel> "design thinking process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#altLabel> "design thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#altLabel> "design-thinking approach" .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/structured-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#definition> "A problem-solving approach, rooted in design theory and popularized for managers by IDEO's Tim Brown and Stanford's d.school in the 2000s, that starts from close observation of users, frames ill-defined problems iteratively, and tests ideas through rapid, cheap prototypes before committing resources." .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#prefLabel> "Design Thinking: Human-Centered Innovation Through Empathy, Ideation and Prototyping" .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agile-software-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/customer-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jobs-to-be-done> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/lean-startup> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/psychological-safety> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/tim-brown> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/hypothesis-driven-problem-solving> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "consulting-and-problem-solving" .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ideo> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/brainstorming> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/prototyping> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/abductive-reasoning> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/richard-buchanan> .
+<https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/wicked-problems> .
 <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/devils-advocacy> <http://www.w3.org/2000/01/rdf-schema#label> "Devil's Advocate Method" .
@@ -7908,6 +7938,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/delphi-method/s6> <https://schema.org/url> "https://pmc.ncbi.nlm.nih.gov/articles/PMC4405502" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s1> <http://purl.org/dc/terms/publisher> "Harvard Business Review (reprint hosted by Design Literacy)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s1> <http://purl.org/dc/terms/title> "Design Thinking (Harvard Business Review, June 2008)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s1> <https://schema.org/url> "https://designliteracy.net/wp-content/uploads/2023/06/Brown-2008.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s2> <http://purl.org/dc/terms/publisher> "Design Issues, MIT Press (copy hosted at web.mit.edu)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s2> <http://purl.org/dc/terms/title> "Wicked Problems in Design Thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s2> <https://schema.org/url> "https://web.mit.edu/jrankin/www/engin_as_lib_art/Design_thinking.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s3> <http://purl.org/dc/terms/publisher> "Journal of Product Innovation Management (via University of Bologna repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s3> <http://purl.org/dc/terms/title> "Doing Design Thinking: Conceptual Review, Synthesis, and Research Agenda (accepted manuscript)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s3> <https://schema.org/url> "https://cris.unibo.it/retrieve/e1dcb339-0046-7715-e053-1705fe0a6cc9/Micheli_et_al-2018-Journal_of_Product_Innovation_Management.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s4> <http://purl.org/dc/terms/publisher> "Darden Ideas to Action, University of Virginia Darden School of Business" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s4> <http://purl.org/dc/terms/title> "7 steps of design thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s4> <https://schema.org/url> "https://ideas.darden.virginia.edu/7-steps-of-design-thinking" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s5> <http://purl.org/dc/terms/publisher> "Stanford University School of Engineering" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s5> <http://purl.org/dc/terms/title> "Designing for the future (Stanford Engineering 1925–2025)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/design-thinking/s5> <https://schema.org/url> "https://engineering100.stanford.edu/stories/designing-for-the-future" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://purl.org/dc/terms/title> "Devil's advocate" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/devils-advocacy/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

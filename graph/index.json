@@ -1550,6 +1550,26 @@
     ]
   },
   {
+    "id": "kt:design-thinking",
+    "title": "Design Thinking: Human-Centered Innovation Through Empathy, Ideation and Prototyping",
+    "aliases": [
+      "design thinking",
+      "design thinking process",
+      "design-thinking approach"
+    ],
+    "type": "Practice",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/design-thinking.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://designliteracy.net/wp-content/uploads/2023/06/Brown-2008.pdf",
+      "https://web.mit.edu/jrankin/www/engin_as_lib_art/Design_thinking.pdf",
+      "https://cris.unibo.it/retrieve/e1dcb339-0046-7715-e053-1705fe0a6cc9/Micheli_et_al-2018-Journal_of_Product_Innovation_Management.pdf",
+      "https://ideas.darden.virginia.edu/7-steps-of-design-thinking",
+      "https://engineering100.stanford.edu/stories/designing-for-the-future"
+    ]
+  },
+  {
     "id": "kt:devils-advocacy",
     "title": "Devil's Advocate Method",
     "aliases": [

@@ -13,6 +13,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
+| `kt:agile-software-development` | `kt:design-thinking`, `kt:stage-gate-process`, `kt:kanban` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
@@ -26,7 +27,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
 | `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
-| `kt:agile-software-development` | `kt:stage-gate-process`, `kt:kanban` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:alfred-marshall` | `kt:microeconomics`, `kt:price-elasticity` |
@@ -36,6 +36,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
 | `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
 | `kt:bounded-rationality` | `kt:effectuation`, `kt:decision-making` |
+| `kt:brainstorming` | `kt:design-thinking`, `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:procter-and-gamble`, `kt:brand-equity` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
@@ -153,6 +154,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
 | `kt:a-resource-based-view-of-the-firm-1984` | `kt:resource-based-view` |
+| `kt:abductive-reasoning` | `kt:design-thinking` |
 | `kt:absorptive-capacity-a-new-perspective-on-learning-and-innovation-1990` | `kt:absorptive-capacity` |
 | `kt:access-based-consumption` | `kt:sharing-economy` |
 | `kt:accounting` | `kt:financial-accounting` |
@@ -198,7 +200,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:boeing-737-max-crisis` | `kt:caremark-oversight-duty` |
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
-| `kt:brainstorming` | `kt:nominal-group-technique` |
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
 | `kt:bundling` | `kt:price-discrimination` |
 | `kt:bureaucracy` | `kt:max-weber` |
@@ -380,6 +381,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ias-2-inventories` | `kt:inventory-costing-methods` |
 | `kt:iasb-conceptual-framework` | `kt:fasb-conceptual-framework` |
 | `kt:ibm-system-360` | `kt:computer-industry` |
+| `kt:ideo` | `kt:design-thinking` |
 | `kt:ifrs-18` | `kt:ifrs` |
 | `kt:ifrs-sustainability-disclosure-standards` | `kt:esg` |
 | `kt:indirect-approach` | `kt:pyramid-principle` |
@@ -541,6 +543,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
 | `kt:proprietary-software-licensing` | `kt:open-source-business-model` |
 | `kt:prospective-hindsight` | `kt:premortem` |
+| `kt:prototyping` | `kt:design-thinking` |
 | `kt:psychological-safety-and-learning-behavior-in-work-teams` | `kt:psychological-safety` |
 | `kt:pyramid-of-corporate-social-responsibility` | `kt:corporate-social-responsibility` |
 | `kt:pyramid-scheme` | `kt:direct-selling` |
@@ -564,6 +567,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:return-on-marketing-investment` | `kt:marketing-metrics` |
 | `kt:revenue-premium` | `kt:brand-equity` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
+| `kt:richard-buchanan` | `kt:design-thinking` |
 | `kt:rjr-nabisco-buyout` | `kt:leveraged-buyout` |
 | `kt:robert-b-wilson` | `kt:bengt-holmstrom` |
 | `kt:robert-burgelman` | `kt:strategic-renewal` |
@@ -660,6 +664,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:theory-x-and-theory-y` | `kt:management-by-objectives` |
 | `kt:threat-rigidity` | `kt:corporate-turnaround` |
+| `kt:tim-brown` | `kt:design-thinking` |
 | `kt:time-driven-activity-based-costing` | `kt:activity-based-costing` |
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
 | `kt:trade-credit` | `kt:working-capital` |
@@ -690,6 +695,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:wesley-cohen` | `kt:absorptive-capacity` |
 | `kt:what-is-strategy-1996` | `kt:operational-effectiveness` |
 | `kt:who-cares-wins-report` | `kt:esg` |
+| `kt:wicked-problems` | `kt:design-thinking` |
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-hewlett` | `kt:hewlett-packard` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |

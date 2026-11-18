@@ -7474,6 +7474,112 @@
       ]
     },
     {
+      "@id": "kt:design-thinking",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Design Thinking: Human-Centered Innovation Through Empathy, Ideation and Prototyping",
+      "skos:definition": "A problem-solving approach, rooted in design theory and popularized for managers by IDEO's Tim Brown and Stanford's d.school in the 2000s, that starts from close observation of users, frames ill-defined problems iteratively, and tests ideas through rapid, cheap prototypes before committing resources.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Design Thinking (Harvard Business Review, June 2008)",
+          "dcterms:publisher": "Harvard Business Review (reprint hosted by Design Literacy)",
+          "schema:url": "https://designliteracy.net/wp-content/uploads/2023/06/Brown-2008.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Wicked Problems in Design Thinking",
+          "dcterms:publisher": "Design Issues, MIT Press (copy hosted at web.mit.edu)",
+          "schema:url": "https://web.mit.edu/jrankin/www/engin_as_lib_art/Design_thinking.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Doing Design Thinking: Conceptual Review, Synthesis, and Research Agenda (accepted manuscript)",
+          "dcterms:publisher": "Journal of Product Innovation Management (via University of Bologna repository)",
+          "schema:url": "https://cris.unibo.it/retrieve/e1dcb339-0046-7715-e053-1705fe0a6cc9/Micheli_et_al-2018-Journal_of_Product_Innovation_Management.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "7 steps of design thinking",
+          "dcterms:publisher": "Darden Ideas to Action, University of Virginia Darden School of Business",
+          "schema:url": "https://ideas.darden.virginia.edu/7-steps-of-design-thinking",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Designing for the future (Stanford Engineering 1925–2025)",
+          "dcterms:publisher": "Stanford University School of Engineering",
+          "schema:url": "https://engineering100.stanford.edu/stories/designing-for-the-future",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/design-thinking.md",
+      "skos:altLabel": [
+        "design thinking",
+        "design thinking process",
+        "design-thinking approach"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:tim-brown"
+        },
+        {
+          "@id": "kt:lean-startup"
+        },
+        {
+          "@id": "kt:customer-development"
+        },
+        {
+          "@id": "kt:jobs-to-be-done"
+        },
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        },
+        {
+          "@id": "kt:agile-software-development"
+        },
+        {
+          "@id": "kt:psychological-safety"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:richard-buchanan"
+        },
+        {
+          "@id": "kt:wicked-problems"
+        },
+        {
+          "@id": "kt:abductive-reasoning"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:prototyping"
+        },
+        {
+          "@id": "kt:brainstorming"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:ideo"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        }
+      ]
+    },
+    {
       "@id": "kt:eighty-twenty-rule",
       "@type": "kto:Concept",
       "skos:prefLabel": "80/20 Rule",
