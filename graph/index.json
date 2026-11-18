@@ -3382,6 +3382,27 @@
     ]
   },
   {
+    "id": "kt:michael-porter",
+    "title": "Michael E. Porter: Harvard Scholar of Industry Structure, Positioning and Clusters",
+    "aliases": [
+      "Michael Porter",
+      "Michael E. Porter",
+      "Michael Eugene Porter"
+    ],
+    "type": "Person",
+    "domain": "strategy",
+    "file": "articles/strategy/michael-porter.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.isc.hbs.edu/about-michael-porter/biography/Pages/default.aspx",
+      "https://encyclopedia.com/arts/culture-magazines/porter-michael-eugene",
+      "https://store.hbr.org/product/the-five-competitive-forces-that-shape-strategy/R0801E",
+      "https://www.oreilly.com/library/view/hbrs-10-must/9781633694316/chapter001.html",
+      "https://store.hbr.org/product/clusters-and-the-new-economics-of-competition/98609",
+      "https://insight.kellogg.northwestern.edu/blogs/entry/the_end_of_strategy_our_faculty_discusses"
+    ]
+  },
+  {
     "id": "kt:microeconomics",
     "title": "Microeconomics: How Households and Firms Allocate Scarce Resources Through Markets and Prices",
     "aliases": [

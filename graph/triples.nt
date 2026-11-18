@@ -4021,6 +4021,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/executive-compensation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/jensens-alpha> .
 <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2000/01/rdf-schema#label> "Michael E. Porter: Harvard Scholar of Industry Structure, Positioning and Clusters" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#altLabel> "Michael E. Porter" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#altLabel> "Michael Eugene Porter" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#altLabel> "Michael Porter" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#definition> "Harvard Business School economist (born 1947) whose industrial-organization approach to strategy produced the five forces, the value chain and activity-system positioning, and who later extended competitiveness thinking to clusters, nations, health care and shared value." .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Michael E. Porter: Harvard Scholar of Industry Structure, Positioning and Clusters" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/competitive-advantage> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/creating-shared-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/industry-clusters> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/operational-effectiveness> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/porters-five-forces> .
+<https://github.com/john1hsu/business-knowledge-graph/id/michael-porter> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/value-chain> .
 <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
 <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> <http://www.w3.org/2000/01/rdf-schema#label> "Microeconomics: How Households and Firms Allocate Scarce Resources Through Markets and Prices" .
@@ -10077,6 +10101,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/michael-c-jensen/s6> <https://schema.org/url> "https://conference.nber.org/confer/2005/si2005/cg/jensen.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s1> <http://purl.org/dc/terms/publisher> "Institute for Strategy & Competitiveness, Harvard Business School" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s1> <http://purl.org/dc/terms/title> "Michael E. Porter: Biography" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s1> <https://schema.org/url> "https://www.isc.hbs.edu/about-michael-porter/biography/Pages/default.aspx" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s2> <http://purl.org/dc/terms/publisher> "Encyclopedia.com (Contemporary Authors)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s2> <http://purl.org/dc/terms/title> "Porter, Michael E(ugene)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s2> <https://schema.org/url> "https://encyclopedia.com/arts/culture-magazines/porter-michael-eugene" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s3> <http://purl.org/dc/terms/publisher> "Harvard Business Review, January 2008 (Michael E. Porter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s3> <http://purl.org/dc/terms/title> "The Five Competitive Forces That Shape Strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s3> <https://schema.org/url> "https://store.hbr.org/product/the-five-competitive-forces-that-shape-strategy/R0801E" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review Press via O'Reilly (Michael E. Porter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s4> <http://purl.org/dc/terms/title> "What Is Strategy? (chapter in HBR's 10 Must Reads on Strategy for Healthcare)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s4> <https://schema.org/url> "https://www.oreilly.com/library/view/hbrs-10-must/9781633694316/chapter001.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s5> <http://purl.org/dc/terms/publisher> "Harvard Business Review, November 1998 (Michael E. Porter)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s5> <http://purl.org/dc/terms/title> "Clusters and the New Economics of Competition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s5> <https://schema.org/url> "https://store.hbr.org/product/clusters-and-the-new-economics-of-competition/98609" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s6> <http://purl.org/dc/terms/publisher> "Kellogg Insight, Kellogg School of Management, Northwestern University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s6> <http://purl.org/dc/terms/title> "The End of Strategy? Our Faculty Discusses" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/michael-porter/s6> <https://schema.org/url> "https://insight.kellogg.northwestern.edu/blogs/entry/the_end_of_strategy_our_faculty_discusses" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <http://purl.org/dc/terms/title> "1.2 Microeconomics and Macroeconomics (Principles of Microeconomics 3e)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/microeconomics/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -21,7 +21,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
-| `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:sole-source-contracting` | `kt:competition-in-contracting-act`, `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
@@ -51,6 +50,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
+| `kt:creating-shared-value` | `kt:corporate-social-responsibility`, `kt:michael-porter` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:current-ratio` | `kt:financial-statement-analysis`, `kt:working-capital` |
 | `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
@@ -247,7 +247,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:cost-volume-profit-analysis` | `kt:cost-structure` |
 | `kt:creating-public-value-1995` | `kt:public-value` |
-| `kt:creating-shared-value` | `kt:corporate-social-responsibility` |
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
 | `kt:dan-schendel` | `kt:strategic-management` |
@@ -383,6 +382,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:indirect-approach` | `kt:pyramid-principle` |
 | `kt:industrial-engineering` | `kt:frederick-winslow-taylor` |
 | `kt:industry-analysis` | `kt:porters-five-forces` |
+| `kt:industry-clusters` | `kt:michael-porter` |
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
@@ -666,6 +666,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:utilitarianism` | `kt:business-ethics` |
 | `kt:valarie-zeithaml` | `kt:gaps-model-of-service-quality` |
 | `kt:value-based-pricing` | `kt:pricing-strategy` |
+| `kt:value-chain` | `kt:michael-porter` |
 | `kt:vendor-managed-inventory` | `kt:bullwhip-effect` |
 | `kt:victims-of-groupthink` | `kt:groupthink` |
 | `kt:vilfredo-pareto` | `kt:eighty-twenty-rule` |
