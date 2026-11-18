@@ -1272,6 +1272,28 @@
     ]
   },
   {
+    "id": "kt:customer-loyalty",
+    "title": "Customer Loyalty: Repeat Patronage and Attitudinal Commitment to a Brand",
+    "aliases": [
+      "brand loyalty",
+      "consumer loyalty",
+      "customer retention loyalty"
+    ],
+    "type": "Concept",
+    "domain": "marketing",
+    "file": "articles/marketing/customer-loyalty.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://rd.springer.com/article/10.1177/0092070394222001",
+      "https://foster.uw.edu/wp-content/uploads/2016/07/12_Oliver_1999.pdf",
+      "https://www.bain.com/insights/zero-defections-quality-comes-to-services-harvard-business-review-hbr/",
+      "https://foster.uw.edu/wp-content/uploads/2016/07/11_Reinartz_Kumar_2002.pdf",
+      "https://openstax.org/books/principles-marketing/pages/1-6-customer-relationship-management-crm",
+      "https://openresearch.lsbu.ac.uk/download/08387f082771262a1dbbd7b4de6429f49d80d28f4f39ee1795230898531e1cd8/407668/DJ%2050%20Years%20on.docx",
+      "https://s203.q4cdn.com/326826266/files/doc_financials/2025/q4/Q4-FY25-Digital-IR-Dashboard.pdf"
+    ]
+  },
+  {
     "id": "kt:customer-relationship-management",
     "title": "Customer Relationship Management (CRM): Building Profitable Long-Term Customer Relationships",
     "aliases": [

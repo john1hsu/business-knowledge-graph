@@ -16484,6 +16484,96 @@
       ]
     },
     {
+      "@id": "kt:customer-loyalty",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Customer Loyalty: Repeat Patronage and Attitudinal Commitment to a Brand",
+      "skos:definition": "A customer's continued patronage of a brand or supplier backed by a favourable relative attitude toward it; scholars distinguish behavioural loyalty (repeat buying) from attitudinal loyalty (preference and commitment), and the managerial case for loyalty rests on contested claims that retained customers are more profitable.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Customer Loyalty: Toward an Integrated Conceptual Framework",
+          "dcterms:publisher": "Journal of the Academy of Marketing Science 22(2), 99–113 (1994), doi:10.1177/0092070394222001, Springer",
+          "schema:url": "https://rd.springer.com/article/10.1177/0092070394222001",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Whence Consumer Loyalty?",
+          "dcterms:publisher": "Journal of Marketing 63 (Special Issue), 33–44 (1999); copy hosted by University of Washington Foster School of Business",
+          "schema:url": "https://foster.uw.edu/wp-content/uploads/2016/07/12_Oliver_1999.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Zero Defections: Quality Comes to Services",
+          "dcterms:publisher": "Harvard Business Review, September 1990 (Frederick F. Reichheld and W. Earl Sasser Jr.), summary hosted by Bain & Company",
+          "schema:url": "https://www.bain.com/insights/zero-defections-quality-comes-to-services-harvard-business-review-hbr/",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "The Mismanagement of Customer Loyalty",
+          "dcterms:publisher": "Harvard Business Review, July 2002, 86–94 (Werner Reinartz and V. Kumar); copy hosted by University of Washington Foster School of Business",
+          "schema:url": "https://foster.uw.edu/wp-content/uploads/2016/07/11_Reinartz_Kumar_2002.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "1.6 Customer Relationship Management (CRM)",
+          "dcterms:publisher": "OpenStax, Principles of Marketing",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/1-6-customer-relationship-management-crm",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Double Jeopardy – 50 Years On: Reviving a Forgotten Tool That Still Predicts Brand Loyalty",
+          "dcterms:publisher": "London South Bank University Open Research repository",
+          "schema:url": "https://openresearch.lsbu.ac.uk/download/08387f082771262a1dbbd7b4de6429f49d80d28f4f39ee1795230898531e1cd8/407668/DJ%2050%20Years%20on.docx",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Q4 FY25 Digital IR Dashboard",
+          "dcterms:publisher": "Starbucks Corporation investor relations (data as of September 28, 2025)",
+          "schema:url": "https://s203.q4cdn.com/326826266/files/doc_financials/2025/q4/Q4-FY25-Digital-IR-Dashboard.pdf",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/marketing/customer-loyalty.md",
+      "skos:altLabel": [
+        "brand loyalty",
+        "consumer loyalty",
+        "customer retention loyalty"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing"
+        },
+        {
+          "@id": "kt:relationship-marketing"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:loyalty-program"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:customer-satisfaction"
+        },
+        {
+          "@id": "kt:switching-costs"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:net-promoter-score"
+        },
+        {
+          "@id": "kt:churn-rate"
+        }
+      ]
+    },
+    {
       "@id": "kt:customer-relationship-management",
       "@type": "kto:Practice",
       "skos:prefLabel": "Customer Relationship Management (CRM): Building Profitable Long-Term Customer Relationships",

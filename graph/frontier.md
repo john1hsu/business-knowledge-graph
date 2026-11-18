@@ -10,20 +10,19 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-model-innovation` | `kt:netflix-business-model-shift`, `kt:business-model-canvas`, `kt:business-model`, `kt:servitization` |
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:joseph-juran` | `kt:eighty-twenty-rule`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
+| `kt:marketing` | `kt:customer-loyalty`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
+| `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
-| `kt:customer-loyalty` | `kt:customer-satisfaction`, `kt:net-promoter-score`, `kt:service-quality` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:independent-director` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:cadbury-report` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
-| `kt:marketing` | `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:michael-porter` | `kt:competitive-advantage`, `kt:operational-effectiveness`, `kt:porters-five-forces` |
 | `kt:patient-safety` | `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
-| `kt:relationship-marketing` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:sole-source-contracting` | `kt:competition-in-contracting-act`, `kt:small-business-set-asides`, `kt:truth-in-negotiations-act` |
 | `kt:statistical-process-control` | `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:strategic-planning` | `kt:stakeholder-analysis`, `kt:scenario-planning`, `kt:strategic-management` |
@@ -95,6 +94,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kaizen` | `kt:five-whys`, `kt:pdca-cycle` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:total-quality-management` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
+| `kt:loyalty-program` | `kt:customer-loyalty`, `kt:customer-relationship-management` |
 | `kt:luther-gulick` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:management-control-systems` | `kt:balanced-scorecard`, `kt:performance-management` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:cost-structure` |
@@ -434,7 +434,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:lorenz-curve` | `kt:eighty-twenty-rule` |
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
-| `kt:loyalty-program` | `kt:customer-relationship-management` |
 | `kt:luca-pacioli` | `kt:double-entry-bookkeeping` |
 | `kt:macroeconomics` | `kt:microeconomics` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
