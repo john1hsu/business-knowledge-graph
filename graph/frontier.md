@@ -220,6 +220,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:charles-kepner` | `kt:kepner-tregoe-method` |
 | `kt:chris-anderson` | `kt:long-tail` |
 | `kt:christian-gronroos` | `kt:service-quality` |
+| `kt:chs-inc` | `kt:cooperative` |
 | `kt:civil-service` | `kt:public-administration` |
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:closed-innovation` | `kt:open-innovation` |
@@ -356,6 +357,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hau-l-lee` | `kt:bullwhip-effect` |
 | `kt:hawthorne-effect` | `kt:hawthorne-studies` |
 | `kt:henry-chesbrough` | `kt:open-innovation` |
+| `kt:henry-hansmann` | `kt:cooperative` |
 | `kt:henry-mintzberg` | `kt:henri-fayol` |
 | `kt:herb-kelleher` | `kt:southwest-airlines` |
 | `kt:herbalife` | `kt:direct-selling` |
@@ -365,6 +367,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:high-speed-steel` | `kt:frederick-winslow-taylor` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
+| `kt:hold-up-problem` | `kt:cooperative` |
 | `kt:holding-company` | `kt:google` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
 | `kt:hostile-takeover` | `kt:mergers-and-acquisitions` |
@@ -392,6 +395,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:interchangeable-parts` | `kt:mass-production` |
 | `kt:internal-service-quality` | `kt:service-quality` |
 | `kt:investment-advisers-act-of-1940` | `kt:fiduciary-duty` |
+| `kt:investor-owned-firm` | `kt:cooperative` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:iso-9001` | `kt:pdca-cycle` |
 | `kt:james-f-moore` | `kt:business-ecosystem` |
@@ -558,6 +562,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:robert-noyce` | `kt:intel` |
 | `kt:robin-cooper` | `kt:activity-based-costing` |
 | `kt:robinson-patman-act` | `kt:price-discrimination` |
+| `kt:rochdale-equitable-pioneers-society` | `kt:cooperative` |
 | `kt:rollin-king` | `kt:southwest-airlines` |
 | `kt:rolls-royce` | `kt:servitization` |
 | `kt:ronald-coase` | `kt:transaction-cost-economics` |

@@ -1080,6 +1080,29 @@
     ]
   },
   {
+    "id": "kt:cooperative",
+    "title": "Cooperative: Member-Owned, Democratically Governed Enterprise",
+    "aliases": [
+      "co-operative",
+      "co-op",
+      "cooperative business model",
+      "cooperative enterprise",
+      "patron-owned firm"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/cooperative.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://www.ica.coop/en/cooperatives/cooperative-identity",
+      "https://www.britannica.com/topic/cooperative",
+      "https://openyls.law.yale.edu/server/api/core/bitstreams/534a1c7c-7529-413b-a201-0a0702f2b1ba/content",
+      "https://ccr.ica.coop/sites/ccr.ica.coop/files/attachments/5.3Virginie%20Perotin%20What%20Do%20we%20Really%20Know%20ilo%20ica.pdf",
+      "https://content.govdelivery.com/accounts/USDARD/bulletins/4033d4c",
+      "https://www.sec.gov/Archives/edgar/data/823277/000082327725000038/chscp-20250831.htm"
+    ]
+  },
+  {
     "id": "kt:corporate-decline",
     "title": "Corporate Decline: Why Established Firms Spiral Toward Failure",
     "aliases": [

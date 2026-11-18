@@ -5487,6 +5487,109 @@
       ]
     },
     {
+      "@id": "kt:cooperative",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Cooperative: Member-Owned, Democratically Governed Enterprise",
+      "skos:definition": "A cooperative is an enterprise owned and democratically controlled by the people who use it (its customers, suppliers or workers) rather than by outside investors, with surpluses returned to members in proportion to their patronage instead of in proportion to capital invested.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Cooperative identity, values & principles",
+          "dcterms:publisher": "International Cooperative Alliance",
+          "schema:url": "https://www.ica.coop/en/cooperatives/cooperative-identity",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Cooperative",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/cooperative",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Ownership of the Firm",
+          "dcterms:publisher": "Journal of Law, Economics, and Organization 4(2), 1988 (Yale Law School repository)",
+          "schema:url": "https://openyls.law.yale.edu/server/api/core/bitstreams/534a1c7c-7529-413b-a201-0a0702f2b1ba/content",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "What Do We Really Know About Workers' Co-operatives?",
+          "dcterms:publisher": "Leeds University Business School, paper for the ILO–ICA Research Conference, 2015",
+          "schema:url": "https://ccr.ica.coop/sites/ccr.ica.coop/files/attachments/5.3Virginie%20Perotin%20What%20Do%20we%20Really%20Know%20ilo%20ica.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Agricultural Cooperatives experience strong results despite a slight drop in business volume for 2024",
+          "dcterms:publisher": "USDA Rural Development",
+          "schema:url": "https://content.govdelivery.com/accounts/USDARD/bulletins/4033d4c",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "CHS Inc. Form 10-K for the fiscal year ended August 31, 2025",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/823277/000082327725000038/chscp-20250831.htm",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/business-models/cooperative.md",
+      "skos:altLabel": [
+        "co-operative",
+        "co-op",
+        "cooperative business model",
+        "cooperative enterprise",
+        "patron-owned firm"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:transaction-cost-economics"
+        },
+        {
+          "@id": "kt:separation-of-ownership-and-control"
+        },
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:membership-warehouse-club"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:rochdale-equitable-pioneers-society"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:investor-owned-firm"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:shareholder-primacy"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:hold-up-problem"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:chs-inc"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:henry-hansmann"
+        }
+      ]
+    },
+    {
       "@id": "kt:direct-selling",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Direct Selling",

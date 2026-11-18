@@ -1290,6 +1290,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
 <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-crop-insurance-corp-v-merrill> .
 <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#BusinessModel> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2000/01/rdf-schema#label> "Cooperative: Member-Owned, Democratically Governed Enterprise" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#altLabel> "co-op" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#altLabel> "co-operative" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#altLabel> "cooperative business model" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#altLabel> "cooperative enterprise" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#altLabel> "patron-owned firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-model> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#definition> "A cooperative is an enterprise owned and democratically controlled by the people who use it (its customers, suppliers or workers) rather than by outside investors, with surpluses returned to members in proportion to their patronage instead of in proportion to capital invested." .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cooperative: Member-Owned, Democratically Governed Enterprise" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/membership-warehouse-club> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/investor-owned-firm> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/rochdale-equitable-pioneers-society> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-models" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/chs-inc> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/henry-hansmann> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cooperative> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/hold-up-problem> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> <http://www.w3.org/2000/01/rdf-schema#label> "Corporate Decline: Why Established Firms Spiral Toward Failure" .
@@ -6920,6 +6948,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/contracting-officer/s5> <https://schema.org/url> "https://www.gsaig.gov/sites/default/files/ipa-reports/OIG%20EVALUATION_GSA%20OAS%20Contracting%20Officer%20Warrants%20and%20FAC-C%20Certs%20_September%2016%202015.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s1> <http://purl.org/dc/terms/publisher> "International Cooperative Alliance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s1> <http://purl.org/dc/terms/title> "Cooperative identity, values & principles" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s1> <https://schema.org/url> "https://www.ica.coop/en/cooperatives/cooperative-identity" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s2> <http://purl.org/dc/terms/title> "Cooperative" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s2> <https://schema.org/url> "https://www.britannica.com/topic/cooperative" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s3> <http://purl.org/dc/terms/publisher> "Journal of Law, Economics, and Organization 4(2), 1988 (Yale Law School repository)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s3> <http://purl.org/dc/terms/title> "Ownership of the Firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s3> <https://schema.org/url> "https://openyls.law.yale.edu/server/api/core/bitstreams/534a1c7c-7529-413b-a201-0a0702f2b1ba/content" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s4> <http://purl.org/dc/terms/publisher> "Leeds University Business School, paper for the ILO–ICA Research Conference, 2015" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s4> <http://purl.org/dc/terms/title> "What Do We Really Know About Workers' Co-operatives?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s4> <https://schema.org/url> "https://ccr.ica.coop/sites/ccr.ica.coop/files/attachments/5.3Virginie%20Perotin%20What%20Do%20we%20Really%20Know%20ilo%20ica.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s5> <http://purl.org/dc/terms/publisher> "USDA Rural Development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s5> <http://purl.org/dc/terms/title> "Agricultural Cooperatives experience strong results despite a slight drop in business volume for 2024" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s5> <https://schema.org/url> "https://content.govdelivery.com/accounts/USDARD/bulletins/4033d4c" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s6> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s6> <http://purl.org/dc/terms/title> "CHS Inc. Form 10-K for the fiscal year ended August 31, 2025" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cooperative/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/823277/000082327725000038/chscp-20250831.htm" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-decline/s1> <http://purl.org/dc/terms/publisher> "globADVANTAGE Working Paper 88/2012, Polytechnic Institute of Leiria" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-decline/s1> <http://purl.org/dc/terms/title> "Organizational decline: A yet largely neglected topic in organizational studies" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-decline/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
