@@ -9882,6 +9882,99 @@
       ]
     },
     {
+      "@id": "kt:internal-rate-of-return",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Internal Rate of Return: The Discount Rate That Sets NPV to Zero",
+      "skos:definition": "The discount rate at which the present value of an investment's cash inflows equals the present value of its outflows, so that its net present value is zero; under the IRR rule a project is accepted when its IRR exceeds the cost of capital.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 16.3: Internal Rate of Return (IRR) Method",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Theory and Practice of Corporate Finance: Evidence from the Field",
+          "dcterms:publisher": "Journal of Financial Economics 60(2-3), 187-243 (Scholars@Duke record)",
+          "schema:url": "https://scholars.duke.edu/display/pub774079",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "How CFOs Really Practice Finance",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/?p=9977",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Internal Rate of Return: A Cautionary Tale",
+          "dcterms:publisher": "McKinsey & Company (McKinsey on Finance / McKinsey Quarterly)",
+          "schema:url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/internal-rate-of-return-a-cautionary-tale",
+          "kto:sourceType": "consultancy"
+        },
+        {
+          "dcterms:title": "Modified Internal Rate of Return",
+          "dcterms:publisher": "ACCA (Association of Chartered Certified Accountants)",
+          "schema:url": "https://accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p4/technical-articles/Modified-internal-rate-return.html",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Average Internal Rate of Return and Investment Decisions: A New Perspective",
+          "dcterms:publisher": "CEFIN Working Paper No. 21, University of Modena and Reggio Emilia (RePEc record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:mod:wcefin:0021",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/internal-rate-of-return.md",
+      "skos:altLabel": [
+        "IRR",
+        "IRR method",
+        "IRR rule",
+        "internal rate of return method"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:capital-budgeting"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:discounted-cash-flow"
+        },
+        {
+          "@id": "kt:payback-period"
+        },
+        {
+          "@id": "kt:venture-capital"
+        },
+        {
+          "@id": "kt:leveraged-buyout"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:net-present-value"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:weighted-average-cost-of-capital"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:modified-internal-rate-of-return"
+        },
+        {
+          "@id": "kt:payback-period"
+        }
+      ]
+    },
+    {
       "@id": "kt:leveraged-buyout",
       "@type": "kto:Practice",
       "skos:prefLabel": "Leveraged Buyout",

@@ -3400,6 +3400,32 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/ingredient-branding> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-renewal> .
 <https://github.com/john1hsu/business-knowledge-graph/id/intel> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/semiconductor-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://purl.org/dc/terms/created> "2026-11-18" .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2000/01/rdf-schema#label> "Internal Rate of Return: The Discount Rate That Sets NPV to Zero" .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#altLabel> "IRR method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#altLabel> "IRR rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#altLabel> "IRR" .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#altLabel> "internal rate of return method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#definition> "The discount rate at which the present value of an investment's cash inflows equals the present value of its outflows, so that its net present value is zero; under the IRR rule a project is accepted when its IRR exceeds the cost of capital." .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#prefLabel> "Internal Rate of Return: The Discount Rate That Sets NPV to Zero" .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/discounted-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/leveraged-buyout> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/payback-period> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/modified-internal-rate-of-return> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/payback-period> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/weighted-average-cost-of-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/inventory-costing-methods> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/business-knowledge-graph/id/inventory-costing-methods> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/inventory-costing-methods> <http://www.w3.org/2000/01/rdf-schema#label> "Inventory Costing Methods: FIFO, LIFO, Weighted Average and Specific Identification" .
@@ -9680,6 +9706,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/intel/s6> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 16.3: Internal Rate of Return (IRR) Method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s2> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics 60(2-3), 187-243 (Scholars@Duke record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s2> <http://purl.org/dc/terms/title> "The Theory and Practice of Corporate Finance: Evidence from the Field" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s2> <https://schema.org/url> "https://scholars.duke.edu/display/pub774079" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s3> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s3> <http://purl.org/dc/terms/title> "How CFOs Really Practice Finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s3> <https://schema.org/url> "https://sloanreview.mit.edu/?p=9977" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s4> <http://purl.org/dc/terms/publisher> "McKinsey & Company (McKinsey on Finance / McKinsey Quarterly)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s4> <http://purl.org/dc/terms/title> "Internal Rate of Return: A Cautionary Tale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s4> <https://schema.org/url> "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/internal-rate-of-return-a-cautionary-tale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s5> <http://purl.org/dc/terms/publisher> "ACCA (Association of Chartered Certified Accountants)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s5> <http://purl.org/dc/terms/title> "Modified Internal Rate of Return" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s5> <https://schema.org/url> "https://accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p4/technical-articles/Modified-internal-rate-return.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s6> <http://purl.org/dc/terms/publisher> "CEFIN Working Paper No. 21, University of Modena and Reggio Emilia (RePEc record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s6> <http://purl.org/dc/terms/title> "Average Internal Rate of Return and Investment Decisions: A New Perspective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/internal-rate-of-return/s6> <https://schema.org/url> "https://econpapers.repec.org/RePEc:mod:wcefin:0021" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-costing-methods/s1> <http://purl.org/dc/terms/publisher> "OpenStax (Principles of Accounting, Volume 1)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-costing-methods/s1> <http://purl.org/dc/terms/title> "10.1 Describe and Demonstrate the Basic Inventory Valuation Methods and Their Cost Flow Assumptions" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/inventory-costing-methods/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

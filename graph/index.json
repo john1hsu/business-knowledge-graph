@@ -2839,6 +2839,28 @@
     ]
   },
   {
+    "id": "kt:internal-rate-of-return",
+    "title": "Internal Rate of Return: The Discount Rate That Sets NPV to Zero",
+    "aliases": [
+      "IRR",
+      "IRR method",
+      "IRR rule",
+      "internal rate of return method"
+    ],
+    "type": "Metric",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/internal-rate-of-return.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/16-3-internal-rate-of-return-irr-method",
+      "https://scholars.duke.edu/display/pub774079",
+      "https://sloanreview.mit.edu/?p=9977",
+      "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/internal-rate-of-return-a-cautionary-tale",
+      "https://accaglobal.com/gb/en/student/exam-support-resources/professional-exams-study-resources/p4/technical-articles/Modified-internal-rate-return.html",
+      "https://econpapers.repec.org/RePEc:mod:wcefin:0021"
+    ]
+  },
+  {
     "id": "kt:inventory-costing-methods",
     "title": "Inventory Costing Methods: FIFO, LIFO, Weighted Average and Specific Identification",
     "aliases": [

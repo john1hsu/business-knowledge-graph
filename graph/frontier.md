@@ -8,6 +8,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:financial-accounting`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:marketing` | `kt:customer-loyalty`, `kt:market-research`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
+| `kt:payback-period` | `kt:capital-budgeting`, `kt:internal-rate-of-return`, `kt:internal-rate-of-return`, `kt:net-present-value` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
@@ -89,7 +90,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:informativeness-principle` | `kt:contract-theory`, `kt:moral-hazard` |
 | `kt:institutional-theory` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
-| `kt:internal-rate-of-return` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:job-enrichment` | `kt:employee-motivation`, `kt:j-richard-hackman` |
@@ -118,7 +118,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
-| `kt:payback-period` | `kt:capital-budgeting`, `kt:net-present-value` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:private-equity` | `kt:leveraged-buyout`, `kt:venture-capital` |
 | `kt:prospect-theory` | `kt:behavioral-finance`, `kt:decision-making` |
@@ -475,6 +474,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:milton-friedman` | `kt:shareholder-primacy` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
 | `kt:modern-portfolio-theory` | `kt:capital-asset-pricing-model` |
+| `kt:modified-internal-rate-of-return` | `kt:internal-rate-of-return` |
 | `kt:modularity` | `kt:computer-industry` |
 | `kt:motivation` | `kt:goal-setting-theory` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
