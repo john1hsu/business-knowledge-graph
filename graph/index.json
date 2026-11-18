@@ -2049,6 +2049,27 @@
     ]
   },
   {
+    "id": "kt:financial-accounting",
+    "title": "Financial Accounting: Reporting a Firm's Results to Outside Stakeholders",
+    "aliases": [
+      "financial accounting",
+      "external financial reporting",
+      "general purpose financial reporting"
+    ],
+    "type": "Field",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/financial-accounting.md",
+    "created": "2026-11-18",
+    "source_urls": [
+      "https://openstax.org/books/principles-financial-accounting/pages/1-1-explain-the-importance-of-accounting-and-distinguish-between-financial-and-managerial-accounting",
+      "https://storage.fasb.org/Concepts%20Statement%208%E2%80%94Chapter%201%20(As%20Amended).pdf",
+      "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+      "https://www.investor.gov/introduction-investing/getting-started/researching-investments/how-read-10-k",
+      "https://econpapers.repec.org/RePEc:eee:pacfin:v:53:y:2019:i:c:p:410-431",
+      "https://rpc.cfainstitute.org/research/cfa-digest/2000/08/the-boundaries-of-financial-reporting-and-how-to-extend-them-digest-summary"
+    ]
+  },
+  {
     "id": "kt:financial-statement-analysis",
     "title": "Financial Statement Analysis: Ratios, Trends and Comparisons for Evaluating Firm Performance",
     "aliases": [

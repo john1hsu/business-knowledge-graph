@@ -639,6 +639,108 @@
       ]
     },
     {
+      "@id": "kt:financial-accounting",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Financial Accounting: Reporting a Firm's Results to Outside Stakeholders",
+      "skos:definition": "The branch of accounting that measures an organization's financial position and performance under standard conventions and communicates them, through general-purpose financial statements, to outside users such as investors, lenders, creditors and regulators.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-18",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Accounting, Volume 1: Financial Accounting, Section 1.1: Explain the Importance of Accounting and Distinguish between Financial and Managerial Accounting",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-financial-accounting/pages/1-1-explain-the-importance-of-accounting-and-distinguish-between-financial-and-managerial-accounting",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Statement of Financial Accounting Concepts No. 8, Chapter 1: The Objective of General Purpose Financial Reporting (As Amended)",
+          "dcterms:publisher": "Financial Accounting Standards Board",
+          "schema:url": "https://storage.fasb.org/Concepts%20Statement%208%E2%80%94Chapter%201%20(As%20Amended).pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Beginners' Guide to Financial Statements",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/about/reports-publications/beginners-guide-financial-statements",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "How to Read a 10-K",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission, Investor.gov",
+          "schema:url": "https://www.investor.gov/introduction-investing/getting-started/researching-investments/how-read-10-k",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Ball and Brown (1968) after fifty years",
+          "dcterms:publisher": "Pacific-Basin Finance Journal (Ray Ball and Philip Brown), vol. 53, 2019, pp. 410-431, doi:10.1016/j.pacfin.2018.12.008",
+          "schema:url": "https://econpapers.repec.org/RePEc:eee:pacfin:v:53:y:2019:i:c:p:410-431",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Boundaries of Financial Reporting and How to Extend Them (Digest Summary)",
+          "dcterms:publisher": "CFA Institute Digest, vol. 30, no. 3, August 2000 (summary of Lev and Zarowin, Journal of Accounting Research, 1999)",
+          "schema:url": "https://rpc.cfainstitute.org/research/cfa-digest/2000/08/the-boundaries-of-financial-reporting-and-how-to-extend-them-digest-summary",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/financial-accounting.md",
+      "skos:altLabel": [
+        "financial accounting",
+        "external financial reporting",
+        "general purpose financial reporting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:ifrs"
+        },
+        {
+          "@id": "kt:accrual-accounting"
+        },
+        {
+          "@id": "kt:double-entry-bookkeeping"
+        },
+        {
+          "@id": "kt:financial-statement-analysis"
+        },
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:managerial-accounting"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:financial-accounting-standards-board"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:statement-of-cash-flows"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:fasb-conceptual-framework"
+        }
+      ]
+    },
+    {
       "@id": "kt:financial-statement-analysis",
       "@type": "kto:Practice",
       "skos:prefLabel": "Financial Statement Analysis: Ratios, Trends and Comparisons for Evaluating Firm Performance",
