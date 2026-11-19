@@ -2171,6 +2171,27 @@
     ]
   },
   {
+    "id": "kt:financial-accounting-standards-board",
+    "title": "FASB: The Private-Sector Body That Sets US GAAP",
+    "aliases": [
+      "FASB",
+      "Financial Accounting Standards Board",
+      "US accounting standard setter"
+    ],
+    "type": "Organization",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/financial-accounting-standards-board.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://storage.fasb.org/About_FASB_2025.pdf",
+      "https://www.sec.gov/rules/policy/33-8221.htm",
+      "https://sechistorical.org/?p=80609",
+      "https://ideas.repec.org/a/eee/jaecon/v55y2013i1p66-90.html",
+      "https://hbswk.hbs.edu/item/towards-an-understanding-of-the-role-of-standard-setters-in-standard-setting",
+      "https://storage.fasb.org/2Q%202026%20Chair%20Report.pdf"
+    ]
+  },
+  {
     "id": "kt:financial-statement-analysis",
     "title": "Financial Statement Analysis: Ratios, Trends and Comparisons for Evaluating Firm Performance",
     "aliases": [

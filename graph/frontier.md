@@ -5,8 +5,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
-| `kt:financial-accounting-standards-board` | `kt:fasb-conceptual-framework`, `kt:financial-accounting`, `kt:gaap`, `kt:goodwill`, `kt:revenue-recognition-asc-606` |
 | `kt:marketing` | `kt:customer-loyalty`, `kt:market-research`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
+| `kt:international-accounting-standards-board` | `kt:financial-accounting-standards-board`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:payback-period` | `kt:capital-budgeting`, `kt:internal-rate-of-return`, `kt:internal-rate-of-return`, `kt:net-present-value` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
@@ -15,7 +15,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
-| `kt:international-accounting-standards-board` | `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
@@ -160,6 +159,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:access-based-consumption` | `kt:sharing-economy` |
 | `kt:accounting` | `kt:financial-accounting` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
+| `kt:accounting-principles-board` | `kt:financial-accounting-standards-board` |
 | `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
@@ -330,6 +330,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
+| `kt:financial-accounting-foundation` | `kt:financial-accounting-standards-board` |
 | `kt:financial-distress` | `kt:corporate-turnaround` |
 | `kt:financial-reporting-quality` | `kt:non-gaap-financial-measures` |
 | `kt:fixed-price-contract` | `kt:government-contract-types` |
@@ -536,6 +537,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
 | `kt:prison-privatization` | `kt:contract-theory` |
 | `kt:prisoners-dilemma` | `kt:game-theory-in-business` |
+| `kt:private-company-council` | `kt:financial-accounting-standards-board` |
 | `kt:probabilistic-risk-assessment` | `kt:fault-tree-analysis` |
 | `kt:problem-formulation` | `kt:structured-problem-solving` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |

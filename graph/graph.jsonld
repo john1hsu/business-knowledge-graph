@@ -639,6 +639,107 @@
       ]
     },
     {
+      "@id": "kt:financial-accounting-standards-board",
+      "@type": "kto:Organization",
+      "skos:prefLabel": "FASB: The Private-Sector Body That Sets US GAAP",
+      "skos:definition": "The independent, private-sector board, established in 1973 and overseen by the Financial Accounting Foundation, that writes and updates the accounting standards US public and private companies and not-for-profits follow, and that the SEC recognizes as the designated standard setter for public companies.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "About the FASB (2025)",
+          "dcterms:publisher": "Financial Accounting Standards Board",
+          "schema:url": "https://storage.fasb.org/About_FASB_2025.pdf",
+          "kto:sourceType": "standards-body"
+        },
+        {
+          "dcterms:title": "Policy Statement: Reaffirming the Status of the FASB as a Designated Private-Sector Standard Setter (Release No. 33-8221)",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission",
+          "schema:url": "https://www.sec.gov/rules/policy/33-8221.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Richard C. Adkerson Gallery on the SEC Role in Accounting Standards Setting",
+          "dcterms:publisher": "Securities and Exchange Commission Historical Society",
+          "schema:url": "https://sechistorical.org/?p=80609",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "Towards an understanding of the role of standard setters in standard setting",
+          "dcterms:publisher": "Journal of Accounting and Economics 55(1), 66–90 (Allen and Ramanna, 2013)",
+          "schema:url": "https://ideas.repec.org/a/eee/jaecon/v55y2013i1p66-90.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Towards an Understanding of the Role of Standard Setters in Standard Setting (working paper abstract)",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://hbswk.hbs.edu/item/towards-an-understanding-of-the-role-of-standard-setters-in-standard-setting",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "FASB Chair's Quarterly Technical Agenda Report, Q2 2026",
+          "dcterms:publisher": "Financial Accounting Standards Board",
+          "schema:url": "https://storage.fasb.org/2Q%202026%20Chair%20Report.pdf",
+          "kto:sourceType": "standards-body"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/financial-accounting-standards-board.md",
+      "skos:altLabel": [
+        "FASB",
+        "Financial Accounting Standards Board",
+        "US accounting standard setter"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:gaap"
+        },
+        {
+          "@id": "kt:fasb-conceptual-framework"
+        },
+        {
+          "@id": "kt:revenue-recognition-asc-606"
+        },
+        {
+          "@id": "kt:ifrs"
+        }
+      ],
+      "kto:partOf": [
+        {
+          "@id": "kt:financial-accounting-foundation"
+        }
+      ],
+      "kto:precededBy": [
+        {
+          "@id": "kt:accounting-principles-board"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:sarbanes-oxley-act"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:international-accounting-standards-board"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:private-company-council"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ]
+    },
+    {
       "@id": "kt:financial-accounting",
       "@type": "kto:Field",
       "skos:prefLabel": "Financial Accounting: Reporting a Firm's Results to Outside Stakeholders",
