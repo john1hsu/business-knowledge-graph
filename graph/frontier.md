@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-accounting-standards-board` | `kt:financial-accounting-standards-board`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:segmentation-targeting-positioning` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
-| `kt:payback-period` | `kt:capital-budgeting`, `kt:internal-rate-of-return`, `kt:internal-rate-of-return`, `kt:net-present-value` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:vertical-integration` | `kt:standard-oil`, `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
@@ -164,6 +163,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:accounting` | `kt:financial-accounting` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
 | `kt:accounting-principles-board` | `kt:financial-accounting-standards-board` |
+| `kt:accounting-rate-of-return` | `kt:payback-period` |
 | `kt:accrual-anomaly` | `kt:statement-of-cash-flows` |
 | `kt:accrued-revenue` | `kt:deferred-revenue` |
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
@@ -686,6 +686,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:threat-rigidity` | `kt:corporate-turnaround` |
 | `kt:tim-brown` | `kt:design-thinking` |
 | `kt:time-driven-activity-based-costing` | `kt:activity-based-costing` |
+| `kt:time-value-of-money` | `kt:payback-period` |
 | `kt:total-cost-of-ownership` | `kt:lowest-price-technically-acceptable` |
 | `kt:trade-credit` | `kt:working-capital` |
 | `kt:trait-theory-of-leadership` | `kt:contingency-theory-of-leadership` |

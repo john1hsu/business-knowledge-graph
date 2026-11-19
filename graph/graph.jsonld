@@ -10768,6 +10768,96 @@
       ]
     },
     {
+      "@id": "kt:payback-period",
+      "@type": "kto:Metric",
+      "skos:prefLabel": "Payback Period: Time to Recover an Investment's Initial Cost",
+      "skos:definition": "A capital budgeting measure of how long it takes a project's cash inflows to recover its initial investment; firms typically accept projects whose payback falls within a maximum cutoff, a rule prized for simplicity and liquidity focus but criticised for ignoring the time value of money and all cash flows after the cutoff.",
+      "kto:domain": "corporate-finance",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Finance, Section 16.1: Payback Period Method",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Accounting, Volume 2, Section 11.2: Evaluate the Payback and Accounting Rate of Return in Capital Investment Decisions",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/11-2-evaluate-the-payback-and-accounting-rate-of-return-in-capital-investment-decisions",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Finance, Section 16.4: Alternative Methods",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-finance/pages/16-4-alternative-methods",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Theory and Practice of Corporate Finance: Evidence from the Field",
+          "dcterms:publisher": "Journal of Financial Economics (Scholars@Duke record)",
+          "schema:url": "https://scholars.duke.edu/publication/774079",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Corporate Finance in Europe: Confronting Theory with Practice",
+          "dcterms:publisher": "Erasmus Research Institute of Management (ERIM Report Series)",
+          "schema:url": "https://repub.eur.nl/pub/1111/ERS%202004%20002%20F&A.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "How CFOs Really Practice Finance",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/?p=9977",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/corporate-finance/payback-period.md",
+      "skos:altLabel": [
+        "payback method",
+        "payback period method",
+        "payback rule",
+        "payback analysis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:capital-budgeting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:free-cash-flow"
+        },
+        {
+          "@id": "kt:working-capital"
+        },
+        {
+          "@id": "kt:accounting-rate-of-return"
+        },
+        {
+          "@id": "kt:corporate-finance"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:net-present-value"
+        },
+        {
+          "@id": "kt:time-value-of-money"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:internal-rate-of-return"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:free-cash-flow"
+        }
+      ]
+    },
+    {
       "@id": "kt:real-options",
       "@type": "kto:Framework",
       "skos:prefLabel": "Real Options: Valuing Managerial Flexibility in Capital Investment",

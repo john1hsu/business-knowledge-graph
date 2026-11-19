@@ -4960,6 +4960,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "organizational-behavior" .
 <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/behavioral-corporate-finance> .
 <https://github.com/john1hsu/business-knowledge-graph/id/overconfidence-bias> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/calibration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Metric> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2000/01/rdf-schema#label> "Payback Period: Time to Recover an Investment's Initial Cost" .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#altLabel> "payback analysis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#altLabel> "payback method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#altLabel> "payback period method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#altLabel> "payback rule" .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/capital-budgeting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#definition> "A capital budgeting measure of how long it takes a project's cash inflows to recover its initial investment; firms typically accept projects whose payback falls within a maximum cutoff, a rule prized for simplicity and liquidity focus but criticised for ignoring the time value of money and all cash flows after the cutoff." .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#prefLabel> "Payback Period: Time to Recover an Investment's Initial Cost" .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/accounting-rate-of-return> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-finance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/working-capital> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/internal-rate-of-return> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/net-present-value> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/time-value-of-money> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/free-cash-flow> .
+<https://github.com/john1hsu/business-knowledge-graph/id/payback-period> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "corporate-finance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/pdca-cycle> <http://www.w3.org/2000/01/rdf-schema#label> "PDCA Cycle: Plan-Do-Check-Act Iterative Improvement" .
@@ -11650,6 +11675,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/overconfidence-bias/s4> <https://schema.org/url> "https://arxiv.org/pdf/1305.0741" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 16.1: Payback Period Method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s1> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s2> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s2> <http://purl.org/dc/terms/title> "Principles of Accounting, Volume 2, Section 11.2: Evaluate the Payback and Accounting Rate of Return in Capital Investment Decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s2> <https://schema.org/url> "https://openstax.org/books/principles-managerial-accounting/pages/11-2-evaluate-the-payback-and-accounting-rate-of-return-in-capital-investment-decisions" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s3> <http://purl.org/dc/terms/title> "Principles of Finance, Section 16.4: Alternative Methods" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s3> <https://schema.org/url> "https://openstax.org/books/principles-finance/pages/16-4-alternative-methods" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s4> <http://purl.org/dc/terms/publisher> "Journal of Financial Economics (Scholars@Duke record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s4> <http://purl.org/dc/terms/title> "The Theory and Practice of Corporate Finance: Evidence from the Field" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s4> <https://schema.org/url> "https://scholars.duke.edu/publication/774079" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s5> <http://purl.org/dc/terms/publisher> "Erasmus Research Institute of Management (ERIM Report Series)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s5> <http://purl.org/dc/terms/title> "Corporate Finance in Europe: Confronting Theory with Practice" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s5> <https://schema.org/url> "https://repub.eur.nl/pub/1111/ERS%202004%20002%20F&A.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s6> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s6> <http://purl.org/dc/terms/title> "How CFOs Really Practice Finance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/payback-period/s6> <https://schema.org/url> "https://sloanreview.mit.edu/?p=9977" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <http://purl.org/dc/terms/publisher> "Quality Progress (ASQ), November 2010; hosted by East London NHS Foundation Trust QI" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <http://purl.org/dc/terms/title> "Circling Back: Clearing up myths about the Deming cycle and seeing how it keeps evolving" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/pdca-cycle/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

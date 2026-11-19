@@ -4157,6 +4157,28 @@
     ]
   },
   {
+    "id": "kt:payback-period",
+    "title": "Payback Period: Time to Recover an Investment's Initial Cost",
+    "aliases": [
+      "payback method",
+      "payback period method",
+      "payback rule",
+      "payback analysis"
+    ],
+    "type": "Metric",
+    "domain": "corporate-finance",
+    "file": "articles/corporate-finance/payback-period.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://openstax.org/books/principles-finance/pages/16-1-payback-period-method",
+      "https://openstax.org/books/principles-managerial-accounting/pages/11-2-evaluate-the-payback-and-accounting-rate-of-return-in-capital-investment-decisions",
+      "https://openstax.org/books/principles-finance/pages/16-4-alternative-methods",
+      "https://scholars.duke.edu/publication/774079",
+      "https://repub.eur.nl/pub/1111/ERS%202004%20002%20F&A.pdf",
+      "https://sloanreview.mit.edu/?p=9977"
+    ]
+  },
+  {
     "id": "kt:pdca-cycle",
     "title": "PDCA Cycle: Plan-Do-Check-Act Iterative Improvement",
     "aliases": [
