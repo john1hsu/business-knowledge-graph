@@ -5731,6 +5731,109 @@
       ]
     },
     {
+      "@id": "kt:advertising-supported-business-model",
+      "@type": "kto:BusinessModel",
+      "skos:prefLabel": "Advertising-Supported Business Model: Monetizing Free Content by Selling Audience Attention",
+      "skos:definition": "A business model in which a firm gives content or a service to users free or below cost and earns its revenue by selling advertisers access to the attention of that audience, so that the firm acts as a platform balancing users who dislike ads against advertisers who pay to reach them.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Market Provision of Broadcasting: A Welfare Analysis",
+          "dcterms:publisher": "Review of Economic Studies 72(4), 2005, pp. 947–972 (University of Virginia author copy, revised January 2005)",
+          "schema:url": "https://economics.virginia.edu/sites/economics.as.virginia.edu/files/2025-04/broad18_0.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Media and Advertising: A Tale of Two-Sided Markets",
+          "dcterms:publisher": "Chapter prepared for an Elsevier handbook of cultural economics edited by Victor Ginsburgh and David Throsby, August 2005 version (University of Virginia author copy)",
+          "schema:url": "https://economics.virginia.edu/sites/economics.as.virginia.edu/files/2025-04/fullfinaltale_0.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Strategies to Fight Ad-sponsored Rivals",
+          "dcterms:publisher": "NET Institute Working Paper 09-09, September 2009 (NYU archive copy; later published in Management Science)",
+          "schema:url": "https://archive.nyu.edu/bitstream/2451/29498/2/Casadesus-Masanell_Zhu_09-09.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Alphabet Inc. Form 10-K for the fiscal year ended December 31, 2025",
+          "dcterms:publisher": "Alphabet Inc. annual report filed with the U.S. SEC (investor-relations copy)",
+          "schema:url": "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Meta Platforms, Inc. Form 10-K for the fiscal year ended December 31, 2025",
+          "dcterms:publisher": "Meta Platforms annual report filed with the U.S. SEC, January 2026 (copy hosted by Fortune/Quartr)",
+          "schema:url": "https://fortune.com/company-assets/1548/quartr/annual-report-10-k-b7912-2026-01-29-11-26-03.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "WEAF",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/WEAF",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/business-models/advertising-supported-business-model.md",
+      "skos:altLabel": [
+        "advertising-supported business model",
+        "ad-supported business model",
+        "advertising-financed business model",
+        "ad-sponsored business model",
+        "advertising business model",
+        "ad-supported model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:two-sided-market"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:subscription-business-model"
+        },
+        {
+          "@id": "kt:freemium"
+        },
+        {
+          "@id": "kt:aggregation-theory"
+        },
+        {
+          "@id": "kt:network-effect"
+        },
+        {
+          "@id": "kt:open-source-business-model"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:google"
+        },
+        {
+          "@id": "kt:meta-platforms"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:subscription-business-model"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:market-provision-of-broadcasting-2005"
+        }
+      ],
+      "kto:appliesTo": [
+        {
+          "@id": "kt:media-industry"
+        }
+      ]
+    },
+    {
       "@id": "kt:aggregation-theory",
       "@type": "kto:Theory",
       "skos:prefLabel": "Aggregation Theory: How Internet Aggregators Capture Value by Owning Demand",
@@ -7366,6 +7469,9 @@
         },
         {
           "@id": "kt:switching-costs"
+        },
+        {
+          "@id": "kt:advertising-supported-business-model"
         }
       ],
       "kto:createdBy": [

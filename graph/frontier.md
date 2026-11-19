@@ -463,6 +463,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
 | `kt:market-orientation` | `kt:marketing` |
 | `kt:market-power` | `kt:price-discrimination` |
+| `kt:market-provision-of-broadcasting-2005` | `kt:advertising-supported-business-model` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
@@ -473,9 +474,11 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:material-requirements-planning-1975` | `kt:material-requirements-planning` |
 | `kt:mcdonalds` | `kt:business-format-franchising` |
 | `kt:measure-costs-right-make-the-right-decisions-1988` | `kt:activity-based-costing` |
+| `kt:media-industry` | `kt:advertising-supported-business-model` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:merger-waves` | `kt:mergers-and-acquisitions` |
+| `kt:meta-platforms` | `kt:advertising-supported-business-model` |
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:michael-lanning` | `kt:value-proposition` |

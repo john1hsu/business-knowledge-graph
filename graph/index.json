@@ -126,6 +126,30 @@
     ]
   },
   {
+    "id": "kt:advertising-supported-business-model",
+    "title": "Advertising-Supported Business Model: Monetizing Free Content by Selling Audience Attention",
+    "aliases": [
+      "advertising-supported business model",
+      "ad-supported business model",
+      "advertising-financed business model",
+      "ad-sponsored business model",
+      "advertising business model",
+      "ad-supported model"
+    ],
+    "type": "BusinessModel",
+    "domain": "business-models",
+    "file": "articles/business-models/advertising-supported-business-model.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://economics.virginia.edu/sites/economics.as.virginia.edu/files/2025-04/broad18_0.pdf",
+      "https://economics.virginia.edu/sites/economics.as.virginia.edu/files/2025-04/fullfinaltale_0.pdf",
+      "https://archive.nyu.edu/bitstream/2451/29498/2/Casadesus-Masanell_Zhu_09-09.pdf",
+      "https://s206.q4cdn.com/479360582/files/doc_financials/2025/q4/GOOG-10-K-2025.pdf",
+      "https://fortune.com/company-assets/1548/quartr/annual-report-10-k-b7912-2026-01-29-11-26-03.pdf",
+      "https://www.britannica.com/topic/WEAF"
+    ]
+  },
+  {
     "id": "kt:agency-costs",
     "title": "Agency Costs",
     "aliases": [

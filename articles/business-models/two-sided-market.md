@@ -9,7 +9,7 @@ summary: >-
   depends on participation by the other group, so the platform must set prices for both sides
   jointly and often subsidizes one side to attract the other.
 broader: [kt:network-effect, kt:platform-business-model]
-related: [kt:freemium, kt:aggregation-theory, kt:razor-and-blades-model, kt:switching-costs]
+related: [kt:freemium, kt:aggregation-theory, kt:razor-and-blades-model, kt:switching-costs, kt:advertising-supported-business-model]
 relations:
   - {predicate: createdBy, object: kt:jean-charles-rochet}
   - {predicate: createdBy, object: kt:jean-tirole}
