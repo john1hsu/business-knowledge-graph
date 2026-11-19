@@ -4678,6 +4678,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/network-externalities-competition-and-compatibility-1985> .
 <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2000/01/rdf-schema#label> "New Product Development: Turning Market Opportunities into Products for Sale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#altLabel> "new-product development process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#altLabel> "npd" .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#altLabel> "product development" .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/innovation-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#definition> "The business process by which a firm turns a market opportunity into a product offered for sale, spanning idea generation, concept and design decisions, development, testing and launch, and drawing jointly on marketing, engineering design and operations." .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#prefLabel> "New Product Development: Turning Market Opportunities into Products for Sale" .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agile-software-development> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/cannibalization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/design-thinking> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/market-research> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/market-research> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "innovation-and-entrepreneurship" .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/stage-gate-process> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/product-development-decisions-a-review-of-the-literature-2001> .
+<https://github.com/john1hsu/business-knowledge-graph/id/new-product-development> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-new-new-product-development-game-1986> .
 <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> <http://purl.org/dc/terms/created> "2026-11-11" .
 <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/nominal-group-technique> <http://www.w3.org/2000/01/rdf-schema#label> "Nominal Group Technique" .
@@ -11443,6 +11467,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/network-effect/s4> <https://schema.org/url> "https://www.justice.gov/atr/file/518696/download" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s1> <http://purl.org/dc/terms/publisher> "Management Science 47(1):1-21 (RePEc/EconPapers record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s1> <http://purl.org/dc/terms/title> "Product Development Decisions: A Review of the Literature" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s1> <https://schema.org/url> "https://econpapers.repec.org/RePEc:inm:ormnsc:v:47:y:2001:i:1:p:1-21" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s2> <http://purl.org/dc/terms/publisher> "Harvard Business Review, January 1986 (Hitotsubashi ICS research record)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s2> <http://purl.org/dc/terms/title> "The New New Product Development Game" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s2> <https://schema.org/url> "https://www.ics.hub.hit-u.ac.jp/research/business_magazine/1986" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s3> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s3> <http://purl.org/dc/terms/title> "Principles of Marketing, 10.1 New Products from a Customer's Perspective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s3> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/10-1-new-products-from-a-customers-perspective" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s4> <http://purl.org/dc/terms/publisher> "OpenStax" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s4> <http://purl.org/dc/terms/title> "Principles of Marketing, 10.4 Factors Contributing to the Success or Failure of New Products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s4> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/10-4-factors-contributing-to-the-success-or-failure-of-new-products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s5> <http://purl.org/dc/terms/publisher> "Product Development and Management Association (Visions Magazine)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s5> <http://purl.org/dc/terms/title> "The Best vs. the Rest: Key Findings from PDMA's 2012 Comparative Performance Assessment Study" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/new-product-development/s5> <https://schema.org/url> "https://community.pdma.org/knowledgehub/bok/tools-and-metrics/best-vs-the-rest" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/nominal-group-technique/s1> <http://purl.org/dc/terms/publisher> "Scilit record of SAGE Publications article" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/nominal-group-technique/s1> <http://purl.org/dc/terms/title> "A Group Process Model for Problem Identification and Program Planning (Journal of Applied Behavioral Science 7(4):466-492, 1971; DOI 10.1177/002188637100700404)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/nominal-group-technique/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

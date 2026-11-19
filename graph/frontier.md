@@ -19,7 +19,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning`, `kt:production-planning-and-control` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
-| `kt:new-product-development` | `kt:agile-software-development`, `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
@@ -149,6 +148,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:structure-conduct-performance-paradigm` | `kt:industrial-organization`, `kt:porters-five-forces` |
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:the-market-for-lemons-1970` | `kt:adverse-selection`, `kt:information-asymmetry` |
+| `kt:the-new-new-product-development-game-1986` | `kt:agile-software-development`, `kt:new-product-development` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
 | `kt:theory-of-constraints` | `kt:material-requirements-planning`, `kt:production-planning-and-control` |
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
@@ -560,6 +560,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:process-theories-of-organizational-change` | `kt:andrew-van-de-ven` |
 | `kt:procurement` | `kt:public-procurement` |
+| `kt:product-development-decisions-a-review-of-the-literature-2001` | `kt:new-product-development` |
 | `kt:product-distribution-franchising` | `kt:business-format-franchising` |
 | `kt:product-launch` | `kt:apple-iphone-launch` |
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
@@ -679,7 +680,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-machine-that-changed-the-world` | `kt:lean-manufacturing` |
 | `kt:the-modern-corporation-and-private-property` | `kt:separation-of-ownership-and-control` |
 | `kt:the-nature-of-the-firm-1937` | `kt:transaction-cost-economics` |
-| `kt:the-new-new-product-development-game-1986` | `kt:agile-software-development` |
 | `kt:the-one-number-you-need-to-grow-2003` | `kt:net-promoter-score` |
 | `kt:the-only-thing-that-matters-2007` | `kt:product-market-fit` |
 | `kt:the-principles-of-scientific-management` | `kt:scientific-management` |

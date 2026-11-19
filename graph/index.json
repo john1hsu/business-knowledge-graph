@@ -3921,6 +3921,26 @@
     ]
   },
   {
+    "id": "kt:new-product-development",
+    "title": "New Product Development: Turning Market Opportunities into Products for Sale",
+    "aliases": [
+      "npd",
+      "product development",
+      "new-product development process"
+    ],
+    "type": "Practice",
+    "domain": "innovation-and-entrepreneurship",
+    "file": "articles/innovation-and-entrepreneurship/new-product-development.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://econpapers.repec.org/RePEc:inm:ormnsc:v:47:y:2001:i:1:p:1-21",
+      "https://www.ics.hub.hit-u.ac.jp/research/business_magazine/1986",
+      "https://openstax.org/books/principles-marketing/pages/10-1-new-products-from-a-customers-perspective",
+      "https://openstax.org/books/principles-marketing/pages/10-4-factors-contributing-to-the-success-or-failure-of-new-products",
+      "https://community.pdma.org/knowledgehub/bok/tools-and-metrics/best-vs-the-rest"
+    ]
+  },
+  {
     "id": "kt:nominal-group-technique",
     "title": "Nominal Group Technique",
     "aliases": [

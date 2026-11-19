@@ -14408,6 +14408,92 @@
       ]
     },
     {
+      "@id": "kt:new-product-development",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "New Product Development: Turning Market Opportunities into Products for Sale",
+      "skos:definition": "The business process by which a firm turns a market opportunity into a product offered for sale, spanning idea generation, concept and design decisions, development, testing and launch, and drawing jointly on marketing, engineering design and operations.",
+      "kto:domain": "innovation-and-entrepreneurship",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Product Development Decisions: A Review of the Literature",
+          "dcterms:publisher": "Management Science 47(1):1-21 (RePEc/EconPapers record)",
+          "schema:url": "https://econpapers.repec.org/RePEc:inm:ormnsc:v:47:y:2001:i:1:p:1-21",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The New New Product Development Game",
+          "dcterms:publisher": "Harvard Business Review, January 1986 (Hitotsubashi ICS research record)",
+          "schema:url": "https://www.ics.hub.hit-u.ac.jp/research/business_magazine/1986",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Principles of Marketing, 10.1 New Products from a Customer's Perspective",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/10-1-new-products-from-a-customers-perspective",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Marketing, 10.4 Factors Contributing to the Success or Failure of New Products",
+          "dcterms:publisher": "OpenStax",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/10-4-factors-contributing-to-the-success-or-failure-of-new-products",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Best vs. the Rest: Key Findings from PDMA's 2012 Comparative Performance Assessment Study",
+          "dcterms:publisher": "Product Development and Management Association (Visions Magazine)",
+          "schema:url": "https://community.pdma.org/knowledgehub/bok/tools-and-metrics/best-vs-the-rest",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/innovation-and-entrepreneurship/new-product-development.md",
+      "skos:altLabel": [
+        "npd",
+        "product development",
+        "new-product development process"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:innovation-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:stage-gate-process"
+        },
+        {
+          "@id": "kt:design-thinking"
+        },
+        {
+          "@id": "kt:market-research"
+        },
+        {
+          "@id": "kt:cannibalization"
+        },
+        {
+          "@id": "kt:agile-software-development"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:stage-gate-process"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:market-research"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:product-development-decisions-a-review-of-the-literature-2001"
+        },
+        {
+          "@id": "kt:the-new-new-product-development-game-1986"
+        }
+      ]
+    },
+    {
       "@id": "kt:open-innovation",
       "@type": "kto:Concept",
       "skos:prefLabel": "Open Innovation: Purposive Inflows and Outflows of Knowledge",
