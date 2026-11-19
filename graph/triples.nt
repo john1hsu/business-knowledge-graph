@@ -1606,6 +1606,37 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/threat-rigidity> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/turnaround-retrenchment-and-recovery-1992> .
 <https://github.com/john1hsu/business-knowledge-graph/id/corporate-turnaround> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-decline> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2000/01/rdf-schema#label> "Cost-Plus Contract: Reimbursing Allowable Costs Plus a Negotiated Fee" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "CPAF" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "CPFF contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "CPIF" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "cost-plus contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "cost-plus contracting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "cost-plus-award-fee contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "cost-plus-fixed-fee contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#altLabel> "cost-plus-incentive-fee contract" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/government-contract-types> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#definition> "A cost-reimbursement contract in which the buyer pays the seller's allowable incurred costs up to a ceiling plus a separately negotiated fee, which may be fixed (CPFF), formula-adjusted (CPIF) or judgmentally awarded (CPAF); used for work too uncertain to price in advance." .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cost-Plus Contract: Reimbursing Allowable Costs Plus a Negotiated Fee" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contract-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/contracting-officer> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/truth-in-negotiations-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/fixed-price-contract> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/allowable-cost> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "government-contracting-and-public-sector" .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/management-and-operating-contract> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/principal-agent-problem> .
+<https://github.com/john1hsu/business-knowledge-graph/id/cost-plus-contract> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/federal-acquisition-regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/cost-structure> <http://www.w3.org/2000/01/rdf-schema#label> "Cost Structure: Fixed Versus Variable Costs and Operating Leverage" .
@@ -7982,6 +8013,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/corporate-turnaround/s6> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/?p=3398" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (FAR Council / GSA)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s1> <http://purl.org/dc/terms/title> "FAR Subpart 16.3 - Cost-Reimbursement Contracts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s1> <https://schema.org/url> "https://www.acquisition.gov/far/subpart-16.3" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s2> <http://purl.org/dc/terms/publisher> "Congressional Research Service (Kate M. Manuel), via EveryCRSReport" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s2> <http://purl.org/dc/terms/title> "Contract Types: An Overview of the Legal Requirements and Issues (R41168)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s2> <https://schema.org/url> "https://www.everycrsreport.com/files/20101001_R41168_49b60e0a1cedd9e47104c4d065cfe0dc87524bb4.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s3> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office, via GovInfo" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s3> <http://purl.org/dc/terms/title> "Defense Acquisitions: DOD Has Paid Billions in Award and Incentive Fees Regardless of Acquisition Outcomes (GAO-06-66)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s3> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-06-66/html/GAOREPORTS-GAO-06-66.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s4> <http://purl.org/dc/terms/publisher> "U.S. Government Accountability Office" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s4> <http://purl.org/dc/terms/title> "GAO-06-66 product page and recommendation status" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s4> <https://schema.org/url> "https://www.gao.gov/products/GAO-06-66" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s5> <http://purl.org/dc/terms/publisher> "RAND Journal of Economics 32(3), 387-407 (Patrick Bajari and Steven Tadelis), via IDEAS/RePEc" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s5> <http://purl.org/dc/terms/title> "Incentives versus Transaction Costs: A Theory of Procurement Contracts" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s5> <https://schema.org/url> "https://ideas.repec.org/a/rje/randje/v32y2001i3p387-407.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s6> <http://purl.org/dc/terms/publisher> "National Research Council, National Academies Press (1999)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s6> <http://purl.org/dc/terms/title> "Improving Project Management in the Department of Energy, Chapter 4: Acquisition and Contracting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/cost-plus-contract/s6> <https://schema.org/url> "https://www.nationalacademies.org/read/9627/chapter/6" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://purl.org/dc/terms/title> "2.2 Identify and Apply Basic Cost Behavior Patterns (Principles of Accounting, Volume 2: Managerial Accounting)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/cost-structure/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

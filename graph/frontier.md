@@ -66,6 +66,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fama-french-three-factor-model` | `kt:asset-pricing`, `kt:capital-asset-pricing-model` |
 | `kt:far-council` | `kt:federal-acquisition-regulation`, `kt:revolutionary-far-overhaul` |
 | `kt:financial-economics` | `kt:asset-pricing`, `kt:behavioral-finance` |
+| `kt:fixed-price-contract` | `kt:cost-plus-contract`, `kt:government-contract-types` |
 | `kt:ford-motor-company` | `kt:general-motors`, `kt:total-quality-management` |
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
@@ -176,6 +177,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:airbnb` | `kt:sharing-economy` |
 | `kt:alexander-osterwalder` | `kt:business-model-canvas` |
 | `kt:alfred-p-sloan-jr` | `kt:general-motors` |
+| `kt:allowable-cost` | `kt:cost-plus-contract` |
 | `kt:altman-z-score` | `kt:financial-statement-analysis` |
 | `kt:amazon` | `kt:long-tail` |
 | `kt:american-research-and-development-corporation` | `kt:venture-capital` |
@@ -259,7 +261,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |
 | `kt:cost-of-equity` | `kt:capital-asset-pricing-model` |
 | `kt:cost-of-poor-quality` | `kt:joseph-juran` |
-| `kt:cost-plus-contract` | `kt:government-contract-types` |
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:cost-volume-profit-analysis` | `kt:cost-structure` |
 | `kt:creating-public-value-1995` | `kt:public-value` |
@@ -340,7 +341,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:financial-accounting-foundation` | `kt:financial-accounting-standards-board` |
 | `kt:financial-distress` | `kt:corporate-turnaround` |
 | `kt:financial-reporting-quality` | `kt:non-gaap-financial-measures` |
-| `kt:fixed-price-contract` | `kt:government-contract-types` |
 | `kt:flexible-specialization` | `kt:mass-production` |
 | `kt:focus-group` | `kt:market-research` |
 | `kt:focused-factory` | `kt:operations-management` |
@@ -463,6 +463,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:macroeconomics` | `kt:microeconomics` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
+| `kt:management-and-operating-contract` | `kt:cost-plus-contract` |
 | `kt:management-by-walking-around` | `kt:hewlett-packard` |
 | `kt:managerial-grid` | `kt:situational-leadership` |
 | `kt:manifesto-for-agile-software-development` | `kt:agile-software-development` |

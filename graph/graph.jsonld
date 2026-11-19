@@ -11718,6 +11718,112 @@
       ]
     },
     {
+      "@id": "kt:cost-plus-contract",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Cost-Plus Contract: Reimbursing Allowable Costs Plus a Negotiated Fee",
+      "skos:definition": "A cost-reimbursement contract in which the buyer pays the seller's allowable incurred costs up to a ceiling plus a separately negotiated fee, which may be fixed (CPFF), formula-adjusted (CPIF) or judgmentally awarded (CPAF); used for work too uncertain to price in advance.",
+      "kto:domain": "government-contracting-and-public-sector",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "FAR Subpart 16.3 - Cost-Reimbursement Contracts",
+          "dcterms:publisher": "Acquisition.gov (FAR Council / GSA)",
+          "schema:url": "https://www.acquisition.gov/far/subpart-16.3",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Contract Types: An Overview of the Legal Requirements and Issues (R41168)",
+          "dcterms:publisher": "Congressional Research Service (Kate M. Manuel), via EveryCRSReport",
+          "schema:url": "https://www.everycrsreport.com/files/20101001_R41168_49b60e0a1cedd9e47104c4d065cfe0dc87524bb4.html",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Defense Acquisitions: DOD Has Paid Billions in Award and Incentive Fees Regardless of Acquisition Outcomes (GAO-06-66)",
+          "dcterms:publisher": "U.S. Government Accountability Office, via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-06-66/html/GAOREPORTS-GAO-06-66.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "GAO-06-66 product page and recommendation status",
+          "dcterms:publisher": "U.S. Government Accountability Office",
+          "schema:url": "https://www.gao.gov/products/GAO-06-66",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Incentives versus Transaction Costs: A Theory of Procurement Contracts",
+          "dcterms:publisher": "RAND Journal of Economics 32(3), 387-407 (Patrick Bajari and Steven Tadelis), via IDEAS/RePEc",
+          "schema:url": "https://ideas.repec.org/a/rje/randje/v32y2001i3p387-407.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Improving Project Management in the Department of Energy, Chapter 4: Acquisition and Contracting",
+          "dcterms:publisher": "National Research Council, National Academies Press (1999)",
+          "schema:url": "https://www.nationalacademies.org/read/9627/chapter/6",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/government-contracting-and-public-sector/cost-plus-contract.md",
+      "skos:altLabel": [
+        "cost-plus contract",
+        "cost-plus contracting",
+        "cost-plus-fixed-fee contract",
+        "CPFF contract",
+        "cost-plus-award-fee contract",
+        "CPAF",
+        "cost-plus-incentive-fee contract",
+        "CPIF"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:government-contract-types"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:contracting-officer"
+        },
+        {
+          "@id": "kt:truth-in-negotiations-act"
+        },
+        {
+          "@id": "kt:contract-theory"
+        },
+        {
+          "@id": "kt:transaction-cost-economics"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:federal-acquisition-regulation"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:fixed-price-contract"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:allowable-cost"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:moral-hazard"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:principal-agent-problem"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:management-and-operating-contract"
+        }
+      ]
+    },
+    {
       "@id": "kt:cybersecurity-maturity-model-certification",
       "@type": "kto:Regulation",
       "skos:prefLabel": "Cybersecurity Maturity Model Certification (CMMC): Verifying Defense Contractors' Cyber Hygiene",

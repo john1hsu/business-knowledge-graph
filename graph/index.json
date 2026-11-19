@@ -1338,6 +1338,32 @@
     ]
   },
   {
+    "id": "kt:cost-plus-contract",
+    "title": "Cost-Plus Contract: Reimbursing Allowable Costs Plus a Negotiated Fee",
+    "aliases": [
+      "cost-plus contract",
+      "cost-plus contracting",
+      "cost-plus-fixed-fee contract",
+      "CPFF contract",
+      "cost-plus-award-fee contract",
+      "CPAF",
+      "cost-plus-incentive-fee contract",
+      "CPIF"
+    ],
+    "type": "Practice",
+    "domain": "government-contracting-and-public-sector",
+    "file": "articles/government-contracting-and-public-sector/cost-plus-contract.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://www.acquisition.gov/far/subpart-16.3",
+      "https://www.everycrsreport.com/files/20101001_R41168_49b60e0a1cedd9e47104c4d065cfe0dc87524bb4.html",
+      "https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-06-66/html/GAOREPORTS-GAO-06-66.htm",
+      "https://www.gao.gov/products/GAO-06-66",
+      "https://ideas.repec.org/a/rje/randje/v32y2001i3p387-407.html",
+      "https://www.nationalacademies.org/read/9627/chapter/6"
+    ]
+  },
+  {
     "id": "kt:cost-structure",
     "title": "Cost Structure: Fixed Versus Variable Costs and Operating Leverage",
     "aliases": [
