@@ -5,12 +5,12 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | Node | Referenced by |
 |---|---|
 | `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
-| `kt:marketing` | `kt:customer-loyalty`, `kt:market-research`, `kt:marketing-metrics`, `kt:service-quality`, `kt:services-marketing` |
+| `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:services-marketing` |
 | `kt:international-accounting-standards-board` | `kt:financial-accounting-standards-board`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
+| `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:segmentation-targeting-positioning` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:payback-period` | `kt:capital-budgeting`, `kt:internal-rate-of-return`, `kt:internal-rate-of-return`, `kt:net-present-value` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
-| `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:services-marketing` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
@@ -18,7 +18,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
-| `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:segmentation-targeting-positioning` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:new-product-development` | `kt:agile-software-development`, `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
@@ -37,6 +36,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:brainstorming` | `kt:design-thinking`, `kt:nominal-group-technique` |
 | `kt:brand-management` | `kt:procter-and-gamble`, `kt:brand-equity` |
 | `kt:bruce-henderson` | `kt:bcg-growth-share-matrix`, `kt:experience-curve` |
+| `kt:business-administration` | `kt:management`, `kt:marketing` |
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:business-valuation` | `kt:discounted-cash-flow`, `kt:mergers-and-acquisitions` |
@@ -204,7 +204,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
 | `kt:bundling` | `kt:price-discrimination` |
 | `kt:bureaucracy` | `kt:max-weber` |
-| `kt:business-administration` | `kt:management` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-plan` | `kt:effectuation` |
@@ -459,6 +458,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:manifesto-for-agile-software-development` | `kt:agile-software-development` |
 | `kt:mark-h-moore` | `kt:public-value` |
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
+| `kt:market-orientation` | `kt:marketing` |
 | `kt:market-power` | `kt:price-discrimination` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
 | `kt:market-structure` | `kt:barriers-to-entry` |

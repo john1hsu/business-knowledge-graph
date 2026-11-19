@@ -18981,6 +18981,87 @@
       ]
     },
     {
+      "@id": "kt:marketing",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Marketing: The Discipline of Creating, Communicating and Delivering Value to Customers",
+      "skos:definition": "The business function, managerial process and academic field concerned with facilitating voluntary exchange: understanding customer needs and creating, communicating, delivering and exchanging offerings that have value for customers, clients, partners and society.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "1.1 Marketing and the Marketing Process (Principles of Marketing)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Marketing",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/marketing",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "11.1 The Marketing Concept (Introduction to Business)",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/introduction-business/pages/11-1-the-marketing-concept",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Broadening the Concept of Marketing (Kotler and Levy, Journal of Marketing, 1969)",
+          "dcterms:publisher": "Kellogg School of Management, Northwestern University",
+          "schema:url": "https://www.kellogg.northwestern.edu/academics-research/research/detail/1969/broadening-the-concept-of-marketing",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Market Orientation: A Meta-Analytic Review and Assessment of Its Antecedents and Impact on Performance",
+          "dcterms:publisher": "Journal of Marketing 69(2), 2005",
+          "schema:url": "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%202/Kirca,%20Jayachandran,%20and%20Bearden.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Marketing: Economic and social aspects of marketing",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.Britannica.com/money/marketing/Economic-and-social-aspects-of-marketing",
+          "kto:sourceType": "encyclopedia"
+        }
+      ],
+      "kto:file": "articles/marketing/marketing.md",
+      "skos:altLabel": [
+        "marketing",
+        "marketing discipline",
+        "marketing management"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-administration"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:marketing-strategy"
+        },
+        {
+          "@id": "kt:relationship-marketing"
+        },
+        {
+          "@id": "kt:services-marketing"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:microeconomics"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:market-research"
+        },
+        {
+          "@id": "kt:market-orientation"
+        }
+      ]
+    },
+    {
       "@id": "kt:net-promoter-score",
       "@type": "kto:Metric",
       "skos:prefLabel": "Net Promoter Score: Reichheld's Likelihood-to-Recommend Loyalty Metric",

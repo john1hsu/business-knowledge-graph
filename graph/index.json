@@ -3489,6 +3489,27 @@
     ]
   },
   {
+    "id": "kt:marketing",
+    "title": "Marketing: The Discipline of Creating, Communicating and Delivering Value to Customers",
+    "aliases": [
+      "marketing",
+      "marketing discipline",
+      "marketing management"
+    ],
+    "type": "Field",
+    "domain": "marketing",
+    "file": "articles/marketing/marketing.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process",
+      "https://www.britannica.com/money/marketing",
+      "https://openstax.org/books/introduction-business/pages/11-1-the-marketing-concept",
+      "https://www.kellogg.northwestern.edu/academics-research/research/detail/1969/broadening-the-concept-of-marketing",
+      "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%202/Kirca,%20Jayachandran,%20and%20Bearden.pdf",
+      "https://www.Britannica.com/money/marketing/Economic-and-social-aspects-of-marketing"
+    ]
+  },
+  {
     "id": "kt:marketing-metrics",
     "title": "Marketing Metrics: Measuring Marketing Performance and Productivity",
     "aliases": [

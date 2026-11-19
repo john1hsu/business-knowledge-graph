@@ -4209,6 +4209,28 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
 <https://github.com/john1hsu/business-knowledge-graph/id/marketing-mix> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/the-concept-of-the-marketing-mix-1964> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Field> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2000/01/rdf-schema#label> "Marketing: The Discipline of Creating, Communicating and Delivering Value to Customers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#altLabel> "marketing discipline" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#altLabel> "marketing management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#altLabel> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/business-administration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#definition> "The business function, managerial process and academic field concerned with facilitating voluntary exchange: understanding customer needs and creating, communicating, delivering and exchanging offerings that have value for customers, clients, partners and society." .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#prefLabel> "Marketing: The Discipline of Creating, Communicating and Delivering Value to Customers" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/marketing-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/relationship-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/services-marketing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/market-orientation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/market-research> .
+<https://github.com/john1hsu/business-knowledge-graph/id/marketing> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/microeconomics> .
 <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
 <https://github.com/john1hsu/business-knowledge-graph/id/mass-production> <http://www.w3.org/2000/01/rdf-schema#label> "Mass Production: Interchangeable Parts, the Moving Assembly Line and High-Volume Standardization" .
@@ -10802,6 +10824,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/marketing-mix/s5> <https://schema.org/url> "https://hbr.org/2013/01/rethinking-the-4-ps" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s1> <http://purl.org/dc/terms/title> "1.1 Marketing and the Marketing Process (Principles of Marketing)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s1> <https://schema.org/url> "https://openstax.org/books/principles-marketing/pages/1-1-marketing-and-the-marketing-process" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s2> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s2> <http://purl.org/dc/terms/title> "Marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s2> <https://schema.org/url> "https://www.britannica.com/money/marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s3> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s3> <http://purl.org/dc/terms/title> "11.1 The Marketing Concept (Introduction to Business)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s3> <https://schema.org/url> "https://openstax.org/books/introduction-business/pages/11-1-the-marketing-concept" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s4> <http://purl.org/dc/terms/publisher> "Kellogg School of Management, Northwestern University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s4> <http://purl.org/dc/terms/title> "Broadening the Concept of Marketing (Kotler and Levy, Journal of Marketing, 1969)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s4> <https://schema.org/url> "https://www.kellogg.northwestern.edu/academics-research/research/detail/1969/broadening-the-concept-of-marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s5> <http://purl.org/dc/terms/publisher> "Journal of Marketing 69(2), 2005" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s5> <http://purl.org/dc/terms/title> "Market Orientation: A Meta-Analytic Review and Assessment of Its Antecedents and Impact on Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s5> <https://schema.org/url> "https://people.duke.edu/~moorman/Marketing-Strategy-Seminar-2015/Session%202/Kirca,%20Jayachandran,%20and%20Bearden.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s6> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica (Britannica Money)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s6> <http://purl.org/dc/terms/title> "Marketing: Economic and social aspects of marketing" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/marketing/s6> <https://schema.org/url> "https://www.Britannica.com/money/marketing/Economic-and-social-aspects-of-marketing" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <http://purl.org/dc/terms/title> "Mass production" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/mass-production/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
