@@ -1577,6 +1577,27 @@
     ]
   },
   {
+    "id": "kt:decision-rights",
+    "title": "Decision Rights: Allocating Authority Over Who Decides What",
+    "aliases": [
+      "allocation of decision rights",
+      "decision authority",
+      "decision-rights allocation"
+    ],
+    "type": "Concept",
+    "domain": "leadership-and-management",
+    "file": "articles/leadership-and-management/decision-rights.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://ucema.edu.ar/u/je49/organizacion/Jensen_SpecificK.pdf",
+      "https://discovery.ucl.ac.uk/17678/",
+      "https://www.library.hbs.edu/working-knowledge/decision-rights-who-gives-the-green-light",
+      "https://www.strategyand.pwc.com/gx/en/orgdna/images/Secrets_to_Successful_Strategy_Execution.pdf",
+      "https://www.bain.com/es/insights/who-has-the-d/",
+      "https://openstax.org/books/introduction-business-2e/pages/7-4-authority-establishing-organizational-relationships"
+    ]
+  },
+  {
     "id": "kt:defense-federal-acquisition-regulation-supplement",
     "title": "DFARS: Defense Department Rules Layered on Top of the FAR",
     "aliases": [

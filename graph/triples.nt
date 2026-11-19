@@ -1888,6 +1888,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/escalation-of-commitment> .
 <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/heuristics-and-biases> .
 <https://github.com/john1hsu/business-knowledge-graph/id/decision-making> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/herbert-a-simon> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2000/01/rdf-schema#label> "Decision Rights: Allocating Authority Over Who Decides What" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#altLabel> "allocation of decision rights" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#altLabel> "decision authority" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#altLabel> "decision-rights allocation" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/organizational-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#definition> "The formal assignment of authority to make, approve, contribute to and carry out particular decisions inside an organization. Its core design problem is placing each decision where the relevant knowledge sits, while controlling the agency costs that delegation creates." .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#prefLabel> "Decision Rights: Allocating Authority Over Who Decides What" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/centralization-and-decentralization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/delegation> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/span-of-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/strategy-execution> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/michael-c-jensen> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/william-h-meckling> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <https://github.com/john1hsu/business-knowledge-graph/ontology#dependsOn> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "leadership-and-management" .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/rapid-decision-framework> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/friedrich-hayek> .
+<https://github.com/john1hsu/business-knowledge-graph/id/decision-rights> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/specific-and-general-knowledge-and-organizational-structure-1992> .
 <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Regulation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/defense-federal-acquisition-regulation-supplement> <http://www.w3.org/2000/01/rdf-schema#label> "DFARS: Defense Department Rules Layered on Top of the FAR" .
@@ -8352,6 +8379,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/decision-making/s6> <https://schema.org/url> "https://pubmed.ncbi.nlm.nih.gov/19739881/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s1> <http://purl.org/dc/terms/publisher> "Michael C. Jensen and William H. Meckling, in Contract Economics (Blackwell, 1992)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s1> <http://purl.org/dc/terms/title> "Specific and General Knowledge, and Organizational Structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s1> <https://schema.org/url> "https://ucema.edu.ar/u/je49/organizacion/Jensen_SpecificK.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s2> <http://purl.org/dc/terms/publisher> "Journal of Political Economy (via UCL Discovery)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s2> <http://purl.org/dc/terms/title> "Formal and Real Authority in Organizations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s2> <https://schema.org/url> "https://discovery.ucl.ac.uk/17678/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s3> <http://purl.org/dc/terms/publisher> "Harvard Business School Working Knowledge" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s3> <http://purl.org/dc/terms/title> "Decision Rights: Who Gives the Green Light?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s3> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/decision-rights-who-gives-the-green-light" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s4> <http://purl.org/dc/terms/publisher> "Harvard Business Review (reprint hosted by Strategy&)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s4> <http://purl.org/dc/terms/title> "The Secrets to Successful Strategy Execution" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s4> <https://schema.org/url> "https://www.strategyand.pwc.com/gx/en/orgdna/images/Secrets_to_Successful_Strategy_Execution.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s5> <http://purl.org/dc/terms/publisher> "Bain & Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s5> <http://purl.org/dc/terms/title> "Who Has the D? How Clear Decision Roles Enhance Organizational Performance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "consultancy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s5> <https://schema.org/url> "https://www.bain.com/es/insights/who-has-the-d/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s6> <http://purl.org/dc/terms/publisher> "OpenStax (Introduction to Business 2e)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s6> <http://purl.org/dc/terms/title> "7.4 Authority—Establishing Organizational Relationships" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/decision-rights/s6> <https://schema.org/url> "https://openstax.org/books/introduction-business-2e/pages/7-4-authority-establishing-organizational-relationships" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/defense-federal-acquisition-regulation-supplement/s1> <http://purl.org/dc/terms/publisher> "Acquisition.gov (Department of Defense)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/defense-federal-acquisition-regulation-supplement/s1> <http://purl.org/dc/terms/title> "Subpart 201.3 - Agency Acquisition Regulations (DFARS)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/defense-federal-acquisition-regulation-supplement/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

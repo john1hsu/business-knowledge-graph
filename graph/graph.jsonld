@@ -15242,6 +15242,108 @@
       ]
     },
     {
+      "@id": "kt:decision-rights",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Decision Rights: Allocating Authority Over Who Decides What",
+      "skos:definition": "The formal assignment of authority to make, approve, contribute to and carry out particular decisions inside an organization. Its core design problem is placing each decision where the relevant knowledge sits, while controlling the agency costs that delegation creates.",
+      "kto:domain": "leadership-and-management",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Specific and General Knowledge, and Organizational Structure",
+          "dcterms:publisher": "Michael C. Jensen and William H. Meckling, in Contract Economics (Blackwell, 1992)",
+          "schema:url": "https://ucema.edu.ar/u/je49/organizacion/Jensen_SpecificK.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Formal and Real Authority in Organizations",
+          "dcterms:publisher": "Journal of Political Economy (via UCL Discovery)",
+          "schema:url": "https://discovery.ucl.ac.uk/17678/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Decision Rights: Who Gives the Green Light?",
+          "dcterms:publisher": "Harvard Business School Working Knowledge",
+          "schema:url": "https://www.library.hbs.edu/working-knowledge/decision-rights-who-gives-the-green-light",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Secrets to Successful Strategy Execution",
+          "dcterms:publisher": "Harvard Business Review (reprint hosted by Strategy&)",
+          "schema:url": "https://www.strategyand.pwc.com/gx/en/orgdna/images/Secrets_to_Successful_Strategy_Execution.pdf",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Who Has the D? How Clear Decision Roles Enhance Organizational Performance",
+          "dcterms:publisher": "Bain & Company",
+          "schema:url": "https://www.bain.com/es/insights/who-has-the-d/",
+          "kto:sourceType": "consultancy"
+        },
+        {
+          "dcterms:title": "7.4 Authority—Establishing Organizational Relationships",
+          "dcterms:publisher": "OpenStax (Introduction to Business 2e)",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/7-4-authority-establishing-organizational-relationships",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/leadership-and-management/decision-rights.md",
+      "skos:altLabel": [
+        "allocation of decision rights",
+        "decision authority",
+        "decision-rights allocation"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-structure"
+        },
+        {
+          "@id": "kt:management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:span-of-control"
+        },
+        {
+          "@id": "kt:delegation"
+        },
+        {
+          "@id": "kt:centralization-and-decentralization"
+        },
+        {
+          "@id": "kt:strategy-execution"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:michael-c-jensen"
+        },
+        {
+          "@id": "kt:william-h-meckling"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:specific-and-general-knowledge-and-organizational-structure-1992"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:friedrich-hayek"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:rapid-decision-framework"
+        }
+      ]
+    },
+    {
       "@id": "kt:frederick-winslow-taylor",
       "@type": "kto:Person",
       "skos:prefLabel": "Frederick Winslow Taylor: Engineer and Founder of Scientific Management",

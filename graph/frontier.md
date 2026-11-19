@@ -11,6 +11,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
+| `kt:centralization-and-decentralization` | `kt:procter-and-gamble`, `kt:decision-rights`, `kt:span-of-control` |
 | `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix`, `kt:vertical-integration` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
@@ -22,6 +23,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
+| `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen`, `kt:decision-rights` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction`, `kt:net-promoter-score` |
@@ -38,7 +40,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-process-reengineering` | `kt:enterprise-resource-planning`, `kt:operational-effectiveness` |
 | `kt:business-roundtable-statement-on-corporate-governance-1997` | `kt:business-roundtable-statement-on-corporate-purpose`, `kt:shareholder-primacy` |
 | `kt:business-valuation` | `kt:discounted-cash-flow`, `kt:mergers-and-acquisitions` |
-| `kt:centralization-and-decentralization` | `kt:procter-and-gamble`, `kt:span-of-control` |
 | `kt:chris-argyris` | `kt:situational-leadership`, `kt:amy-edmondson` |
 | `kt:cisco-systems` | `kt:bill-of-materials`, `kt:inventory-management` |
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
@@ -54,6 +55,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule` |
+| `kt:delegation` | `kt:decision-rights`, `kt:span-of-control` |
 | `kt:department-of-defense` | `kt:cybersecurity-maturity-model-certification`, `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
@@ -118,6 +120,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:operations-research` | `kt:wicked-problems`, `kt:operations-management` |
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
+| `kt:organizational-structure` | `kt:decision-rights`, `kt:span-of-control` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
@@ -155,7 +158,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:walter-shewhart` | `kt:pdca-cycle`, `kt:w-edwards-deming` |
-| `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
@@ -272,11 +274,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:david-p-norton` | `kt:balanced-scorecard` |
 | `kt:david-packard` | `kt:hewlett-packard` |
 | `kt:debt-covenant` | `kt:ebitda` |
-| `kt:decision-rights` | `kt:span-of-control` |
 | `kt:defense-industrial-base` | `kt:cybersecurity-maturity-model-certification` |
 | `kt:defense-resourcing-system` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:degree-of-operating-leverage` | `kt:cost-structure` |
-| `kt:delegation` | `kt:span-of-control` |
 | `kt:dell-technologies` | `kt:working-capital` |
 | `kt:deloitte` | `kt:performance-management` |
 | `kt:demand-driven-mrp` | `kt:material-requirements-planning` |
@@ -350,6 +350,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fred-reichheld` | `kt:net-promoter-score` |
 | `kt:fred-wilson` | `kt:freemium` |
 | `kt:free-trial` | `kt:freemium` |
+| `kt:friedrich-hayek` | `kt:decision-rights` |
 | `kt:fritz-roethlisberger` | `kt:hawthorne-studies` |
 | `kt:ftc-franchise-rule` | `kt:business-format-franchising` |
 | `kt:ftc-negative-option-rule` | `kt:subscription-business-model` |
@@ -526,7 +527,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:operations-strategy` | `kt:operations-management` |
 | `kt:organizational-culture-profile` | `kt:organizational-culture` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
-| `kt:organizational-structure` | `kt:span-of-control` |
 | `kt:oskar-morgenstern` | `kt:game-theory-in-business` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:outsourcing` | `kt:vertical-integration` |
@@ -579,6 +579,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:quality-control-handbook` | `kt:eighty-twenty-rule` |
 | `kt:r-edward-freeman` | `kt:stakeholder-theory` |
 | `kt:rand-health-insurance-experiment` | `kt:moral-hazard` |
+| `kt:rapid-decision-framework` | `kt:decision-rights` |
 | `kt:recommender-system` | `kt:long-tail` |
 | `kt:red-hat` | `kt:open-source-business-model` |
 | `kt:redbox` | `kt:blockbuster-decline` |
@@ -645,6 +646,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:source-selection` | `kt:lowest-price-technically-acceptable` |
 | `kt:space-shuttle-challenger-disaster` | `kt:group-decision-making` |
 | `kt:special-purpose-entity` | `kt:enron-scandal` |
+| `kt:specific-and-general-knowledge-and-organizational-structure-1992` | `kt:decision-rights` |
 | `kt:spotify` | `kt:freemium` |
 | `kt:stakeholder-salience-model` | `kt:stakeholder-analysis` |
 | `kt:statement-of-changes-in-financial-position` | `kt:statement-of-cash-flows` |
