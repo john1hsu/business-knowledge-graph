@@ -117,11 +117,13 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
 | `kt:oil-industry` | `kt:standard-oil`, `kt:standard-oil` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
+| `kt:operations-research` | `kt:wicked-problems`, `kt:operations-management` |
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:private-equity` | `kt:leveraged-buyout`, `kt:venture-capital` |
+| `kt:problem-formulation` | `kt:structured-problem-solving`, `kt:wicked-problems` |
 | `kt:prospect-theory` | `kt:behavioral-finance`, `kt:decision-making` |
 | `kt:public-company-accounting-oversight-board` | `kt:sarbanes-oxley-act`, `kt:audit-committee` |
 | `kt:regulation-g` | `kt:ebitda`, `kt:non-gaap-financial-measures` |
@@ -235,6 +237,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:clayton-act` | `kt:antitrust-law` |
 | `kt:closed-innovation` | `kt:open-innovation` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
+| `kt:clumsy-solutions` | `kt:wicked-problems` |
 | `kt:competing-values-framework` | `kt:organizational-culture` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-bidding` | `kt:sole-source-contracting` |
@@ -284,6 +287,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dialectical-inquiry` | `kt:devils-advocacy` |
 | `kt:diffusion-of-innovations` | `kt:technology-adoption-life-cycle` |
 | `kt:digital-advertising-industry` | `kt:google` |
+| `kt:dilemmas-in-a-general-theory-of-planning-1973` | `kt:wicked-problems` |
 | `kt:direct-marketing` | `kt:direct-selling` |
 | `kt:dish-network` | `kt:blockbuster-decline` |
 | `kt:disposition-effect` | `kt:behavioral-finance` |
@@ -379,6 +383,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:hold-up-problem` | `kt:cooperative` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
+| `kt:horst-rittel` | `kt:wicked-problems` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
@@ -477,6 +482,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mcdonalds` | `kt:business-format-franchising` |
 | `kt:measure-costs-right-make-the-right-decisions-1988` | `kt:activity-based-costing` |
 | `kt:media-industry` | `kt:advertising-supported-business-model` |
+| `kt:melvin-webber` | `kt:wicked-problems` |
 | `kt:merger-arbitrage` | `kt:arbitrage` |
 | `kt:merger-guidelines` | `kt:antitrust-law` |
 | `kt:merger-waves` | `kt:mergers-and-acquisitions` |
@@ -516,7 +522,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:one-share-one-vote` | `kt:dual-class-shares` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:operating-leverage` | `kt:cost-structure` |
-| `kt:operations-research` | `kt:operations-management` |
 | `kt:operations-strategy` | `kt:operations-management` |
 | `kt:organizational-culture-profile` | `kt:organizational-culture` |
 | `kt:organizational-memory` | `kt:organizational-learning` |
@@ -550,7 +555,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:prisoners-dilemma` | `kt:game-theory-in-business` |
 | `kt:private-company-council` | `kt:financial-accounting-standards-board` |
 | `kt:probabilistic-risk-assessment` | `kt:fault-tree-analysis` |
-| `kt:problem-formulation` | `kt:structured-problem-solving` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
 | `kt:process-theories-of-organizational-change` | `kt:andrew-van-de-ven` |
 | `kt:procurement` | `kt:public-procurement` |
@@ -721,7 +725,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:wesley-cohen` | `kt:absorptive-capacity` |
 | `kt:what-is-strategy-1996` | `kt:operational-effectiveness` |
 | `kt:who-cares-wins-report` | `kt:esg` |
-| `kt:wicked-problems` | `kt:design-thinking` |
 | `kt:william-c-durant` | `kt:general-motors` |
 | `kt:william-hewlett` | `kt:hewlett-packard` |
 | `kt:william-sharpe` | `kt:capital-asset-pricing-model` |

@@ -9339,6 +9339,103 @@
       ]
     },
     {
+      "@id": "kt:wicked-problems",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Wicked Problems: Rittel and Webber's Tame-versus-Wicked Distinction",
+      "skos:definition": "A class of ill-defined, value-laden problems, named by Horst Rittel and Melvin Webber in a 1973 Policy Sciences article, that have no definitive formulation, no stopping rule and no right answer, so they can only be re-solved or managed through argument among stakeholders rather than solved by expert analysis.",
+      "kto:domain": "consulting-and-problem-solving",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Dilemmas in a General Theory of Planning (Rittel & Webber, Policy Sciences 4, 1973, pp. 155–169)",
+          "dcterms:publisher": "Policy Sciences, Elsevier (copy archived by US EPA)",
+          "schema:url": "https://archive.epa.gov/reg3esd1/data/web/pdf/rittel%2Bwebber%2Bdilemmas%2Bgeneral_theory_of_planning.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Wicked Problems: Implications for Public Policy and Management (Head & Alford, Administration & Society 47(6), 2015, pp. 711–739)",
+          "dcterms:publisher": "Administration & Society, SAGE (author copy)",
+          "schema:url": "https://www.researchgate.net/profile/Brian-Head-2/publication/275573005_Wicked_Problems_Implications_for_Public_Policy_and_Management/links/5af974ffa6fdcc0c0334ad11/Wicked-Problems-Implications-for-Public-Policy-and-Management.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Tackling Wicked Problems: A Public Policy Perspective (Contemporary Government Challenges series, 2007)",
+          "dcterms:publisher": "Australian Public Service Commission, Commonwealth of Australia (copy hosted by Enabling Change)",
+          "schema:url": "https://www.enablingchange.com.au/wickedproblems.pdf",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Clumsy Solutions for Wicked Problems: Decision-Making in Uncertainty and the Role of Systems Leadership (Keith Grint)",
+          "dcterms:publisher": "Warwick Business School thinkpiece (published on GOV.UK)",
+          "schema:url": "https://assets.publishing.service.gov.uk/media/5f881de5d3bf7f632f6be1dd/NLC-thinkpiece-Systems-Leadership-GRINT.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Strategy as a Wicked Problem (John C. Camillus, Harvard Business Review, May 2008; excerpt)",
+          "dcterms:publisher": "Harvard Business Review (excerpt hosted by CogNexus Institute)",
+          "schema:url": "https://cognexus.org/harvard_business_review_may_.htm",
+          "kto:sourceType": "practitioner-journal"
+        }
+      ],
+      "kto:file": "articles/consulting-and-problem-solving/wicked-problems.md",
+      "skos:altLabel": [
+        "wicked problem",
+        "wicked policy problems",
+        "tame and wicked problems"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:structured-problem-solving"
+        },
+        {
+          "@id": "kt:problem-formulation"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:design-thinking"
+        },
+        {
+          "@id": "kt:stakeholder-analysis"
+        },
+        {
+          "@id": "kt:scenario-planning"
+        },
+        {
+          "@id": "kt:public-value"
+        },
+        {
+          "@id": "kt:strategic-planning"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:horst-rittel"
+        },
+        {
+          "@id": "kt:melvin-webber"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:dilemmas-in-a-general-theory-of-planning-1973"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:hypothesis-driven-problem-solving"
+        },
+        {
+          "@id": "kt:operations-research"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:clumsy-solutions"
+        }
+      ]
+    },
+    {
       "@id": "kt:arbitrage",
       "@type": "kto:Concept",
       "skos:prefLabel": "Arbitrage",

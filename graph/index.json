@@ -5837,6 +5837,26 @@
     ]
   },
   {
+    "id": "kt:wicked-problems",
+    "title": "Wicked Problems: Rittel and Webber's Tame-versus-Wicked Distinction",
+    "aliases": [
+      "wicked problem",
+      "wicked policy problems",
+      "tame and wicked problems"
+    ],
+    "type": "Concept",
+    "domain": "consulting-and-problem-solving",
+    "file": "articles/consulting-and-problem-solving/wicked-problems.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://archive.epa.gov/reg3esd1/data/web/pdf/rittel%2Bwebber%2Bdilemmas%2Bgeneral_theory_of_planning.pdf",
+      "https://www.researchgate.net/profile/Brian-Head-2/publication/275573005_Wicked_Problems_Implications_for_Public_Policy_and_Management/links/5af974ffa6fdcc0c0334ad11/Wicked-Problems-Implications-for-Public-Policy-and-Management.pdf",
+      "https://www.enablingchange.com.au/wickedproblems.pdf",
+      "https://assets.publishing.service.gov.uk/media/5f881de5d3bf7f632f6be1dd/NLC-thinkpiece-Systems-Leadership-GRINT.pdf",
+      "https://cognexus.org/harvard_business_review_may_.htm"
+    ]
+  },
+  {
     "id": "kt:working-capital",
     "title": "Working Capital: Current Assets Minus Current Liabilities",
     "aliases": [
