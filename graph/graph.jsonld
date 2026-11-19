@@ -21232,6 +21232,101 @@
       ]
     },
     {
+      "@id": "kt:production-planning-and-control",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Production Planning and Control: From Aggregate Plans to Shop-Floor Dispatching",
+      "skos:definition": "The managerial function that decides what a plant will make, in what quantities, when and on which resources (planning), and then releases, monitors and corrects the work on the shop floor so that output matches the plan (control).",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Production management",
+          "dcterms:publisher": "Encyclopaedia Britannica (Britannica Money)",
+          "schema:url": "https://www.britannica.com/money/production-management",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Gantt charts: A centenary appreciation",
+          "dcterms:publisher": "European Journal of Operational Research (University of Glasgow Enlighten repository)",
+          "schema:url": "https://eprints.gla.ac.uk/39064",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Hierarchical Production Planning Systems (Technical Report No. 135)",
+          "dcterms:publisher": "MIT Operations Research Center, via Defense Technical Information Center",
+          "schema:url": "https://apps.dtic.mil/sti/pdfs/ADA045016.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Hierarchical integration of production planning and scheduling (Working Paper 656-73)",
+          "dcterms:publisher": "MIT Sloan School of Management, via EconPapers (RePEc)",
+          "schema:url": "https://econpapers.repec.org/RePEc:mit:sloanp:1868",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Material Requirements Planning (MIT 2.854 lecture notes, Fall 2010)",
+          "dcterms:publisher": "MIT OpenCourseWare / DSpace@MIT",
+          "schema:url": "https://dspace.mit.edu/bitstream/handle/1721.1/109525/2-854-fall-2010/contents/lecture-notes/MIT2_854F10_mrp.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/production-planning-and-control.md",
+      "skos:altLabel": [
+        "PPC",
+        "production planning",
+        "production control",
+        "manufacturing planning and control"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:material-requirements-planning"
+        },
+        {
+          "@id": "kt:enterprise-resource-planning"
+        },
+        {
+          "@id": "kt:inventory-management"
+        },
+        {
+          "@id": "kt:just-in-time"
+        },
+        {
+          "@id": "kt:theory-of-constraints"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:master-production-schedule"
+        },
+        {
+          "@id": "kt:aggregate-planning"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:scientific-management"
+        },
+        {
+          "@id": "kt:gantt-chart"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:hierarchical-production-planning"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:kanban"
+        }
+      ]
+    },
+    {
       "@id": "kt:six-sigma",
       "@type": "kto:Practice",
       "skos:prefLabel": "Six Sigma: Motorola's DMAIC Method for Reducing Process Variation and Defects",

@@ -4494,6 +4494,27 @@
     ]
   },
   {
+    "id": "kt:production-planning-and-control",
+    "title": "Production Planning and Control: From Aggregate Plans to Shop-Floor Dispatching",
+    "aliases": [
+      "PPC",
+      "production planning",
+      "production control",
+      "manufacturing planning and control"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/production-planning-and-control.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://www.britannica.com/money/production-management",
+      "https://eprints.gla.ac.uk/39064",
+      "https://apps.dtic.mil/sti/pdfs/ADA045016.pdf",
+      "https://econpapers.repec.org/RePEc:mit:sloanp:1868",
+      "https://dspace.mit.edu/bitstream/handle/1721.1/109525/2-854-fall-2010/contents/lecture-notes/MIT2_854F10_mrp.pdf"
+    ]
+  },
+  {
     "id": "kt:proxy-advisory-firm",
     "title": "Proxy Advisory Firm",
     "aliases": [

@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:international-accounting-standards-board` | `kt:financial-accounting-standards-board`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:segmentation-targeting-positioning` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
-| `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:vertical-integration` | `kt:standard-oil`, `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
@@ -18,6 +17,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
+| `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning`, `kt:production-planning-and-control` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:new-product-development` | `kt:agile-software-development`, `kt:stage-gate-process`, `kt:cannibalization` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
@@ -71,6 +71,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:forecasting` | `kt:delphi-method`, `kt:scenario-planning` |
 | `kt:franchising` | `kt:business-format-franchising`, `kt:direct-selling` |
 | `kt:franco-modigliani` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
+| `kt:gantt-chart` | `kt:scientific-management`, `kt:production-planning-and-control` |
 | `kt:general-electric` | `kt:six-sigma`, `kt:strategic-planning` |
 | `kt:generic-competitive-strategies` | `kt:competitive-advantage`, `kt:porters-five-forces` |
 | `kt:george-akerlof` | `kt:adverse-selection`, `kt:information-asymmetry` |
@@ -105,7 +106,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marchand-v-barnhill` | `kt:caremark-oversight-duty`, `kt:fiduciary-duty` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
-| `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
 | `kt:motivation-hygiene-theory` | `kt:employee-motivation`, `kt:j-richard-hackman` |
@@ -148,6 +148,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:team-learning` | `kt:high-performance-teams`, `kt:psychological-safety` |
 | `kt:the-market-for-lemons-1970` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:theory-based-view` | `kt:hypothesis-driven-problem-solving`, `kt:lean-startup` |
+| `kt:theory-of-constraints` | `kt:material-requirements-planning`, `kt:production-planning-and-control` |
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
@@ -169,6 +170,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:adolf-berle` | `kt:separation-of-ownership-and-control` |
 | `kt:adrian-cadbury` | `kt:cadbury-report` |
 | `kt:advertising-elasticity` | `kt:price-elasticity` |
+| `kt:aggregate-planning` | `kt:production-planning-and-control` |
 | `kt:agreement-on-government-procurement` | `kt:public-procurement` |
 | `kt:airbnb` | `kt:sharing-economy` |
 | `kt:alexander-osterwalder` | `kt:business-model-canvas` |
@@ -350,7 +352,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:ftc-negative-option-rule` | `kt:subscription-business-model` |
 | `kt:fujifilm` | `kt:kodak-decline` |
 | `kt:fujifilm-transformation` | `kt:kodak-decline` |
-| `kt:gantt-chart` | `kt:scientific-management` |
 | `kt:gardiner-means` | `kt:separation-of-ownership-and-control` |
 | `kt:gary-klein` | `kt:premortem` |
 | `kt:gary-latham` | `kt:goal-setting-theory` |
@@ -372,6 +373,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbert-a-simon` | `kt:decision-making` |
 | `kt:herbert-simon` | `kt:effectuation` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
+| `kt:hierarchical-production-planning` | `kt:production-planning-and-control` |
 | `kt:high-speed-steel` | `kt:frederick-winslow-taylor` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
@@ -682,7 +684,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-study-of-administration-1887` | `kt:public-administration` |
 | `kt:the-theory-of-games-and-economic-behavior-1944` | `kt:game-theory-in-business` |
 | `kt:theodore-levitt` | `kt:jobs-to-be-done` |
-| `kt:theory-of-constraints` | `kt:material-requirements-planning` |
 | `kt:theory-of-the-business` | `kt:peter-drucker` |
 | `kt:theory-of-the-firm-jensen-meckling-1976` | `kt:agency-costs` |
 | `kt:theory-x-and-theory-y` | `kt:management-by-objectives` |
