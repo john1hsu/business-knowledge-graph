@@ -2839,6 +2839,104 @@
       ]
     },
     {
+      "@id": "kt:dual-class-shares",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Dual-Class Shares: Founder Control Through Unequal Voting Rights",
+      "skos:definition": "A corporate capital structure with two or more classes of common stock carrying different voting rights per share, typically letting founders or insiders keep voting control of a public company while owning a minority of its equity.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Perpetual Dual-Class Stock: The Case Against Corporate Royalty",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (speech by Commissioner Robert J. Jackson Jr.)",
+          "schema:url": "https://www.sec.gov/newsroom/speeches-statements/perpetual-dual-class-stock-case-against-corporate-royalty",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Untenable Case for Perpetual Dual-Class Stock",
+          "dcterms:publisher": "Virginia Law Review 103(4), 585 (2017)",
+          "schema:url": "https://virginialawreview.org/articles/untenable-case-perpetual-dual-class-stock/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Extreme Governance: An Analysis of Dual-Class Firms in the United States",
+          "dcterms:publisher": "The Review of Financial Studies 23(3), 1051-1088 (2010)",
+          "schema:url": "https://ideas.repec.org/a/oup/rfinst/v23y2010i3p1051-1088.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Alphabet Inc. Annual Report (Form 10-K) for fiscal year 2024",
+          "dcterms:publisher": "U.S. Securities and Exchange Commission (EDGAR)",
+          "schema:url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Dual-Class Stock Revolution",
+          "dcterms:publisher": "Harvard Law School Forum on Corporate Governance (Sharon Hannes and Adi Libson, 2026)",
+          "schema:url": "https://corpgov.law.harvard.edu/2026/01/10/the-dual-class-stock-revolution/",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/dual-class-shares.md",
+      "skos:altLabel": [
+        "dual-class stock",
+        "dual-class share structure",
+        "multi-class share structure",
+        "dual-class voting",
+        "high-vote shares"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:separation-of-ownership-and-control"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:board-of-directors"
+        },
+        {
+          "@id": "kt:proxy-advisory-firm"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        },
+        {
+          "@id": "kt:initial-public-offering"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:google"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:poison-pill"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:hostile-takeover"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ],
+      "kto:critiques": [
+        {
+          "@id": "kt:one-share-one-vote"
+        }
+      ]
+    },
+    {
       "@id": "kt:esg",
       "@type": "kto:Framework",
       "skos:prefLabel": "ESG",

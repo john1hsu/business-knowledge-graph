@@ -1743,6 +1743,28 @@
     ]
   },
   {
+    "id": "kt:dual-class-shares",
+    "title": "Dual-Class Shares: Founder Control Through Unequal Voting Rights",
+    "aliases": [
+      "dual-class stock",
+      "dual-class share structure",
+      "multi-class share structure",
+      "dual-class voting",
+      "high-vote shares"
+    ],
+    "type": "Practice",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/dual-class-shares.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://www.sec.gov/newsroom/speeches-statements/perpetual-dual-class-stock-case-against-corporate-royalty",
+      "https://virginialawreview.org/articles/untenable-case-perpetual-dual-class-stock/",
+      "https://ideas.repec.org/a/oup/rfinst/v23y2010i3p1051-1088.html",
+      "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm",
+      "https://corpgov.law.harvard.edu/2026/01/10/the-dual-class-stock-revolution/"
+    ]
+  },
+  {
     "id": "kt:dupont-analysis",
     "title": "DuPont Analysis: Decomposing Return on Equity",
     "aliases": [

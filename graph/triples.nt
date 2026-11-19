@@ -2089,6 +2089,34 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "accounting-and-reporting" .
 <https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#hasPart> <https://github.com/john1hsu/business-knowledge-graph/id/trial-balance> .
 <https://github.com/john1hsu/business-knowledge-graph/id/double-entry-bookkeeping> <https://github.com/john1hsu/business-knowledge-graph/ontology#influenced> <https://github.com/john1hsu/business-knowledge-graph/id/accrual-accounting> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Practice> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2000/01/rdf-schema#label> "Dual-Class Shares: Founder Control Through Unequal Voting Rights" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#altLabel> "dual-class share structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#altLabel> "dual-class stock" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#altLabel> "dual-class voting" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#altLabel> "high-vote shares" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#altLabel> "multi-class share structure" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-governance> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/separation-of-ownership-and-control> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#definition> "A corporate capital structure with two or more classes of common stock carrying different voting rights per share, typically letting founders or insiders keep voting control of a public company while owning a minority of its equity." .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dual-Class Shares: Founder Control Through Unequal Voting Rights" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/board-of-directors> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/initial-public-offering> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/proxy-advisory-firm> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/shareholder-primacy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/poison-pill> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/agency-costs> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <https://github.com/john1hsu/business-knowledge-graph/ontology#critiques> <https://github.com/john1hsu/business-knowledge-graph/id/one-share-one-vote> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google> .
+<https://github.com/john1hsu/business-knowledge-graph/id/dual-class-shares> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/hostile-takeover> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://purl.org/dc/terms/created> "2026-11-13" .
 <https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Framework> .
 <https://github.com/john1hsu/business-knowledge-graph/id/dupont-analysis> <http://www.w3.org/2000/01/rdf-schema#label> "DuPont Analysis: Decomposing Return on Equity" .
@@ -8389,6 +8417,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/double-entry-bookkeeping/s6> <https://schema.org/url> "https://www.uowoajournals.org/aabfj/article/id/1454/print/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s1> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (speech by Commissioner Robert J. Jackson Jr.)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s1> <http://purl.org/dc/terms/title> "Perpetual Dual-Class Stock: The Case Against Corporate Royalty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s1> <https://schema.org/url> "https://www.sec.gov/newsroom/speeches-statements/perpetual-dual-class-stock-case-against-corporate-royalty" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s2> <http://purl.org/dc/terms/publisher> "Virginia Law Review 103(4), 585 (2017)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s2> <http://purl.org/dc/terms/title> "The Untenable Case for Perpetual Dual-Class Stock" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s2> <https://schema.org/url> "https://virginialawreview.org/articles/untenable-case-perpetual-dual-class-stock/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s3> <http://purl.org/dc/terms/publisher> "The Review of Financial Studies 23(3), 1051-1088 (2010)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s3> <http://purl.org/dc/terms/title> "Extreme Governance: An Analysis of Dual-Class Firms in the United States" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s3> <https://schema.org/url> "https://ideas.repec.org/a/oup/rfinst/v23y2010i3p1051-1088.html" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s4> <http://purl.org/dc/terms/publisher> "U.S. Securities and Exchange Commission (EDGAR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s4> <http://purl.org/dc/terms/title> "Alphabet Inc. Annual Report (Form 10-K) for fiscal year 2024" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s4> <https://schema.org/url> "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s5> <http://purl.org/dc/terms/publisher> "Harvard Law School Forum on Corporate Governance (Sharon Hannes and Adi Libson, 2026)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s5> <http://purl.org/dc/terms/title> "The Dual-Class Stock Revolution" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/dual-class-shares/s5> <https://schema.org/url> "https://corpgov.law.harvard.edu/2026/01/10/the-dual-class-stock-revolution/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://purl.org/dc/terms/title> "Principles of Finance, Section 6.6: Profitability Ratios and the DuPont Method" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/dupont-analysis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

@@ -82,6 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-mintzberg` | `kt:henri-fayol`, `kt:management` |
 | `kt:heuristics-and-biases` | `kt:decision-making`, `kt:overconfidence-bias` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
+| `kt:hostile-takeover` | `kt:dual-class-shares`, `kt:mergers-and-acquisitions` |
 | `kt:human-relations-movement` | `kt:hawthorne-studies`, `kt:management-theory` |
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
 | `kt:index-fund` | `kt:capital-asset-pricing-model`, `kt:efficient-market-hypothesis` |
@@ -288,7 +289,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:donaldson-brown` | `kt:dupont-analysis` |
 | `kt:double-loop-learning` | `kt:organizational-learning` |
 | `kt:downsizing` | `kt:corporate-turnaround` |
-| `kt:dual-class-shares` | `kt:separation-of-ownership-and-control` |
 | `kt:dynamic-capabilities-and-strategic-management-1997` | `kt:dynamic-capabilities` |
 | `kt:e-s-qual` | `kt:a-parasuraman` |
 | `kt:earned-growth-rate` | `kt:net-promoter-score` |
@@ -376,7 +376,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hold-up-problem` | `kt:cooperative` |
 | `kt:holding-company` | `kt:google` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
-| `kt:hostile-takeover` | `kt:mergers-and-acquisitions` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
 | `kt:hub-and-spoke-network` | `kt:airline-industry` |
@@ -395,6 +394,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:information-distortion-in-a-supply-chain-1997` | `kt:bullwhip-effect` |
 | `kt:information-systems` | `kt:enterprise-resource-planning` |
 | `kt:ingredient-branding` | `kt:intel` |
+| `kt:initial-public-offering` | `kt:dual-class-shares` |
 | `kt:innovators-solution` | `kt:innovators-dilemma` |
 | `kt:inside-director` | `kt:independent-director` |
 | `kt:institutional-shareholder-services` | `kt:proxy-advisory-firm` |
@@ -505,6 +505,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:olaf-helmer` | `kt:delphi-method` |
 | `kt:oligopoly` | `kt:game-theory-in-business` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
+| `kt:one-share-one-vote` | `kt:dual-class-shares` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:operating-leverage` | `kt:cost-structure` |
 | `kt:operations-research` | `kt:operations-management` |
@@ -526,6 +527,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:personal-selling` | `kt:direct-selling` |
 | `kt:pierre-wack` | `kt:scenario-planning` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
+| `kt:poison-pill` | `kt:dual-class-shares` |
 | `kt:political-science` | `kt:public-administration` |
 | `kt:portfolio-planning` | `kt:bcg-growth-share-matrix` |
 | `kt:positioning` | `kt:segmentation-targeting-positioning` |
