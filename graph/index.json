@@ -5751,6 +5751,28 @@
     ]
   },
   {
+    "id": "kt:vertical-integration",
+    "title": "Vertical Integration: Bringing Upstream and Downstream Stages Under One Firm",
+    "aliases": [
+      "vertical integration",
+      "backward integration",
+      "forward integration",
+      "vertical integration strategy"
+    ],
+    "type": "Strategy",
+    "domain": "strategy",
+    "file": "articles/strategy/vertical-integration.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://competitionandappropriation.econ.ucla.edu/wp-content/uploads/sites/95/2017/08/Williamson1971.pdf",
+      "https://business.columbia.edu/faculty/research/formulating-vertical-integration-strategies",
+      "https://sloanreview.mit.edu/article/when-and-when-not-to-vertically-integrate",
+      "https://economics.mit.edu/sites/default/files/2022-09/Vertical%20Integration.pdf",
+      "https://ageconsearch.umn.edu/record/269756/files/twerp_799.pdf",
+      "https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/"
+    ]
+  },
+  {
     "id": "kt:w-edwards-deming",
     "title": "W. Edwards Deming: Statistician of Quality and the Fourteen Points",
     "aliases": [

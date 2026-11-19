@@ -10,8 +10,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:segmentation-targeting-positioning` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
-| `kt:vertical-integration` | `kt:standard-oil`, `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
+| `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix`, `kt:vertical-integration` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
@@ -47,7 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:consumer-packaged-goods-industry` | `kt:procter-and-gamble`, `kt:procter-and-gamble` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
-| `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility`, `kt:michael-porter` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
@@ -383,6 +382,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:hold-up-problem` | `kt:cooperative` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
+| `kt:horizontal-integration` | `kt:vertical-integration` |
 | `kt:horst-rittel` | `kt:wicked-problems` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
@@ -528,6 +528,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:organizational-structure` | `kt:span-of-control` |
 | `kt:oskar-morgenstern` | `kt:game-theory-in-business` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
+| `kt:outsourcing` | `kt:vertical-integration` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:pay-for-performance` | `kt:expectancy-theory` |

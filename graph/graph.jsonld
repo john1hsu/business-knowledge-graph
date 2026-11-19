@@ -25458,6 +25458,93 @@
           "@id": "kt:eu-data-act"
         }
       ]
+    },
+    {
+      "@id": "kt:vertical-integration",
+      "@type": "kto:Strategy",
+      "skos:prefLabel": "Vertical Integration: Bringing Upstream and Downstream Stages Under One Firm",
+      "skos:definition": "The corporate strategy of placing successive stages of a supply chain, from inputs (backward integration) to distribution and retail (forward integration), under common ownership instead of buying from or selling to independent firms through markets or contracts.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The Vertical Integration of Production: Market Failure Considerations",
+          "dcterms:publisher": "American Economic Review 61(2), 112-123 (1971), hosted by UCLA",
+          "schema:url": "https://competitionandappropriation.econ.ucla.edu/wp-content/uploads/sites/95/2017/08/Williamson1971.pdf",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Formulating Vertical Integration Strategies",
+          "dcterms:publisher": "Columbia Business School (Academy of Management Review 9, 1984)",
+          "schema:url": "https://business.columbia.edu/faculty/research/formulating-vertical-integration-strategies",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "When and When Not to Vertically Integrate",
+          "dcterms:publisher": "MIT Sloan Management Review",
+          "schema:url": "https://sloanreview.mit.edu/article/when-and-when-not-to-vertically-integrate",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Vertical Integration",
+          "dcterms:publisher": "MIT Department of Economics (Paul L. Joskow, ABA Antitrust Section chapter, 2006)",
+          "schema:url": "https://economics.mit.edu/sites/default/files/2022-09/Vertical%20Integration.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Vertical Integration and Firm Boundaries: The Evidence",
+          "dcterms:publisher": "University of Warwick working paper (Journal of Economic Literature 45(3), 2007), via AgEcon Search",
+          "schema:url": "https://ageconsearch.umn.edu/record/269756/files/twerp_799.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Apple announces Mac transition to Apple silicon",
+          "dcterms:publisher": "Apple Newsroom",
+          "schema:url": "https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/",
+          "kto:sourceType": "primary"
+        }
+      ],
+      "kto:file": "articles/strategy/vertical-integration.md",
+      "skos:altLabel": [
+        "vertical integration",
+        "backward integration",
+        "forward integration",
+        "vertical integration strategy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:corporate-strategy"
+        },
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:transaction-cost-economics"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:horizontal-integration"
+        }
+      ],
+      "kto:alternativeTo": [
+        {
+          "@id": "kt:outsourcing"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:apple-inc"
+        }
+      ]
     }
   ]
 }

@@ -13842,6 +13842,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/venture-capital/s6> <https://schema.org/url> "https://www.aeaweb.org/doi/10.1257/jep.34.3.237" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s1> <http://purl.org/dc/terms/publisher> "American Economic Review 61(2), 112-123 (1971), hosted by UCLA" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s1> <http://purl.org/dc/terms/title> "The Vertical Integration of Production: Market Failure Considerations" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s1> <https://schema.org/url> "https://competitionandappropriation.econ.ucla.edu/wp-content/uploads/sites/95/2017/08/Williamson1971.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s2> <http://purl.org/dc/terms/publisher> "Columbia Business School (Academy of Management Review 9, 1984)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s2> <http://purl.org/dc/terms/title> "Formulating Vertical Integration Strategies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s2> <https://schema.org/url> "https://business.columbia.edu/faculty/research/formulating-vertical-integration-strategies" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s3> <http://purl.org/dc/terms/publisher> "MIT Sloan Management Review" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s3> <http://purl.org/dc/terms/title> "When and When Not to Vertically Integrate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "practitioner-journal" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s3> <https://schema.org/url> "https://sloanreview.mit.edu/article/when-and-when-not-to-vertically-integrate" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s4> <http://purl.org/dc/terms/publisher> "MIT Department of Economics (Paul L. Joskow, ABA Antitrust Section chapter, 2006)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s4> <http://purl.org/dc/terms/title> "Vertical Integration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s4> <https://schema.org/url> "https://economics.mit.edu/sites/default/files/2022-09/Vertical%20Integration.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s5> <http://purl.org/dc/terms/publisher> "University of Warwick working paper (Journal of Economic Literature 45(3), 2007), via AgEcon Search" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s5> <http://purl.org/dc/terms/title> "Vertical Integration and Firm Boundaries: The Evidence" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s5> <https://schema.org/url> "https://ageconsearch.umn.edu/record/269756/files/twerp_799.pdf" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s6> <http://purl.org/dc/terms/publisher> "Apple Newsroom" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s6> <http://purl.org/dc/terms/title> "Apple announces Mac transition to Apple silicon" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s6> <https://schema.org/url> "https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <http://purl.org/dc/terms/publisher> "W. Edwards Deming Center for Quality, Productivity, and Competitiveness, Columbia Business School" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <http://purl.org/dc/terms/title> "About Dr. W. Edwards Deming" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/w-edwards-deming/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -14720,6 +14750,30 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/american-research-and-development-corporation> .
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/information-asymmetry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/venture-capital> <https://github.com/john1hsu/business-knowledge-graph/ontology#mitigates> <https://github.com/john1hsu/business-knowledge-graph/id/moral-hazard> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2000/01/rdf-schema#label> "Vertical Integration: Bringing Upstream and Downstream Stages Under One Firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#altLabel> "backward integration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#altLabel> "forward integration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#altLabel> "vertical integration strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#altLabel> "vertical integration" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-strategy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#definition> "The corporate strategy of placing successive stages of a supply chain, from inputs (backward integration) to distribution and retail (forward integration), under common ownership instead of buying from or selling to independent firms through markets or contracts." .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vertical Integration: Bringing Upstream and Downstream Stages Under One Firm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/transaction-cost-economics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/vertical-integration/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <https://github.com/john1hsu/business-knowledge-graph/ontology#alternativeTo> <https://github.com/john1hsu/business-knowledge-graph/id/outsourcing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/horizontal-integration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "strategy" .
+<https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/apple-inc> .
 <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://purl.org/dc/terms/created> "2026-11-17" .
 <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Person> .
 <https://github.com/john1hsu/business-knowledge-graph/id/w-edwards-deming> <http://www.w3.org/2000/01/rdf-schema#label> "W. Edwards Deming: Statistician of Quality and the Fourteen Points" .
