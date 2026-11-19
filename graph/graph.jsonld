@@ -5368,6 +5368,99 @@
       ]
     },
     {
+      "@id": "kt:standard-oil",
+      "@type": "kto:Company",
+      "skos:prefLabel": "Standard Oil: Rockefeller's Trust and the 1911 Antitrust Breakup",
+      "skos:definition": "The petroleum refining combine that John D. Rockefeller and partners built from Cleveland after 1870, which controlled roughly 90 percent of US refining through mergers, railroad rebates and a trust and later holding-company structure, until the US Supreme Court ordered it dissolved under the Sherman Act in 1911.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-19",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Standard Oil",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/Standard-Oil",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Standard Oil Co. of New Jersey v. United States, 221 U.S. 1 (1911)",
+          "dcterms:publisher": "US Supreme Court (via Justia)",
+          "schema:url": "https://supreme.justia.com/us/221/1/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Overview: Antitrust and Monopoly",
+          "dcterms:publisher": "Energy History Online, Yale University",
+          "schema:url": "https://energyhistory.yale.edu/antitrust-and-monopoly",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The Problem of Bigness: From Standard Oil to Google",
+          "dcterms:publisher": "Journal of Economic Perspectives",
+          "schema:url": "https://www.aeaweb.org/doi/10.1257/jep.33.3.94",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Predatory Price Cutting and Standard Oil: A Re-examination of the Trial Record",
+          "dcterms:publisher": "Research in Law and Economics (Emerald)",
+          "schema:url": "https://emerald.com/insight/content/doi/10.1016/S0193-5895(06)22005-0",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/standard-oil.md",
+      "skos:altLabel": [
+        "Standard Oil",
+        "Standard Oil Company",
+        "Standard Oil Trust",
+        "Standard Oil Company (New Jersey)",
+        "Standard Oil of New Jersey"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:oil-industry"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        },
+        {
+          "@id": "kt:mergers-and-acquisitions"
+        },
+        {
+          "@id": "kt:holding-company"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:john-d-rockefeller"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:oil-industry"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:vertical-integration"
+        },
+        {
+          "@id": "kt:predatory-pricing"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:sherman-act"
+        },
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ]
+    },
+    {
       "@id": "kt:toyota-motor-corporation",
       "@type": "kto:Company",
       "skos:prefLabel": "Toyota: From Automatic Looms to the World's Largest Automaker",
@@ -16473,6 +16566,9 @@
         },
         {
           "@id": "kt:two-sided-market"
+        },
+        {
+          "@id": "kt:standard-oil"
         }
       ],
       "kto:hasPart": [

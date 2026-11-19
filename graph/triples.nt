@@ -331,6 +331,7 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/network-effect> .
+<https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s1> .
 <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/antitrust-law/s2> .
@@ -13054,6 +13055,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/stakeholder-theory/s6> <https://schema.org/url> "https://publications.lawschool.cornell.edu/lawreview/2020/12/01/the-illusory-promise-of-stakeholder-governance-2" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s1> <http://purl.org/dc/terms/publisher> "Encyclopaedia Britannica" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s1> <http://purl.org/dc/terms/title> "Standard Oil" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s1> <https://schema.org/url> "https://www.britannica.com/topic/Standard-Oil" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s2> <http://purl.org/dc/terms/publisher> "US Supreme Court (via Justia)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s2> <http://purl.org/dc/terms/title> "Standard Oil Co. of New Jersey v. United States, 221 U.S. 1 (1911)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s2> <https://schema.org/url> "https://supreme.justia.com/us/221/1/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s3> <http://purl.org/dc/terms/publisher> "Energy History Online, Yale University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s3> <http://purl.org/dc/terms/title> "Overview: Antitrust and Monopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s3> <https://schema.org/url> "https://energyhistory.yale.edu/antitrust-and-monopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s4> <http://purl.org/dc/terms/publisher> "Journal of Economic Perspectives" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s4> <http://purl.org/dc/terms/title> "The Problem of Bigness: From Standard Oil to Google" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s4> <https://schema.org/url> "https://www.aeaweb.org/doi/10.1257/jep.33.3.94" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s5> <http://purl.org/dc/terms/publisher> "Research in Law and Economics (Emerald)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s5> <http://purl.org/dc/terms/title> "Predatory Price Cutting and Standard Oil: A Re-examination of the Trial Record" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "peer-reviewed" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s5> <https://schema.org/url> "https://emerald.com/insight/content/doi/10.1016/S0193-5895(06)22005-0" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/statement-of-cash-flows/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/statement-of-cash-flows/s1> <http://purl.org/dc/terms/title> "Principles of Accounting, Volume 1: Financial Accounting, Section 16.2: Differentiate between Operating, Investing, and Financing Activities" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/statement-of-cash-flows/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -13925,6 +13951,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-ethics-and-governance" .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/business-roundtable-statement-on-corporate-purpose> .
 <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/strategic-management-a-stakeholder-approach> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://purl.org/dc/terms/created> "2026-11-19" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2000/01/rdf-schema#label> "Standard Oil: Rockefeller's Trust and the 1911 Antitrust Breakup" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#altLabel> "Standard Oil Company (New Jersey)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#altLabel> "Standard Oil Company" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#altLabel> "Standard Oil Trust" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#altLabel> "Standard Oil of New Jersey" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#altLabel> "Standard Oil" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/oil-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#definition> "The petroleum refining combine that John D. Rockefeller and partners built from Cleveland after 1870, which controlled roughly 90 percent of US refining through mergers, railroad rebates and a trust and later holding-company structure, until the US Supreme Court ordered it dissolved under the Sherman Act in 1911." .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#prefLabel> "Standard Oil: Rockefeller's Trust and the 1911 Antitrust Breakup" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/holding-company> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/mergers-and-acquisitions> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/standard-oil/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <https://github.com/john1hsu/business-knowledge-graph/ontology#createdBy> <https://github.com/john1hsu/business-knowledge-graph/id/john-d-rockefeller> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/predatory-pricing> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/vertical-integration> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/oil-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
+<https://github.com/john1hsu/business-knowledge-graph/id/standard-oil> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/sherman-act> .
 <https://github.com/john1hsu/business-knowledge-graph/id/statement-of-cash-flows> <http://purl.org/dc/terms/created> "2026-11-15" .
 <https://github.com/john1hsu/business-knowledge-graph/id/statement-of-cash-flows> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/statement-of-cash-flows> <http://www.w3.org/2000/01/rdf-schema#label> "Statement of Cash Flows: Sources and Uses of Cash by Activity" .

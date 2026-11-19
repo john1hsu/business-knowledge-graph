@@ -5210,6 +5210,28 @@
     ]
   },
   {
+    "id": "kt:standard-oil",
+    "title": "Standard Oil: Rockefeller's Trust and the 1911 Antitrust Breakup",
+    "aliases": [
+      "Standard Oil",
+      "Standard Oil Company",
+      "Standard Oil Trust",
+      "Standard Oil Company (New Jersey)",
+      "Standard Oil of New Jersey"
+    ],
+    "type": "Company",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/standard-oil.md",
+    "created": "2026-11-19",
+    "source_urls": [
+      "https://www.britannica.com/topic/Standard-Oil",
+      "https://supreme.justia.com/us/221/1/",
+      "https://energyhistory.yale.edu/antitrust-and-monopoly",
+      "https://www.aeaweb.org/doi/10.1257/jep.33.3.94",
+      "https://emerald.com/insight/content/doi/10.1016/S0193-5895(06)22005-0"
+    ]
+  },
+  {
     "id": "kt:statement-of-cash-flows",
     "title": "Statement of Cash Flows: Sources and Uses of Cash by Activity",
     "aliases": [

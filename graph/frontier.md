@@ -12,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:payback-period` | `kt:capital-budgeting`, `kt:internal-rate-of-return`, `kt:internal-rate-of-return`, `kt:net-present-value` |
 | `kt:production-planning-and-control` | `kt:bill-of-materials`, `kt:enterprise-resource-planning`, `kt:material-requirements-planning`, `kt:operations-management` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
+| `kt:vertical-integration` | `kt:standard-oil`, `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
@@ -23,7 +24,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
-| `kt:vertical-integration` | `kt:platform-business-model`, `kt:computer-industry`, `kt:transaction-cost-economics` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction`, `kt:net-promoter-score` |
@@ -82,6 +82,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:henry-mintzberg` | `kt:henri-fayol`, `kt:management` |
 | `kt:heuristics-and-biases` | `kt:decision-making`, `kt:overconfidence-bias` |
 | `kt:highest-technically-rated-fair-and-reasonable-price` | `kt:best-value-tradeoff`, `kt:lowest-price-technically-acceptable` |
+| `kt:holding-company` | `kt:google`, `kt:standard-oil` |
 | `kt:hostile-takeover` | `kt:dual-class-shares`, `kt:mergers-and-acquisitions` |
 | `kt:human-relations-movement` | `kt:hawthorne-studies`, `kt:management-theory` |
 | `kt:income-statement` | `kt:ebitda`, `kt:statement-of-cash-flows` |
@@ -115,6 +116,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:nyse-corporate-governance-listing-standards` | `kt:board-of-directors`, `kt:independent-director` |
 | `kt:office-equipment-industry` | `kt:xerox`, `kt:xerox` |
 | `kt:ohio-state-leadership-studies` | `kt:leadership`, `kt:situational-leadership` |
+| `kt:oil-industry` | `kt:standard-oil`, `kt:standard-oil` |
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
@@ -139,6 +141,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
 | `kt:servperf` | `kt:service-quality`, `kt:servqual` |
 | `kt:shareholder-activism` | `kt:blockbuster-decline`, `kt:procter-and-gamble` |
+| `kt:sherman-act` | `kt:standard-oil`, `kt:antitrust-law` |
 | `kt:signaling-theory` | `kt:share-repurchase`, `kt:information-asymmetry` |
 | `kt:sociology` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:stretch-goals` | `kt:okrs`, `kt:goal-setting-theory` |
@@ -373,7 +376,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:hold-up-problem` | `kt:cooperative` |
-| `kt:holding-company` | `kt:google` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
 | `kt:how-competitive-forces-shape-strategy-1979` | `kt:porters-five-forces` |
 | `kt:howard-bowen` | `kt:corporate-social-responsibility` |
@@ -418,6 +420,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:joe-s-bain` | `kt:industrial-organization` |
 | `kt:joel-dean` | `kt:capital-budgeting` |
 | `kt:john-burr-williams` | `kt:discounted-cash-flow` |
+| `kt:john-d-rockefeller` | `kt:standard-oil` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:john-von-neumann` | `kt:game-theory-in-business` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
@@ -534,6 +537,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:power-interest-grid` | `kt:stakeholder-analysis` |
 | `kt:power-law` | `kt:eighty-twenty-rule` |
 | `kt:predators-and-prey-a-new-ecology-of-competition-1993` | `kt:business-ecosystem` |
+| `kt:predatory-pricing` | `kt:standard-oil` |
 | `kt:premature-scaling` | `kt:product-market-fit` |
 | `kt:price-skimming` | `kt:pricing-strategy` |
 | `kt:principles-of-economics-marshall` | `kt:price-elasticity` |
@@ -615,7 +619,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:seven-basic-quality-tools` | `kt:ishikawa-diagram` |
 | `kt:seven-wastes` | `kt:taiichi-ohno` |
 | `kt:shared-mental-models` | `kt:team-effectiveness` |
-| `kt:sherman-act` | `kt:antitrust-law` |
 | `kt:short-term-rental-regulation` | `kt:sharing-economy` |
 | `kt:single-entry-bookkeeping` | `kt:double-entry-bookkeeping` |
 | `kt:small-business-act` | `kt:small-business-set-asides` |

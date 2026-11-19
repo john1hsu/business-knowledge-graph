@@ -9,7 +9,7 @@ summary: >-
   agreements unreasonably restraining trade, monopolization, and mergers or practices that may
   substantially lessen competition.
 broader: [kt:competition-policy]
-related: [kt:industrial-organization, kt:barriers-to-entry, kt:network-effect, kt:two-sided-market]
+related: [kt:industrial-organization, kt:barriers-to-entry, kt:network-effect, kt:two-sided-market, kt:standard-oil]
 relations:
   - {predicate: hasPart, object: kt:sherman-act}
   - {predicate: hasPart, object: kt:clayton-act}
