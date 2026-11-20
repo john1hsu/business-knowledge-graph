@@ -1020,6 +1020,29 @@
     ]
   },
   {
+    "id": "kt:centralization-and-decentralization",
+    "title": "Centralization and Decentralization: How Far Authority Is Pushed Down the Hierarchy",
+    "aliases": [
+      "centralization",
+      "decentralization",
+      "degree of centralization",
+      "centralized vs decentralized management",
+      "organizational decentralization"
+    ],
+    "type": "Concept",
+    "domain": "organizational-behavior",
+    "file": "articles/organizational-behavior/centralization-and-decentralization.md",
+    "created": "2026-11-20",
+    "source_urls": [
+      "https://openstax.org/books/introduction-business-2e/pages/7-5-degree-of-centralization",
+      "https://openstax.org/books/principles-managerial-accounting/pages/9-1-differentiate-between-centralized-and-decentralized-management",
+      "https://www.nber.org/papers/w15129.pdf",
+      "https://www.nber.org/papers/w23354",
+      "https://www.nber.org/index%2ephp/digest/jul17/decentralization-helps-firms-cope-downturns",
+      "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/28BAEC6D62B1828427080F494673F4A4/S1833367221000638a.pdf/dimensional_research_on_organization_structure_metaanalysis_and_conceptual_redirection.pdf"
+    ]
+  },
+  {
     "id": "kt:change-management",
     "title": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
     "aliases": [

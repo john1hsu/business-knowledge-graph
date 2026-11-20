@@ -11,8 +11,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
-| `kt:centralization-and-decentralization` | `kt:procter-and-gamble`, `kt:decision-rights`, `kt:span-of-control` |
+| `kt:contingency-theory` | `kt:management-theory`, `kt:centralization-and-decentralization`, `kt:organization-theory` |
 | `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix`, `kt:vertical-integration` |
+| `kt:delegation` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
@@ -20,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning`, `kt:production-planning-and-control` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
+| `kt:organizational-structure` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
@@ -45,7 +47,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:complementary-assets` | `kt:business-ecosystem`, `kt:david-j-teece` |
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:consumer-packaged-goods-industry` | `kt:procter-and-gamble`, `kt:procter-and-gamble` |
-| `kt:contingency-theory` | `kt:management-theory`, `kt:organization-theory` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility`, `kt:michael-porter` |
@@ -55,7 +56,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule` |
-| `kt:delegation` | `kt:decision-rights`, `kt:span-of-control` |
 | `kt:department-of-defense` | `kt:cybersecurity-maturity-model-certification`, `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
@@ -120,7 +120,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:oliver-hart` | `kt:bengt-holmstrom`, `kt:contract-theory` |
 | `kt:operations-research` | `kt:wicked-problems`, `kt:operations-management` |
 | `kt:organizational-ecology` | `kt:organization-theory`, `kt:corporate-decline` |
-| `kt:organizational-structure` | `kt:decision-rights`, `kt:span-of-control` |
 | `kt:path-dependence` | `kt:exploration-and-exploitation-in-organizational-learning-1991`, `kt:network-effect` |
 | `kt:path-goal-theory` | `kt:contingency-theory-of-leadership`, `kt:situational-leadership` |
 | `kt:pecking-order-theory` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
@@ -158,6 +157,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
 | `kt:walter-shewhart` | `kt:pdca-cycle`, `kt:w-edwards-deming` |
+| `kt:world-management-survey` | `kt:management`, `kt:centralization-and-decentralization` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
 | `kt:a-model-of-growth-through-creative-destruction-1992` | `kt:creative-destruction` |
@@ -194,6 +194,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:aristotle` | `kt:mece-principle` |
 | `kt:arthur-andersen` | `kt:enron-scandal` |
 | `kt:assembly-line` | `kt:mass-production` |
+| `kt:aston-studies` | `kt:centralization-and-decentralization` |
 | `kt:authentic-dissent` | `kt:devils-advocacy` |
 | `kt:baldrige-excellence-framework` | `kt:malcolm-baldrige-national-quality-award` |
 | `kt:barrier-analysis` | `kt:root-cause-analysis` |
@@ -594,6 +595,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:research-and-development` | `kt:absorptive-capacity` |
 | `kt:residual-income-valuation` | `kt:dupont-analysis` |
 | `kt:resistance-to-change` | `kt:change-management` |
+| `kt:responsibility-accounting` | `kt:centralization-and-decentralization` |
 | `kt:return-on-marketing-investment` | `kt:marketing-metrics` |
 | `kt:revenue-premium` | `kt:brand-equity` |
 | `kt:rfm-analysis` | `kt:customer-lifetime-value` |
@@ -735,6 +737,5 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:william-t-allen` | `kt:caremark-oversight-duty` |
 | `kt:word-of-mouth-marketing` | `kt:net-promoter-score` |
 | `kt:work-and-motivation` | `kt:expectancy-theory` |
-| `kt:world-management-survey` | `kt:management` |
 | `kt:worldcom-accounting-scandal` | `kt:audit-committee` |
 | `kt:yves-pigneur` | `kt:business-model-canvas` |

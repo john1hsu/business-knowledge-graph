@@ -22380,6 +22380,113 @@
       ]
     },
     {
+      "@id": "kt:centralization-and-decentralization",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Centralization and Decentralization: How Far Authority Is Pushed Down the Hierarchy",
+      "skos:definition": "The structural dimension describing how concentrated formal decision-making authority is at the top of an organization (centralization) versus pushed down to lower levels and units (decentralization). Most firms sit somewhere on the spectrum, trading headquarters control and coordination against speed and use of local knowledge.",
+      "kto:domain": "organizational-behavior",
+      "dcterms:created": "2026-11-20",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "7.5 Degree of Centralization",
+          "dcterms:publisher": "OpenStax (Introduction to Business 2e)",
+          "schema:url": "https://openstax.org/books/introduction-business-2e/pages/7-5-degree-of-centralization",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "9.1 Differentiate between Centralized and Decentralized Management",
+          "dcterms:publisher": "OpenStax (Principles of Accounting, Volume 2 — Managerial Accounting)",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/9-1-differentiate-between-centralized-and-decentralized-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "The Organization of Firms Across Countries",
+          "dcterms:publisher": "National Bureau of Economic Research (Working Paper 15129)",
+          "schema:url": "https://www.nber.org/papers/w15129.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Turbulence, Firm Decentralization and Growth in Bad Times",
+          "dcterms:publisher": "National Bureau of Economic Research (Working Paper 23354)",
+          "schema:url": "https://www.nber.org/papers/w23354",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Decentralization Helps Firms Cope with Downturns",
+          "dcterms:publisher": "NBER Digest",
+          "schema:url": "https://www.nber.org/index%2ephp/digest/jul17/decentralization-helps-firms-cope-downturns",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Dimensional research on organization structure: meta-analysis and conceptual redirection",
+          "dcterms:publisher": "Journal of Management & Organization (Cambridge University Press)",
+          "schema:url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/28BAEC6D62B1828427080F494673F4A4/S1833367221000638a.pdf/dimensional_research_on_organization_structure_metaanalysis_and_conceptual_redirection.pdf",
+          "kto:sourceType": "peer-reviewed"
+        }
+      ],
+      "kto:file": "articles/organizational-behavior/centralization-and-decentralization.md",
+      "skos:altLabel": [
+        "centralization",
+        "decentralization",
+        "degree of centralization",
+        "centralized vs decentralized management",
+        "organizational decentralization"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:organizational-structure"
+        },
+        {
+          "@id": "kt:organization-theory"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:decision-rights"
+        },
+        {
+          "@id": "kt:span-of-control"
+        },
+        {
+          "@id": "kt:delegation"
+        },
+        {
+          "@id": "kt:contingency-theory"
+        },
+        {
+          "@id": "kt:procter-and-gamble"
+        }
+      ],
+      "kto:dependsOn": [
+        {
+          "@id": "kt:agency-costs"
+        },
+        {
+          "@id": "kt:information-asymmetry"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:general-motors"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:world-management-survey"
+        }
+      ],
+      "kto:studiedIn": [
+        {
+          "@id": "kt:aston-studies"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:responsibility-accounting"
+        }
+      ]
+    },
+    {
       "@id": "kt:change-management",
       "@type": "kto:Practice",
       "skos:prefLabel": "Change Management: From Lewin's Unfreezing to Kotter's Eight Steps",
