@@ -18278,6 +18278,103 @@
       ]
     },
     {
+      "@id": "kt:oligopoly",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Oligopoly: Markets Dominated by a Few Interdependent Firms",
+      "skos:definition": "A market structure in which a small number of large firms account for all or most sales, so that each firm's pricing and output choices visibly affect its rivals and provoke responses, creating a standing tension between competing and colluding.",
+      "kto:domain": "managerial-economics",
+      "dcterms:created": "2026-11-21",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Economics 3e, 10.2 Oligopoly",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-economics-3e/pages/10-2-oligopoly",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Oligopoly (in Monopoly)",
+          "dcterms:publisher": "Britannica Money",
+          "schema:url": "https://www.britannica.com/money/monopoly-economics/Oligopoly",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "What Makes a Market an Oligopoly?",
+          "dcterms:publisher": "Federal Reserve Bank of St. Louis",
+          "schema:url": "https://www.stlouisfed.org/open-vault/2023/may/what-makes-a-market-an-oligopoly",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "2.1. Guideline 1: Mergers Raise a Presumption of Illegality When They Significantly Increase Concentration in a Highly Concentrated Market (2023 Merger Guidelines)",
+          "dcterms:publisher": "U.S. Department of Justice, Antitrust Division",
+          "schema:url": "https://www.justice.gov/atr/merger-guidelines/applying-merger-guidelines/guideline-1",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Prize in Economic Sciences 2014: Popular information (Jean Tirole, market power and regulation)",
+          "dcterms:publisher": "Royal Swedish Academy of Sciences (nobelprize.org)",
+          "schema:url": "https://nobelprize.org/prizes/economic-sciences/2014/popular-information",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/managerial-economics/oligopoly.md",
+      "skos:altLabel": [
+        "oligopolistic market",
+        "oligopolistic competition",
+        "competition among the few"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:market-structure"
+        },
+        {
+          "@id": "kt:industrial-organization"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:game-theory-in-business"
+        },
+        {
+          "@id": "kt:barriers-to-entry"
+        },
+        {
+          "@id": "kt:economies-of-scale"
+        },
+        {
+          "@id": "kt:market-power"
+        },
+        {
+          "@id": "kt:airline-industry"
+        },
+        {
+          "@id": "kt:jean-tirole"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:herfindahl-hirschman-index"
+        }
+      ],
+      "kto:regulatedBy": [
+        {
+          "@id": "kt:antitrust-law"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:monopolistic-competition"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:opec"
+        },
+        {
+          "@id": "kt:lysine-price-fixing-conspiracy"
+        }
+      ]
+    },
+    {
       "@id": "kt:price-discrimination",
       "@type": "kto:Concept",
       "skos:prefLabel": "Price Discrimination: Charging Different Customers Different Prices for the Same Good",

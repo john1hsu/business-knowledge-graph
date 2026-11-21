@@ -4839,6 +4839,33 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/google> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/intel> .
 <https://github.com/john1hsu/business-knowledge-graph/id/okrs> <https://github.com/john1hsu/business-knowledge-graph/ontology#influencedBy> <https://github.com/john1hsu/business-knowledge-graph/id/management-by-objectives> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://purl.org/dc/terms/created> "2026-11-21" .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2000/01/rdf-schema#label> "Oligopoly: Markets Dominated by a Few Interdependent Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#altLabel> "competition among the few" .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#altLabel> "oligopolistic competition" .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#altLabel> "oligopolistic market" .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/market-structure> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#definition> "A market structure in which a small number of large firms account for all or most sales, so that each firm's pricing and output choices visibly affect its rivals and provoke responses, creating a standing tension between competing and colluding." .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oligopoly: Markets Dominated by a Few Interdependent Firms" .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/airline-industry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/barriers-to-entry> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/economies-of-scale> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/game-theory-in-business> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/jean-tirole> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/market-power> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <https://github.com/john1hsu/business-knowledge-graph/ontology#contrastsWith> <https://github.com/john1hsu/business-knowledge-graph/id/monopolistic-competition> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "managerial-economics" .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/lysine-price-fixing-conspiracy> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/opec> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <https://github.com/john1hsu/business-knowledge-graph/ontology#measuredBy> <https://github.com/john1hsu/business-knowledge-graph/id/herfindahl-hirschman-index> .
+<https://github.com/john1hsu/business-knowledge-graph/id/oligopoly> <https://github.com/john1hsu/business-knowledge-graph/ontology#regulatedBy> <https://github.com/john1hsu/business-knowledge-graph/id/antitrust-law> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://purl.org/dc/terms/created> "2026-11-12" .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/open-innovation> <http://www.w3.org/2000/01/rdf-schema#label> "Open Innovation: Purposive Inflows and Outflows of Knowledge" .
@@ -11699,6 +11726,31 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/okrs/s6> <https://schema.org/url> "https://www.library.hbs.edu/working-knowledge/when-goal-setting-goes-bad" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s1> <http://purl.org/dc/terms/publisher> "OpenStax, Rice University" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s1> <http://purl.org/dc/terms/title> "Principles of Economics 3e, 10.2 Oligopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "textbook" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s1> <https://schema.org/url> "https://openstax.org/books/principles-economics-3e/pages/10-2-oligopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s2> <http://purl.org/dc/terms/publisher> "Britannica Money" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s2> <http://purl.org/dc/terms/title> "Oligopoly (in Monopoly)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "encyclopedia" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s2> <https://schema.org/url> "https://www.britannica.com/money/monopoly-economics/Oligopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s3> <http://purl.org/dc/terms/publisher> "Federal Reserve Bank of St. Louis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s3> <http://purl.org/dc/terms/title> "What Makes a Market an Oligopoly?" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s3> <https://schema.org/url> "https://www.stlouisfed.org/open-vault/2023/may/what-makes-a-market-an-oligopoly" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s4> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice, Antitrust Division" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s4> <http://purl.org/dc/terms/title> "2.1. Guideline 1: Mergers Raise a Presumption of Illegality When They Significantly Increase Concentration in a Highly Concentrated Market (2023 Merger Guidelines)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s4> <https://schema.org/url> "https://www.justice.gov/atr/merger-guidelines/applying-merger-guidelines/guideline-1" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s5> <http://purl.org/dc/terms/publisher> "Royal Swedish Academy of Sciences (nobelprize.org)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s5> <http://purl.org/dc/terms/title> "The Prize in Economic Sciences 2014: Popular information (Jean Tirole, market power and regulation)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/oligopoly/s5> <https://schema.org/url> "https://nobelprize.org/prizes/economic-sciences/2014/popular-information" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <http://purl.org/dc/terms/publisher> "Garwood Center for Corporate Innovation, Haas School of Business, UC Berkeley" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <http://purl.org/dc/terms/title> "What is Open Innovation" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/open-innovation/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .

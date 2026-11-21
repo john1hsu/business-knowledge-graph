@@ -4053,6 +4053,26 @@
     ]
   },
   {
+    "id": "kt:oligopoly",
+    "title": "Oligopoly: Markets Dominated by a Few Interdependent Firms",
+    "aliases": [
+      "oligopolistic market",
+      "oligopolistic competition",
+      "competition among the few"
+    ],
+    "type": "Concept",
+    "domain": "managerial-economics",
+    "file": "articles/managerial-economics/oligopoly.md",
+    "created": "2026-11-21",
+    "source_urls": [
+      "https://openstax.org/books/principles-economics-3e/pages/10-2-oligopoly",
+      "https://www.britannica.com/money/monopoly-economics/Oligopoly",
+      "https://www.stlouisfed.org/open-vault/2023/may/what-makes-a-market-an-oligopoly",
+      "https://www.justice.gov/atr/merger-guidelines/applying-merger-guidelines/guideline-1",
+      "https://nobelprize.org/prizes/economic-sciences/2014/popular-information"
+    ]
+  },
+  {
     "id": "kt:open-innovation",
     "title": "Open Innovation: Purposive Inflows and Outflows of Knowledge",
     "aliases": [

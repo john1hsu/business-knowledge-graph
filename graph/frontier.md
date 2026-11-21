@@ -16,6 +16,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:delegation` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
+| `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization`, `kt:oligopoly` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
 | `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
@@ -95,7 +96,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:institutional-theory` | `kt:max-weber`, `kt:organization-theory` |
 | `kt:intangible-assets` | `kt:goodwill`, `kt:brand-equity` |
 | `kt:irving-fisher` | `kt:discounted-cash-flow`, `kt:net-present-value` |
-| `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization` |
 | `kt:job-enrichment` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:kaizen` | `kt:five-whys`, `kt:pdca-cycle` |
 | `kt:knowledge-transfer` | `kt:absorptive-capacity`, `kt:organizational-learning` |
@@ -106,6 +106,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:manufacturing-resource-planning` | `kt:enterprise-resource-planning`, `kt:material-requirements-planning` |
 | `kt:marchand-v-barnhill` | `kt:caremark-oversight-duty`, `kt:fiduciary-duty` |
 | `kt:market-failure` | `kt:adverse-selection`, `kt:information-asymmetry` |
+| `kt:market-power` | `kt:oligopoly`, `kt:price-discrimination` |
+| `kt:market-structure` | `kt:oligopoly`, `kt:barriers-to-entry` |
 | `kt:mass-customization` | `kt:bill-of-materials`, `kt:mass-production` |
 | `kt:mckinsey-and-company` | `kt:management-consulting`, `kt:structured-problem-solving` |
 | `kt:merton-miller` | `kt:dividend-policy`, `kt:modigliani-miller-theorem` |
@@ -377,6 +379,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:herbalife` | `kt:direct-selling` |
 | `kt:herbert-a-simon` | `kt:decision-making` |
 | `kt:herbert-simon` | `kt:effectuation` |
+| `kt:herfindahl-hirschman-index` | `kt:oligopoly` |
 | `kt:hershey-erp-implementation` | `kt:enterprise-resource-planning` |
 | `kt:hierarchical-production-planning` | `kt:production-planning-and-control` |
 | `kt:high-speed-steel` | `kt:frederick-winslow-taylor` |
@@ -462,6 +465,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:louis-v-gerstner` | `kt:ibm-turnaround` |
 | `kt:low-cost-carrier` | `kt:airline-industry` |
 | `kt:luca-pacioli` | `kt:double-entry-bookkeeping` |
+| `kt:lysine-price-fixing-conspiracy` | `kt:oligopoly` |
 | `kt:macroeconomics` | `kt:microeconomics` |
 | `kt:make-or-buy-decision` | `kt:transaction-cost-economics` |
 | `kt:malcolm-baldrige-national-quality-improvement-act` | `kt:malcolm-baldrige-national-quality-award` |
@@ -472,10 +476,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:mark-h-moore` | `kt:public-value` |
 | `kt:market-for-corporate-control` | `kt:separation-of-ownership-and-control` |
 | `kt:market-orientation` | `kt:marketing` |
-| `kt:market-power` | `kt:price-discrimination` |
 | `kt:market-provision-of-broadcasting-2005` | `kt:advertising-supported-business-model` |
 | `kt:market-segmentation-1956` | `kt:segmentation-targeting-positioning` |
-| `kt:market-structure` | `kt:barriers-to-entry` |
 | `kt:market-timing-theory-of-capital-structure` | `kt:capital-structure` |
 | `kt:marketplace-for-the-acquisition-of-professional-services` | `kt:revolutionary-far-overhaul` |
 | `kt:mary-parker-follett` | `kt:lyndall-urwick` |
@@ -499,6 +501,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:modern-portfolio-theory` | `kt:capital-asset-pricing-model` |
 | `kt:modified-internal-rate-of-return` | `kt:internal-rate-of-return` |
 | `kt:modularity` | `kt:computer-industry` |
+| `kt:monopolistic-competition` | `kt:oligopoly` |
 | `kt:motivation` | `kt:goal-setting-theory` |
 | `kt:multichannel-retailing` | `kt:cannibalization` |
 | `kt:multidivisional-form` | `kt:general-motors` |
@@ -520,9 +523,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:office-of-inspector-general` | `kt:government-accountability-office` |
 | `kt:ohio-v-american-express` | `kt:two-sided-market` |
 | `kt:olaf-helmer` | `kt:delphi-method` |
-| `kt:oligopoly` | `kt:game-theory-in-business` |
 | `kt:oliver-williamson` | `kt:transaction-cost-economics` |
 | `kt:one-share-one-vote` | `kt:dual-class-shares` |
+| `kt:opec` | `kt:oligopoly` |
 | `kt:open-innovation-the-new-imperative-2003` | `kt:open-innovation` |
 | `kt:operating-leverage` | `kt:cost-structure` |
 | `kt:operations-strategy` | `kt:operations-management` |
