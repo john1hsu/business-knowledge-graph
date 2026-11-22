@@ -19,7 +19,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:jean-tirole` | `kt:two-sided-market`, `kt:industrial-organization`, `kt:oligopoly` |
 | `kt:kaoru-ishikawa` | `kt:ishikawa-diagram`, `kt:joseph-juran`, `kt:total-quality-management` |
 | `kt:kiichiro-toyoda` | `kt:toyota-motor-corporation`, `kt:just-in-time`, `kt:taiichi-ohno` |
-| `kt:managerial-accounting` | `kt:activity-based-costing`, `kt:financial-accounting`, `kt:cost-structure` |
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning`, `kt:production-planning-and-control` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:organizational-structure` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
@@ -27,6 +26,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen`, `kt:decision-rights` |
+| `kt:accounting` | `kt:financial-accounting`, `kt:managerial-accounting` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
 | `kt:american-customer-satisfaction-index` | `kt:customer-satisfaction`, `kt:net-promoter-score` |
@@ -49,6 +49,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:confirmation-bias` | `kt:hypothesis-driven-problem-solving`, `kt:issue-tree` |
 | `kt:consumer-packaged-goods-industry` | `kt:procter-and-gamble`, `kt:procter-and-gamble` |
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
+| `kt:cost-accounting` | `kt:activity-based-costing`, `kt:managerial-accounting` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility`, `kt:michael-porter` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
@@ -167,7 +168,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:abductive-reasoning` | `kt:design-thinking` |
 | `kt:absorptive-capacity-a-new-perspective-on-learning-and-innovation-1990` | `kt:absorptive-capacity` |
 | `kt:access-based-consumption` | `kt:sharing-economy` |
-| `kt:accounting` | `kt:financial-accounting` |
 | `kt:accounting-equation` | `kt:double-entry-bookkeeping` |
 | `kt:accounting-principles-board` | `kt:financial-accounting-standards-board` |
 | `kt:accounting-rate-of-return` | `kt:payback-period` |
@@ -215,6 +215,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:booz-allen-hamilton` | `kt:management-consulting` |
 | `kt:bottom-line-up-front` | `kt:pyramid-principle` |
 | `kt:budget-and-accounting-act-of-1921` | `kt:government-accountability-office` |
+| `kt:budgeting` | `kt:managerial-accounting` |
 | `kt:bundling` | `kt:price-discrimination` |
 | `kt:bureaucracy` | `kt:max-weber` |
 | `kt:business-communication` | `kt:pyramid-principle` |
@@ -260,7 +261,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:corporate-moral-agency` | `kt:business-ethics` |
 | `kt:corporate-scandal` | `kt:enron-scandal` |
 | `kt:corporate-spin-off` | `kt:hewlett-packard` |
-| `kt:cost-accounting` | `kt:activity-based-costing` |
 | `kt:cost-benefit-analysis` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:cost-of-capital` | `kt:weighted-average-cost-of-capital` |
 | `kt:cost-of-capital-corporation-finance-and-theory-of-investment-1958` | `kt:modigliani-miller-theorem` |

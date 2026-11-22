@@ -3562,6 +3562,27 @@
     ]
   },
   {
+    "id": "kt:managerial-accounting",
+    "title": "Managerial Accounting: Information for Planning, Control and Decisions Inside the Firm",
+    "aliases": [
+      "managerial accounting",
+      "management accounting",
+      "internal accounting"
+    ],
+    "type": "Field",
+    "domain": "accounting-and-reporting",
+    "file": "articles/accounting-and-reporting/managerial-accounting.md",
+    "created": "2026-11-22",
+    "source_urls": [
+      "https://openstax.org/books/principles-managerial-accounting/pages/1-1-define-managerial-accounting-and-identify-the-three-primary-responsibilities-of-management",
+      "https://openstax.org/books/principles-managerial-accounting/pages/1-3-explain-the-primary-roles-and-skills-required-of-managerial-accountants",
+      "https://www.nber.org/system/files/chapters/c7178/c7178.pdf",
+      "https://link.springer.com/chapter/10.1007/978-1-4899-7138-8_27",
+      "https://bura.brunel.ac.uk/bitstream/2438/1374/1/AIMA%202006.pdf",
+      "https://www.strategy-business.com/article/11409?pg=0"
+    ]
+  },
+  {
     "id": "kt:market-research",
     "title": "Market Research: Primary and Secondary Data for Business Decisions",
     "aliases": [

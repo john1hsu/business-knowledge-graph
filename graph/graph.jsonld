@@ -1414,6 +1414,98 @@
       ]
     },
     {
+      "@id": "kt:managerial-accounting",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Managerial Accounting: Information for Planning, Control and Decisions Inside the Firm",
+      "skos:definition": "The branch of accounting that identifies, analyzes and communicates financial and nonfinancial information to managers inside an organization so they can plan, control operations, evaluate performance and make decisions, free of the external reporting rules that govern financial accounting.",
+      "kto:domain": "accounting-and-reporting",
+      "dcterms:created": "2026-11-22",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Principles of Accounting, Volume 2: Managerial Accounting, Section 1.1: Define Managerial Accounting and Identify the Three Primary Responsibilities of Management",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/1-1-define-managerial-accounting-and-identify-the-three-primary-responsibilities-of-management",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Principles of Accounting, Volume 2: Managerial Accounting, Section 1.3: Explain the Primary Roles and Skills Required of Managerial Accountants",
+          "dcterms:publisher": "OpenStax, Rice University",
+          "schema:url": "https://openstax.org/books/principles-managerial-accounting/pages/1-3-explain-the-primary-roles-and-skills-required-of-managerial-accountants",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Managing by Remote Control: Recent Management Accounting Practice in Historical Perspective",
+          "dcterms:publisher": "National Bureau of Economic Research / University of Chicago Press (H. Thomas Johnson, in Inside the Business Enterprise, ed. Peter Temin, 1991)",
+          "schema:url": "https://www.nber.org/system/files/chapters/c7178/c7178.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "The evolution of management accounting",
+          "dcterms:publisher": "Springer (Robert S. Kaplan, in Readings in Accounting for Management Control, eds. Emmanuel, Otley and Merchant), doi:10.1007/978-1-4899-7138-8_27",
+          "schema:url": "https://link.springer.com/chapter/10.1007/978-1-4899-7138-8_27",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "IFAC's Conception of the Evolution of Management Accounting",
+          "dcterms:publisher": "Advances in Management Accounting, vol. 15 (Magdy Abdel-Kader and Robert Luther), 2006, pp. 229-247",
+          "schema:url": "https://bura.brunel.ac.uk/bitstream/2438/1374/1/AIMA%202006.pdf",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "What Are the Measures That Matter?",
+          "dcterms:publisher": "strategy+business (Art Kleiner), Issue 26, First Quarter 2002",
+          "schema:url": "https://www.strategy-business.com/article/11409?pg=0",
+          "kto:sourceType": "consultancy"
+        }
+      ],
+      "kto:file": "articles/accounting-and-reporting/managerial-accounting.md",
+      "skos:altLabel": [
+        "managerial accounting",
+        "management accounting",
+        "internal accounting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:accounting"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:activity-based-costing"
+        },
+        {
+          "@id": "kt:balanced-scorecard"
+        },
+        {
+          "@id": "kt:capital-budgeting"
+        },
+        {
+          "@id": "kt:cost-structure"
+        },
+        {
+          "@id": "kt:decision-making"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:financial-accounting"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:cost-accounting"
+        },
+        {
+          "@id": "kt:budgeting"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:general-motors"
+        }
+      ]
+    },
+    {
       "@id": "kt:non-gaap-financial-measures",
       "@type": "kto:Concept",
       "skos:prefLabel": "Non-GAAP Financial Measures: Pro Forma and Adjusted Earnings Under Regulation G",
