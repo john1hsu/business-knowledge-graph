@@ -4,7 +4,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:corporate-law` | `kt:business-judgment-rule`, `kt:caremark-oversight-duty`, `kt:corporate-governance`, `kt:fiduciary-duty`, `kt:shareholder-primacy` |
 | `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:services-marketing` |
 | `kt:international-accounting-standards-board` | `kt:financial-accounting-standards-board`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:segmentation-targeting-positioning` |
@@ -13,6 +12,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:centralization-and-decentralization`, `kt:organization-theory` |
 | `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix`, `kt:vertical-integration` |
+| `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:corporate-law` |
 | `kt:delegation` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
 | `kt:internal-control-over-financial-reporting` | `kt:sarbanes-oxley-act`, `kt:audit-committee`, `kt:whistleblowing` |
@@ -57,7 +57,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
 | `kt:debt-to-equity-ratio` | `kt:financial-statement-analysis`, `kt:capital-structure` |
 | `kt:defense-acquisition-regulation` | `kt:defense-federal-acquisition-regulation-supplement`, `kt:federal-acquisition-regulation` |
-| `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule` |
 | `kt:department-of-defense` | `kt:cybersecurity-maturity-model-certification`, `kt:defense-federal-acquisition-regulation-supplement` |
 | `kt:economic-order-quantity` | `kt:inventory-management`, `kt:material-requirements-planning` |
 | `kt:edgar-schein` | `kt:organizational-culture`, `kt:psychological-safety` |
@@ -219,6 +218,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bundling` | `kt:price-discrimination` |
 | `kt:bureaucracy` | `kt:max-weber` |
 | `kt:business-communication` | `kt:pyramid-principle` |
+| `kt:business-law` | `kt:corporate-law` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-plan` | `kt:effectuation` |
 | `kt:business-policy` | `kt:strategic-management` |
@@ -458,6 +458,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
 | `kt:leonard-berry` | `kt:gaps-model-of-service-quality` |
 | `kt:lewins-three-step-model` | `kt:change-management` |
+| `kt:limited-liability` | `kt:corporate-law` |
 | `kt:line-extension` | `kt:cannibalization` |
 | `kt:littles-law` | `kt:kanban` |
 | `kt:logistics` | `kt:supply-chain-management` |
@@ -544,6 +545,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:performing-a-project-premortem-2007` | `kt:premortem` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
+| `kt:piercing-the-corporate-veil` | `kt:corporate-law` |
 | `kt:pierre-wack` | `kt:scenario-planning` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
 | `kt:poison-pill` | `kt:dual-class-shares` |

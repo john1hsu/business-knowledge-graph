@@ -1317,6 +1317,27 @@
     ]
   },
   {
+    "id": "kt:corporate-law",
+    "title": "Corporate Law: Legal Personality, Limited Liability and the Rules That Constitute the Corporation",
+    "aliases": [
+      "company law",
+      "law of corporations",
+      "corporation law"
+    ],
+    "type": "Field",
+    "domain": "business-ethics-and-governance",
+    "file": "articles/business-ethics-and-governance/corporate-law.md",
+    "created": "2026-11-23",
+    "source_urls": [
+      "https://core.ac.uk/download/132072602.pdf",
+      "https://chicagounbound.uchicago.edu/journal_articles/1166",
+      "https://www.ius.uzh.ch/dam/jcr:dffa406c-e997-4e5e-ac55-eb7da4297476/02_Easterbrook%20and%20Fischel,%20Limited%20Liability%20and%20the%20Corporation,%2052%20(1985)%20The%20University%20of%20Chicago%20Law%20Review%2089-117.pdf",
+      "https://www.britannica.com/topic/corporation",
+      "https://www.britannica.com/money/business-organization/Limited-liability",
+      "https://corp.delaware.gov/stats/2025-annual-report/"
+    ]
+  },
+  {
     "id": "kt:corporate-social-responsibility",
     "title": "Corporate Social Responsibility (CSR): A Firm's Obligations Beyond Profit and Law",
     "aliases": [

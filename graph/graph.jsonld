@@ -2838,6 +2838,98 @@
       ]
     },
     {
+      "@id": "kt:corporate-law",
+      "@type": "kto:Field",
+      "skos:prefLabel": "Corporate Law: Legal Personality, Limited Liability and the Rules That Constitute the Corporation",
+      "skos:definition": "The body of law that creates the business corporation and governs its internal affairs: its separate legal personality, owners' limited liability, transferable shares, board-delegated management and the duties managers owe to investors; in the US it is chiefly state law, led by Delaware.",
+      "kto:domain": "business-ethics-and-governance",
+      "dcterms:created": "2026-11-23",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The End of History for Corporate Law",
+          "dcterms:publisher": "The Georgetown Law Journal, vol. 89 (2001), p. 439 (via CORE)",
+          "schema:url": "https://core.ac.uk/download/132072602.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Limited Liability and the Corporation",
+          "dcterms:publisher": "University of Chicago Law Review, vol. 52 (1985), p. 89 (Chicago Unbound)",
+          "schema:url": "https://chicagounbound.uchicago.edu/journal_articles/1166",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Limited Liability and the Corporation (full text)",
+          "dcterms:publisher": "University of Chicago Law Review, vol. 52 (1985), pp. 89-117 (University of Zurich course copy)",
+          "schema:url": "https://www.ius.uzh.ch/dam/jcr:dffa406c-e997-4e5e-ac55-eb7da4297476/02_Easterbrook%20and%20Fischel,%20Limited%20Liability%20and%20the%20Corporation,%2052%20(1985)%20The%20University%20of%20Chicago%20Law%20Review%2089-117.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Corporation",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/topic/corporation",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "Limited liability (business organization)",
+          "dcterms:publisher": "Encyclopaedia Britannica",
+          "schema:url": "https://www.britannica.com/money/business-organization/Limited-liability",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "2025 Annual Report",
+          "dcterms:publisher": "Delaware Department of State, Division of Corporations",
+          "schema:url": "https://corp.delaware.gov/stats/2025-annual-report/",
+          "kto:sourceType": "government"
+        }
+      ],
+      "kto:file": "articles/business-ethics-and-governance/corporate-law.md",
+      "skos:altLabel": [
+        "company law",
+        "law of corporations",
+        "corporation law"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-law"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-governance"
+        },
+        {
+          "@id": "kt:fiduciary-duty"
+        },
+        {
+          "@id": "kt:business-judgment-rule"
+        },
+        {
+          "@id": "kt:shareholder-primacy"
+        },
+        {
+          "@id": "kt:separation-of-ownership-and-control"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:limited-liability"
+        },
+        {
+          "@id": "kt:piercing-the-corporate-veil"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:delaware-general-corporation-law"
+        }
+      ],
+      "kto:mitigates": [
+        {
+          "@id": "kt:agency-costs"
+        }
+      ]
+    },
+    {
       "@id": "kt:corporate-social-responsibility",
       "@type": "kto:Concept",
       "skos:prefLabel": "Corporate Social Responsibility (CSR): A Firm's Obligations Beyond Profit and Law",
