@@ -4839,6 +4839,28 @@
     ]
   },
   {
+    "id": "kt:relationship-marketing",
+    "title": "Relationship Marketing: From Transactional Exchange to Trust and Commitment",
+    "aliases": [
+      "relational marketing",
+      "RM",
+      "relationship-based marketing"
+    ],
+    "type": "Concept",
+    "domain": "marketing",
+    "file": "articles/marketing/relationship-marketing.md",
+    "created": "2026-11-24",
+    "source_urls": [
+      "https://link.springer.com/article/10.1177/009207039502300402",
+      "https://verdi.cs.ucl.ac.uk/constructDB/publications/morgan-commitmenttrust-1994.html",
+      "https://www.emerald.com/insight/content/doi/10.1108/00251749410054774/full/html",
+      "https://www.ama.org/2019/01/08/factors-influencing-the-effectiveness-of-relationship-marketing-a-meta-analysis",
+      "https://research.birmingham.ac.uk/en/publications/some-dangerous-axioms-of-relationship-marketing/",
+      "https://store.hbr.org/product/preventing-the-premature-death-of-relationship-marketing/98106",
+      "https://openstax.org/books/principles-marketing/pages/1-6-customer-relationship-management-crm"
+    ]
+  },
+  {
     "id": "kt:resource-based-view",
     "title": "Resource-Based View: Firm Resources as the Source of Competitive Advantage",
     "aliases": [

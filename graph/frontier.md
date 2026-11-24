@@ -4,9 +4,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 
 | Node | Referenced by |
 |---|---|
-| `kt:relationship-marketing` | `kt:customer-loyalty`, `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:services-marketing` |
+| `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:relationship-marketing`, `kt:segmentation-targeting-positioning` |
 | `kt:international-accounting-standards-board` | `kt:financial-accounting-standards-board`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
-| `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:segmentation-targeting-positioning` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
@@ -22,6 +21,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:master-production-schedule` | `kt:bill-of-materials`, `kt:material-requirements-planning`, `kt:production-planning-and-control` |
 | `kt:matching-principle` | `kt:accrual-accounting`, `kt:gaap`, `kt:inventory-costing-methods` |
 | `kt:organizational-structure` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
+| `kt:service-dominant-logic` | `kt:value-proposition`, `kt:relationship-marketing`, `kt:services-marketing` |
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
@@ -99,6 +99,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:job-enrichment` | `kt:employee-motivation`, `kt:j-richard-hackman` |
 | `kt:kaizen` | `kt:five-whys`, `kt:pdca-cycle` |
 | `kt:knowledge-transfer` | `kt:absorptive-capacity`, `kt:organizational-learning` |
+| `kt:leonard-berry` | `kt:gaps-model-of-service-quality`, `kt:relationship-marketing` |
 | `kt:limits-to-arbitrage` | `kt:arbitrage`, `kt:behavioral-finance` |
 | `kt:loyalty-program` | `kt:customer-loyalty`, `kt:customer-relationship-management` |
 | `kt:luther-gulick` | `kt:lyndall-urwick`, `kt:span-of-control` |
@@ -142,7 +143,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:screening-theory` | `kt:adverse-selection`, `kt:information-asymmetry` |
 | `kt:self-efficacy` | `kt:expectancy-theory`, `kt:goal-setting-theory` |
 | `kt:semiconductor-industry` | `kt:intel`, `kt:intel` |
-| `kt:service-dominant-logic` | `kt:value-proposition`, `kt:services-marketing` |
 | `kt:servperf` | `kt:service-quality`, `kt:servqual` |
 | `kt:shareholder-activism` | `kt:blockbuster-decline`, `kt:procter-and-gamble` |
 | `kt:sherman-act` | `kt:standard-oil`, `kt:antitrust-law` |
@@ -245,6 +245,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:closed-innovation` | `kt:open-innovation` |
 | `kt:cloud-computing` | `kt:saas-business-model` |
 | `kt:clumsy-solutions` | `kt:wicked-problems` |
+| `kt:commitment-trust-theory` | `kt:relationship-marketing` |
 | `kt:competing-values-framework` | `kt:organizational-culture` |
 | `kt:competition-policy` | `kt:antitrust-law` |
 | `kt:competitive-bidding` | `kt:sole-source-contracting` |
@@ -456,7 +457,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:learning-curve` | `kt:experience-curve` |
 | `kt:learning-organization` | `kt:organizational-learning` |
 | `kt:least-preferred-coworker-scale` | `kt:contingency-theory-of-leadership` |
-| `kt:leonard-berry` | `kt:gaps-model-of-service-quality` |
 | `kt:lewins-three-step-model` | `kt:change-management` |
 | `kt:limited-liability` | `kt:corporate-law` |
 | `kt:line-extension` | `kt:cannibalization` |

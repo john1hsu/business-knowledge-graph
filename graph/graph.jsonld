@@ -20308,6 +20308,106 @@
       ]
     },
     {
+      "@id": "kt:relationship-marketing",
+      "@type": "kto:Concept",
+      "skos:prefLabel": "Relationship Marketing: From Transactional Exchange to Trust and Commitment",
+      "skos:definition": "A marketing approach that treats attracting, keeping and deepening ongoing customer relationships, rather than winning single transactions, as the core task of marketing; coined by Leonard Berry in 1983 and grounded theoretically in Morgan and Hunt's commitment-trust theory.",
+      "kto:domain": "marketing",
+      "dcterms:created": "2026-11-24",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Relationship marketing of services—growing interest, emerging perspectives",
+          "dcterms:publisher": "Journal of the Academy of Marketing Science 23, 236–245 (1995), doi:10.1177/009207039502300402, Springer",
+          "schema:url": "https://link.springer.com/article/10.1177/009207039502300402",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "The Commitment-Trust Theory of Relationship Marketing",
+          "dcterms:publisher": "Journal of Marketing 58(3), 20–38 (1994), doi:10.2307/1252308; bibliographic record and abstract in University College London Security Constructs database",
+          "schema:url": "https://verdi.cs.ucl.ac.uk/constructDB/publications/morgan-commitmenttrust-1994.html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "From Marketing Mix to Relationship Marketing: Towards a Paradigm Shift in Marketing",
+          "dcterms:publisher": "Management Decision 32(2), 4–20 (1994), doi:10.1108/00251749410054774, Emerald Publishing",
+          "schema:url": "https://www.emerald.com/insight/content/doi/10.1108/00251749410054774/full/html",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Factors Influencing the Effectiveness of Relationship Marketing: A Meta-Analysis",
+          "dcterms:publisher": "Journal of Marketing 70(4), 136–153 (2006); JM Insights in the Classroom summary, American Marketing Association",
+          "schema:url": "https://www.ama.org/2019/01/08/factors-influencing-the-effectiveness-of-relationship-marketing-a-meta-analysis",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Some dangerous axioms of relationship marketing",
+          "dcterms:publisher": "Journal of Strategic Marketing 6(3), 187–196 (1998), doi:10.1080/096525498346612; University of Birmingham research portal",
+          "schema:url": "https://research.birmingham.ac.uk/en/publications/some-dangerous-axioms-of-relationship-marketing/",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Preventing the Premature Death of Relationship Marketing",
+          "dcterms:publisher": "Harvard Business Review, January 1998 (Susan Fournier, Susan Dobscha and David Glen Mick), HBR Store",
+          "schema:url": "https://store.hbr.org/product/preventing-the-premature-death-of-relationship-marketing/98106",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "1.6 Customer Relationship Management (CRM)",
+          "dcterms:publisher": "OpenStax, Principles of Marketing (2023)",
+          "schema:url": "https://openstax.org/books/principles-marketing/pages/1-6-customer-relationship-management-crm",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/marketing/relationship-marketing.md",
+      "skos:altLabel": [
+        "relational marketing",
+        "RM",
+        "relationship-based marketing"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:marketing"
+        },
+        {
+          "@id": "kt:marketing-strategy"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:customer-loyalty"
+        },
+        {
+          "@id": "kt:customer-lifetime-value"
+        },
+        {
+          "@id": "kt:service-dominant-logic"
+        },
+        {
+          "@id": "kt:commitment-trust-theory"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:leonard-berry"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:services-marketing"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:marketing-mix"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:customer-relationship-management"
+        }
+      ]
+    },
+    {
       "@id": "kt:segmentation-targeting-positioning",
       "@type": "kto:Framework",
       "skos:prefLabel": "Segmentation, Targeting and Positioning",
