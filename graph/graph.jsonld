@@ -5737,6 +5737,106 @@
       ]
     },
     {
+      "@id": "kt:tylenol-crisis",
+      "@type": "kto:Case",
+      "skos:prefLabel": "Tylenol Crisis of 1982: Johnson & Johnson's Recall and the Birth of Tamper-Evident Packaging",
+      "skos:definition": "The 1982 episode in which seven people in the Chicago area died after taking cyanide-laced Extra-Strength Tylenol capsules, prompting Johnson & Johnson to recall some 31 million bottles nationwide, relaunch the brand in tamper-resistant packaging and recover its market share, and leading to federal packaging rules and the Federal Anti-Tampering Act of 1983.",
+      "kto:domain": "business-history-and-cases",
+      "dcterms:created": "2026-11-25",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The fight to save Tylenol",
+          "dcterms:publisher": "Fortune (Thomas Moore, November 29, 1982 issue)",
+          "schema:url": "https://fortune.com/article/the-fight-to-save-tylenol-fortune-1982/",
+          "kto:sourceType": "news"
+        },
+        {
+          "dcterms:title": "Tylenol and the Legacy of J&J's James Burke",
+          "dcterms:publisher": "Knowledge at Wharton, The Wharton School, University of Pennsylvania (October 2, 2012)",
+          "schema:url": "https://knowledge.wharton.upenn.edu/article/tylenol-and-the-legacy-of-jjs-james-burke/",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Tamper-Evident Packaging Requirements for Over-the-Counter Human Drug Products (Final rule, 63 FR 59463)",
+          "dcterms:publisher": "U.S. Food and Drug Administration, Federal Register (November 4, 1998), via GovInfo",
+          "schema:url": "https://www.govinfo.gov/content/pkg/FR-1998-11-04/html/98-29388.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "21 CFR 211.132 — Tamper-evident packaging requirements for over-the-counter (OTC) human drug products",
+          "dcterms:publisher": "Electronic Code of Federal Regulations (eCFR)",
+          "schema:url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-G/section-211.132",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Criminal Resource Manual 1448: Tampering With Consumer Products — The Offenses",
+          "dcterms:publisher": "U.S. Department of Justice (archived Justice Manual)",
+          "schema:url": "https://www.justice.gov/archives/jm/criminal-resource-manual-1448-tampering-consumer-products-offenses",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "The Chicago Tylenol Murders",
+          "dcterms:publisher": "Chicago History Museum (Jojo Galvan, September 28, 2022)",
+          "schema:url": "https://www.chicagohistory.org/tylenol-murders/",
+          "kto:sourceType": "organization"
+        }
+      ],
+      "kto:file": "articles/business-history-and-cases/tylenol-crisis.md",
+      "skos:altLabel": [
+        "1982 Tylenol crisis",
+        "Chicago Tylenol murders",
+        "Tylenol poisonings",
+        "Tylenol recall",
+        "Johnson & Johnson Tylenol crisis"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:crisis-management"
+        },
+        {
+          "@id": "kt:product-recall"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:johnson-and-johnson"
+        },
+        {
+          "@id": "kt:james-burke"
+        },
+        {
+          "@id": "kt:stakeholder-theory"
+        },
+        {
+          "@id": "kt:business-ethics"
+        },
+        {
+          "@id": "kt:brand-equity"
+        },
+        {
+          "@id": "kt:business-roundtable-statement-on-corporate-purpose"
+        }
+      ],
+      "kto:exemplifies": [
+        {
+          "@id": "kt:corporate-social-responsibility"
+        }
+      ],
+      "kto:causes": [
+        {
+          "@id": "kt:tamper-evident-packaging"
+        },
+        {
+          "@id": "kt:federal-anti-tampering-act"
+        }
+      ],
+      "kto:operatesIn": [
+        {
+          "@id": "kt:pharmaceutical-industry"
+        }
+      ]
+    },
+    {
       "@id": "kt:walmart",
       "@type": "kto:Company",
       "skos:prefLabel": "Walmart",

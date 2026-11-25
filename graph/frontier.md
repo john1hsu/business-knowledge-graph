@@ -270,6 +270,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cost-plus-pricing` | `kt:pricing-strategy` |
 | `kt:cost-volume-profit-analysis` | `kt:cost-structure` |
 | `kt:creating-public-value-1995` | `kt:public-value` |
+| `kt:crisis-management` | `kt:tylenol-crisis` |
 | `kt:crossing-the-chasm` | `kt:technology-adoption-life-cycle` |
 | `kt:customer-data-analytics` | `kt:customer-relationship-management` |
 | `kt:dan-schendel` | `kt:strategic-management` |
@@ -339,6 +340,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:fcc-spectrum-auctions` | `kt:game-theory-in-business` |
 | `kt:federal-acquisition-certification-in-contracting` | `kt:contracting-officer` |
 | `kt:federal-acquisition-streamlining-act` | `kt:indefinite-delivery-indefinite-quantity` |
+| `kt:federal-anti-tampering-act` | `kt:tylenol-crisis` |
 | `kt:federal-crop-insurance-corp-v-merrill` | `kt:contracting-officer` |
 | `kt:federal-trade-commission-act` | `kt:direct-selling` |
 | `kt:finance` | `kt:corporate-finance` |
@@ -421,6 +423,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:investor-owned-firm` | `kt:cooperative` |
 | `kt:irving-janis` | `kt:groupthink` |
 | `kt:iso-9001` | `kt:pdca-cycle` |
+| `kt:james-burke` | `kt:tylenol-crisis` |
 | `kt:james-f-moore` | `kt:business-ecosystem` |
 | `kt:james-g-march` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:james-macgregor-burns` | `kt:transformational-leadership` |
@@ -436,6 +439,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:john-d-rockefeller` | `kt:standard-oil` |
 | `kt:john-lintner` | `kt:capital-asset-pricing-model` |
 | `kt:john-von-neumann` | `kt:game-theory-in-business` |
+| `kt:johnson-and-johnson` | `kt:tylenol-crisis` |
 | `kt:jon-katzenbach` | `kt:high-performance-teams` |
 | `kt:joseph-mcgrath` | `kt:team-effectiveness` |
 | `kt:joseph-schumpeter` | `kt:creative-destruction` |
@@ -545,6 +549,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:performing-a-project-premortem-2007` | `kt:premortem` |
 | `kt:perpetual-software-license` | `kt:saas-business-model` |
 | `kt:personal-selling` | `kt:direct-selling` |
+| `kt:pharmaceutical-industry` | `kt:tylenol-crisis` |
 | `kt:piercing-the-corporate-veil` | `kt:corporate-law` |
 | `kt:pierre-wack` | `kt:scenario-planning` |
 | `kt:platform-competition-in-two-sided-markets-2003` | `kt:two-sided-market` |
@@ -572,6 +577,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:product-lifecycle-management` | `kt:bill-of-materials` |
 | `kt:product-line-strategy` | `kt:cannibalization` |
 | `kt:product-portfolio-management` | `kt:stage-gate-process` |
+| `kt:product-recall` | `kt:tylenol-crisis` |
 | `kt:product-service-system` | `kt:servitization` |
 | `kt:professional-services` | `kt:management-consulting` |
 | `kt:profiting-from-innovation` | `kt:david-j-teece` |
@@ -675,6 +681,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:synergy` | `kt:mergers-and-acquisitions` |
 | `kt:systematic-management` | `kt:scientific-management` |
 | `kt:t-mobile-us` | `kt:churn-rate` |
+| `kt:tamper-evident-packaging` | `kt:tylenol-crisis` |
 | `kt:tax-incidence` | `kt:price-elasticity` |
 | `kt:taylor-society` | `kt:frederick-winslow-taylor` |
 | `kt:teaming` | `kt:amy-edmondson` |

@@ -5882,6 +5882,29 @@
     ]
   },
   {
+    "id": "kt:tylenol-crisis",
+    "title": "Tylenol Crisis of 1982: Johnson & Johnson's Recall and the Birth of Tamper-Evident Packaging",
+    "aliases": [
+      "1982 Tylenol crisis",
+      "Chicago Tylenol murders",
+      "Tylenol poisonings",
+      "Tylenol recall",
+      "Johnson & Johnson Tylenol crisis"
+    ],
+    "type": "Case",
+    "domain": "business-history-and-cases",
+    "file": "articles/business-history-and-cases/tylenol-crisis.md",
+    "created": "2026-11-25",
+    "source_urls": [
+      "https://fortune.com/article/the-fight-to-save-tylenol-fortune-1982/",
+      "https://knowledge.wharton.upenn.edu/article/tylenol-and-the-legacy-of-jjs-james-burke/",
+      "https://www.govinfo.gov/content/pkg/FR-1998-11-04/html/98-29388.htm",
+      "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-G/section-211.132",
+      "https://www.justice.gov/archives/jm/criminal-resource-manual-1448-tampering-consumer-products-offenses",
+      "https://www.chicagohistory.org/tylenol-murders/"
+    ]
+  },
+  {
     "id": "kt:value-proposition",
     "title": "Value Proposition: The Promised Net Benefit That Gives Target Customers a Reason to Choose",
     "aliases": [

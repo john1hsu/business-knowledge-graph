@@ -14232,6 +14232,36 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "primary" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/two-sided-market/s6> <https://schema.org/url> "https://www.law.cornell.edu/supremecourt/text/16-1454" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s1> <http://purl.org/dc/terms/publisher> "Fortune (Thomas Moore, November 29, 1982 issue)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s1> <http://purl.org/dc/terms/title> "The fight to save Tylenol" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s1> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "news" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s1> <https://schema.org/url> "https://fortune.com/article/the-fight-to-save-tylenol-fortune-1982/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s2> <http://purl.org/dc/terms/publisher> "Knowledge at Wharton, The Wharton School, University of Pennsylvania (October 2, 2012)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s2> <http://purl.org/dc/terms/title> "Tylenol and the Legacy of J&J's James Burke" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s2> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "academic" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s2> <https://schema.org/url> "https://knowledge.wharton.upenn.edu/article/tylenol-and-the-legacy-of-jjs-james-burke/" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s3> <http://purl.org/dc/terms/publisher> "U.S. Food and Drug Administration, Federal Register (November 4, 1998), via GovInfo" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s3> <http://purl.org/dc/terms/title> "Tamper-Evident Packaging Requirements for Over-the-Counter Human Drug Products (Final rule, 63 FR 59463)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s3> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s3> <https://schema.org/url> "https://www.govinfo.gov/content/pkg/FR-1998-11-04/html/98-29388.htm" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s4> <http://purl.org/dc/terms/publisher> "Electronic Code of Federal Regulations (eCFR)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s4> <http://purl.org/dc/terms/title> "21 CFR 211.132 — Tamper-evident packaging requirements for over-the-counter (OTC) human drug products" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s4> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s4> <https://schema.org/url> "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211/subpart-G/section-211.132" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s5> <http://purl.org/dc/terms/publisher> "U.S. Department of Justice (archived Justice Manual)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s5> <http://purl.org/dc/terms/title> "Criminal Resource Manual 1448: Tampering With Consumer Products — The Offenses" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s5> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "government" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s5> <https://schema.org/url> "https://www.justice.gov/archives/jm/criminal-resource-manual-1448-tampering-consumer-products-offenses" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s6> <http://purl.org/dc/terms/publisher> "Chicago History Museum (Jojo Galvan, September 28, 2022)" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s6> <http://purl.org/dc/terms/title> "The Chicago Tylenol Murders" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s6> <https://github.com/john1hsu/business-knowledge-graph/ontology#sourceType> "organization" .
+<https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s6> <https://schema.org/url> "https://www.chicagohistory.org/tylenol-murders/" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <http://purl.org/dc/terms/publisher> "McKinsey Quarterly, June 2000" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <http://purl.org/dc/terms/title> "Delivering value to customers (incl. Lanning & Michaels, 'A business is a value delivery system', adapted from the 1988 staff paper)" .
 <https://github.com/john1hsu/business-knowledge-graph/id/source/value-proposition/s1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Source> .
@@ -15147,6 +15177,35 @@
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifiedBy> <https://github.com/john1hsu/business-knowledge-graph/id/ohio-v-american-express> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#introducedIn> <https://github.com/john1hsu/business-knowledge-graph/id/platform-competition-in-two-sided-markets-2003> .
 <https://github.com/john1hsu/business-knowledge-graph/id/two-sided-market> <https://github.com/john1hsu/business-knowledge-graph/ontology#studiedIn> <https://github.com/john1hsu/business-knowledge-graph/id/industrial-organization> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://purl.org/dc/terms/created> "2026-11-25" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Case> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2000/01/rdf-schema#label> "Tylenol Crisis of 1982: Johnson & Johnson's Recall and the Birth of Tamper-Evident Packaging" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#altLabel> "1982 Tylenol crisis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#altLabel> "Chicago Tylenol murders" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#altLabel> "Johnson & Johnson Tylenol crisis" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#altLabel> "Tylenol poisonings" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#altLabel> "Tylenol recall" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/crisis-management> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#broader> <https://github.com/john1hsu/business-knowledge-graph/id/product-recall> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#definition> "The 1982 episode in which seven people in the Chicago area died after taking cyanide-laced Extra-Strength Tylenol capsules, prompting Johnson & Johnson to recall some 31 million bottles nationwide, relaunch the brand in tamper-resistant packaging and recover its market share, and leading to federal packaging rules and the Federal Anti-Tampering Act of 1983." .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tylenol Crisis of 1982: Johnson & Johnson's Recall and the Birth of Tamper-Evident Packaging" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/brand-equity> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-ethics> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/business-roundtable-statement-on-corporate-purpose> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/james-burke> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/johnson-and-johnson> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/2004/02/skos/core#related> <https://github.com/john1hsu/business-knowledge-graph/id/stakeholder-theory> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s1> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s2> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s3> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s4> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s5> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <http://www.w3.org/ns/prov#wasDerivedFrom> <https://github.com/john1hsu/business-knowledge-graph/id/source/tylenol-crisis/s6> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/federal-anti-tampering-act> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <https://github.com/john1hsu/business-knowledge-graph/ontology#causes> <https://github.com/john1hsu/business-knowledge-graph/id/tamper-evident-packaging> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <https://github.com/john1hsu/business-knowledge-graph/ontology#domain> "business-history-and-cases" .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <https://github.com/john1hsu/business-knowledge-graph/ontology#exemplifies> <https://github.com/john1hsu/business-knowledge-graph/id/corporate-social-responsibility> .
+<https://github.com/john1hsu/business-knowledge-graph/id/tylenol-crisis> <https://github.com/john1hsu/business-knowledge-graph/ontology#operatesIn> <https://github.com/john1hsu/business-knowledge-graph/id/pharmaceutical-industry> .
 <https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://purl.org/dc/terms/created> "2026-11-16" .
 <https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://github.com/john1hsu/business-knowledge-graph/ontology#Concept> .
 <https://github.com/john1hsu/business-knowledge-graph/id/value-proposition> <http://www.w3.org/2000/01/rdf-schema#label> "Value Proposition: The Promised Net Benefit That Gives Target Customers a Reason to Choose" .
