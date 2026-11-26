@@ -5497,6 +5497,27 @@
     ]
   },
   {
+    "id": "kt:statistical-process-control",
+    "title": "Statistical Process Control: Shewhart Control Charts for Telling Common-Cause from Special-Cause Variation",
+    "aliases": [
+      "SPC",
+      "statistical process control",
+      "Shewhart control chart",
+      "control charting"
+    ],
+    "type": "Practice",
+    "domain": "operations-and-supply-chain",
+    "file": "articles/operations-and-supply-chain/statistical-process-control.md",
+    "created": "2026-11-26",
+    "source_urls": [
+      "https://mathshistory.st-andrews.ac.uk/DSB/Shewhart.pdf",
+      "https://itl.nist.gov/div898/handbook/pmc/section3/pmc31.htm",
+      "https://www.nist.gov/publications/nistsematech-engineering-statistics-handbook-chapter-6-process-or-product-monitoring",
+      "https://pure.uva.nl/ws/files/207771767/Monitoring_univariate_processes_using_control_charts_Some_practical_issues_and_advice.pdf",
+      "https://www.macmillanlearning.com/studentresources/college/statistics/psbe5e/companion_chapters/19_psbe5e_10900_ch15_15-1_15-58.pdf"
+    ]
+  },
+  {
     "id": "kt:strategic-management",
     "title": "Strategic Management: Setting Direction and Sustaining Competitive Advantage",
     "aliases": [

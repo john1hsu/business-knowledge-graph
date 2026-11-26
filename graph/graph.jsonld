@@ -22304,6 +22304,103 @@
       ]
     },
     {
+      "@id": "kt:statistical-process-control",
+      "@type": "kto:Practice",
+      "skos:prefLabel": "Statistical Process Control: Shewhart Control Charts for Telling Common-Cause from Special-Cause Variation",
+      "skos:definition": "A method, originated by Walter Shewhart at Western Electric and Bell Telephone Laboratories in the 1920s, that plots process data in time order against statistically derived control limits so managers can tell routine (common-cause) variation from signals of a special, assignable cause that warrants intervention.",
+      "kto:domain": "operations-and-supply-chain",
+      "dcterms:created": "2026-11-26",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "Shewhart, Walter Andrew",
+          "dcterms:publisher": "Complete Dictionary of Scientific Biography, Charles Scribner's Sons, 2008 (Churchill Eisenhart), via MacTutor, University of St Andrews",
+          "schema:url": "https://mathshistory.st-andrews.ac.uk/DSB/Shewhart.pdf",
+          "kto:sourceType": "encyclopedia"
+        },
+        {
+          "dcterms:title": "6.3.1. What are Control Charts?",
+          "dcterms:publisher": "NIST/SEMATECH e-Handbook of Statistical Methods, National Institute of Standards and Technology",
+          "schema:url": "https://itl.nist.gov/div898/handbook/pmc/section3/pmc31.htm",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "NIST/SEMATECH Engineering Statistics Handbook Chapter 6: Process or Product Monitoring and Control",
+          "dcterms:publisher": "National Institute of Standards and Technology (J. Prins, 2003)",
+          "schema:url": "https://www.nist.gov/publications/nistsematech-engineering-statistics-handbook-chapter-6-process-or-product-monitoring",
+          "kto:sourceType": "government"
+        },
+        {
+          "dcterms:title": "Monitoring univariate processes using control charts: Some practical issues and advice",
+          "dcterms:publisher": "Quality Engineering 36(3), 487-499 (Zwetsloot, Jones-Farmer & Woodall, 2024), doi:10.1080/08982112.2023.2238049",
+          "schema:url": "https://pure.uva.nl/ws/files/207771767/Monitoring_univariate_processes_using_control_charts_Some_practical_issues_and_advice.pdf",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Chapter 15: Statistics for Quality: Control and Capability",
+          "dcterms:publisher": "Macmillan Learning (business statistics textbook companion chapter)",
+          "schema:url": "https://www.macmillanlearning.com/studentresources/college/statistics/psbe5e/companion_chapters/19_psbe5e_10900_ch15_15-1_15-58.pdf",
+          "kto:sourceType": "textbook"
+        }
+      ],
+      "kto:file": "articles/operations-and-supply-chain/statistical-process-control.md",
+      "skos:altLabel": [
+        "SPC",
+        "statistical process control",
+        "Shewhart control chart",
+        "control charting"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:operations-management"
+        },
+        {
+          "@id": "kt:total-quality-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:six-sigma"
+        },
+        {
+          "@id": "kt:pdca-cycle"
+        },
+        {
+          "@id": "kt:ishikawa-diagram"
+        },
+        {
+          "@id": "kt:process-capability"
+        },
+        {
+          "@id": "kt:acceptance-sampling"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:walter-shewhart"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:economic-control-of-quality-of-manufactured-product"
+        }
+      ],
+      "kto:influenced": [
+        {
+          "@id": "kt:w-edwards-deming"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:acceptance-sampling"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:bell-labs"
+        }
+      ]
+    },
+    {
       "@id": "kt:supply-chain-management",
       "@type": "kto:Field",
       "skos:prefLabel": "Supply Chain Management: Integrating Sourcing, Production and Distribution Across Firms",

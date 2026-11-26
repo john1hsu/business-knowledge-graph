@@ -7,7 +7,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:marketing-strategy` | `kt:customer-relationship-management`, `kt:marketing-mix`, `kt:marketing`, `kt:relationship-marketing`, `kt:segmentation-targeting-positioning` |
 | `kt:international-accounting-standards-board` | `kt:financial-accounting-standards-board`, `kt:goodwill`, `kt:ifrs`, `kt:revenue-recognition-asc-606` |
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
-| `kt:statistical-process-control` | `kt:joseph-juran`, `kt:six-sigma`, `kt:total-quality-management`, `kt:w-edwards-deming` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:centralization-and-decentralization`, `kt:organization-theory` |
 | `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix`, `kt:vertical-integration` |
@@ -25,7 +24,9 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-positioning` | `kt:southwest-airlines`, `kt:benchmarking`, `kt:operational-effectiveness` |
 | `kt:technological-disruption` | `kt:blockbuster-decline`, `kt:kodak-decline`, `kt:netflix-business-model-shift` |
 | `kt:uk-corporate-governance-code` | `kt:cadbury-report`, `kt:corporate-governance`, `kt:independent-director` |
+| `kt:walter-shewhart` | `kt:pdca-cycle`, `kt:statistical-process-control`, `kt:w-edwards-deming` |
 | `kt:william-h-meckling` | `kt:agency-costs`, `kt:michael-c-jensen`, `kt:decision-rights` |
+| `kt:acceptance-sampling` | `kt:statistical-process-control`, `kt:statistical-process-control` |
 | `kt:accounting` | `kt:financial-accounting`, `kt:managerial-accounting` |
 | `kt:airline-deregulation-act` | `kt:southwest-airlines`, `kt:airline-industry` |
 | `kt:alfred-d-chandler-jr` | `kt:general-motors`, `kt:strategic-management` |
@@ -34,6 +35,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:andy-grove` | `kt:intel`, `kt:okrs` |
 | `kt:arthur-cecil-pigou` | `kt:alfred-marshall`, `kt:price-discrimination` |
 | `kt:barbara-minto` | `kt:mece-principle`, `kt:pyramid-principle` |
+| `kt:bell-labs` | `kt:fault-tree-analysis`, `kt:statistical-process-control` |
 | `kt:black-scholes-model` | `kt:arbitrage`, `kt:real-options` |
 | `kt:bounded-rationality` | `kt:effectuation`, `kt:decision-making` |
 | `kt:brainstorming` | `kt:design-thinking`, `kt:nominal-group-technique` |
@@ -158,7 +160,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:theory-of-the-firm` | `kt:contract-theory`, `kt:transaction-cost-economics` |
 | `kt:trade-off-theory-of-capital-structure` | `kt:capital-structure`, `kt:modigliani-miller-theorem` |
 | `kt:v-a-graicunas` | `kt:lyndall-urwick`, `kt:span-of-control` |
-| `kt:walter-shewhart` | `kt:pdca-cycle`, `kt:w-edwards-deming` |
 | `kt:world-management-survey` | `kt:management`, `kt:centralization-and-decentralization` |
 | `kt:a-behavioral-theory-of-the-firm` | `kt:exploration-and-exploitation-in-organizational-learning-1991` |
 | `kt:a-group-process-model-for-problem-identification-and-program-planning-1971` | `kt:nominal-group-technique` |
@@ -204,7 +205,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:behavioral-corporate-finance` | `kt:overconfidence-bias` |
 | `kt:behavioral-economics` | `kt:microeconomics` |
 | `kt:behavioral-ethics` | `kt:business-ethics` |
-| `kt:bell-labs` | `kt:fault-tree-analysis` |
 | `kt:ben-thompson` | `kt:aggregation-theory` |
 | `kt:benjamin-tregoe` | `kt:kepner-tregoe-method` |
 | `kt:bernard-bass` | `kt:transformational-leadership` |
@@ -306,6 +306,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:e-s-qual` | `kt:a-parasuraman` |
 | `kt:earned-growth-rate` | `kt:net-promoter-score` |
 | `kt:earnings-management` | `kt:non-gaap-financial-measures` |
+| `kt:economic-control-of-quality-of-manufactured-product` | `kt:statistical-process-control` |
 | `kt:economic-growth` | `kt:creative-destruction` |
 | `kt:economic-theory-of-agency-ross-1973` | `kt:principal-agent-problem` |
 | `kt:economic-value-added` | `kt:weighted-average-cost-of-capital` |
@@ -569,6 +570,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:private-company-council` | `kt:financial-accounting-standards-board` |
 | `kt:probabilistic-risk-assessment` | `kt:fault-tree-analysis` |
 | `kt:problem-tree-analysis` | `kt:issue-tree` |
+| `kt:process-capability` | `kt:statistical-process-control` |
 | `kt:process-theories-of-organizational-change` | `kt:andrew-van-de-ven` |
 | `kt:procurement` | `kt:public-procurement` |
 | `kt:product-development-decisions-a-review-of-the-literature-2001` | `kt:new-product-development` |
