@@ -6209,6 +6209,107 @@
       ]
     },
     {
+      "@id": "kt:base-of-the-pyramid",
+      "@type": "kto:Strategy",
+      "skos:prefLabel": "Base of the Pyramid: Low-Income Markets as a Business Opportunity",
+      "skos:definition": "The proposition, popularized by C.K. Prahalad and Stuart Hart in 2002, that the roughly four billion people with the lowest incomes form a large, underserved market that firms can serve profitably by redesigning products, pricing, financing and distribution, while also improving the lives of the poor.",
+      "kto:domain": "business-models",
+      "dcterms:created": "2026-11-27",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "The fortune at the bottom of the pyramid",
+          "dcterms:publisher": "strategy+business, Issue 26, First Quarter 2002",
+          "schema:url": "https://www.strategy-business.com/article/11518",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "Marketers Must Seek Their 'Fortune at the Bottom of the Pyramid'",
+          "dcterms:publisher": "Knowledge at Wharton, University of Pennsylvania, 2004",
+          "schema:url": "https://knowledge.wharton.upenn.edu/?p=3982",
+          "kto:sourceType": "academic"
+        },
+        {
+          "dcterms:title": "Four billion people at base of the pyramid represent $5 trillion market (The Next 4 Billion launch)",
+          "dcterms:publisher": "International Finance Corporation press release, 19 March 2007",
+          "schema:url": "https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=22286",
+          "kto:sourceType": "intergovernmental"
+        },
+        {
+          "dcterms:title": "The Next 4 Billion: Market Size and Business Strategy at the Base of the Pyramid",
+          "dcterms:publisher": "World Resources Institute and International Finance Corporation, 2007",
+          "schema:url": "https://www.wri.org/research/next-4-billion",
+          "kto:sourceType": "organization"
+        },
+        {
+          "dcterms:title": "The Mirage of Marketing to the Bottom of the Pyramid: How the Private Sector Can Help Alleviate Poverty",
+          "dcterms:publisher": "California Management Review 49(4), Summer 2007",
+          "schema:url": "https://cmr.berkeley.edu/2007/08/49-4-the-mirage-of-marketing-to-the-bottom-of-the-pyramid-how-the-private-sector-can-help-alleviate-poverty",
+          "kto:sourceType": "peer-reviewed"
+        },
+        {
+          "dcterms:title": "Mirage at the Bottom of the Pyramid",
+          "dcterms:publisher": "William Davidson Institute Working Paper No. 835, University of Michigan (Deep Blue)",
+          "schema:url": "https://deepblue.lib.umich.edu/handle/2027.42/57215?show=full",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/business-models/base-of-the-pyramid.md",
+      "skos:altLabel": [
+        "bottom of the pyramid",
+        "BoP",
+        "BOP market",
+        "fortune at the bottom of the pyramid",
+        "BoP strategy",
+        "BoP business model"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:business-model"
+        },
+        {
+          "@id": "kt:segmentation-targeting-positioning"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:corporate-social-responsibility"
+        },
+        {
+          "@id": "kt:pricing-strategy"
+        },
+        {
+          "@id": "kt:disruptive-innovation"
+        },
+        {
+          "@id": "kt:creating-shared-value"
+        },
+        {
+          "@id": "kt:microfinance"
+        }
+      ],
+      "kto:createdBy": [
+        {
+          "@id": "kt:c-k-prahalad"
+        },
+        {
+          "@id": "kt:stuart-l-hart"
+        }
+      ],
+      "kto:introducedIn": [
+        {
+          "@id": "kt:the-fortune-at-the-bottom-of-the-pyramid-2002"
+        }
+      ],
+      "kto:exemplifiedBy": [
+        {
+          "@id": "kt:hindustan-unilever"
+        },
+        {
+          "@id": "kt:cemex"
+        }
+      ]
+    },
+    {
       "@id": "kt:business-format-franchising",
       "@type": "kto:BusinessModel",
       "skos:prefLabel": "Business Format Franchising",

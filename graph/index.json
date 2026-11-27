@@ -484,6 +484,30 @@
     ]
   },
   {
+    "id": "kt:base-of-the-pyramid",
+    "title": "Base of the Pyramid: Low-Income Markets as a Business Opportunity",
+    "aliases": [
+      "bottom of the pyramid",
+      "BoP",
+      "BOP market",
+      "fortune at the bottom of the pyramid",
+      "BoP strategy",
+      "BoP business model"
+    ],
+    "type": "Strategy",
+    "domain": "business-models",
+    "file": "articles/business-models/base-of-the-pyramid.md",
+    "created": "2026-11-27",
+    "source_urls": [
+      "https://www.strategy-business.com/article/11518",
+      "https://knowledge.wharton.upenn.edu/?p=3982",
+      "https://pressroom.ifc.org/all/pages/PressDetail.aspx?ID=22286",
+      "https://www.wri.org/research/next-4-billion",
+      "https://cmr.berkeley.edu/2007/08/49-4-the-mirage-of-marketing-to-the-bottom-of-the-pyramid-how-the-private-sector-can-help-alleviate-poverty",
+      "https://deepblue.lib.umich.edu/handle/2027.42/57215?show=full"
+    ]
+  },
+  {
     "id": "kt:bcg-growth-share-matrix",
     "title": "BCG Growth-Share Matrix",
     "aliases": [

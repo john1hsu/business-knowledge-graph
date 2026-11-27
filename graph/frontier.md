@@ -10,6 +10,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:centralization-and-decentralization`, `kt:organization-theory` |
 | `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix`, `kt:vertical-integration` |
+| `kt:creating-shared-value` | `kt:corporate-social-responsibility`, `kt:base-of-the-pyramid`, `kt:michael-porter` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:corporate-law` |
 | `kt:delegation` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
 | `kt:dodd-frank-act` | `kt:sarbanes-oxley-act`, `kt:executive-compensation`, `kt:whistleblowing` |
@@ -53,7 +54,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:contract-pricing` | `kt:government-contract-types`, `kt:truth-in-negotiations-act` |
 | `kt:cost-accounting` | `kt:activity-based-costing`, `kt:managerial-accounting` |
 | `kt:costco` | `kt:walmart`, `kt:membership-warehouse-club` |
-| `kt:creating-shared-value` | `kt:corporate-social-responsibility`, `kt:michael-porter` |
 | `kt:cross-price-elasticity` | `kt:cannibalization`, `kt:price-elasticity` |
 | `kt:current-ratio` | `kt:financial-statement-analysis`, `kt:working-capital` |
 | `kt:customer-equity` | `kt:customer-lifetime-value`, `kt:marketing-metrics` |
@@ -223,6 +223,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:business-plan` | `kt:effectuation` |
 | `kt:business-policy` | `kt:strategic-management` |
 | `kt:business-roundtable` | `kt:business-roundtable-statement-on-corporate-purpose` |
+| `kt:c-k-prahalad` | `kt:base-of-the-pyramid` |
 | `kt:calibration` | `kt:overconfidence-bias` |
 | `kt:campbell-soup-company` | `kt:supply-chain-management` |
 | `kt:capitalism-socialism-and-democracy` | `kt:creative-destruction` |
@@ -232,6 +233,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:cash-conversion-cycle` | `kt:working-capital` |
 | `kt:cash-dividend` | `kt:share-repurchase` |
 | `kt:causation-and-effectuation-2001` | `kt:effectuation` |
+| `kt:cemex` | `kt:base-of-the-pyramid` |
 | `kt:central-problems-in-the-management-of-innovation-1986` | `kt:innovation-management` |
 | `kt:charles-a-oreilly` | `kt:organizational-ambidexterity` |
 | `kt:charles-coolidge-parlin` | `kt:market-research` |
@@ -388,6 +390,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:hierarchical-production-planning` | `kt:production-planning-and-control` |
 | `kt:high-speed-steel` | `kt:frederick-winslow-taylor` |
 | `kt:high-yield-bonds` | `kt:leveraged-buyout` |
+| `kt:hindustan-unilever` | `kt:base-of-the-pyramid` |
 | `kt:hofstedes-cultural-dimensions` | `kt:contingency-theory-of-leadership` |
 | `kt:hold-up-problem` | `kt:cooperative` |
 | `kt:home-video-rental-industry` | `kt:blockbuster-decline` |
@@ -501,6 +504,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:michael-l-katz` | `kt:network-effect` |
 | `kt:michael-l-tushman` | `kt:organizational-ambidexterity` |
 | `kt:michael-lanning` | `kt:value-proposition` |
+| `kt:microfinance` | `kt:base-of-the-pyramid` |
 | `kt:microsoft` | `kt:revenue-recognition-asc-606` |
 | `kt:milton-friedman` | `kt:shareholder-primacy` |
 | `kt:minimum-efficient-scale` | `kt:economies-of-scale` |
@@ -675,6 +679,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:strategic-management-a-stakeholder-approach` | `kt:stakeholder-theory` |
 | `kt:strategic-misrepresentation` | `kt:overconfidence-bias` |
 | `kt:strategy-map` | `kt:balanced-scorecard` |
+| `kt:stuart-l-hart` | `kt:base-of-the-pyramid` |
 | `kt:sunk-cost` | `kt:real-options` |
 | `kt:supply-chain-resilience` | `kt:supply-chain-management` |
 | `kt:sustainability-reporting` | `kt:ifrs` |
@@ -692,6 +697,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:the-discipline-of-teams` | `kt:high-performance-teams` |
 | `kt:the-economics-of-defense-in-the-nuclear-age-1960` | `kt:planning-programming-budgeting-and-execution` |
 | `kt:the-economics-of-welfare` | `kt:price-discrimination` |
+| `kt:the-fortune-at-the-bottom-of-the-pyramid-2002` | `kt:base-of-the-pyramid` |
 | `kt:the-four-steps-to-the-epiphany` | `kt:customer-development` |
 | `kt:the-innovation-journey` | `kt:andrew-van-de-ven` |
 | `kt:the-long-tail-wired-2004` | `kt:long-tail` |
