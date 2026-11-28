@@ -1384,6 +1384,27 @@
     ]
   },
   {
+    "id": "kt:corporate-strategy",
+    "title": "Corporate Strategy: Choosing Which Businesses a Multibusiness Firm Should Own",
+    "aliases": [
+      "corporate-level strategy",
+      "multibusiness strategy",
+      "diversification strategy",
+      "corporate portfolio strategy"
+    ],
+    "type": "Strategy",
+    "domain": "strategy",
+    "file": "articles/strategy/corporate-strategy.md",
+    "created": "2026-11-28",
+    "source_urls": [
+      "https://store.hbr.org/product/from-competitive-advantage-to-corporate-strategy/87307",
+      "https://cmr.berkeley.edu/1995/11/38-1-the-value-of-the-parent-company/",
+      "https://cmr.berkeley.edu/2024/03/how-to-get-a-corporate-parent-that-is-better-for-business",
+      "https://opentextbc.ca/strategicmanagement/chapter/diversification-strategies/",
+      "https://people.duke.edu/~jgraham/GrahamLemmonWolf.pdf"
+    ]
+  },
+  {
     "id": "kt:corporate-turnaround",
     "title": "Turnaround Strategy: Retrenchment and Recovery in Declining Firms",
     "aliases": [

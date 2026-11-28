@@ -9,7 +9,6 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:patient-safety` | `kt:a3-report`, `kt:fault-tree-analysis`, `kt:five-whys`, `kt:root-cause-analysis` |
 | `kt:accounting-fraud` | `kt:whistleblowing`, `kt:enron-scandal`, `kt:xerox` |
 | `kt:contingency-theory` | `kt:management-theory`, `kt:centralization-and-decentralization`, `kt:organization-theory` |
-| `kt:corporate-strategy` | `kt:mergers-and-acquisitions`, `kt:bcg-growth-share-matrix`, `kt:vertical-integration` |
 | `kt:creating-shared-value` | `kt:corporate-social-responsibility`, `kt:base-of-the-pyramid`, `kt:michael-porter` |
 | `kt:delaware-general-corporation-law` | `kt:board-of-directors`, `kt:business-judgment-rule`, `kt:corporate-law` |
 | `kt:delegation` | `kt:decision-rights`, `kt:span-of-control`, `kt:centralization-and-decentralization` |
@@ -219,6 +218,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:bureaucracy` | `kt:max-weber` |
 | `kt:business-communication` | `kt:pyramid-principle` |
 | `kt:business-law` | `kt:corporate-law` |
+| `kt:business-level-strategy` | `kt:corporate-strategy` |
 | `kt:business-model-generation-2010` | `kt:business-model-canvas` |
 | `kt:business-plan` | `kt:effectuation` |
 | `kt:business-policy` | `kt:strategic-management` |
@@ -299,6 +299,8 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:dish-network` | `kt:blockbuster-decline` |
 | `kt:disposition-effect` | `kt:behavioral-finance` |
 | `kt:distribution-channel` | `kt:direct-selling` |
+| `kt:diversification` | `kt:corporate-strategy` |
+| `kt:diversification-discount` | `kt:corporate-strategy` |
 | `kt:diversification-strategy` | `kt:bcg-growth-share-matrix` |
 | `kt:dodge-v-ford-motor-co` | `kt:shareholder-primacy` |
 | `kt:donaldson-brown` | `kt:dupont-analysis` |
@@ -544,6 +546,7 @@ Nodes referenced by existing articles but not yet written, ranked by how many ar
 | `kt:oskar-morgenstern` | `kt:game-theory-in-business` |
 | `kt:outcome-driven-innovation` | `kt:jobs-to-be-done` |
 | `kt:outsourcing` | `kt:vertical-integration` |
+| `kt:parenting-advantage` | `kt:corporate-strategy` |
 | `kt:pareto-chart` | `kt:eighty-twenty-rule` |
 | `kt:paul-hersey` | `kt:situational-leadership` |
 | `kt:pay-for-performance` | `kt:expectancy-theory` |

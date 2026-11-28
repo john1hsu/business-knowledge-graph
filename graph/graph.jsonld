@@ -25261,6 +25261,98 @@
       ]
     },
     {
+      "@id": "kt:corporate-strategy",
+      "@type": "kto:Strategy",
+      "skos:prefLabel": "Corporate Strategy: Choosing Which Businesses a Multibusiness Firm Should Own",
+      "skos:definition": "The level of strategy that decides which industries and businesses a firm competes in and how the corporate parent creates value across them, as distinct from business-level strategy, which decides how each unit competes within its own industry.",
+      "kto:domain": "strategy",
+      "dcterms:created": "2026-11-28",
+      "prov:wasDerivedFrom": [
+        {
+          "dcterms:title": "From Competitive Advantage to Corporate Strategy",
+          "dcterms:publisher": "Harvard Business Review (Michael E. Porter, May 1987)",
+          "schema:url": "https://store.hbr.org/product/from-competitive-advantage-to-corporate-strategy/87307",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "The Value of the Parent Company",
+          "dcterms:publisher": "California Management Review 38(1), 1995 (Andrew Campbell, Michael Goold, Marcus Alexander)",
+          "schema:url": "https://cmr.berkeley.edu/1995/11/38-1-the-value-of-the-parent-company/",
+          "kto:sourceType": "primary"
+        },
+        {
+          "dcterms:title": "How To Get a Corporate Parent That Is Better For Business",
+          "dcterms:publisher": "California Management Review Insights (Herman Vantrappen and Frederic Wirtz, March 2024)",
+          "schema:url": "https://cmr.berkeley.edu/2024/03/how-to-get-a-corporate-parent-that-is-better-for-business",
+          "kto:sourceType": "practitioner-journal"
+        },
+        {
+          "dcterms:title": "Chapter 8: Selecting Corporate-Level Strategies — Diversification Strategies",
+          "dcterms:publisher": "Strategic Management (open textbook, BCcampus OpenTextBC)",
+          "schema:url": "https://opentextbc.ca/strategicmanagement/chapter/diversification-strategies/",
+          "kto:sourceType": "textbook"
+        },
+        {
+          "dcterms:title": "Does Corporate Diversification Destroy Value?",
+          "dcterms:publisher": "Duke University (John R. Graham, Michael L. Lemmon, Jack Wolf; working paper, July 2000)",
+          "schema:url": "https://people.duke.edu/~jgraham/GrahamLemmonWolf.pdf",
+          "kto:sourceType": "academic"
+        }
+      ],
+      "kto:file": "articles/strategy/corporate-strategy.md",
+      "skos:altLabel": [
+        "corporate-level strategy",
+        "multibusiness strategy",
+        "diversification strategy",
+        "corporate portfolio strategy"
+      ],
+      "skos:broader": [
+        {
+          "@id": "kt:strategic-management"
+        }
+      ],
+      "skos:related": [
+        {
+          "@id": "kt:vertical-integration"
+        },
+        {
+          "@id": "kt:mergers-and-acquisitions"
+        },
+        {
+          "@id": "kt:bcg-growth-share-matrix"
+        },
+        {
+          "@id": "kt:resource-based-view"
+        },
+        {
+          "@id": "kt:competitive-advantage"
+        }
+      ],
+      "kto:contrastsWith": [
+        {
+          "@id": "kt:business-level-strategy"
+        }
+      ],
+      "kto:hasPart": [
+        {
+          "@id": "kt:parenting-advantage"
+        },
+        {
+          "@id": "kt:diversification"
+        }
+      ],
+      "kto:influencedBy": [
+        {
+          "@id": "kt:michael-porter"
+        }
+      ],
+      "kto:measuredBy": [
+        {
+          "@id": "kt:diversification-discount"
+        }
+      ]
+    },
+    {
       "@id": "kt:corporate-turnaround",
       "@type": "kto:Strategy",
       "skos:prefLabel": "Turnaround Strategy: Retrenchment and Recovery in Declining Firms",
